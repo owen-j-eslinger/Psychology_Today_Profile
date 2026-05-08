@@ -3,6 +3,7 @@
 *.json
 
 # Byte-compiled / optimized / DLL files
+therapist_counts/html_cache/
 __pycache__/
 *.py[cod]
 *$py.class
