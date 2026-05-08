@@ -1,62 +1,65 @@
+# Stage 1: Download the entire 2020 DHC ZCTA dataset from the Census API
+# and save it locally as both raw JSON and a clean CSV for later processing.
+
 import requests
+import json
+import csv
 import sys
+from pathlib import Path
 
-# To suppress SSL warnings if verify=False is used
-import urllib3
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-
-def get_va_zcta_population():
+def download_zcta_dhc(output_dir="census_data"):
     """
-    Fetches 2020 Census population for Virginia ZCTAs.
-    Uses 'zip code tabulation area (or part)' to force state-level filtering.
+    Downloads 2020 Census DHC population data for ALL ZCTAs nationwide
+    and saves to disk as JSON (raw) and CSV (cleaned).
     """
-    # The 2020 Redistricting Data Endpoint
-    url = "https://api.census.gov/data/2020/dec/pl"
-    
-    # Hierarchy trick: Using 'part' allows the 'in=state:51' filter to work
+    url = "https://api.census.gov/data/2020/dec/dhc"
     params = {
-        "get": "NAME,P1_001N",
-        "for": "zip code tabulation area (or part):*",
-        "in": "state:51"
+        "get": "NAME,H1_001N",
+        "for": "zip code tabulation area:*"
     }
-
+    
+    # Create output directory
+    out_path = Path(output_dir)
+    out_path.mkdir(parents=True, exist_ok=True)
+    
+    json_file = out_path / "zcta_dhc_2020_raw.json"
+    csv_file  = out_path / "zcta_dhc_2020.csv"
+    
     try:
-        print("Initiating secure request to Census API (VA State Filter)...")
+        print(f"Connecting to Census API...")
+        print(f"URL: {url}")
+        response = requests.get(url, params=params, timeout=120)
+        response.raise_for_status()
         
-        # NOTE: If your environment has a strict proxy, you may need:
-        # verify=False (to bypass SSL issues) or a timeout to prevent hanging.
-        response = requests.get(url, params=params, timeout=15, verify=True)
+        print(f"HTTP {response.status_code} — {len(response.content):,} bytes received")
         
-        if response.status_code != 200:
-            print(f"API Error {response.status_code}: {response.text}")
-            return
-
         data = response.json()
+        
+        # 1. Save raw JSON exactly as received
+        with open(json_file, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2)
+        print(f"Saved raw JSON: {json_file}")
+        
+        # 2. Save as CSV with proper headers
         headers = data[0]
         rows = data[1:]
-
-        # Map columns
-        pop_idx = headers.index("P1_001N")
-        zcta_idx = headers.index("zip code tabulation area (or part)")
         
-        # Sort by ZCTA
-        rows.sort(key=lambda x: x[zcta_idx])
-
-        print(f"\n{'ZCTA':<10} | {'Population':<12} | {'Census Name'}")
-        print("-" * 65)
+        with open(csv_file, "w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerow(headers)  # column names from API
+            writer.writerows(rows)
+        print(f"Saved CSV:      {csv_file}  ({len(rows):,} ZCTAs)")
         
-        for row in rows:
-            print(f"{row[zcta_idx]:<10} | {row[pop_idx]:<12} | {row[0]}")
-            
-        print("-" * 65)
-        print(f"Total Virginia ZCTAs: {len(rows)}")
-
-    except requests.exceptions.ConnectTimeout:
-        print("Error: The connection timed out. Your firewall may be blocking the request.")
-    except requests.exceptions.ConnectionError as e:
-        print(f"Network Error: Could not reach Census API. Details: {e}")
+        print("\nDownload complete.")
+        return str(csv_file)
+        
+    except requests.exceptions.HTTPError as e:
+        print(f"HTTP Error {e.response.status_code}: {e.response.text}", file=sys.stderr)
+    except requests.exceptions.RequestException as e:
+        print(f"Network Error: {e}", file=sys.stderr)
     except Exception as e:
-        print(f"Processing Error: {e}")
+        print(f"Unexpected Error: {e}", file=sys.stderr)
+    return None
 
 if __name__ == "__main__":
-    get_va_zcta_population()
+    download_zcta_dhc()
