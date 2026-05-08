@@ -1,0 +1,896 @@
+Zip,Population,Count,Density,Region
+20105,10189,63,61.8314,Northern VA - North/West
+20106,1855,1,5.3908,Northern VA - North/West
+20109,15317,113,73.7742,Northern VA - North/West
+20110,16061,208,129.5063,Northern VA - North/West
+20111,12228,55,44.9787,Northern VA - North/West
+20112,9374,23,24.536,Northern VA - North/West
+20115,2780,6,21.5827,Northern VA - North/West
+20117,1479,37,250.169,Northern VA - North/West
+20119,1596,1,6.2657,Northern VA - North/West
+20120,14867,91,61.2094,Northern VA - North/West
+20121,10349,57,55.0778,Northern VA - North/West
+20124,5020,31,61.753,Northern VA - North/West
+20129,185,18,972.973,Northern VA - North/West
+20130,173,0,0.0,Northern VA - North/West
+20132,6201,95,153.2011,Northern VA - North/West
+20135,1306,2,15.3139,Northern VA - North/West
+20136,9245,51,55.165,Northern VA - North/West
+20137,690,1,14.4928,Northern VA - North/West
+20141,2645,17,64.2722,Northern VA - North/West
+20143,377,11,291.7772,Northern VA - North/West
+20144,567,0,0.0,Northern VA - North/West
+20147,25316,445,175.7782,Northern VA - North/West
+20148,19473,171,87.8139,Northern VA - North/West
+20151,7143,247,345.7931,Northern VA - North/West
+20152,11049,111,100.4616,Northern VA - North/West
+20155,12697,139,109.4747,Northern VA - North/West
+20158,1601,12,74.9532,Northern VA - North/West
+20164,12638,61,48.2671,Northern VA - North/West
+20165,11982,123,102.654,Northern VA - North/West
+20166,5417,87,160.6055,Northern VA - North/West
+20169,9398,93,98.9572,Northern VA - North/West
+20170,14003,171,122.1167,Northern VA - North/West
+20171,19673,139,70.6552,Northern VA - North/West
+20175,11974,248,207.1154,Northern VA - North/West
+20176,17408,276,158.5478,Northern VA - North/West
+20180,2865,15,52.356,Northern VA - North/West
+20181,3270,11,33.6391,Northern VA - North/West
+20184,420,2,47.619,Northern VA - North/West
+20186,6275,105,167.3307,Northern VA - North/West
+20187,6452,31,48.0471,Northern VA - North/West
+20190,11719,268,228.6885,Northern VA - North/West
+20191,12626,375,297.0062,Northern VA - North/West
+20194,5968,24,40.2145,Northern VA - North/West
+20197,847,2,23.6128,Northern VA - North/West
+20198,1208,9,74.5033,Northern VA - North/West
+22003,19769,160,80.9348,Northern VA - Central NoVA
+22015,14997,152,101.3536,Northern VA - Central NoVA
+22025,6553,41,62.5668,Northern VA - Central NoVA
+22026,6469,37,57.1959,Northern VA - Central NoVA
+22027,724,30,414.3646,Northern VA - Central NoVA
+22030,20959,963,459.4685,Northern VA - Central NoVA
+22031,14934,269,180.1259,Northern VA - Central NoVA
+22032,10084,117,116.0254,Northern VA - Central NoVA
+22033,16681,113,67.7417,Northern VA - Central NoVA
+22035,1,8,80000.0,Northern VA - Central NoVA
+22039,6066,71,117.0458,Northern VA - Central NoVA
+22041,10988,74,67.3462,Northern VA - Central NoVA
+22042,12595,96,76.2207,Northern VA - Central NoVA
+22043,9784,82,83.8103,Northern VA - Central NoVA
+22044,5701,54,94.7202,Northern VA - Central NoVA
+22046,7203,333,462.3074,Northern VA - Central NoVA
+22060,3465,16,46.176,Northern VA - Central NoVA
+22066,5989,182,303.8905,Northern VA - Central NoVA
+22079,12227,59,48.2539,Northern VA - Central NoVA
+22101,11451,517,451.489,Northern VA - East/Central
+22102,13750,246,178.9091,Northern VA - East/Central
+22124,6809,88,129.2407,Northern VA - East/Central
+22125,471,22,467.0913,Northern VA - East/Central
+22134,1698,20,117.7856,Northern VA - East/Central
+22150,9488,77,81.1551,Northern VA - East/Central
+22151,5827,46,78.9429,Northern VA - East/Central
+22152,10468,69,65.9152,Northern VA - East/Central
+22153,10924,48,43.9399,Northern VA - East/Central
+22172,3826,14,36.5917,Northern VA - East/Central
+22180,10144,193,190.2603,Northern VA - East/Central
+22181,5551,46,82.868,Northern VA - East/Central
+22182,10066,332,329.8232,Northern VA - East/Central
+22191,25727,200,77.7393,Northern VA - East/Central
+22192,21321,236,110.689,Northern VA - East/Central
+22193,24654,310,125.7402,Northern VA - East/Central
+22201,22023,638,289.6971,Northern VA - Arlington
+22202,18203,200,109.872,Northern VA - Arlington
+22203,14532,260,178.9155,Northern VA - Arlington
+22204,23038,183,79.434,Northern VA - Arlington
+22205,6701,96,143.2622,Northern VA - Arlington
+22206,11369,109,95.8747,Northern VA - Arlington
+22207,12144,307,252.7997,Northern VA - Arlington
+22209,9847,244,247.7912,Northern VA - Arlington
+22211,207,8,386.4734,Northern VA - Arlington
+22213,1441,21,145.7321,Northern VA - Arlington
+22301,6615,413,624.3386,Northern VA - Alexandria
+22302,9236,149,161.3252,Northern VA - Alexandria
+22303,8353,70,83.8022,Northern VA - Alexandria
+22304,24596,223,90.6651,Northern VA - Alexandria
+22305,7569,66,87.1978,Northern VA - Alexandria
+22306,12339,70,56.7307,Northern VA - Alexandria
+22307,4611,70,151.8109,Northern VA - Alexandria
+22308,4846,31,63.9703,Northern VA - Alexandria
+22309,12021,40,33.2751,Northern VA - Alexandria
+22310,11267,108,95.8552,Northern VA - Alexandria
+22311,9172,41,44.7013,Northern VA - Alexandria
+22312,11716,85,72.5504,Northern VA - Alexandria
+22314,21357,829,388.1631,Northern VA - Alexandria
+22315,11368,67,58.9374,Northern VA - Alexandria
+22401,12106,227,187.5103,Other
+22405,12377,68,54.9406,Other
+22406,10091,48,47.5671,Other
+22407,22630,116,51.2594,Other
+22408,11820,57,48.2234,Other
+22427,1359,3,22.0751,Other
+22432,215,1,46.5116,Other
+22433,75,0,0.0,Other
+22435,1156,0,0.0,Other
+22436,287,0,0.0,Other
+22437,444,0,0.0,Other
+22438,193,0,0.0,Other
+22443,5234,2,3.8212,Other
+22448,291,0,0.0,Other
+22454,1249,0,0.0,Other
+22460,1078,0,0.0,Other
+22469,1322,0,0.0,Other
+22473,3864,2,5.176,Other
+22476,181,0,0.0,Other
+22480,695,3,43.1655,Other
+22482,1826,2,10.9529,Other
+22485,10036,17,16.939,Other
+22488,874,1,11.4416,Other
+22503,2747,10,36.4033,Other
+22504,175,0,0.0,Other
+22508,6247,9,14.4069,Other
+22509,44,0,0.0,Other
+22511,1058,0,0.0,Other
+22514,1067,1,9.3721,Other
+22520,3354,2,5.963,Other
+22529,123,0,0.0,Other
+22534,1138,0,0.0,Other
+22535,300,1,33.3333,Other
+22538,128,0,0.0,Other
+22539,1973,0,0.0,Other
+22542,796,0,0.0,Other
+22546,7011,20,28.5266,Other
+22548,65,0,0.0,Other
+22551,8298,35,42.1788,Other
+22553,5909,38,64.3087,Other
+22554,20804,222,106.7102,Other
+22556,9599,27,28.1279,Other
+22560,3279,8,24.3977,Other
+22567,1215,0,0.0,Other
+22572,2939,3,10.2076,Other
+22576,1067,0,0.0,Other
+22578,1861,2,10.7469,Other
+22580,2173,0,0.0,Other
+22601,13033,109,83.6339,Other
+22602,11830,96,81.1496,Other
+22603,6489,26,40.0678,Other
+22610,949,2,21.0748,Other
+22611,3799,25,65.8068,Other
+22620,1169,1,8.5543,Other
+22623,271,0,0.0,Other
+22624,1042,1,9.5969,Other
+22625,1669,0,0.0,Other
+22627,368,1,27.1739,Other
+22630,13986,40,28.6,Other
+22637,910,0,0.0,Other
+22639,320,0,0.0,Other
+22640,288,1,34.7222,Other
+22641,131,3,229.0076,Other
+22642,1971,4,20.2943,Other
+22643,183,0,0.0,Other
+22644,1076,0,0.0,Other
+22645,1759,1,5.685,Other
+22646,44,0,0.0,Other
+22650,561,0,0.0,Other
+22652,815,0,0.0,Other
+22654,414,1,24.1546,Other
+22655,8439,33,39.1042,Other
+22656,2034,2,9.8328,Other
+22657,5218,6,11.4987,Other
+22660,773,1,12.9366,Other
+22663,701,1,14.2653,Other
+22664,4192,11,26.2405,Other
+22701,13843,73,52.7342,Other
+22709,352,0,0.0,Other
+22711,66,0,0.0,Other
+22712,3696,4,10.8225,Other
+22713,570,0,0.0,Other
+22714,373,0,0.0,Other
+22715,463,0,0.0,Other
+22716,447,0,0.0,Other
+22718,261,0,0.0,Other
+22719,210,0,0.0,Other
+22720,370,0,0.0,Other
+22722,91,0,0.0,Other
+22723,42,0,0.0,Other
+22724,898,2,22.2717,Other
+22725,22,0,0.0,Other
+22726,306,0,0.0,Other
+22727,2485,5,20.1207,Other
+22728,1229,0,0.0,Other
+22729,76,0,0.0,Other
+22730,70,0,0.0,Other
+22731,115,0,0.0,Other
+22732,147,0,0.0,Other
+22733,550,0,0.0,Other
+22734,1244,1,8.0386,Other
+22735,919,1,10.8814,Other
+22736,234,2,85.4701,Other
+22737,1258,6,47.6948,Other
+22738,506,5,98.8142,Other
+22740,724,3,41.4365,Other
+22741,91,0,0.0,Other
+22742,684,0,0.0,Other
+22743,115,0,0.0,Other
+22746,79,0,0.0,Other
+22747,626,6,95.8466,Other
+22749,256,0,0.0,Other
+22801,16462,206,125.1367,Other
+22802,11367,75,65.9805,Other
+22807,41,21,5121.9512,Other
+22810,981,0,0.0,Other
+22811,238,0,0.0,Other
+22812,3499,16,45.7274,Other
+22815,3878,16,41.2584,Other
+22820,145,0,0.0,Other
+22821,2303,3,13.0265,Other
+22824,2876,2,6.9541,Other
+22827,4852,3,6.183,Other
+22830,784,0,0.0,Other
+22831,404,0,0.0,Other
+22832,467,0,0.0,Other
+22834,519,1,19.2678,Other
+22835,5773,9,15.5898,Other
+22840,2858,3,10.4969,Other
+22841,1175,2,17.0213,Other
+22842,2801,2,7.1403,Other
+22843,1028,0,0.0,Other
+22844,2144,7,32.6493,Other
+22845,54,0,0.0,Other
+22846,788,1,12.6904,Other
+22847,395,0,0.0,Other
+22849,2345,2,8.5288,Other
+22850,408,0,0.0,Other
+22851,2830,0,0.0,Other
+22853,1924,0,0.0,Other
+22901,16391,303,184.8575,Other
+22902,10928,320,292.8258,Other
+22903,18475,266,143.9783,Other
+22904,13,43,33076.9231,Other
+22911,8322,92,110.5503,Other
+22920,1990,7,35.1759,Other
+22922,937,0,0.0,Other
+22923,2397,4,16.6875,Other
+22931,189,1,52.9101,Other
+22932,4334,81,186.8943,Other
+22935,453,1,22.0751,Other
+22936,2219,17,76.6111,Other
+22937,662,0,0.0,Other
+22938,655,0,0.0,Other
+22939,2545,17,66.7976,Other
+22940,511,2,39.1389,Other
+22942,4395,5,11.3766,Other
+22943,251,2,79.6813,Other
+22946,82,0,0.0,Other
+22947,2298,12,52.2193,Other
+22948,97,0,0.0,Other
+22949,693,0,0.0,Other
+22952,906,1,11.0375,Other
+22957,3,0,0.0,Other
+22958,2933,3,10.2284,Other
+22959,793,2,25.2207,Other
+22960,4904,13,26.509,Other
+22963,6930,36,51.9481,Other
+22964,93,0,0.0,Other
+22967,1371,1,7.2939,Other
+22968,4108,22,53.554,Other
+22969,674,0,0.0,Other
+22971,880,0,0.0,Other
+22972,185,1,54.0541,Other
+22973,3035,5,16.4745,Other
+22974,1775,5,28.169,Other
+22976,207,0,0.0,Other
+22980,14908,68,45.6131,Other
+22989,63,1,158.7302,Other
+23002,4529,23,50.7838,Central/East VA - Richmond Area
+23004,401,2,49.8753,Central/East VA - Richmond Area
+23005,7124,66,92.6446,Central/East VA - Richmond Area
+23009,3138,4,12.747,Central/East VA - Richmond Area
+23011,444,0,0.0,Central/East VA - Richmond Area
+23015,1865,2,10.7239,Central/East VA - Richmond Area
+23021,33,0,0.0,Central/East VA - Richmond Area
+23022,446,0,0.0,Central/East VA - Richmond Area
+23023,198,0,0.0,Central/East VA - Richmond Area
+23024,4449,4,8.9908,Central/East VA - Richmond Area
+23025,311,0,0.0,Central/East VA - Richmond Area
+23027,648,1,15.4321,Central/East VA - Richmond Area
+23030,2294,2,8.7184,Central/East VA - Richmond Area
+23032,131,0,0.0,Central/East VA - Richmond Area
+23035,827,3,36.2757,Central/East VA - Richmond Area
+23038,980,1,10.2041,Central/East VA - Richmond Area
+23039,505,0,0.0,Central/East VA - Richmond Area
+23040,2127,2,9.4029,Central/East VA - Richmond Area
+23043,1628,0,0.0,Central/East VA - Richmond Area
+23045,101,0,0.0,Central/East VA - Richmond Area
+23047,869,0,0.0,Central/East VA - Richmond Area
+23050,288,0,0.0,Central/East VA - Richmond Area
+23055,331,4,120.8459,Central/East VA - Richmond Area
+23056,256,2,78.125,Central/East VA - Richmond Area
+23059,14891,157,105.4328,Central/East VA - Richmond Area
+23060,15080,171,113.3952,Central/East VA - Richmond Area
+23061,9545,34,35.6207,Central/East VA - Richmond Area
+23062,1290,0,0.0,Central/East VA - Richmond Area
+23063,2189,20,91.3659,Central/East VA - Richmond Area
+23065,687,0,0.0,Central/East VA - Richmond Area
+23066,637,0,0.0,Central/East VA - Richmond Area
+23068,175,0,0.0,Central/East VA - Richmond Area
+23069,1358,11,81.0015,Central/East VA - Richmond Area
+23070,263,1,38.0228,Central/East VA - Richmond Area
+23071,1004,1,9.9602,Central/East VA - Richmond Area
+23072,5555,6,10.8011,Central/East VA - Richmond Area
+23075,4247,31,72.9927,Central/East VA - Richmond Area
+23076,299,1,33.4448,Central/East VA - Richmond Area
+23079,278,0,0.0,Central/East VA - Richmond Area
+23081,1,27,270000.0,Central/East VA - Richmond Area
+23083,913,0,0.0,Central/East VA - Richmond Area
+23084,781,1,12.8041,Central/East VA - Richmond Area
+23085,212,1,47.1698,Central/East VA - Richmond Area
+23086,1422,4,28.1294,Central/East VA - Richmond Area
+23089,2388,2,8.3752,Central/East VA - Richmond Area
+23091,183,0,0.0,Central/East VA - Richmond Area
+23092,340,0,0.0,Central/East VA - Richmond Area
+23093,6172,18,29.164,Central/East VA - Richmond Area
+23102,1185,3,25.3165,Central/East VA - Richmond Area
+23103,2560,17,66.4062,Central/East VA - Richmond Area
+23106,371,12,323.4501,Central/East VA - Richmond Area
+23108,58,0,0.0,Central/East VA - Richmond Area
+23109,978,2,20.4499,Central/East VA - Richmond Area
+23110,374,1,26.738,Central/East VA - Richmond Area
+23111,15529,87,56.0242,Central/East VA - Richmond Area
+23112,20815,290,139.3226,Central/East VA - Richmond Area
+23113,10213,171,167.4337,Central/East VA - Richmond Area
+23114,8417,92,109.3026,Central/East VA - Richmond Area
+23116,11971,87,72.6756,Central/East VA - Richmond Area
+23117,5640,2,3.5461,Central/East VA - Richmond Area
+23119,187,0,0.0,Central/East VA - Richmond Area
+23120,4621,23,49.7728,Central/East VA - Richmond Area
+23123,888,0,0.0,Central/East VA - Richmond Area
+23124,1911,15,78.4929,Central/East VA - Richmond Area
+23126,232,1,43.1034,Central/East VA - Richmond Area
+23128,397,1,25.1889,Central/East VA - Richmond Area
+23129,129,9,697.6744,Central/East VA - Richmond Area
+23130,109,1,91.7431,Central/East VA - Richmond Area
+23138,838,1,11.9332,Central/East VA - Richmond Area
+23139,10611,30,28.2725,Central/East VA - Richmond Area
+23140,2499,4,16.0064,Central/East VA - Richmond Area
+23141,3068,9,29.3351,Central/East VA - Richmond Area
+23146,1250,2,16.0,Central/East VA - Richmond Area
+23147,6,0,0.0,Central/East VA - Richmond Area
+23148,769,0,0.0,Central/East VA - Richmond Area
+23149,1392,4,28.7356,Central/East VA - Richmond Area
+23150,5489,6,10.931,Central/East VA - Richmond Area
+23153,627,1,15.949,Central/East VA - Richmond Area
+23156,813,0,0.0,Central/East VA - Richmond Area
+23160,1,0,0.0,Central/East VA - Richmond Area
+23161,86,0,0.0,Central/East VA - Richmond Area
+23163,130,0,0.0,Central/East VA - Richmond Area
+23168,3309,24,72.5295,Central/East VA - Richmond Area
+23169,742,0,0.0,Central/East VA - Richmond Area
+23173,16,289,180625.0,Central/East VA - Richmond Area
+23175,1326,4,30.1659,Central/East VA - Richmond Area
+23176,435,0,0.0,Central/East VA - Richmond Area
+23177,346,0,0.0,Central/East VA - Richmond Area
+23180,253,3,118.5771,Central/East VA - Richmond Area
+23181,2436,2,8.2102,Central/East VA - Richmond Area
+23185,21779,266,122.136,Central/East VA - Richmond Area
+23188,20164,135,66.951,Central/East VA - Richmond Area
+23192,2632,2,7.5988,Central/East VA - Richmond Area
+23219,4022,191,474.8881,Central/East VA - Richmond Area
+23220,18690,467,249.8662,Central/East VA - Richmond Area
+23221,8214,187,227.6601,Central/East VA - Richmond Area
+23222,11578,112,96.7352,Central/East VA - Richmond Area
+23223,24915,213,85.4907,Central/East VA - Richmond Area
+23224,17545,70,39.8974,Central/East VA - Richmond Area
+23225,20593,174,84.4947,Central/East VA - Richmond Area
+23226,7709,162,210.144,Central/East VA - Richmond Area
+23227,13232,79,59.7037,Central/East VA - Richmond Area
+23228,16752,135,80.5874,Central/East VA - Richmond Area
+23229,13857,233,168.1461,Central/East VA - Richmond Area
+23230,4751,231,486.2134,Central/East VA - Richmond Area
+23231,15961,88,55.1344,Central/East VA - Richmond Area
+23233,13162,163,123.8414,Central/East VA - Richmond Area
+23234,17861,71,39.7514,Central/East VA - Richmond Area
+23235,14538,265,182.2809,Central/East VA - Richmond Area
+23236,10885,185,169.9587,Central/East VA - Richmond Area
+23237,9327,17,18.2267,Central/East VA - Richmond Area
+23238,11762,73,62.0643,Central/East VA - Richmond Area
+23284,82,39,4756.0976,Central/East VA - Richmond Area
+23294,8555,139,162.4781,Central/East VA - Richmond Area
+23298,1,12,120000.0,Central/East VA - Richmond Area
+23301,751,11,146.4714,Central/East VA - Hampton Roads/Tidewater
+23302,44,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23303,376,1,26.5957,Central/East VA - Hampton Roads/Tidewater
+23304,40,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23306,519,1,19.2678,Central/East VA - Hampton Roads/Tidewater
+23307,353,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23308,964,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23310,3353,11,32.8064,Central/East VA - Hampton Roads/Tidewater
+23314,3981,14,35.167,Central/East VA - Hampton Roads/Tidewater
+23315,682,1,14.6628,Central/East VA - Hampton Roads/Tidewater
+23316,53,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23320,26025,389,149.4717,Central/East VA - Hampton Roads/Tidewater
+23321,14461,111,76.7582,Central/East VA - Hampton Roads/Tidewater
+23322,22314,198,88.7335,Central/East VA - Hampton Roads/Tidewater
+23323,14956,97,64.8569,Central/East VA - Hampton Roads/Tidewater
+23324,9911,30,30.2694,Central/East VA - Hampton Roads/Tidewater
+23325,7260,18,24.7934,Central/East VA - Hampton Roads/Tidewater
+23336,4252,4,9.4073,Central/East VA - Hampton Roads/Tidewater
+23337,257,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23347,316,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23350,1959,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23354,205,1,48.7805,Central/East VA - Hampton Roads/Tidewater
+23356,1186,1,8.4317,Central/East VA - Hampton Roads/Tidewater
+23357,278,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23358,115,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23359,323,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23389,119,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23395,2055,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23398,59,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23401,92,4,434.7826,Central/East VA - Hampton Roads/Tidewater
+23405,597,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23407,135,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23408,24,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23409,78,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23410,1175,1,8.5106,Central/East VA - Hampton Roads/Tidewater
+23413,361,1,27.7008,Central/East VA - Hampton Roads/Tidewater
+23414,40,1,250.0,Central/East VA - Hampton Roads/Tidewater
+23415,973,3,30.8325,Central/East VA - Hampton Roads/Tidewater
+23416,163,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23417,2199,4,18.1901,Central/East VA - Hampton Roads/Tidewater
+23418,498,2,40.1606,Central/East VA - Hampton Roads/Tidewater
+23420,1212,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23421,2005,2,9.9751,Central/East VA - Hampton Roads/Tidewater
+23422,125,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23423,298,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23426,101,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23427,173,1,57.8035,Central/East VA - Hampton Roads/Tidewater
+23430,7742,32,41.333,Central/East VA - Hampton Roads/Tidewater
+23432,676,25,369.8225,Central/East VA - Hampton Roads/Tidewater
+23433,560,8,142.8571,Central/East VA - Hampton Roads/Tidewater
+23434,20995,85,40.4858,Central/East VA - Hampton Roads/Tidewater
+23435,13013,91,69.9301,Central/East VA - Hampton Roads/Tidewater
+23436,404,15,371.2871,Central/East VA - Hampton Roads/Tidewater
+23437,1890,1,5.291,Central/East VA - Hampton Roads/Tidewater
+23438,769,2,26.0078,Central/East VA - Hampton Roads/Tidewater
+23440,273,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23441,28,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23442,534,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23451,25171,262,104.088,Central/East VA - Hampton Roads/Tidewater
+23452,23909,399,166.8828,Central/East VA - Hampton Roads/Tidewater
+23453,13192,96,72.7714,Central/East VA - Hampton Roads/Tidewater
+23454,24194,199,82.2518,Central/East VA - Hampton Roads/Tidewater
+23455,21925,133,60.6613,Central/East VA - Hampton Roads/Tidewater
+23456,21551,147,68.2103,Central/East VA - Hampton Roads/Tidewater
+23457,1753,13,74.1586,Central/East VA - Hampton Roads/Tidewater
+23459,15,2,1333.3333,Central/East VA - Hampton Roads/Tidewater
+23460,21,12,5714.2857,Central/East VA - Hampton Roads/Tidewater
+23461,7,5,7142.8571,Central/East VA - Hampton Roads/Tidewater
+23462,29341,279,95.0888,Central/East VA - Hampton Roads/Tidewater
+23464,28986,342,117.988,Central/East VA - Hampton Roads/Tidewater
+23480,274,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23486,91,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23487,2689,5,18.5943,Central/East VA - Hampton Roads/Tidewater
+23488,88,0,0.0,Central/East VA - Hampton Roads/Tidewater
+23502,8878,140,157.6932,Central/East VA - Hampton Roads/Tidewater
+23503,15412,65,42.1749,Central/East VA - Hampton Roads/Tidewater
+23504,9005,43,47.7512,Central/East VA - Hampton Roads/Tidewater
+23505,13318,42,31.5363,Central/East VA - Hampton Roads/Tidewater
+23507,3477,50,143.8021,Central/East VA - Hampton Roads/Tidewater
+23508,7407,69,93.1551,Central/East VA - Hampton Roads/Tidewater
+23509,5704,14,24.5442,Central/East VA - Hampton Roads/Tidewater
+23510,5183,198,382.0181,Central/East VA - Hampton Roads/Tidewater
+23511,438,4,91.3242,Central/East VA - Hampton Roads/Tidewater
+23513,12598,48,38.1013,Central/East VA - Hampton Roads/Tidewater
+23517,3100,75,241.9355,Central/East VA - Hampton Roads/Tidewater
+23518,13527,50,36.9631,Central/East VA - Hampton Roads/Tidewater
+23523,3098,12,38.7347,Central/East VA - Hampton Roads/Tidewater
+23551,235,4,170.2128,Central/East VA - Hampton Roads/Tidewater
+23601,11960,77,64.3813,Central/East VA - Peninsula/Hampton Roads
+23602,18737,82,43.7637,Central/East VA - Peninsula/Hampton Roads
+23603,1584,11,69.4444,Central/East VA - Peninsula/Hampton Roads
+23604,1046,9,86.0421,Central/East VA - Peninsula/Hampton Roads
+23605,7028,20,28.4576,Central/East VA - Peninsula/Hampton Roads
+23606,13753,228,165.782,Central/East VA - Peninsula/Hampton Roads
+23607,10613,18,16.9603,Central/East VA - Peninsula/Hampton Roads
+23608,18781,59,31.4147,Central/East VA - Peninsula/Hampton Roads
+23651,320,2,62.5,Central/East VA - Peninsula/Hampton Roads
+23661,6398,23,35.9487,Central/East VA - Peninsula/Hampton Roads
+23662,4926,11,22.3305,Central/East VA - Peninsula/Hampton Roads
+23663,5866,9,15.3427,Central/East VA - Peninsula/Hampton Roads
+23664,4911,5,10.1812,Central/East VA - Peninsula/Hampton Roads
+23665,1519,4,26.3331,Central/East VA - Peninsula/Hampton Roads
+23666,25120,182,72.4522,Central/East VA - Peninsula/Hampton Roads
+23667,4,6,15000.0,Central/East VA - Peninsula/Hampton Roads
+23668,2,3,15000.0,Central/East VA - Peninsula/Hampton Roads
+23669,18001,72,39.9978,Central/East VA - Peninsula/Hampton Roads
+23690,1460,31,212.3288,Central/East VA - Peninsula/Hampton Roads
+23691,44,8,1818.1818,Central/East VA - Peninsula/Hampton Roads
+23692,8112,41,50.5424,Central/East VA - Peninsula/Hampton Roads
+23693,9131,57,62.4247,Central/East VA - Peninsula/Hampton Roads
+23696,1534,1,6.5189,Central/East VA - Peninsula/Hampton Roads
+23701,10646,42,39.4514,Central/East VA - Peninsula/Hampton Roads
+23702,5175,8,15.4589,Central/East VA - Peninsula/Hampton Roads
+23703,11031,45,40.7941,Central/East VA - Peninsula/Hampton Roads
+23704,9571,53,55.3756,Central/East VA - Peninsula/Hampton Roads
+23707,6694,17,25.3959,Central/East VA - Peninsula/Hampton Roads
+23708,6,4,6666.6667,Central/East VA - Peninsula/Hampton Roads
+23801,1302,24,184.3318,Central/East VA - Southside/Central
+23803,20101,59,29.3518,Central/East VA - Southside/Central
+23805,9150,18,19.6721,Central/East VA - Southside/Central
+23821,773,0,0.0,Central/East VA - Southside/Central
+23824,3421,1,2.9231,Central/East VA - Southside/Central
+23827,641,0,0.0,Central/East VA - Southside/Central
+23828,216,2,92.5926,Central/East VA - Southside/Central
+23829,560,0,0.0,Central/East VA - Southside/Central
+23830,734,0,0.0,Central/East VA - Southside/Central
+23831,14762,72,48.7739,Central/East VA - Southside/Central
+23832,14095,165,117.0628,Central/East VA - Southside/Central
+23833,898,2,22.2717,Central/East VA - Southside/Central
+23834,11374,51,44.8391,Central/East VA - Southside/Central
+23836,5711,20,35.0201,Central/East VA - Southside/Central
+23837,1839,2,10.8755,Central/East VA - Southside/Central
+23838,6327,33,52.1574,Central/East VA - Southside/Central
+23839,426,0,0.0,Central/East VA - Southside/Central
+23840,730,0,0.0,Central/East VA - Southside/Central
+23841,1528,1,6.5445,Central/East VA - Southside/Central
+23842,2840,1,3.5211,Central/East VA - Southside/Central
+23843,320,0,0.0,Central/East VA - Southside/Central
+23844,345,0,0.0,Central/East VA - Southside/Central
+23845,257,0,0.0,Central/East VA - Southside/Central
+23846,397,0,0.0,Central/East VA - Southside/Central
+23847,6048,12,19.8413,Central/East VA - Southside/Central
+23850,524,0,0.0,Central/East VA - Southside/Central
+23851,6267,14,22.3392,Central/East VA - Southside/Central
+23856,487,0,0.0,Central/East VA - Southside/Central
+23857,306,0,0.0,Central/East VA - Southside/Central
+23860,12504,28,22.3928,Central/East VA - Southside/Central
+23866,1034,3,29.0135,Central/East VA - Southside/Central
+23867,1142,5,43.7828,Central/East VA - Southside/Central
+23868,2493,3,12.0337,Central/East VA - Southside/Central
+23870,2,0,0.0,Central/East VA - Southside/Central
+23872,1049,0,0.0,Central/East VA - Southside/Central
+23874,465,0,0.0,Central/East VA - Southside/Central
+23875,5015,10,19.9402,Central/East VA - Southside/Central
+23876,217,0,0.0,Central/East VA - Southside/Central
+23878,531,0,0.0,Central/East VA - Southside/Central
+23879,311,0,0.0,Central/East VA - Southside/Central
+23881,1012,0,0.0,Central/East VA - Southside/Central
+23882,1129,0,0.0,Central/East VA - Southside/Central
+23883,1141,1,8.7642,Central/East VA - Southside/Central
+23884,6,1,1666.6667,Central/East VA - Southside/Central
+23885,1175,1,8.5106,Central/East VA - Southside/Central
+23887,647,0,0.0,Central/East VA - Southside/Central
+23888,1075,0,0.0,Central/East VA - Southside/Central
+23889,269,0,0.0,Central/East VA - Southside/Central
+23890,1920,0,0.0,Central/East VA - Southside/Central
+23893,221,0,0.0,Central/East VA - Southside/Central
+23894,300,0,0.0,Central/East VA - Southside/Central
+23897,319,0,0.0,Central/East VA - Southside/Central
+23898,918,0,0.0,Central/East VA - Southside/Central
+23899,197,0,0.0,Central/East VA - Southside/Central
+23901,6678,41,61.3956,Central/East VA - Southside/Central
+23909,5,1,2000.0,Central/East VA - Southside/Central
+23915,403,1,24.8139,Central/East VA - Southside/Central
+23917,1903,3,15.7646,Central/East VA - Southside/Central
+23919,3153,1,3.1716,Central/East VA - Southside/Central
+23920,1641,0,0.0,Central/East VA - Southside/Central
+23921,1074,1,9.311,Central/East VA - Southside/Central
+23922,1034,0,0.0,Central/East VA - Southside/Central
+23923,1190,2,16.8067,Central/East VA - Southside/Central
+23924,3010,1,3.3223,Central/East VA - Southside/Central
+23927,3432,1,2.9138,Central/East VA - Southside/Central
+23930,2590,1,3.861,Central/East VA - Southside/Central
+23934,377,0,0.0,Central/East VA - Southside/Central
+23936,2667,3,11.2486,Central/East VA - Southside/Central
+23937,921,1,10.8578,Central/East VA - Southside/Central
+23938,218,0,0.0,Central/East VA - Southside/Central
+23942,550,3,54.5455,Central/East VA - Southside/Central
+23943,22,0,0.0,Central/East VA - Southside/Central
+23944,1938,2,10.3199,Central/East VA - Southside/Central
+23947,2187,0,0.0,Central/East VA - Southside/Central
+23950,1699,0,0.0,Central/East VA - Southside/Central
+23952,115,0,0.0,Central/East VA - Southside/Central
+23954,998,1,10.02,Central/East VA - Southside/Central
+23955,8,0,0.0,Central/East VA - Southside/Central
+23958,1623,0,0.0,Central/East VA - Southside/Central
+23959,547,0,0.0,Central/East VA - Southside/Central
+23960,857,2,23.3372,Central/East VA - Southside/Central
+23962,356,1,28.0899,Central/East VA - Southside/Central
+23963,224,2,89.2857,Central/East VA - Southside/Central
+23964,552,0,0.0,Central/East VA - Southside/Central
+23966,1097,0,0.0,Central/East VA - Southside/Central
+23967,491,0,0.0,Central/East VA - Southside/Central
+23968,442,0,0.0,Central/East VA - Southside/Central
+23970,3925,11,28.0255,Central/East VA - Southside/Central
+23974,1980,1,5.0505,Central/East VA - Southside/Central
+23976,119,0,0.0,Central/East VA - Southside/Central
+24011,738,17,230.3523,Western/SW VA - Roanoke Area
+24012,13813,45,32.578,Western/SW VA - Roanoke Area
+24013,3532,12,33.9751,Western/SW VA - Roanoke Area
+24014,8171,47,57.5205,Western/SW VA - Roanoke Area
+24015,8209,67,81.6177,Western/SW VA - Roanoke Area
+24016,5322,51,95.8286,Western/SW VA - Roanoke Area
+24017,10546,31,29.395,Western/SW VA - Roanoke Area
+24018,17951,162,90.2457,Western/SW VA - Roanoke Area
+24019,11979,50,41.7397,Western/SW VA - Roanoke Area
+24020,17,7,4117.6471,Western/SW VA - Roanoke Area
+24053,1292,2,15.4799,Western/SW VA - Roanoke Area
+24054,2992,3,10.0267,Western/SW VA - Roanoke Area
+24055,6251,2,3.1995,Western/SW VA - Roanoke Area
+24058,160,1,62.5,Western/SW VA - Roanoke Area
+24059,464,3,64.6552,Western/SW VA - Roanoke Area
+24060,21526,180,83.6198,Western/SW VA - Roanoke Area
+24061,123,33,2682.9268,Western/SW VA - Roanoke Area
+24064,2123,7,32.9722,Western/SW VA - Roanoke Area
+24065,2727,6,22.0022,Western/SW VA - Roanoke Area
+24066,2376,0,0.0,Western/SW VA - Roanoke Area
+24067,1036,1,9.6525,Western/SW VA - Roanoke Area
+24069,906,2,22.0751,Western/SW VA - Roanoke Area
+24070,639,4,62.5978,Western/SW VA - Roanoke Area
+24072,658,2,30.3951,Western/SW VA - Roanoke Area
+24073,14543,106,72.8873,Western/SW VA - Roanoke Area
+24076,578,1,17.301,Western/SW VA - Roanoke Area
+24077,415,1,24.0964,Western/SW VA - Roanoke Area
+24078,3482,5,14.3596,Western/SW VA - Roanoke Area
+24079,914,2,21.8818,Western/SW VA - Roanoke Area
+24082,193,0,0.0,Western/SW VA - Roanoke Area
+24083,1621,9,55.5213,Western/SW VA - Roanoke Area
+24084,5119,10,19.5351,Western/SW VA - Roanoke Area
+24085,1247,1,8.0192,Western/SW VA - Roanoke Area
+24086,112,1,89.2857,Western/SW VA - Roanoke Area
+24087,1655,11,66.4653,Western/SW VA - Roanoke Area
+24088,1968,1,5.0813,Western/SW VA - Roanoke Area
+24089,1226,2,16.3132,Western/SW VA - Roanoke Area
+24090,2089,0,0.0,Western/SW VA - Roanoke Area
+24091,3731,20,53.6049,Western/SW VA - Roanoke Area
+24092,1463,0,0.0,Western/SW VA - Roanoke Area
+24093,91,0,0.0,Western/SW VA - Roanoke Area
+24095,2145,2,9.324,Western/SW VA - Roanoke Area
+24101,3013,3,9.9569,Western/SW VA - Roanoke Area
+24102,942,2,21.2314,Western/SW VA - Roanoke Area
+24104,2763,0,0.0,Western/SW VA - Roanoke Area
+24105,254,0,0.0,Western/SW VA - Roanoke Area
+24112,15817,36,22.7603,Western/SW VA - Roanoke Area
+24120,1343,2,14.892,Western/SW VA - Roanoke Area
+24121,7367,8,10.8592,Western/SW VA - Roanoke Area
+24122,766,0,0.0,Western/SW VA - Roanoke Area
+24124,2087,3,14.3747,Western/SW VA - Roanoke Area
+24127,2118,2,9.4429,Western/SW VA - Roanoke Area
+24128,937,3,32.0171,Western/SW VA - Roanoke Area
+24129,21,1,476.1905,Western/SW VA - Roanoke Area
+24131,86,0,0.0,Western/SW VA - Roanoke Area
+24132,230,1,43.4783,Western/SW VA - Roanoke Area
+24133,1199,0,0.0,Western/SW VA - Roanoke Area
+24134,2695,2,7.4212,Western/SW VA - Roanoke Area
+24136,1641,4,24.3754,Western/SW VA - Roanoke Area
+24137,2092,0,0.0,Western/SW VA - Roanoke Area
+24138,664,1,15.0602,Western/SW VA - Roanoke Area
+24139,354,0,0.0,Western/SW VA - Roanoke Area
+24141,10008,66,65.9472,Western/SW VA - Roanoke Area
+24142,2,6,30000.0,Western/SW VA - Roanoke Area
+24147,519,4,77.0713,Western/SW VA - Roanoke Area
+24148,3703,0,0.0,Western/SW VA - Roanoke Area
+24149,1569,4,25.4939,Western/SW VA - Roanoke Area
+24150,402,2,49.7512,Western/SW VA - Roanoke Area
+24151,8707,23,26.4155,Western/SW VA - Roanoke Area
+24153,16515,87,52.6794,Western/SW VA - Roanoke Area
+24161,252,0,0.0,Western/SW VA - Roanoke Area
+24162,1035,3,28.9855,Western/SW VA - Roanoke Area
+24165,847,0,0.0,Western/SW VA - Roanoke Area
+24167,165,1,60.6061,Western/SW VA - Roanoke Area
+24168,127,0,0.0,Western/SW VA - Roanoke Area
+24171,4410,5,11.3379,Western/SW VA - Roanoke Area
+24174,1138,2,17.5747,Western/SW VA - Roanoke Area
+24175,3463,3,8.663,Western/SW VA - Roanoke Area
+24176,1250,0,0.0,Western/SW VA - Roanoke Area
+24179,8534,26,30.4664,Western/SW VA - Roanoke Area
+24184,2387,7,29.3255,Western/SW VA - Roanoke Area
+24185,498,2,40.1606,Western/SW VA - Roanoke Area
+24201,8255,37,44.8213,Western/SW VA - Far Southwest
+24202,5927,8,13.4976,Western/SW VA - Far Southwest
+24210,8144,65,79.8134,Western/SW VA - Far Southwest
+24211,4729,14,29.6046,Western/SW VA - Far Southwest
+24216,1226,0,0.0,Western/SW VA - Far Southwest
+24217,238,0,0.0,Western/SW VA - Far Southwest
+24219,4462,3,6.7234,Western/SW VA - Far Southwest
+24220,315,0,0.0,Western/SW VA - Far Southwest
+24221,510,0,0.0,Western/SW VA - Far Southwest
+24224,2695,0,0.0,Western/SW VA - Far Southwest
+24225,899,1,11.1235,Western/SW VA - Far Southwest
+24226,685,0,0.0,Western/SW VA - Far Southwest
+24228,3467,5,14.4217,Western/SW VA - Far Southwest
+24230,3906,2,5.1203,Western/SW VA - Far Southwest
+24236,1606,1,6.2267,Western/SW VA - Far Southwest
+24237,586,0,0.0,Western/SW VA - Far Southwest
+24239,69,0,0.0,Western/SW VA - Far Southwest
+24243,900,1,11.1111,Western/SW VA - Far Southwest
+24244,2631,0,0.0,Western/SW VA - Far Southwest
+24245,674,1,14.8368,Western/SW VA - Far Southwest
+24246,181,0,0.0,Western/SW VA - Far Southwest
+24248,1248,1,8.0128,Western/SW VA - Far Southwest
+24250,732,0,0.0,Western/SW VA - Far Southwest
+24251,4525,2,4.4199,Western/SW VA - Far Southwest
+24256,1486,1,6.7295,Western/SW VA - Far Southwest
+24258,738,0,0.0,Western/SW VA - Far Southwest
+24260,2496,1,4.0064,Western/SW VA - Far Southwest
+24263,3004,2,6.6578,Western/SW VA - Far Southwest
+24265,354,0,0.0,Western/SW VA - Far Southwest
+24266,4237,6,14.161,Western/SW VA - Far Southwest
+24269,126,0,0.0,Western/SW VA - Far Southwest
+24270,261,1,38.3142,Western/SW VA - Far Southwest
+24271,1407,0,0.0,Western/SW VA - Far Southwest
+24272,250,0,0.0,Western/SW VA - Far Southwest
+24273,2925,2,6.8376,Western/SW VA - Far Southwest
+24277,2588,2,7.728,Western/SW VA - Far Southwest
+24279,1914,1,5.2247,Western/SW VA - Far Southwest
+24280,345,0,0.0,Western/SW VA - Far Southwest
+24281,1229,0,0.0,Western/SW VA - Far Southwest
+24282,263,0,0.0,Western/SW VA - Far Southwest
+24283,1107,0,0.0,Western/SW VA - Far Southwest
+24290,922,0,0.0,Western/SW VA - Far Southwest
+24292,303,0,0.0,Western/SW VA - Far Southwest
+24293,4489,11,24.5043,Western/SW VA - Far Southwest
+24301,6876,9,13.089,Western/SW VA - Mountain Region
+24311,891,0,0.0,Western/SW VA - Mountain Region
+24312,1147,0,0.0,Western/SW VA - Mountain Region
+24313,409,0,0.0,Western/SW VA - Mountain Region
+24314,775,0,0.0,Western/SW VA - Mountain Region
+24315,1530,1,6.5359,Western/SW VA - Mountain Region
+24316,38,0,0.0,Western/SW VA - Mountain Region
+24317,2008,1,4.9801,Western/SW VA - Mountain Region
+24318,460,0,0.0,Western/SW VA - Mountain Region
+24319,3069,4,13.0336,Western/SW VA - Mountain Region
+24322,108,0,0.0,Western/SW VA - Mountain Region
+24323,333,1,30.03,Western/SW VA - Mountain Region
+24324,1086,0,0.0,Western/SW VA - Mountain Region
+24325,747,0,0.0,Western/SW VA - Mountain Region
+24326,764,0,0.0,Western/SW VA - Mountain Region
+24327,14,0,0.0,Western/SW VA - Mountain Region
+24328,1727,0,0.0,Western/SW VA - Mountain Region
+24330,1789,0,0.0,Western/SW VA - Mountain Region
+24333,8687,22,25.3252,Western/SW VA - Mountain Region
+24340,2496,3,12.0192,Western/SW VA - Mountain Region
+24343,4869,6,12.3229,Western/SW VA - Mountain Region
+24347,1162,0,0.0,Western/SW VA - Mountain Region
+24348,2401,2,8.3299,Western/SW VA - Mountain Region
+24350,631,1,15.8479,Western/SW VA - Mountain Region
+24351,321,0,0.0,Western/SW VA - Mountain Region
+24352,601,0,0.0,Western/SW VA - Mountain Region
+24354,7189,17,23.6472,Western/SW VA - Mountain Region
+24360,2697,4,14.8313,Western/SW VA - Mountain Region
+24361,2142,1,4.6685,Western/SW VA - Mountain Region
+24363,882,2,22.6757,Western/SW VA - Mountain Region
+24366,371,0,0.0,Western/SW VA - Mountain Region
+24368,2282,4,17.5285,Western/SW VA - Mountain Region
+24370,3040,0,0.0,Western/SW VA - Mountain Region
+24374,374,0,0.0,Western/SW VA - Mountain Region
+24375,965,0,0.0,Western/SW VA - Mountain Region
+24377,229,0,0.0,Western/SW VA - Mountain Region
+24378,817,1,12.2399,Western/SW VA - Mountain Region
+24380,1479,4,27.0453,Western/SW VA - Mountain Region
+24381,1890,0,0.0,Western/SW VA - Mountain Region
+24382,7198,16,22.2284,Western/SW VA - Mountain Region
+24401,18002,116,64.4373,Western/SW VA - Mountain Region
+24411,25,0,0.0,Western/SW VA - Mountain Region
+24412,80,0,0.0,Western/SW VA - Mountain Region
+24413,165,0,0.0,Western/SW VA - Mountain Region
+24415,48,0,0.0,Western/SW VA - Mountain Region
+24416,3963,9,22.7101,Western/SW VA - Mountain Region
+24421,1637,1,6.1087,Western/SW VA - Mountain Region
+24422,3212,1,3.1133,Western/SW VA - Mountain Region
+24426,7031,2,2.8445,Western/SW VA - Mountain Region
+24430,726,0,0.0,Western/SW VA - Mountain Region
+24431,1171,2,17.0794,Western/SW VA - Mountain Region
+24432,200,0,0.0,Western/SW VA - Mountain Region
+24433,62,0,0.0,Western/SW VA - Mountain Region
+24435,847,2,23.6128,Western/SW VA - Mountain Region
+24437,412,0,0.0,Western/SW VA - Mountain Region
+24439,660,0,0.0,Western/SW VA - Mountain Region
+24440,1086,1,9.2081,Western/SW VA - Mountain Region
+24441,2754,0,0.0,Western/SW VA - Mountain Region
+24442,112,0,0.0,Western/SW VA - Mountain Region
+24445,1589,0,0.0,Western/SW VA - Mountain Region
+24448,164,0,0.0,Western/SW VA - Mountain Region
+24450,7616,36,47.2689,Western/SW VA - Mountain Region
+24457,142,1,70.4225,Western/SW VA - Mountain Region
+24458,282,0,0.0,Western/SW VA - Mountain Region
+24459,361,0,0.0,Western/SW VA - Mountain Region
+24460,1117,0,0.0,Western/SW VA - Mountain Region
+24464,168,0,0.0,Western/SW VA - Mountain Region
+24465,974,2,20.5339,Western/SW VA - Mountain Region
+24467,922,0,0.0,Western/SW VA - Mountain Region
+24469,9,0,0.0,Western/SW VA - Mountain Region
+24471,622,2,32.1543,Western/SW VA - Mountain Region
+24472,1193,0,0.0,Western/SW VA - Mountain Region
+24473,526,0,0.0,Western/SW VA - Mountain Region
+24474,209,0,0.0,Western/SW VA - Mountain Region
+24476,146,0,0.0,Western/SW VA - Mountain Region
+24477,4790,3,6.263,Western/SW VA - Mountain Region
+24479,701,0,0.0,Western/SW VA - Mountain Region
+24482,1929,3,15.5521,Western/SW VA - Mountain Region
+24483,415,0,0.0,Western/SW VA - Mountain Region
+24484,613,0,0.0,Western/SW VA - Mountain Region
+24485,291,0,0.0,Western/SW VA - Mountain Region
+24486,1466,3,20.4638,Western/SW VA - Mountain Region
+24487,288,1,34.7222,Western/SW VA - Mountain Region
+24501,12289,104,84.6285,Western/SW VA - Southern/Piedmont
+24502,18796,179,95.233,Western/SW VA - Southern/Piedmont
+24503,8749,65,74.2942,Western/SW VA - Southern/Piedmont
+24504,5105,41,80.3134,Western/SW VA - Southern/Piedmont
+24515,14,11,7857.1429,Western/SW VA - Southern/Piedmont
+24517,2612,3,11.4855,Western/SW VA - Southern/Piedmont
+24520,1165,2,17.1674,Western/SW VA - Southern/Piedmont
+24521,4647,7,15.0635,Western/SW VA - Southern/Piedmont
+24522,4506,11,24.4119,Western/SW VA - Southern/Piedmont
+24523,8974,39,43.4589,Western/SW VA - Southern/Piedmont
+24526,728,0,0.0,Western/SW VA - Southern/Piedmont
+24527,1270,0,0.0,Western/SW VA - Southern/Piedmont
+24528,1513,1,6.6094,Western/SW VA - Southern/Piedmont
+24529,991,1,10.0908,Western/SW VA - Southern/Piedmont
+24530,550,0,0.0,Western/SW VA - Southern/Piedmont
+24531,4148,5,12.054,Western/SW VA - Southern/Piedmont
+24534,832,1,12.0192,Western/SW VA - Southern/Piedmont
+24536,132,0,0.0,Western/SW VA - Southern/Piedmont
+24538,2099,10,47.6417,Western/SW VA - Southern/Piedmont
+24539,91,0,0.0,Western/SW VA - Southern/Piedmont
+24540,15740,26,16.5184,Western/SW VA - Southern/Piedmont
+24541,14281,17,11.9039,Western/SW VA - Southern/Piedmont
+24549,1884,0,0.0,Western/SW VA - Southern/Piedmont
+24550,3280,3,9.1463,Western/SW VA - Southern/Piedmont
+24551,10211,103,100.8716,Western/SW VA - Southern/Piedmont
+24553,952,0,0.0,Western/SW VA - Southern/Piedmont
+24554,1833,2,10.9111,Western/SW VA - Southern/Piedmont
+24555,989,0,0.0,Western/SW VA - Southern/Piedmont
+24556,1351,3,22.2058,Western/SW VA - Southern/Piedmont
+24557,3775,2,5.298,Western/SW VA - Southern/Piedmont
+24558,3100,3,9.6774,Western/SW VA - Southern/Piedmont
+24562,280,0,0.0,Western/SW VA - Southern/Piedmont
+24563,2566,2,7.7942,Western/SW VA - Southern/Piedmont
+24565,565,0,0.0,Western/SW VA - Southern/Piedmont
+24566,634,0,0.0,Western/SW VA - Southern/Piedmont
+24569,434,0,0.0,Western/SW VA - Southern/Piedmont
+24570,13,0,0.0,Western/SW VA - Southern/Piedmont
+24571,1009,0,0.0,Western/SW VA - Southern/Piedmont
+24572,7380,16,21.6802,Western/SW VA - Southern/Piedmont
+24574,1775,2,11.2676,Western/SW VA - Southern/Piedmont
+24577,2561,0,0.0,Western/SW VA - Southern/Piedmont
+24578,519,1,19.2678,Western/SW VA - Southern/Piedmont
+24579,677,0,0.0,Western/SW VA - Southern/Piedmont
+24580,304,1,32.8947,Western/SW VA - Southern/Piedmont
+24581,21,1,476.1905,Western/SW VA - Southern/Piedmont
+24586,2506,1,3.9904,Western/SW VA - Southern/Piedmont
+24588,4032,7,17.3611,Western/SW VA - Southern/Piedmont
+24589,1025,1,9.7561,Western/SW VA - Southern/Piedmont
+24590,3556,8,22.4972,Western/SW VA - Southern/Piedmont
+24592,6567,13,19.7959,Western/SW VA - Southern/Piedmont
+24593,956,2,20.9205,Western/SW VA - Southern/Piedmont
+24594,812,0,0.0,Western/SW VA - Southern/Piedmont
+24595,63,0,0.0,Western/SW VA - Southern/Piedmont
+24597,608,0,0.0,Western/SW VA - Southern/Piedmont
+24598,910,0,0.0,Western/SW VA - Southern/Piedmont
+24599,329,0,0.0,Western/SW VA - Southern/Piedmont
+24601,42,1,238.0952,Other
+24602,409,0,0.0,Other
+24603,441,0,0.0,Other
+24604,106,0,0.0,Other
+24605,4138,6,14.4998,Other
+24606,87,0,0.0,Other
+24607,169,0,0.0,Other
+24609,3279,1,3.0497,Other
+24612,158,0,0.0,Other
+24613,406,0,0.0,Other
+24614,3795,2,5.2701,Other
+24620,1102,0,0.0,Other
+24622,536,0,0.0,Other
+24630,3010,1,3.3223,Other
+24631,998,0,0.0,Other
+24634,227,0,0.0,Other
+24635,265,0,0.0,Other
+24637,1458,1,6.8587,Other
+24639,1600,1,6.25,Other
+24641,2858,0,0.0,Other
+24646,324,0,0.0,Other
+24649,1118,0,0.0,Other
+24651,2878,9,31.2717,Other
+24656,1555,0,0.0,Other
+24657,133,0,0.0,Other

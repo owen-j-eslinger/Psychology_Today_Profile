@@ -1,5 +1,5 @@
 # Eslinger
-*.csv
+# *.csv # Ignore this time
 *.json
 
 # Byte-compiled / optimized / DLL files
