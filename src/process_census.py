@@ -1,3 +1,5 @@
+# Not sure if this is really needed. I pulled down a file from: https://worldpopulationreview.com/zips/virginia
+
 # Stage 2: Read the local CSV and filter to Virginia ZCTAs.
 # This runs offline — no API calls. Reuse / re-run as much as you want.
 

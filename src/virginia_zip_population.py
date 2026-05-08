@@ -1,3 +1,5 @@
+# Not sure if this is really needed. I pulled down a file from: https://worldpopulationreview.com/zips/virginia
+
 # Stage 1: Download the entire 2020 DHC ZCTA dataset from the Census API
 # and save it locally as both raw JSON and a clean CSV for later processing.
 

@@ -24,12 +24,12 @@ ROOT = Path(__file__).resolve().parent.parent
 CENSUS_CSV = ROOT / "census_data" / "virginia-zip-codes.csv"
 THERAPIST_CSV = ROOT / "therapist_counts" / "therapist_counts_by_zip.csv"
 OUTPUT_DIR = ROOT / "therapist_counts"
-OUTPUT_CSV = OUTPUT_DIR / "therapist_counts_by_zip.csv"
+OUTPUT_CSV = ROOT / "therapist_counts" / "therapist_counts_by_zip.csv"
 ERROR_LOG = OUTPUT_DIR / "errors.log"
 HTML_CACHE_DIR = OUTPUT_DIR / "html_cache"
 
 # Import functions from your existing script
-from ../pt_pull_therapist_counts import (
+from pt_pull_therapist_counts import (
     fetch_zip,
     HEADERS,
     HTML_CACHE_DIR,
@@ -39,18 +39,12 @@ from ../pt_pull_therapist_counts import (
 )
 
 # ---------- Configuration ----------
-OUTPUT_CSV = OUTPUT_DIR / "therapist_counts_by_zip.csv"
-ERROR_LOG = OUTPUT_DIR / "errors.log"
-
 # ZIP ranges to process (inclusive)
 ZIP_RANGES = [
     (20101, 20199),   # Loudoun County / parts of NoVA
     (22001, 24699),   # Bulk of Virginia
 ]
 
-# NEW:
-REAL_ZIPS_CSV = Path("./census_data/va_zcta_dhc_2020.csv")
-# REAL_ZIPS_COLUMN no longer used — we read the last column by position
 
 # Adaptive backoff thresholds
 ERROR_BACKOFF_MULTIPLIER = 2.0    # double delays after errors
@@ -74,40 +68,28 @@ FIELDNAMES = [
 # ---------- Build the ZIP list ----------
 def build_zip_list():
     """
-    Build the full list of ZIP codes to process from configured ranges,
-    optionally filtered against a real-ZIPs CSV (uses the 'zip' column).
+    Build the full list of ZIP codes to process from the census CSV (uses the 'zip' column).
     """
     all_zips = []
-    for start, end in ZIP_RANGES:
-        for n in range(start, end + 1):
-            all_zips.append("{:05d}".format(n))
+    print(CENSUS_CSV)
 
-    print("Generated {} ZIP codes from ranges".format(len(all_zips)))
-    print(REAL_ZIPS_CSV)
-
-    # Optional filter to real ZIPs — read 'zip' column of the CSV
-    if REAL_ZIPS_CSV and Path(REAL_ZIPS_CSV).exists():
-        real = set()
-        with open(str(REAL_ZIPS_CSV), "r", encoding="utf-8") as f:
+    if CENSUS_CSV and Path(CENSUS_CSV).exists():
+        with open(str(CENSUS_CSV), "r", encoding="utf-8") as f:
             reader = csv.DictReader(f)
             for row in reader:
                 z = (row.get("zip") or "").strip().zfill(5)
                 if z:
-                    real.add(z)
-        before = len(all_zips)
-        all_zips = [z for z in all_zips if z in real]
-        print("Filtered to {} real ZIPs (removed {})".format(
-            len(all_zips), before - len(all_zips)
-        ))
+                    all_zips.append(z)
+        print("Generated {} ZIP codes from Census Data File.".format(len(all_zips)))
+    else:
+        print("Census file not found or not specified.")
 
     return all_zips
 
 # ---------- Resume support ----------
-def load_completed_zips():
-    """
-    Load the set of ZIPs already in the output CSV so we can resume.
-    """
+def load_completed_zips():   
     if not OUTPUT_CSV.exists():
+        print("File does not exist!")
         return set()
     completed = set()
     with open(str(OUTPUT_CSV), "r", encoding="utf-8") as f:
@@ -117,7 +99,6 @@ def load_completed_zips():
             if zc:
                 completed.add(zc)
     return completed
-
 
 def init_csv_if_needed():
     """

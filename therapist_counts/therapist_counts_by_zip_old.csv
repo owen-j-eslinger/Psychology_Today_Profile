@@ -1,4 +1,9 @@
 zip,result_count,nearby_result_count,teletherapy_count,resolved_postal_code,resolved_region,zip_mismatch,http_status,url,error
+22102,246,0,0,22102,Virginia,False,(cached),(cached),
+22030,963,0,0,22030,Virginia,False,(cached),(cached),
+22201,638,0,0,22201,Virginia,False,(cached),(cached),
+20120,91,0,0,20120,Virginia,False,(cached),(cached),
+22310,108,0,0,22310,Virginia,False,(cached),(cached),
 20101,8,1273,0,20101,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20101,
 20102,2,2151,0,20102,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20102,
 20103,6,2147,0,20103,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20103,
@@ -12,20 +17,25 @@ zip,result_count,nearby_result_count,teletherapy_count,resolved_postal_code,reso
 20111,55,0,0,20111,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20111,
 20112,23,0,0,20112,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20112,
 20113,2,7865,0,20113,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20113,
+20114,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20114,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20114
 20115,6,3066,0,20115,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20115,
 20116,0,2325,0,20116,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20116,
 20117,37,0,0,20117,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20117,
 20118,9,4638,0,20118,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20118,
 20119,1,5274,0,20119,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20119,
-20120,91,0,0,20120,Virginia,False,(cached),(cached),
 20121,57,0,0,20121,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20121,
 20122,8,7843,0,20122,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20122,
+20123,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20123,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20123
 20124,31,0,0,20124,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20124,
+20125,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20125,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20125
+20126,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20126,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20126
+20127,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20127,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20127
 20128,0,1389,0,20128,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20128,
 20129,18,4702,0,20129,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20129,
 20130,0,2312,0,20130,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20130,
 20131,1,4425,0,20131,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20131,
 20132,95,0,0,20132,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20132,
+20133,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20133,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20133
 20134,6,4230,0,20134,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20134,
 20135,2,2738,0,20135,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20135,
 20136,51,0,0,20136,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20136,
@@ -37,18 +47,24 @@ zip,result_count,nearby_result_count,teletherapy_count,resolved_postal_code,reso
 20142,1,3102,0,20142,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20142,
 20143,11,7839,0,20143,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20143,
 20144,0,2592,0,20144,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20144,
+20145,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20145,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20145
 20146,58,0,0,20146,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20146,
 20147,445,0,0,20147,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20147,
 20148,171,0,0,20148,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20148,
 20149,8,7663,0,20149,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20149,
+20150,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20150,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20150
 20151,247,0,0,20151,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20151,
 20152,111,0,0,20152,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20152,
 20153,32,0,0,20153,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20153,
+20154,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20154,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20154
 20155,139,0,0,20155,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20155,
 20156,8,6957,0,20156,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20156,
+20157,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20157,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20157
 20158,12,4662,0,20158,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20158,
 20159,1,4673,0,20159,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20159,
 20160,1,4471,0,20160,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20160,
+20161,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20161,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20161
+20162,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20162,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20162
 20163,24,0,0,20163,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20163,
 20164,61,0,0,20164,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20164,
 20165,123,0,0,20165,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20165,
@@ -59,13 +75,17 @@ zip,result_count,nearby_result_count,teletherapy_count,resolved_postal_code,reso
 20170,171,0,0,20170,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20170,
 20171,139,0,0,20171,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20171,
 20172,1,7725,0,20172,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20172,
+20173,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20173,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20173
+20174,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20174,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20174
 20175,248,0,0,20175,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20175,
 20176,276,0,0,20176,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20176,
 20177,18,6033,0,20177,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20177,
 20178,12,6039,0,20178,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20178,
+20179,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20179,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20179
 20180,15,2488,0,20180,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20180,
 20181,11,7960,0,20181,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20181,
 20182,1,7768,0,20182,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20182,
+20183,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=20183,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=20183
 20184,2,3038,0,20184,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20184,
 20185,0,3987,0,20185,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20185,
 20186,105,0,0,20186,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=20186,
@@ -85,6 +105,11 @@ zip,result_count,nearby_result_count,teletherapy_count,resolved_postal_code,reso
 22001,14,7005,0,22001,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22001,
 22002,9,742,0,22002,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22002,
 22003,160,0,0,22003,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22003,
+22004,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22004,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22004
+22005,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22005,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22005
+22006,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22006,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22006
+22007,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22007,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22007
+22008,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22008,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22008
 22009,23,0,0,22009,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22009,
 22010,0,7707,0,22010,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22010,
 22011,2,7671,0,22011,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22011,
@@ -92,12 +117,20 @@ zip,result_count,nearby_result_count,teletherapy_count,resolved_postal_code,reso
 22013,1,7916,0,22013,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22013,
 22014,0,5918,0,22014,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22014,
 22015,152,0,0,22015,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22015,
+22016,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22016,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22016
+22017,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22017,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22017
 22018,0,7837,0,22018,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22018,
 22019,0,5179,0,22019,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22019,
+22020,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22020,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22020
+22021,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22021,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22021
+22022,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22022,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22022
+22023,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22023,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22023
+22024,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22024,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22024
 22025,41,0,0,22025,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22025,
 22026,37,0,0,22026,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22026,
 22027,30,0,0,22027,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22027,
-22030,963,0,0,22030,Virginia,False,(cached),(cached),
+22028,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22028,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22028
+22029,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22029,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22029
 22031,269,0,0,22031,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22031,
 22032,117,0,0,22032,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22032,
 22033,113,0,0,22033,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22033,
@@ -112,9 +145,26 @@ zip,result_count,nearby_result_count,teletherapy_count,resolved_postal_code,reso
 22042,96,0,0,22042,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22042,
 22043,82,0,0,22043,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22043,
 22044,54,0,0,22044,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22044,
+22045,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22045,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22045
 22046,333,0,0,22046,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22046,
 22047,8,7748,0,22047,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22047,
+22048,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22048,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22048
+22049,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22049,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22049
+22050,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22050,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22050
+22051,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22051,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22051
+22052,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22052,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22052
+22053,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22053,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22053
+22054,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22054,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22054
+22055,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22055,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22055
+22056,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22056,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22056
+22057,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22057,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22057
+22058,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22058,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22058
+22059,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22059,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22059
 22060,16,7448,0,22060,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22060,
+22061,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22061,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22061
+22062,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22062,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22062
+22063,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22063,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22063
+22064,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22064,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22064
 22065,4,7144,0,22065,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22065,
 22066,182,0,0,22066,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22066,
 22067,17,7646,0,22067,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22067,
@@ -122,26 +172,48 @@ zip,result_count,nearby_result_count,teletherapy_count,resolved_postal_code,reso
 22069,1,6383,0,22069,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22069,
 22070,0,7702,0,22070,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22070,
 22071,1,7726,0,22071,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22071,
+22072,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22072,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22072
+22073,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22073,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22073
+22074,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22074,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22074
 22075,7,5336,0,22075,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22075,
+22076,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22076,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22076
+22077,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22077,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22077
+22078,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22078,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22078
 22079,59,0,0,22079,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22079,
 22080,0,2441,0,22080,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22080,
 22081,3,7680,0,22081,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22081,
 22082,2,7680,0,22082,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22082,
+22083,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22083,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22083
+22084,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22084,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22084
+22085,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22085,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22085
+22086,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22086,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22086
+22087,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22087,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22087
+22088,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22088,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22088
+22089,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22089,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22089
+22090,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22090,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22090
 22091,0,7721,0,22091,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22091,
 22092,0,7714,0,22092,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22092,
 22093,0,7672,0,22093,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22093,
 22094,0,7678,0,22094,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22094,
 22095,0,7714,0,22095,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22095,
 22096,0,7689,0,22096,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22096,
+22097,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22097,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22097
+22098,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22098,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22098
+22099,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22099,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22099
+22100,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22100,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22100
 22101,517,0,0,22101,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22101,
-22102,246,0,0,22102,Virginia,False,(cached),(cached),
 22103,20,0,0,22103,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22103,
+22104,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22104,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22104
+22105,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22105,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22105
 22106,3,7621,0,22106,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22106,
 22107,1,7624,0,22107,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22107,
 22108,2,7623,0,22108,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22108,
 22109,1,7624,0,22109,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22109,
 22110,3,7878,0,22110,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22110,
 22111,0,7881,0,22111,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22111,
+22112,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22112,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22112
+22113,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22113,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22113
+22114,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22114,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22114
 22115,0,2892,0,22115,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22115,
 22116,1,7680,0,22116,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22116,
 22117,0,4588,0,22117,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22117,
@@ -153,45 +225,88 @@ zip,result_count,nearby_result_count,teletherapy_count,resolved_postal_code,reso
 22123,0,8022,0,22123,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22123,
 22124,88,0,0,22124,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22124,
 22125,22,0,0,22125,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22125,
+22126,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22126,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22126
+22127,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22127,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22127
+22128,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22128,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22128
 22129,0,4615,0,22129,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22129,
 22130,1,2976,0,22130,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22130,
+22131,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22131,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22131
 22132,0,3570,0,22132,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22132,
+22133,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22133,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22133
 22134,20,0,0,22134,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22134,
 22135,5,7308,0,22135,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22135,
+22136,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22136,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22136
+22137,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22137,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22137
+22138,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22138,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22138
+22139,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22139,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22139
+22140,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22140,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22140
 22141,0,3212,0,22141,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22141,
+22142,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22142,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22142
+22143,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22143,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22143
+22144,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22144,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22144
+22145,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22145,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22145
+22146,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22146,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22146
+22147,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22147,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22147
+22148,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22148,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22148
+22149,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22149,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22149
 22150,77,0,0,22150,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22150,
 22151,46,0,0,22151,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22151,
 22152,69,0,0,22152,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22152,
 22153,48,0,0,22153,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22153,
+22154,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22154,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22154
+22155,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22155,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22155
 22156,0,7688,0,22156,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22156,
+22157,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22157,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22157
 22158,1,7687,0,22158,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22158,
 22159,0,7688,0,22159,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22159,
 22160,1,7687,0,22160,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22160,
 22161,0,7688,0,22161,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22161,
+22162,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22162,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22162
+22163,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22163,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22163
+22164,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22164,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22164
+22165,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22165,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22165
+22166,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22166,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22166
+22167,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22167,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22167
+22168,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22168,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22168
+22169,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22169,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22169
 22170,0,7671,0,22170,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22170,
 22171,0,4796,0,22171,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22171,
 22172,14,7461,0,22172,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22172,
+22173,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22173,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22173
+22174,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22174,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22174
+22175,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22175,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22175
 22176,0,3232,0,22176,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22176,
+22177,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22177,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22177
+22178,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22178,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22178
+22179,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22179,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22179
 22180,193,0,0,22180,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22180,
 22181,46,0,0,22181,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22181,
 22182,332,0,0,22182,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22182,
 22183,9,7678,0,22183,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22183,
 22184,8,7679,0,22184,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22184,
 22185,6,7681,0,22185,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22185,
+22186,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22186,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22186
+22187,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22187,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22187
+22188,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22188,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22188
+22189,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22189,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22189
 22190,3,3335,0,22190,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22190,
 22191,200,0,0,22191,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22191,
 22192,236,0,0,22192,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22192,
 22193,310,0,0,22193,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22193,
 22194,11,7766,0,22194,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22194,
 22195,5,7794,0,22195,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22195,
+22196,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22196,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22196
+22197,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22197,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22197
+22198,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22198,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22198
 22199,3,7696,0,22199,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22199,
-22201,638,0,0,22201,Virginia,False,(cached),(cached),
+22200,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22200,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22200
 22202,200,0,0,22202,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22202,
 22203,260,0,0,22203,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22203,
 22204,183,0,0,22204,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22204,
 22205,96,0,0,22205,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22205,
 22206,109,0,0,22206,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22206,
 22207,307,0,0,22207,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22207,
+22208,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22208,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22208
 22209,244,0,0,22209,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22209,
 22210,11,7605,0,22210,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22210,
 22211,8,7490,0,22211,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22211,
@@ -203,14 +318,26 @@ zip,result_count,nearby_result_count,teletherapy_count,resolved_postal_code,reso
 22217,0,7567,0,22217,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22217,
 22218,1,7566,0,22218,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22218,
 22219,0,7589,0,22219,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22219,
+22220,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22220,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22220
+22221,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22221,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22221
 22222,1,7615,0,22222,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22222,
 22223,0,7616,0,22223,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22223,
+22224,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22224,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22224
 22225,0,7421,0,22225,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22225,
 22226,1,7613,0,22226,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22226,
 22227,0,7616,0,22227,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22227,
+22228,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22228,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22228
 22229,0,7614,0,22229,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22229,
 22230,1,7615,0,22230,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22230,
+22231,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22231,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22231
+22232,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22232,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22232
+22233,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22233,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22233
 22234,0,7616,0,22234,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22234,
+22235,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22235,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22235
+22236,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22236,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22236
+22237,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22237,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22237
+22238,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22238,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22238
+22239,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22239,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22239
 22240,0,7616,0,22240,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22240,
 22241,1,7615,0,22241,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22241,
 22242,1,7615,0,22242,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22242,
@@ -218,6 +345,60 @@ zip,result_count,nearby_result_count,teletherapy_count,resolved_postal_code,reso
 22244,0,7616,0,22244,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22244,
 22245,0,7616,0,22245,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22245,
 22246,1,7586,0,22246,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22246,
+22247,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22247,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22247
+22248,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22248,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22248
+22249,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22249,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22249
+22250,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22250,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22250
+22251,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22251,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22251
+22252,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22252,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22252
+22253,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22253,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22253
+22254,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22254,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22254
+22255,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22255,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22255
+22256,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22256,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22256
+22257,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22257,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22257
+22258,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22258,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22258
+22259,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22259,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22259
+22260,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22260,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22260
+22261,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22261,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22261
+22262,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22262,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22262
+22263,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22263,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22263
+22264,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22264,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22264
+22265,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22265,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22265
+22266,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22266,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22266
+22267,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22267,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22267
+22268,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22268,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22268
+22269,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22269,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22269
+22270,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22270,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22270
+22271,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22271,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22271
+22272,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22272,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22272
+22273,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22273,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22273
+22274,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22274,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22274
+22275,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22275,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22275
+22276,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22276,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22276
+22277,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22277,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22277
+22278,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22278,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22278
+22279,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22279,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22279
+22280,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22280,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22280
+22281,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22281,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22281
+22282,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22282,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22282
+22283,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22283,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22283
+22284,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22284,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22284
+22285,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22285,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22285
+22286,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22286,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22286
+22287,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22287,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22287
+22288,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22288,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22288
+22289,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22289,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22289
+22290,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22290,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22290
+22291,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22291,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22291
+22292,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22292,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22292
+22293,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22293,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22293
+22294,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22294,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22294
+22295,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22295,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22295
+22296,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22296,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22296
+22297,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22297,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22297
+22298,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22298,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22298
+22299,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22299,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22299
+22300,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22300,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22300
 22301,413,0,0,22301,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22301,
 22302,149,0,0,22302,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22302,
 22303,70,0,0,22303,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22303,
@@ -227,19 +408,59 @@ zip,result_count,nearby_result_count,teletherapy_count,resolved_postal_code,reso
 22307,70,0,0,22307,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22307,
 22308,31,0,0,22308,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22308,
 22309,40,0,0,22309,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22309,
-22310,108,0,0,22310,Virginia,False,(cached),(cached),
 22311,41,0,0,22311,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22311,
 22312,85,0,0,22312,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22312,
 22313,15,7612,0,22313,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22313,
 22314,829,0,0,22314,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22314,
 22315,67,0,0,22315,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22315,
+22316,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22316,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22316
+22317,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22317,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22317
+22318,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22318,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22318
+22319,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22319,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22319
 22320,10,7432,0,22320,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22320,
 22321,1,7389,0,22321,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22321,
+22322,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22322,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22322
+22323,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22323,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22323
+22324,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22324,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22324
+22325,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22325,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22325
+22326,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22326,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22326
+22327,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22327,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22327
+22328,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22328,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22328
+22329,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22329,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22329
+22330,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22330,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22330
 22331,4,7450,0,22331,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22331,
 22332,1,7453,0,22332,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22332,
 22333,3,7585,0,22333,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22333,
 22334,2,7440,0,22334,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22334,
+22335,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22335,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22335
 22336,2,7412,0,22336,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22336,
+22337,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22337,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22337
+22338,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22338,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22338
+22339,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22339,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22339
+22340,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22340,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22340
+22341,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22341,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22341
+22342,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22342,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22342
+22343,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22343,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22343
+22344,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22344,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22344
+22345,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22345,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22345
+22346,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22346,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22346
+22347,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22347,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22347
+22348,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22348,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22348
+22349,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22349,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22349
+22350,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22350,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22350
+22351,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22351,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22351
+22352,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22352,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22352
+22353,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22353,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22353
+22354,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22354,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22354
+22355,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22355,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22355
+22356,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22356,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22356
+22357,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22357,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22357
+22358,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22358,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22358
+22359,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22359,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22359
+22360,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22360,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22360
+22361,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22361,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22361
+22362,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22362,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22362
+22363,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22363,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22363
 22401,227,0,0,22401,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22401,
 22405,68,0,0,22405,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22405,
 22406,48,0,0,22406,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=22406,
@@ -1038,3 +1259,12 @@ zip,result_count,nearby_result_count,teletherapy_count,resolved_postal_code,reso
 24651,9,49,0,24651,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=24651,
 24656,0,34,0,24656,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=24656,
 24657,0,23,0,24657,Virginia,False,200,https://www.psychologytoday.com/us/therapists?search=24657,
+22364,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22364,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22364
+22365,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22365,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22365
+22366,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22366,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22366
+22367,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22367,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22367
+22368,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22368,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22368
+22369,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22369,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22369
+22370,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22370,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22370
+22371,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22371,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22371
+22372,,,,,,False,404,https://www.psychologytoday.com/us/therapists?search=22372,Request error: 404 Client Error: Not Found for url: https://www.psychologytoday.com/us/therapists?search=22372
