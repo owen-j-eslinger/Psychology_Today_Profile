@@ -3,7 +3,9 @@
 Search Psychology Today profiles by zip code.
 
 Main Routine - Running.ipynb
-- 
+- Create visualization of zip codes (x-axis = population, y-axis = number of therapists)
+- Create a table by region. Sort by most underserved zip codes first.
+- This table can be exported and put into Excel.
 
 Actual Population by Zip Code
 - I pulled population data from (https://worldpopulationreview.com/zips/virginia). I did the same thing for the rest of the states.
