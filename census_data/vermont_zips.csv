@@ -1,0 +1,266 @@
+ZIP,City,County,Population
+05401,Burlington,Chittenden County,"31,662"
+05452,Essex Junction,Chittenden County,"22,626"
+05403,South Burlington,Chittenden County,"20,614"
+05701,Rutland,Rutland County,"20,382"
+05301,Brattleboro,Windham County,"16,955"
+05641,Barre,Washington County,"16,936"
+05446,Colchester,Chittenden County,"16,452"
+05478,Saint Albans,Franklin County,"15,580"
+05201,Bennington,Bennington County,"14,998"
+05468,Milton,Chittenden County,"13,324"
+05602,Montpelier,Washington County,"12,250"
+05753,Middlebury,Addison County,"11,094"
+05495,Williston,Chittenden County,"10,956"
+05408,Burlington,Chittenden County,"10,019"
+05001,White River Junction,Windsor County,"9,751"
+05156,Springfield,Windsor County,"9,116"
+05819,Saint Johnsbury,Caledonia County,"9,106"
+05488,Swanton,Franklin County,"8,469"
+05404,Winooski,Chittenden County,"8,293"
+05482,Shelburne,Chittenden County,"7,969"
+05855,Newport,Orleans County,"7,412"
+05663,Northfield,Washington County,"6,840"
+05443,Bristol,Addison County,"6,549"
+05661,Morrisville,Lamoille County,"6,227"
+05851,Lyndonville,Caledonia County,"6,024"
+05733,Brandon,Rutland County,"6,015"
+05491,Vergennes,Addison County,"5,767"
+05465,Jericho,Chittenden County,"5,735"
+05450,Enosburg Falls,Franklin County,"5,428"
+05454,Fairfax,Franklin County,"5,364"
+05672,Stowe,Lamoille County,"5,285"
+05346,Putney,Windham County,"5,177"
+05676,Waterbury,Washington County,"5,032"
+05461,Hinesburg,Chittenden County,"4,898"
+05143,Chester,Windsor County,"4,767"
+05089,Windsor,Windsor County,"4,462"
+05477,Richmond,Chittenden County,"4,454"
+05060,Randolph,Orange County,"4,268"
+05101,Bellows Falls,Windham County,"4,165"
+05743,Fair Haven,Rutland County,"4,160"
+05255,Manchester Center,Bennington County,"4,108"
+05445,Charlotte,Chittenden County,"3,916"
+05250,Arlington,Bennington County,"3,847"
+05735,Castleton,Rutland County,"3,651"
+05489,Underhill,Chittenden County,"3,484"
+05055,Norwich,Windsor County,"3,463"
+05656,Johnson,Lamoille County,"3,458"
+05091,Woodstock,Windsor County,"3,443"
+05777,West Rutland,Rutland County,"3,229"
+05476,Richford,Franklin County,"3,218"
+05679,Williamstown,Orange County,"3,147"
+05405,Burlington,Chittenden County,"3,136"
+05764,Poultney,Rutland County,"3,106"
+05033,Bradford,Orange County,"3,081"
+05763,Pittsford,Rutland County,"3,037"
+05655,Hyde Park,Lamoille County,"3,000"
+05464,Jeffersonville,Lamoille County,"2,998"
+05068,South Royalton,Windsor County,"2,987"
+05032,Bethel,Windsor County,"2,817"
+05257,North Bennington,Bennington County,"2,807"
+05860,Orleans,Orleans County,"2,728"
+05354,Vernon,Windham County,"2,709"
+05673,Waitsfield,Washington County,"2,570"
+05048,Hartland,Windsor County,"2,506"
+05667,Plainfield,Washington County,"2,412"
+05677,Waterbury Center,Washington County,"2,290"
+05773,Wallingford,Rutland County,"2,279"
+05458,Grand Isle,Grand Isle County,"2,278"
+05149,Ludlow,Windsor County,"2,241"
+05843,Hardwick,Caledonia County,"2,198"
+05261,Pownal,Bennington County,"2,171"
+05859,North Troy,Orleans County,"2,123"
+05822,Barton,Orleans County,"2,107"
+05828,Danville,Caledonia County,"2,092"
+05262,Shaftsbury,Bennington County,"2,043"
+05680,Wolcott,Lamoille County,"2,003"
+05472,New Haven,Addison County,"1,938"
+05459,Highgate Center,Franklin County,"1,925"
+05759,North Clarendon,Rutland County,"1,900"
+05363,Wilmington,Windham County,"1,886"
+05660,Moretown,Washington County,"1,882"
+05440,Alburgh,Grand Isle County,"1,832"
+05462,Huntington,Chittenden County,"1,810"
+05765,Proctor,Rutland County,"1,798"
+05061,Randolph Center,Orange County,"1,788"
+05045,Fairlee,Orange County,"1,779"
+05444,Cambridge,Lamoille County,"1,752"
+05658,Marshfield,Washington County,"1,725"
+05483,Sheldon,Franklin County,"1,717"
+05457,Franklin,Franklin County,"1,696"
+05829,Derby,Orleans County,"1,688"
+05251,Dorset,Bennington County,"1,674"
+05345,Newfane,Windham County,"1,667"
+05494,Westford,Chittenden County,"1,603"
+05487,Starksboro,Addison County,"1,598"
+05151,Perkinsville,Windsor County,"1,590"
+05674,Warren,Washington County,"1,585"
+05830,Derby Line,Orleans County,"1,534"
+05836,East Hardwick,Caledonia County,"1,531"
+05871,West Burke,Caledonia County,"1,524"
+05651,East Montpelier,Washington County,"1,510"
+05486,South Hero,Grand Isle County,"1,500"
+05857,Newport Center,Orleans County,"1,467"
+05845,Irasburg,Orleans County,"1,464"
+05075,Thetford Center,Orange County,"1,438"
+05473,North Ferrisburgh,Addison County,"1,423"
+05148,Londonderry,Windham County,"1,401"
+05767,Rochester,Windsor County,"1,393"
+05038,Chelsea,Orange County,"1,371"
+05353,Townshend,Windham County,"1,327"
+05846,Island Pond,Essex County,"1,315"
+05734,Bridport,Addison County,"1,297"
+05738,Cuttingsville,Rutland County,"1,295"
+05739,Danby,Rutland County,"1,294"
+05455,Fairfield,Franklin County,"1,286"
+05474,North Hero,Grand Isle County,"1,263"
+05046,Groton,Caledonia County,"1,241"
+05769,Salisbury,Addison County,"1,238"
+05439,Colchester,Chittenden County,"1,228"
+05906,Lunenburg,Essex County,"1,210"
+05065,Sharon,Windsor County,"1,198"
+05732,Bomoseen,Rutland County,"1,187"
+05770,Shoreham,Addison County,"1,185"
+05036,Brookfield,Orange County,"1,169"
+05824,Concord,Essex County,"1,155"
+05158,Westminster,Windham County,"1,151"
+05682,Worcester,Washington County,"1,149"
+05647,Cabot,Washington County,"1,122"
+05077,Tunbridge,Orange County,"1,116"
+05821,Barnet,Caledonia County,"1,109"
+05774,Wells,Rutland County,"1,102"
+05761,Pawlet,Rutland County,"1,081"
+05847,Lowell,Orleans County,"1,070"
+05361,Whitingham,Windham County,"1,058"
+05650,East Calais,Washington County,"1,029"
+05448,East Fairfield,Franklin County,"1,010"
+05456,Ferrisburgh,Addison County,998
+05760,Orwell,Addison County,993
+05778,Whiting,Addison County,990
+05832,East Burke,Caledonia County,969
+05905,Guildhall,Essex County,968
+05343,Jamaica,Windham County,955
+05654,Graniteville,Orange County,953
+05037,Brownsville,Windsor County,949
+05039,Corinth,Orange County,935
+05051,Newbury,Orange County,927
+05352,Stamford,Bennington County,926
+05079,Vershire,Orange County,914
+05043,East Thetford,Orange County,907
+05675,Washington,Orange County,898
+05873,West Danville,Caledonia County,864
+05153,Proctorsville,Windsor County,851
+05350,Readsboro,Bennington County,844
+05081,Wells River,Orange County,842
+05826,Craftsbury,Orleans County,839
+05652,Eden,Lamoille County,816
+05872,West Charleston,Orleans County,809
+05742,East Wallingford,Rutland County,803
+05903,Canaan,Essex County,801
+05757,Middletown Springs,Rutland County,791
+05751,Killington,Rutland County,785
+05772,Stockbridge,Windsor County,782
+05069,South Ryegate,Orange County,778
+05035,Bridgewater Corners,Windsor County,772
+05669,Roxbury,Washington County,768
+05359,West Townshend,Windham County,757
+05072,Strafford,Orange County,751
+05340,Bondville,Bennington County,745
+05853,Morgan,Orleans County,743
+05356,West Dover,Windham County,738
+05155,South Londonderry,Windham County,735
+05341,East Dover,Windham County,728
+05492,Waterville,Lamoille County,725
+05355,Wardsboro,Windham County,724
+05471,Montgomery Center,Franklin County,719
+05062,Reading,Windsor County,705
+05758,Mount Holly,Rutland County,700
+05866,Sheffield,Caledonia County,684
+05146,Grafton,Windham County,678
+05161,Weston,Windsor County,676
+05839,Glover,Orleans County,664
+05775,West Pawlet,Rutland County,649
+05086,West Topsham,Orange County,647
+05737,Chittenden,Rutland County,639
+05867,Sutton,Caledonia County,634
+05827,Craftsbury Common,Orleans County,630
+05042,East Ryegate,Caledonia County,602
+05040,East Corinth,Orange County,589
+05088,Wilder,Windsor County,581
+05463,Isle La Motte,Grand Isle County,577
+05874,Westfield,Orleans County,568
+05142,Cavendish,Windsor County,564
+05875,Barton,Orleans County,542
+05441,Bakersfield,Franklin County,540
+05653,Eden Mills,Lamoille County,535
+05730,Belmont,Rutland County,525
+05253,East Dorset,Bennington County,516
+05344,Marlboro,Windham County,514
+05360,West Wardsboro,Windham County,512
+05059,Quechee,Windsor County,510
+05070,South Strafford,Orange County,510
+05766,Ripton,Addison County,508
+05076,Topsham,Orange County,495
+05648,Calais,Washington County,483
+05154,Saxtons River,Windham County,479
+05842,Greensboro Bend,Orleans County,458
+05252,East Arlington,Bennington County,455
+05152,Peru,Bennington County,448
+05254,Manchester,Bennington County,439
+05748,Hancock,Addison County,435
+05342,Jacksonville,Windham County,428
+05649,East Barre,Orange County,427
+05442,Belvidere Center,Lamoille County,422
+05150,North Springfield,Windsor County,418
+05736,Center Rutland,Rutland County,408
+05358,West Halifax,Windham County,403
+05762,Pittsfield,Rutland County,387
+05260,North Pownal,Bennington County,384
+05041,East Randolph,Orange County,372
+05744,Florence,Rutland County,372
+05747,Granville,Addison County,361
+05862,Peacham,Caledonia County,361
+05056,Plymouth,Windsor County,352
+05052,North Hartland,Windsor County,346
+05776,West Rupert,Bennington County,341
+05858,North Concord,Essex County,340
+05053,North Pomfret,Windsor County,333
+05850,Lyndon Center,Caledonia County,307
+05837,East Haven,Essex County,301
+05820,Albany,Orleans County,300
+05841,Greensboro,Orleans County,297
+05067,South Pomfret,Windsor County,291
+05640,Adamant,Washington County,259
+05678,Websterville,Washington County,228
+05050,McIndoe Falls,Caledonia County,209
+05083,West Fairlee,Orange County,193
+05351,South Newfane,Windham County,190
+05904,Gilman,Essex County,187
+05084,West Hartford,Windsor County,183
+05034,Bridgewater,Windsor County,180
+05362,Williamsville,Windham County,152
+05071,South Woodstock,Windsor County,130
+05058,Post Mills,Orange County,128
+05825,Coventry,Orleans County,126
+05447,East Berkshire,Franklin County,120
+05681,Woodbury,Washington County,119
+05030,Ascutney,Windsor County,111
+05907,Norton,Essex County,108
+05902,Beecher Falls,Essex County,104
+05768,Rupert,Bennington County,70
+05141,Cambridgeport,Windham County,66
+05073,Taftsville,Windsor County,64
+05031,Barnard,Windsor County,44
+05868,Troy,Orleans County,40
+05731,Benson,Rutland County,35
+05840,Granby,Essex County,34
+05833,East Charleston,Orleans County,28
+05666,North Montpelier,Washington County,17
+05901,Averill,Essex County,9
+05009,White River Junction,Windsor County,0
+05481,Saint Albans Bay,Franklin County,0
+05485,Sheldon Springs,Franklin County,0
+05664,Northfield Falls,Washington County,0
+05670,South Barre,Washington County,0
+05746,Gaysville,Windsor County,0

@@ -1,0 +1,428 @@
+ZIP,City,County,Population
+38654,Olive Branch,DeSoto County,"57,898"
+39503,Gulfport,Harrison County,"55,059"
+39110,Madison,Madison County,"50,443"
+38655,Oxford,Lafayette County,"46,156"
+39402,Hattiesburg,Lamar County,"44,620"
+39564,Ocean Springs,Jackson County,"43,240"
+39759,Starkville,Oktibbeha County,"42,783"
+39401,Hattiesburg,Forrest County,"42,531"
+39047,Brandon,Rankin County,"40,808"
+39042,Brandon,Rankin County,"39,142"
+38671,Southaven,DeSoto County,"37,319"
+39532,Biloxi,Harrison County,"36,662"
+39208,Pearl,Rankin County,"34,442"
+38632,Hernando,DeSoto County,"31,374"
+38801,Tupelo,Lee County,"29,858"
+39452,Lucedale,George County,"29,181"
+39120,Natchez,Adams County,"29,039"
+39180,Vicksburg,Warren County,"28,479"
+39046,Canton,Madison County,"28,442"
+39466,Picayune,Pearl River County,"28,025"
+38834,Corinth,Alcorn County,"27,308"
+39056,Clinton,Hinds County,"26,836"
+38637,Horn Lake,DeSoto County,"26,647"
+39209,Jackson,Hinds County,"25,776"
+39212,Jackson,Hinds County,"25,659"
+39157,Ridgeland,Madison County,"24,562"
+39211,Jackson,Hinds County,"23,838"
+39350,Philadelphia,Neshoba County,"23,778"
+39601,Brookhaven,Lincoln County,"23,583"
+39702,Columbus,Lowndes County,"23,484"
+39206,Jackson,Hinds County,"23,257"
+39465,Petal,Forrest County,"22,882"
+39443,Laurel,Jones County,"22,767"
+38930,Greenwood,Leflore County,"22,700"
+39501,Gulfport,Harrison County,"22,565"
+39305,Meridian,Lauderdale County,"21,638"
+39073,Florence,Rankin County,"21,066"
+39565,Vancleave,Jackson County,"20,984"
+38701,Greenville,Washington County,"20,853"
+39301,Meridian,Lauderdale County,"20,807"
+39648,Mccomb,Pike County,"20,509"
+39440,Laurel,Jones County,"19,385"
+38863,Pontotoc,Pontotoc County,"19,046"
+39531,Biloxi,Harrison County,"18,918"
+39426,Carriere,Pearl River County,"18,737"
+39194,Yazoo City,Yazoo County,"18,714"
+39560,Long Beach,Harrison County,"18,702"
+39213,Jackson,Hinds County,"18,691"
+38829,Booneville,Prentiss County,"18,605"
+39507,Gulfport,Harrison County,"18,564"
+38901,Grenada,Grenada County,"17,832"
+39553,Gautier,Jackson County,"17,225"
+38732,Cleveland,Bolivar County,"16,696"
+38804,Tupelo,Lee County,"16,693"
+39562,Moss Point,Jackson County,"16,677"
+38611,Byhalia,Marshall County,"16,537"
+38672,Southaven,DeSoto County,"16,436"
+39429,Columbia,Marion County,"16,320"
+38614,Clarksdale,Coahoma County,"16,170"
+38606,Batesville,Panola County,"16,156"
+38652,New Albany,Union County,"15,789"
+39520,Bay Saint Louis,Hancock County,"15,561"
+38635,Holly Springs,Marshall County,"15,503"
+39307,Meridian,Lauderdale County,"15,047"
+39051,Carthage,Leake County,"14,986"
+38668,Senatobia,Tate County,"14,791"
+39773,West Point,Clay County,"14,758"
+39571,Pass Christian,Harrison County,"14,739"
+39475,Purvis,Lamar County,"14,530"
+39339,Louisville,Winston County,"14,460"
+39272,Byram,Hinds County,"14,348"
+39074,Forest,Scott County,"14,283"
+39470,Poplarville,Pearl River County,"13,926"
+39367,Waynesboro,Wayne County,"13,779"
+39183,Vicksburg,Warren County,"13,663"
+39574,Saucier,Harrison County,"13,535"
+39204,Jackson,Hinds County,"13,249"
+39540,Diberville,Harrison County,"13,203"
+39482,Sumrall,Lamar County,"12,606"
+39705,Columbus,Lowndes County,"12,552"
+38821,Amory,Monroe County,"12,546"
+39437,Ellisville,Jones County,"12,530"
+38866,Saltillo,Lee County,"12,429"
+38843,Fulton,Itawamba County,"12,303"
+39090,Kosciusko,Attala County,"12,022"
+39701,Columbus,Lowndes County,"11,958"
+39059,Crystal Springs,Copiah County,"11,919"
+39563,Moss Point,Jackson County,"11,897"
+39666,Summit,Pike County,"11,408"
+39581,Pascagoula,Jackson County,"11,390"
+38663,Ripley,Tippah County,"11,319"
+39730,Aberdeen,Monroe County,"11,291"
+38703,Greenville,Washington County,"11,028"
+39573,Perkinston,Stone County,"10,931"
+39667,Tylertown,Walthall County,"10,530"
+39117,Morton,Scott County,"10,431"
+39567,Pascagoula,Jackson County,"10,341"
+39577,Wiggins,Stone County,"10,224"
+38751,Indianola,Sunflower County,"9,949"
+38618,Coldwater,Tate County,"9,866"
+39114,Mendenhall,Simpson County,"9,359"
+39525,Diamondhead,Hancock County,"9,338"
+39154,Raymond,Hinds County,"9,255"
+39232,Flowood,Rankin County,"9,222"
+39111,Magee,Simpson County,"9,143"
+39170,Terry,Hinds County,"9,069"
+39428,Collins,Covington County,"8,977"
+38965,Water Valley,Yalobusha County,"8,963"
+38851,Houston,Chickasaw County,"8,802"
+38651,Nesbit,DeSoto County,"8,731"
+38852,Iuka,Tishomingo County,"8,721"
+39083,Hazlehurst,Copiah County,"8,592"
+39191,Wesson,Copiah County,"8,378"
+38824,Baldwyn,Prentiss County,"8,244"
+39365,Union,Neshoba County,"8,050"
+39455,Lumberton,Lamar County,"7,937"
+39530,Biloxi,Harrison County,"7,701"
+39451,Leakesville,Greene County,"7,323"
+39652,Magnolia,Pike County,"7,259"
+39218,Richland,Rankin County,"6,873"
+38680,Walls,DeSoto County,"6,839"
+39202,Jackson,Hinds County,"6,832"
+39341,Macon,Noxubee County,"6,811"
+39641,Jayess,Lawrence County,"6,769"
+39095,Lexington,Holmes County,"6,726"
+38967,Winona,Montgomery County,"6,693"
+39476,Richton,Perry County,"6,600"
+39576,Waveland,Hancock County,"6,387"
+39168,Taylorsville,Smith County,"6,270"
+39355,Quitman,Clarke County,"6,182"
+39740,Caledonia,Lowndes County,"6,143"
+39474,Prentiss,Jefferson Davis County,"6,099"
+39556,Kiln,Hancock County,"6,041"
+39629,Bogue Chitto,Lincoln County,"5,999"
+39325,Collinsville,Lauderdale County,"5,997"
+38826,Belden,Pontotoc County,"5,894"
+38756,Leland,Washington County,"5,887"
+39345,Newton,Newton County,"5,870"
+38666,Sardis,Panola County,"5,861"
+38849,Guntown,Lee County,"5,792"
+39071,Flora,Madison County,"5,776"
+38855,Mantachie,Itawamba County,"5,747"
+39119,Mount Olive,Covington County,"5,739"
+39479,Seminary,Covington County,"5,513"
+38858,Nettleton,Itawamba County,"5,442"
+38677,University,Lafayette County,"5,395"
+38860,Okolona,Chickasaw County,"5,388"
+38619,Como,Panola County,"5,366"
+39145,Pelahatchie,Rankin County,"5,295"
+39744,Eupora,Webster County,"5,290"
+39038,Belzoni,Humphreys County,"5,164"
+39439,Heidelberg,Jasper County,"5,160"
+38828,Blue Springs,Union County,"5,120"
+39483,Foxworth,Marion County,"5,120"
+39762,Mississippi State,Oktibbeha County,"5,076"
+38676,Tunica,Tunica County,"4,995"
+38865,Rienzi,Alcorn County,"4,860"
+38921,Charleston,Tallahatchie County,"4,786"
+39150,Port Gibson,Claiborne County,"4,777"
+39328,De Kalb,Kemper County,"4,657"
+38916,Calhoun City,Calhoun County,"4,606"
+39654,Monticello,Lawrence County,"4,604"
+38650,Myrtle,Union County,"4,599"
+39069,Fayette,Jefferson County,"4,568"
+39360,Shubuta,Clarke County,"4,554"
+39631,Centreville,Wilkinson County,"4,524"
+39327,Decatur,Newton County,"4,509"
+39422,Bay Springs,Jasper County,"4,427"
+38868,Shannon,Lee County,"4,371"
+39175,Utica,Hinds County,"4,259"
+39066,Edwards,Hinds County,"4,202"
+38857,Mooreville,Lee County,"4,132"
+39645,Liberty,Amite County,"4,050"
+39203,Jackson,Hinds County,"4,019"
+39189,Walnut Grove,Leake County,"3,971"
+38841,Ecru,Pontotoc County,"3,963"
+38683,Walnut,Tippah County,"3,952"
+39669,Woodville,Wilkinson County,"3,929"
+39750,Maben,Webster County,"3,924"
+38941,Itta Bena,Leflore County,"3,767"
+39459,Moselle,Jones County,"3,705"
+39735,Ackerman,Choctaw County,"3,587"
+39338,Louin,Jasper County,"3,566"
+38665,Sarah,Tate County,"3,514"
+38664,Robinsonville,Tunica County,"3,465"
+38915,Bruce,Calhoun County,"3,402"
+38847,Golden,Itawamba County,"3,388"
+38620,Courtland,Panola County,"3,386"
+39092,Lake,Scott County,"3,343"
+39362,State Line,Greene County,"3,311"
+38922,Coffeeville,Yalobusha County,"3,296"
+39638,Gloster,Amite County,"3,259"
+39040,Bentonia,Yazoo County,"3,256"
+39653,Meadville,Franklin County,"3,247"
+38917,Carrollton,Carroll County,"3,225"
+38748,Hollandale,Washington County,"3,192"
+39330,Enterprise,Clarke County,"3,187"
+38610,Blue Mountain,Tippah County,"3,121"
+39044,Braxton,Simpson County,"2,994"
+38850,Houlka,Chickasaw County,"2,972"
+39153,Raleigh,Smith County,"2,968"
+39094,Lena,Leake County,"2,955"
+38737,Drew,Sunflower County,"2,951"
+39746,Hamilton,Monroe County,"2,908"
+39216,Jackson,Hinds County,"2,902"
+39159,Rolling Fork,Sharkey County,"2,888"
+38963,Tutwiler,Tallahatchie County,"2,882"
+39063,Durant,Holmes County,"2,828"
+39160,Sallis,Attala County,"2,785"
+39364,Toomsuba,Lauderdale County,"2,767"
+38771,Ruleville,Sunflower County,"2,724"
+39057,Conehatta,Newton County,"2,718"
+39041,Bolton,Hinds County,"2,704"
+38646,Marks,Quitman County,"2,687"
+39423,Beaumont,Perry County,"2,642"
+38827,Belmont,Tishomingo County,"2,625"
+39766,Steens,Lowndes County,"2,616"
+38833,Burnsville,Tishomingo County,"2,615"
+39146,Pickens,Madison County,"2,614"
+39664,Smithdale,Amite County,"2,603"
+39116,Mize,Smith County,"2,594"
+39169,Tchula,Holmes County,"2,565"
+39335,Lauderdale,Lauderdale County,"2,564"
+39421,Bassfield,Jefferson Davis County,"2,550"
+38603,Ashland,Benton County,"2,530"
+38601,Abbeville,Lafayette County,"2,507"
+39663,Silver Creek,Lawrence County,"2,465"
+38738,Parchman,Sunflower County,"2,463"
+38641,Lake Cormorant,DeSoto County,"2,450"
+38878,Vardaman,Calhoun County,"2,449"
+38873,Tishomingo,Tishomingo County,"2,383"
+39464,Ovett,Jones County,"2,367"
+39561,McHenry,Stone County,"2,353"
+39140,Newhebron,Jefferson Davis County,"2,352"
+39752,Mathiston,Choctaw County,"2,347"
+38871,Thaxton,Pontotoc County,"2,337"
+39096,Lorman,Jefferson County,"2,286"
+39661,Roxie,Franklin County,"2,251"
+38633,Hickory Flat,Benton County,"2,212"
+38773,Shaw,Bolivar County,"2,201"
+39108,McCool,Attala County,"2,163"
+39176,Vaiden,Carroll County,"2,143"
+39756,Prairie,Clay County,"2,140"
+38870,Smithville,Monroe County,"2,133"
+38642,Lamar,Benton County,"2,126"
+38661,Red Banks,Marshall County,"2,126"
+39217,Jackson,Hinds County,"2,125"
+38658,Pope,Panola County,"2,124"
+39739,Brooksville,Noxubee County,"2,104"
+38864,Randolph,Pontotoc County,"2,100"
+39480,Soso,Jones County,"2,076"
+38846,Glen,Alcorn County,"2,053"
+39478,Sandy Hook,Marion County,"2,043"
+38629,Falkner,Tippah County,"2,028"
+38862,Plantersville,Lee County,"2,024"
+38659,Potts Camp,Marshall County,"1,999"
+38940,Holcomb,Grenada County,"1,994"
+39039,Benton,Yazoo County,"1,981"
+39772,Weir,Choctaw County,"1,961"
+39406,Hattiesburg,Forrest County,"1,935"
+39320,Bailey,Lauderdale County,"1,930"
+38929,Gore Springs,Grenada County,"1,924"
+39425,Brooklyn,Perry County,"1,921"
+38762,Mound Bayou,Bolivar County,"1,904"
+38761,Moorhead,Sunflower County,"1,903"
+38925,Duck Hill,Montgomery County,"1,901"
+38769,Rosedale,Bolivar County,"1,882"
+39534,Biloxi,Harrison County,"1,857"
+39342,Marion,Lauderdale County,"1,839"
+39332,Hickory,Newton County,"1,835"
+39354,Preston,Kemper County,"1,820"
+38948,Oakland,Yalobusha County,"1,818"
+39657,Osyka,Pike County,"1,796"
+38774,Shelby,Bolivar County,"1,758"
+39743,Crawford,Lowndes County,"1,713"
+39322,Buckatunna,Wayne County,"1,712"
+39346,Noxapater,Winston County,"1,704"
+39462,New Augusta,Perry County,"1,684"
+38730,Boyle,Bolivar County,"1,623"
+38621,Crenshaw,Panola County,"1,578"
+39192,West,Attala County,"1,573"
+39481,Stringer,Jasper County,"1,567"
+39769,Sturgis,Oktibbeha County,"1,556"
+39776,Woodland,Chickasaw County,"1,529"
+38674,Tiplersville,Tippah County,"1,514"
+39747,Kilmichael,Montgomery County,"1,492"
+39149,Pinola,Simpson County,"1,485"
+39337,Little Rock,Newton County,"1,472"
+39347,Pachuta,Jasper County,"1,462"
+39662,Ruth,Lincoln County,"1,446"
+39086,Hermanville,Claiborne County,"1,443"
+38876,Tremont,Itawamba County,"1,441"
+39082,Harrisville,Simpson County,"1,416"
+39741,Cedarbluff,Clay County,"1,385"
+39751,Mantee,Webster County,"1,385"
+38778,Sunflower,Sunflower County,"1,358"
+39643,Kokomo,Marion County,"1,356"
+39079,Goodman,Attala County,"1,353"
+38759,Merigold,Bolivar County,"1,346"
+39336,Lawrence,Newton County,"1,345"
+39572,Pearlington,Hancock County,"1,321"
+38685,Waterford,Marshall County,"1,301"
+39668,Union Church,Jefferson County,"1,294"
+38927,Enid,Tallahatchie County,"1,276"
+39363,Stonewall,Clarke County,"1,272"
+38625,Dumas,Tippah County,"1,261"
+38643,Lambert,Quitman County,"1,253"
+38626,Dundee,Tunica County,"1,237"
+38754,Isola,Humphreys County,"1,231"
+38856,Marietta,Itawamba County,"1,221"
+38923,Coila,Carroll County,"1,215"
+39361,Shuqualak,Noxubee County,"1,190"
+39358,Scooba,Kemper County,"1,174"
+38753,Inverness,Sunflower County,"1,165"
+38725,Benoit,Bolivar County,"1,152"
+38627,Etta,Lafayette County,"1,145"
+38838,Dennis,Tishomingo County,"1,122"
+38951,Pittsboro,Calhoun County,"1,075"
+38673,Taylor,Lafayette County,"1,056"
+38631,Friars Point,Coahoma County,"1,027"
+39456,McLain,Greene County,"1,027"
+39323,Chunky,Newton County,"1,017"
+39067,Ethel,Attala County,"1,016"
+39045,Camden,Madison County,"1,013"
+38721,Anguilla,Sharkey County,"1,000"
+38647,Michigan City,Benton County,994
+38670,Sledge,Quitman County,967
+38848,Greenwood Springs,Monroe County,965
+39058,Clinton,Hinds County,961
+39630,Bude,Franklin County,947
+38760,Metcalfe,Washington County,934
+39144,Pattison,Claiborne County,930
+39366,Vossburg,Clarke County,882
+39156,Redwood,Warren County,878
+39745,French Camp,Attala County,863
+39201,Jackson,Hinds County,858
+39078,Georgetown,Copiah County,843
+39356,Rose Hill,Jasper County,839
+39647,McCall Creek,Franklin County,814
+39427,Carson,Jefferson Davis County,799
+38645,Lyon,Coahoma County,786
+38943,McCarley,Carroll County,786
+38954,Sidon,Leflore County,777
+38617,Coahoma,Coahoma County,759
+39633,Crosby,Wilkinson County,759
+39665,Sontag,Lawrence County,755
+39179,Vaughan,Yazoo County,739
+39193,Whitfield,Rankin County,731
+38950,Philipp,Tallahatchie County,717
+39210,Jackson,Hinds County,712
+38924,Cruger,Holmes County,709
+39755,Pheba,Clay County,697
+39656,Oak Vale,Jefferson Davis County,679
+38966,Webb,Tallahatchie County,646
+38736,Doddsville,Sunflower County,610
+38622,Crowder,Panola County,594
+39152,Pulaski,Smith County,583
+39767,Stewart,Webster County,576
+38720,Alligator,Coahoma County,574
+39166,Silver City,Humphreys County,542
+38914,Big Creek,Calhoun County,534
+38744,Glen Allan,Washington County,512
+38913,Banner,Calhoun County,509
+38740,Duncan,Bolivar County,496
+39174,Tougaloo,Madison County,485
+39097,Louise,Humphreys County,483
+38746,Gunnison,Bolivar County,475
+38859,New Site,Prentiss County,475
+38639,Jonestown,Coahoma County,447
+39062,D Lo,Simpson County,437
+38961,Tillatoba,Yalobusha County,411
+38920,Cascilla,Tallahatchie County,396
+39461,Neely,Greene County,394
+39477,Sandersville,Jones County,387
+39352,Porterville,Kemper County,380
+38957,Sumner,Tallahatchie County,347
+38726,Beulah,Bolivar County,345
+39736,Artesia,Lowndes County,338
+39054,Cary,Sharkey County,337
+39309,Meridian,Lauderdale County,335
+38944,Minter City,Leflore County,314
+38952,Schlater,Leflore County,301
+39737,Bellefontaine,Webster County,298
+38949,Paris,Lafayette County,287
+38953,Scobey,Tallahatchie County,287
+39326,Daleville,Kemper County,260
+38869,Sherman,Pontotoc County,259
+38723,Avon,Washington County,250
+38722,Arcola,Washington County,248
+39348,Paulding,Jasper County,224
+38928,Glendora,Tallahatchie County,208
+39113,Mayersville,Issaquena County,196
+39359,Sebastopol,Scott County,196
+38844,Gattman,Monroe County,161
+38764,Pace,Bolivar County,157
+38781,Winstonville,Bolivar County,153
+39115,Midnight,Humphreys County,138
+39162,Satartia,Yazoo County,138
+38946,Morgan City,Leflore County,130
+38765,Panther Burn,Sharkey County,128
+39771,Walthall,Webster County,128
+38644,Lula,Coahoma County,106
+38964,Vance,Quitman County,105
+39177,Valley Park,Issaquena County,104
+38767,Rena Lara,Coahoma County,100
+38839,Derma,Calhoun County,96
+38772,Scott,Bolivar County,87
+38623,Darling,Quitman County,82
+38745,Grace,Issaquena County,74
+38879,Verona,Lee County,56
+38768,Rome,Sunflower County,48
+38962,Tippo,Tallahatchie County,45
+38947,North Carrollton,Carroll County,42
+38731,Chatham,Washington County,39
+39595,Pascagoula,Jackson County,39
+38733,Cleveland,Bolivar County,33
+39088,Holly Bluff,Sharkey County,21
+39173,Tinsley,Yazoo County,9
+39148,Piney Woods,Rankin County,6
+38776,Stoneville,Washington County,0
+39061,Delta City,Sharkey County,0
+39167,Star,Rankin County,0
+39269,Jackson,Hinds County,0
+39324,Clara,Wayne County,0
+39529,Stennis Space Center,Hancock County,0
+39635,Fernwood,Pike County,0
+39753,Mayhew,Lowndes County,0

@@ -1,0 +1,1397 @@
+ZIP,City,County,Population
+60629,Chicago,Cook County,"108,324"
+60618,Chicago,Cook County,"91,901"
+60632,Chicago,Cook County,"89,107"
+60647,Chicago,Cook County,"84,749"
+60639,Chicago,Cook County,"84,240"
+60804,Cicero,Cook County,"82,797"
+60623,Chicago,Cook County,"81,277"
+60608,Chicago,Cook County,"80,737"
+60625,Chicago,Cook County,"76,760"
+60617,Chicago,Cook County,"74,790"
+60634,Chicago,Cook County,"73,885"
+60085,Waukegan,Lake County,"72,341"
+60657,Chicago,Cook County,"71,904"
+60614,Chicago,Cook County,"70,693"
+60641,Chicago,Cook County,"68,894"
+60640,Chicago,Cook County,"65,445"
+60620,Chicago,Cook County,"64,871"
+60402,Berwyn,Cook County,"63,721"
+60651,Chicago,Cook County,"63,335"
+60073,Round Lake,Lake County,"62,868"
+60609,Chicago,Cook County,"62,028"
+60016,Des Plaines,Cook County,"60,898"
+60628,Chicago,Cook County,"60,431"
+60619,Chicago,Cook County,"59,503"
+60505,Aurora,Kane County,"57,199"
+60638,Chicago,Cook County,"57,074"
+60453,Oak Lawn,Cook County,"56,861"
+60056,Mount Prospect,Cook County,"55,818"
+60630,Chicago,Cook County,"55,486"
+60622,Chicago,Cook County,"54,609"
+60616,Chicago,Cook County,"54,308"
+61761,Normal,McLean County,"54,075"
+60637,Chicago,Cook County,"52,721"
+60148,Lombard,DuPage County,"52,596"
+60613,Chicago,Cook County,"52,244"
+60411,Chicago Heights,Cook County,"52,175"
+60440,Bolingbrook,Will County,"51,940"
+60004,Arlington Heights,Cook County,"51,835"
+60120,Elgin,Cook County,"51,225"
+60506,Aurora,Kane County,"50,038"
+60626,Chicago,Cook County,"49,662"
+60014,Crystal Lake,McHenry County,"48,590"
+60123,Elgin,Kane County,"48,379"
+60645,Chicago,Cook County,"48,208"
+60435,Joliet,Will County,"48,167"
+60649,Chicago,Cook County,"48,056"
+60586,Plainfield,Will County,"47,834"
+60126,Elmhurst,DuPage County,"47,516"
+60644,Chicago,Cook County,"47,210"
+60564,Naperville,Will County,"47,016"
+60643,Chicago,Cook County,"45,942"
+60010,Barrington,Cook County,"45,747"
+60610,Chicago,Cook County,"44,883"
+60047,Lake Zurich,Lake County,"44,240"
+61265,Moline,Rock Island County,"43,748"
+60201,Evanston,Cook County,"43,744"
+60543,Oswego,Kendall County,"43,047"
+60615,Chicago,Cook County,"42,975"
+60089,Buffalo Grove,Lake County,"42,872"
+60660,Chicago,Cook County,"42,724"
+60115,Dekalb,DeKalb County,"42,536"
+60188,Carol Stream,DuPage County,"42,307"
+60540,Naperville,DuPage County,"42,252"
+60659,Chicago,Cook County,"41,728"
+60025,Glenview,Cook County,"41,689"
+60446,Romeoville,Will County,"41,672"
+60462,Orland Park,Cook County,"41,456"
+60062,Northbrook,Cook County,"41,406"
+60103,Bartlett,DuPage County,"41,382"
+60707,Elmwood Park,Cook County,"41,116"
+60652,Chicago,Cook County,"41,074"
+61820,Champaign,Champaign County,"40,599"
+61554,Pekin,Tazewell County,"40,577"
+60565,Naperville,DuPage County,"40,483"
+62040,Granite City,Madison County,"40,404"
+60193,Schaumburg,Cook County,"40,146"
+62704,Springfield,Sangamon County,"40,046"
+60504,Aurora,DuPage County,"39,358"
+60563,Naperville,DuPage County,"39,330"
+60107,Streamwood,Cook County,"38,886"
+60137,Glen Ellyn,DuPage County,"38,696"
+60068,Park Ridge,Cook County,"38,650"
+60110,Carpentersville,Kane County,"38,558"
+60090,Wheeling,Cook County,"38,298"
+60067,Palatine,Cook County,"38,204"
+60611,Chicago,Cook County,"37,705"
+60101,Addison,DuPage County,"37,448"
+60451,New Lenox,Will County,"37,361"
+60060,Mundelein,Lake County,"37,344"
+61704,Bloomington,McLean County,"37,279"
+60031,Gurnee,Lake County,"37,107"
+60441,Lockport,Will County,"36,844"
+61201,Rock Island,Rock Island County,"36,766"
+60133,Hanover Park,DuPage County,"36,732"
+60074,Palatine,Cook County,"36,460"
+60605,Chicago,Cook County,"36,210"
+60477,Tinley Park,Cook County,"35,976"
+62269,O'Fallon,St. Clair County,"35,923"
+60030,Grayslake,Lake County,"35,792"
+60612,Chicago,Cook County,"35,744"
+62025,Edwardsville,Madison County,"35,520"
+60624,Chicago,Cook County,"35,263"
+61701,Bloomington,McLean County,"35,136"
+60409,Calumet City,Cook County,"35,100"
+60046,Lake Villa,Lake County,"34,613"
+60185,West Chicago,DuPage County,"33,703"
+61008,Belvidere,Boone County,"33,582"
+60169,Hoffman Estates,Cook County,"33,401"
+60653,Chicago,Cook County,"33,383"
+60517,Woodridge,DuPage County,"33,156"
+60098,Woodstock,McHenry County,"33,130"
+60901,Kankakee,Kankakee County,"33,128"
+60076,Skokie,Cook County,"32,953"
+60302,Oak Park,Cook County,"32,862"
+60139,Glendale Heights,DuPage County,"32,848"
+60423,Frankfort,Will County,"32,836"
+62521,Decatur,Macon County,"32,665"
+60007,Elk Grove Village,Cook County,"32,592"
+61832,Danville,Vermilion County,"32,450"
+60607,Chicago,Cook County,"32,392"
+60202,Evanston,Cook County,"32,341"
+60102,Algonquin,McHenry County,"32,286"
+60636,Chicago,Cook County,"32,198"
+60050,Mchenry,McHenry County,"31,781"
+62234,Collinsville,Madison County,"31,648"
+60174,Saint Charles,Kane County,"31,402"
+60525,La Grange,Cook County,"31,324"
+60189,Wheaton,DuPage County,"31,042"
+62702,Springfield,Sangamon County,"31,033"
+60631,Chicago,Cook County,"30,924"
+60099,Zion,Lake County,"30,881"
+61107,Rockford,Winnebago County,"30,765"
+62301,Quincy,Adams County,"30,746"
+61401,Galesburg,Knox County,"30,580"
+60538,Montgomery,Kendall County,"30,514"
+62526,Decatur,Macon County,"30,483"
+60035,Highland Park,Lake County,"30,398"
+61108,Rockford,Winnebago County,"30,355"
+60181,Villa Park,DuPage County,"30,346"
+60714,Niles,Cook County,"30,305"
+62221,Belleville,St. Clair County,"29,875"
+60515,Downers Grove,DuPage County,"29,762"
+60134,Geneva,Kane County,"29,743"
+60142,Huntley,McHenry County,"29,692"
+62002,Alton,Madison County,"29,543"
+60656,Chicago,Cook County,"29,538"
+60048,Libertyville,Lake County,"29,124"
+60510,Batavia,Kane County,"29,038"
+60527,Willowbrook,DuPage County,"29,028"
+61032,Freeport,Stephenson County,"29,020"
+62703,Springfield,Sangamon County,"28,922"
+60005,Arlington Heights,Cook County,"28,843"
+60187,Wheaton,DuPage County,"28,815"
+60438,Lansing,Cook County,"28,806"
+60156,Lake In The Hills,McHenry County,"28,800"
+60560,Yorkville,Kendall County,"28,795"
+60646,Chicago,Cook County,"28,780"
+60459,Burbank,Cook County,"28,739"
+60914,Bourbonnais,Kankakee County,"28,673"
+61821,Champaign,Champaign County,"28,611"
+60532,Lisle,DuPage County,"28,547"
+60077,Skokie,Cook County,"28,501"
+60655,Chicago,Cook County,"28,434"
+61604,Peoria,Peoria County,"28,313"
+60621,Chicago,Cook County,"28,301"
+62226,Belleville,St. Clair County,"28,255"
+60015,Deerfield,Lake County,"28,096"
+60516,Downers Grove,DuPage County,"28,062"
+60061,Vernon Hills,Lake County,"27,974"
+60018,Des Plaines,Cook County,"27,952"
+61801,Urbana,Champaign County,"27,891"
+62959,Marion,Williamson County,"27,793"
+61822,Champaign,Champaign County,"27,642"
+61614,Peoria,Peoria County,"27,370"
+60091,Wilmette,Cook County,"27,333"
+60544,Plainfield,Will County,"27,306"
+60087,Waukegan,Lake County,"27,293"
+60431,Joliet,Will County,"27,138"
+61109,Rockford,Winnebago County,"26,768"
+60452,Oak Forest,Cook County,"26,739"
+60013,Cary,McHenry County,"26,694"
+60487,Tinley Park,Cook County,"26,043"
+60585,Plainfield,Will County,"25,960"
+60654,Chicago,Cook County,"25,755"
+60175,Saint Charles,Kane County,"25,553"
+62650,Jacksonville,Morgan County,"24,821"
+60827,Riverdale,Cook County,"24,713"
+60051,Mchenry,McHenry County,"24,621"
+60053,Morton Grove,Cook County,"24,619"
+60160,Melrose Park,Cook County,"24,549"
+60124,Elgin,Kane County,"24,487"
+61571,Washington,Tazewell County,"24,470"
+60177,South Elgin,Kane County,"24,416"
+60448,Mokena,Will County,"24,405"
+60467,Orland Park,Cook County,"24,398"
+60706,Harwood Heights,Cook County,"24,260"
+60002,Antioch,Lake County,"24,232"
+60559,Westmont,DuPage County,"24,231"
+60439,Lemont,Cook County,"24,192"
+60172,Roselle,DuPage County,"24,141"
+61611,East Peoria,Tazewell County,"24,040"
+60426,Harvey,Cook County,"23,906"
+61350,Ottawa,LaSalle County,"23,713"
+60108,Bloomingdale,DuPage County,"23,604"
+61615,Peoria,Peoria County,"23,523"
+60406,Blue Island,Cook County,"23,327"
+60502,Aurora,DuPage County,"23,308"
+61244,East Moline,Rock Island County,"23,308"
+61111,Loves Park,Winnebago County,"23,286"
+60153,Maywood,Cook County,"23,201"
+60561,Darien,DuPage County,"23,069"
+62901,Carbondale,Jackson County,"22,946"
+61103,Rockford,Winnebago County,"22,869"
+60008,Rolling Meadows,Cook County,"22,800"
+62864,Mount Vernon,Jefferson County,"22,779"
+60491,Homer Glen,Will County,"22,757"
+60140,Hampshire,Kane County,"22,689"
+61115,Machesney Park,Winnebago County,"22,364"
+61021,Dixon,Lee County,"22,308"
+60178,Sycamore,DeKalb County,"22,224"
+60490,Bolingbrook,Will County,"22,156"
+60803,Alsip,Cook County,"22,106"
+60642,Chicago,Cook County,"21,789"
+60466,Park Forest,Cook County,"21,461"
+60473,South Holland,Cook County,"21,225"
+60045,Lake Forest,Lake County,"21,074"
+61920,Charleston,Coles County,"20,951"
+60164,Melrose Park,Cook County,"20,872"
+61081,Sterling,Whiteside County,"20,844"
+60419,Dolton,Cook County,"20,825"
+60450,Morris,Grundy County,"20,783"
+60443,Matteson,Cook County,"20,663"
+60432,Joliet,Will County,"20,465"
+60404,Shorewood,Will County,"20,385"
+61938,Mattoon,Coles County,"20,350"
+61802,Urbana,Champaign County,"20,293"
+61073,Roscoe,Winnebago County,"20,194"
+60106,Bensenville,DuPage County,"20,045"
+60093,Winnetka,Cook County,"19,867"
+60430,Homewood,Cook County,"19,838"
+62801,Centralia,Marion County,"19,827"
+60194,Schaumburg,Cook County,"19,756"
+60436,Joliet,Will County,"19,423"
+60805,Evergreen Park,Cook County,"19,420"
+60513,Brookfield,Cook County,"19,343"
+61101,Rockford,Winnebago County,"19,318"
+62401,Effingham,Effingham County,"19,273"
+62220,Belleville,St. Clair County,"19,152"
+62305,Quincy,Adams County,"19,036"
+60542,North Aurora,Kane County,"18,932"
+61550,Morton,Tazewell County,"18,792"
+62711,Springfield,Sangamon County,"18,559"
+60403,Crest Hill,Will County,"18,371"
+60104,Bellwood,Cook County,"18,256"
+62656,Lincoln,Logan County,"18,234"
+62298,Waterloo,Monroe County,"18,208"
+60465,Palos Hills,Cook County,"18,081"
+60521,Hinsdale,DuPage County,"18,056"
+60131,Franklin Park,Cook County,"18,054"
+61364,Streator,LaSalle County,"17,963"
+61455,Macomb,McDonough County,"17,317"
+61104,Rockford,Winnebago County,"17,222"
+60084,Wauconda,Lake County,"17,192"
+60304,Oak Park,Cook County,"16,955"
+60455,Bridgeview,Cook County,"16,872"
+62208,Fairview Heights,St. Clair County,"16,821"
+60503,Aurora,Will County,"16,789"
+60192,Hoffman Estates,Cook County,"16,461"
+60154,Westchester,Cook County,"16,436"
+60478,Country Club Hills,Cook County,"16,390"
+60433,Joliet,Will County,"16,382"
+60546,Riverside,Cook County,"16,322"
+61520,Canton,Fulton County,"16,291"
+62223,Belleville,St. Clair County,"16,269"
+62249,Highland,Madison County,"16,205"
+60447,Minooka,Kendall County,"16,102"
+62568,Taylorville,Christian County,"15,952"
+61102,Rockford,Winnebago County,"15,937"
+60118,Dundee,Kane County,"15,892"
+62035,Godfrey,Madison County,"15,892"
+60070,Prospect Heights,Cook County,"15,496"
+62629,Chatham,Sangamon County,"15,413"
+61603,Peoria,Peoria County,"15,356"
+61114,Rockford,Winnebago County,"15,325"
+62294,Troy,Madison County,"15,325"
+60601,Chicago,Cook County,"15,235"
+60555,Warrenville,DuPage County,"15,223"
+62522,Decatur,Macon County,"15,185"
+60417,Crete,Will County,"14,901"
+60064,North Chicago,Lake County,"14,884"
+62034,Glen Carbon,Madison County,"14,870"
+60429,Hazel Crest,Cook County,"14,864"
+61853,Mahomet,Champaign County,"14,831"
+61068,Rochelle,Ogle County,"14,788"
+60457,Hickory Hills,Cook County,"14,503"
+60088,Great Lakes,Lake County,"14,400"
+60191,Wood Dale,DuPage County,"14,396"
+60545,Plano,Kendall County,"14,392"
+60445,Midlothian,Cook County,"14,268"
+60410,Channahon,Will County,"14,239"
+60458,Justice,Cook County,"14,200"
+62236,Columbia,Monroe County,"14,154"
+60415,Chicago Ridge,Cook County,"14,099"
+60026,Glenview,Cook County,"14,069"
+62966,Murphysboro,Jackson County,"13,945"
+60130,Forest Park,Cook County,"13,943"
+60442,Manhattan,Will County,"13,753"
+60463,Palos Heights,Cook County,"13,722"
+61764,Pontiac,Livingston County,"13,668"
+60173,Schaumburg,Cook County,"13,650"
+61071,Rock Falls,Whiteside County,"13,581"
+61866,Rantoul,Champaign County,"13,470"
+60526,La Grange Park,Cook County,"13,459"
+61443,Kewanee,Henry County,"13,456"
+60558,Western Springs,Cook County,"13,446"
+61605,Peoria,Peoria County,"13,424"
+61705,Bloomington,McLean County,"13,213"
+60712,Lincolnwood,Cook County,"13,112"
+60033,Harvard,McHenry County,"12,999"
+62206,East Saint Louis,St. Clair County,"12,959"
+60471,Richton Park,Cook County,"12,848"
+62948,Herrin,Williamson County,"12,758"
+60633,Chicago,Cook County,"12,474"
+60152,Marengo,McHenry County,"12,417"
+60012,Crystal Lake,McHenry County,"12,368"
+61525,Dunlap,Peoria County,"12,357"
+62450,Olney,Richland County,"12,327"
+62052,Jerseyville,Jersey County,"12,237"
+61254,Geneseo,Henry County,"12,135"
+60554,Sugar Grove,Kane County,"12,081"
+61548,Metamora,Woodford County,"12,037"
+60305,River Forest,Cook County,"11,992"
+60097,Wonder Lake,McHenry County,"11,983"
+60950,Manteno,Kankakee County,"11,964"
+60190,Winfield,DuPage County,"11,826"
+60548,Sandwich,DeKalb County,"11,721"
+62812,Benton,Franklin County,"11,611"
+60501,Summit Argo,Cook County,"11,432"
+60661,Chicago,Cook County,"11,398"
+60176,Schiller Park,Cook County,"11,393"
+60119,Elburn,Kane County,"11,381"
+60143,Itasca,DuPage County,"11,324"
+61072,Rockton,Winnebago County,"11,285"
+61944,Paris,Edgar County,"11,261"
+62946,Harrisburg,Saline County,"11,256"
+60481,Wilmington,Will County,"11,195"
+62881,Salem,Marion County,"11,078"
+62010,Bethalto,Madison County,"11,028"
+60020,Fox Lake,Lake County,"10,970"
+61080,South Beloit,Winnebago County,"10,955"
+60428,Markham,Cook County,"10,927"
+60482,Worth,Cook County,"10,897"
+61356,Princeton,Bureau County,"10,799"
+62960,Metropolis,Massac County,"10,783"
+62095,Wood River,Madison County,"10,726"
+62918,Carterville,Williamson County,"10,658"
+62896,West Frankfort,Franklin County,"10,627"
+61607,Peoria,Peoria County,"10,600"
+60418,Crestwood,Cook County,"10,572"
+61065,Poplar Grove,Boone County,"10,570"
+62454,Robinson,Crawford County,"10,477"
+61462,Monmouth,Warren County,"10,458"
+60171,River Grove,Cook County,"10,451"
+62258,Mascoutah,St. Clair County,"10,437"
+61301,La Salle,LaSalle County,"10,398"
+60534,Lyons,Cook County,"10,327"
+60044,Lake Bluff,Lake County,"10,312"
+61354,Peru,LaSalle County,"10,290"
+61523,Chillicothe,Peoria County,"10,203"
+60523,Oak Brook,DuPage County,"10,144"
+62246,Greenville,Bond County,"10,077"
+61264,Milan,Rock Island County,"10,073"
+62712,Springfield,Sangamon County,"10,045"
+60475,Steger,Cook County,"10,035"
+60083,Wadsworth,Lake County,"9,981"
+60915,Bradley,Kankakee County,"9,979"
+62471,Vandalia,Fayette County,"9,937"
+60514,Clarendon Hills,DuPage County,"9,918"
+60464,Palos Park,Cook County,"9,773"
+60416,Coal City,Grundy County,"9,550"
+60422,Flossmoor,Cook County,"9,542"
+62024,East Alton,Madison County,"9,493"
+60449,Monee,Will County,"9,477"
+62863,Mount Carmel,Wabash County,"9,379"
+60081,Spring Grove,McHenry County,"9,088"
+61727,Clinton,De Witt County,"9,033"
+60041,Ingleside,Lake County,"9,024"
+62832,Du Quoin,Perry County,"8,865"
+61874,Savoy,Champaign County,"8,811"
+60136,Gilberts,Kane County,"8,777"
+60425,Glenwood,Cook County,"8,714"
+61342,Mendota,LaSalle County,"8,543"
+62056,Litchfield,Montgomery County,"8,528"
+60069,Lincolnshire,Lake County,"8,502"
+61282,Silvis,Rock Island County,"8,394"
+60022,Glencoe,Cook County,"8,352"
+60042,Island Lake,Lake County,"8,347"
+62233,Chester,Randolph County,"8,326"
+62062,Maryville,Madison County,"8,277"
+61856,Monticello,Piatt County,"8,226"
+60162,Hillside,Cook County,"8,084"
+62274,Pinckneyville,Perry County,"8,041"
+60155,Broadview,Cook County,"7,906"
+62626,Carlinville,Macoupin County,"7,876"
+62049,Hillsboro,Montgomery County,"7,871"
+62837,Fairfield,Wayne County,"7,868"
+61834,Danville,Vermilion County,"7,821"
+61951,Sullivan,Moultrie County,"7,787"
+61341,Marseilles,LaSalle County,"7,692"
+60401,Beecher,Will County,"7,647"
+62565,Shelbyville,Shelby County,"7,559"
+61010,Byron,Ogle County,"7,497"
+62707,Springfield,Sangamon County,"7,472"
+62618,Beardstown,Cass County,"7,428"
+62906,Anna,Union County,"7,329"
+60135,Genoa,DeKalb County,"7,274"
+61036,Galena,Jo Daviess County,"7,121"
+62232,Caseyville,St. Clair County,"7,063"
+62439,Lawrenceville,Lawrence County,"7,033"
+62441,Marshall,Clark County,"7,003"
+62207,East Saint Louis,St. Clair County,"6,984"
+61270,Morrison,Whiteside County,"6,912"
+62557,Pana,Christian County,"6,878"
+61061,Oregon,Ogle County,"6,766"
+60484,University Park,Will County,"6,762"
+62254,Lebanon,St. Clair County,"6,710"
+61606,Peoria,Peoria County,"6,684"
+62012,Brighton,Jersey County,"6,672"
+62260,Millstadt,St. Clair County,"6,668"
+62821,Carmi,White County,"6,668"
+61241,Colona,Henry County,"6,587"
+60096,Winthrop Harbor,Lake County,"6,527"
+61953,Tuscola,Douglas County,"6,518"
+61530,Eureka,Woodford County,"6,470"
+62205,East Saint Louis,St. Clair County,"6,459"
+62549,Mt Zion,Macon County,"6,454"
+62243,Freeburg,St. Clair County,"6,418"
+62088,Staunton,Macoupin County,"6,400"
+62230,Breese,Clinton County,"6,377"
+62231,Carlyle,Clinton County,"6,377"
+62995,Vienna,Johnson County,"6,339"
+62278,Red Bud,Monroe County,"6,281"
+62839,Flora,Clay County,"6,183"
+62675,Petersburg,Menard County,"6,170"
+61088,Winnebago,Winnebago County,"6,167"
+60970,Watseka,Iroquois County,"5,991"
+61616,Peoria Heights,Peoria County,"5,825"
+60468,Peotone,Will County,"5,809"
+61240,Coal Valley,Rock Island County,"5,795"
+61873,Saint Joseph,Champaign County,"5,779"
+62563,Rochester,Sangamon County,"5,766"
+61362,Spring Valley,Bureau County,"5,764"
+62930,Eldorado,Saline County,"5,761"
+62684,Sherman,Sangamon County,"5,760"
+60954,Momence,Kankakee County,"5,742"
+60942,Hoopeston,Vermilion County,"5,657"
+60957,Paxton,Ford County,"5,596"
+62363,Pittsfield,Pike County,"5,561"
+62681,Rushville,Schuyler County,"5,553"
+62286,Sparta,Randolph County,"5,491"
+61016,Cherry Valley,Winnebago County,"5,465"
+62203,East Saint Louis,St. Clair County,"5,465"
+61252,Fulton,Whiteside County,"5,437"
+60480,Willow Springs,Cook County,"5,388"
+62448,Newton,Jasper County,"5,356"
+62951,Johnston City,Williamson County,"5,342"
+60408,Braidwood,Will County,"5,327"
+60040,Highwood,Lake County,"5,301"
+62225,Scott Air Force Base,St. Clair County,"5,242"
+60469,Posen,Cook County,"5,205"
+60163,Berkeley,Cook County,"5,199"
+62615,Auburn,Sangamon County,"5,198"
+62353,Mount Sterling,Brown County,"5,066"
+60551,Sheridan,LaSalle County,"5,058"
+62859,McLeansboro,Hamilton County,"5,004"
+60021,Fox River Grove,McHenry County,"4,996"
+61231,Aledo,Mercer County,"4,962"
+62201,East Saint Louis,St. Clair County,"4,921"
+62561,Riverton,Sangamon County,"4,842"
+62263,Nashville,Washington County,"4,819"
+60964,Saint Anne,Kankakee County,"4,777"
+61910,Arcola,Douglas County,"4,769"
+60461,Olympia Fields,Cook County,"4,761"
+60420,Dwight,Livingston County,"4,682"
+60203,Evanston,Cook County,"4,680"
+61739,Fairbury,Livingston County,"4,628"
+60112,Cortland,DeKalb County,"4,621"
+61610,Creve Coeur,Tazewell County,"4,621"
+62644,Havana,Mason County,"4,615"
+60472,Robbins,Cook County,"4,563"
+62265,New Baden,Clinton County,"4,555"
+61745,Heyworth,McLean County,"4,542"
+61911,Arthur,Moultrie County,"4,508"
+61568,Tremont,Tazewell County,"4,483"
+60165,Stone Park,Cook County,"4,482"
+61846,Georgetown,Vermilion County,"4,467"
+62293,Trenton,Clinton County,"4,433"
+60195,Schaumburg,Cook County,"4,397"
+61883,Westville,Vermilion County,"4,384"
+61348,Oglesby,LaSalle County,"4,375"
+61880,Tolono,Champaign County,"4,367"
+61755,Mackinaw,Tazewell County,"4,364"
+61752,Le Roy,McLean County,"4,332"
+62420,Casey,Clark County,"4,299"
+61025,East Dubuque,Jo Daviess County,"4,294"
+62033,Gillespie,Macoupin County,"4,294"
+60552,Somonauk,DeKalb County,"4,285"
+61275,Port Byron,Rock Island County,"4,253"
+62411,Altamont,Effingham County,"4,249"
+60936,Gibson City,Ford County,"4,246"
+62285,Smithton,St. Clair County,"4,239"
+62239,Dupo,St. Clair County,"4,232"
+60456,Hometown,Cook County,"4,215"
+62902,Carbondale,Williamson County,"4,135"
+61738,El Paso,Woodford County,"4,099"
+62204,East Saint Louis,St. Clair County,"4,055"
+61063,Pecatonica,Winnebago County,"4,011"
+62466,Sumner,Lawrence County,"4,001"
+61074,Savanna,Carroll County,"3,962"
+61448,Knoxville,Knox County,"3,947"
+60151,Maple Park,Kane County,"3,888"
+62016,Carrollton,Greene County,"3,882"
+60071,Richmond,McHenry County,"3,851"
+61546,Manito,Tazewell County,"3,849"
+60606,Chicago,Cook County,"3,840"
+61410,Abingdon,Knox County,"3,838"
+62690,Virden,Macoupin County,"3,838"
+61048,Lena,Stephenson County,"3,786"
+61064,Polo,Ogle County,"3,757"
+62467,Teutopolis,Effingham County,"3,710"
+62014,Bunker Hill,Macoupin County,"3,669"
+60421,Elwood,Will County,"3,649"
+62558,Pawnee,Sangamon County,"3,639"
+61054,Mount Morris,Ogle County,"3,610"
+61360,Seneca,LaSalle County,"3,610"
+62613,Athens,Menard County,"3,598"
+61559,Princeville,Peoria County,"3,595"
+62321,Carthage,Hancock County,"3,576"
+61547,Mapleton,Peoria County,"3,562"
+62060,Madison,Madison County,"3,558"
+62858,Louisville,Clay County,"3,554"
+61536,Hanna City,Peoria County,"3,503"
+62535,Forsyth,Macon County,"3,502"
+60301,Oak Park,Cook County,"3,475"
+61019,Davis,Stephenson County,"3,461"
+62806,Albion,Edwards County,"3,436"
+62341,Hamilton,Hancock County,"3,433"
+62640,Girard,Macoupin County,"3,391"
+61310,Amboy,Lee County,"3,347"
+60541,Newark,Kendall County,"3,342"
+62075,Nokomis,Montgomery County,"3,330"
+60940,Grant Park,Kankakee County,"3,322"
+60518,Earlville,LaSalle County,"3,289"
+61542,Lewistown,Fulton County,"3,280"
+62080,Ramsey,Fayette County,"3,255"
+61528,Edwards,Peoria County,"3,212"
+62447,Neoga,Cumberland County,"3,210"
+61084,Stillman Valley,Ogle County,"3,201"
+62018,Cottage Hills,Madison County,"3,184"
+62924,De Soto,Jackson County,"3,168"
+62216,Aviston,Clinton County,"3,156"
+61020,Davis Junction,Ogle County,"3,149"
+61085,Stockton,Jo Daviess County,"3,149"
+61273,Orion,Henry County,"3,120"
+62264,New Athens,St. Clair County,"3,097"
+62281,Saint Jacob,Madison County,"3,059"
+61277,Prophetstown,Whiteside County,"3,054"
+61517,Brimfield,Peoria County,"3,033"
+62275,Pocahontas,Bond County,"3,012"
+61531,Farmington,Fulton County,"3,007"
+62694,Winchester,Scott County,"3,006"
+61422,Bushnell,McDonough County,"3,002"
+60520,Hinckley,DeKalb County,"2,979"
+62097,Worden,Madison County,"2,973"
+61434,Galva,Henry County,"2,971"
+61956,Villa Grove,Douglas County,"2,960"
+62920,Cobden,Union County,"2,959"
+62939,Goreville,Johnson County,"2,958"
+62449,Oblong,Crawford County,"2,951"
+62664,Mason City,Mason County,"2,922"
+62069,Mount Olive,Macoupin County,"2,897"
+62550,Moweaqua,Shelby County,"2,858"
+62952,Jonesboro,Union County,"2,852"
+62417,Bridgeport,Lawrence County,"2,848"
+61753,Lexington,McLean County,"2,833"
+62288,Steeleville,Randolph County,"2,820"
+62869,Norris City,White County,"2,795"
+61046,Lanark,Carroll County,"2,794"
+61250,Erie,Whiteside County,"2,781"
+62428,Greenup,Cumberland County,"2,777"
+61529,Elmwood,Peoria County,"2,763"
+62884,Sesser,Franklin County,"2,758"
+61540,Lacon,Marshall County,"2,753"
+61537,Henry,Marshall County,"2,743"
+61285,Thomson,Carroll County,"2,728"
+62670,New Berlin,Sangamon County,"2,682"
+61011,Caledonia,Boone County,"2,676"
+61748,Hudson,McLean County,"2,675"
+61736,Downs,McLean County,"2,673"
+62442,Martinsville,Clark County,"2,671"
+62320,Camp Point,Adams County,"2,667"
+62903,Carbondale,Jackson County,"2,666"
+61858,Oakwood,Vermilion County,"2,639"
+62938,Golconda,Pope County,"2,622"
+61842,Farmer City,De Witt County,"2,620"
+62922,Creal Springs,Williamson County,"2,608"
+61284,Taylor Ridge,Rock Island County,"2,599"
+61053,Mount Carroll,Carroll County,"2,590"
+62822,Christopher,Franklin County,"2,581"
+60157,Medinah,DuPage County,"2,577"
+60184,Wayne,DuPage County,"2,557"
+61238,Cambridge,Henry County,"2,549"
+61726,Chenoa,McLean County,"2,546"
+61756,Maroa,Macon County,"2,542"
+61281,Sherrard,Mercer County,"2,520"
+60043,Kenilworth,Cook County,"2,503"
+62424,Dieterich,Effingham County,"2,500"
+60145,Kingston,DeKalb County,"2,464"
+61734,Delavan,Tazewell County,"2,443"
+61533,Glasford,Peoria County,"2,441"
+62092,White Hall,Greene County,"2,431"
+61561,Roanoke,Woodford County,"2,393"
+62890,Thompsonville,Franklin County,"2,377"
+60146,Kirkland,DeKalb County,"2,369"
+62237,Coulterville,Perry County,"2,367"
+62691,Virginia,Cass County,"2,349"
+62468,Toledo,Cumberland County,"2,344"
+61817,Catlin,Vermilion County,"2,328"
+62501,Argenta,Macon County,"2,324"
+61024,Durand,Winnebago County,"2,318"
+62917,Carrier Mills,Saline County,"2,303"
+60927,Clifton,Iroquois County,"2,300"
+62870,Odin,Marion County,"2,281"
+61924,Chrisman,Edgar County,"2,274"
+62082,Roodhouse,Greene County,"2,265"
+61012,Capron,Boone County,"2,264"
+62326,Colchester,McDonough County,"2,236"
+61491,Wyoming,Stark County,"2,230"
+61760,Minonk,Woodford County,"2,226"
+62067,Moro,Madison County,"2,203"
+61030,Forreston,Ogle County,"2,194"
+62087,South Roxana,Madison County,"2,181"
+62935,Galatia,Saline County,"2,178"
+62458,Saint Elmo,Fayette County,"2,176"
+61744,Gridley,McLean County,"2,157"
+60424,Gardner,Grundy County,"2,153"
+62677,Pleasant Plains,Sangamon County,"2,149"
+60556,Waterman,DeKalb County,"2,138"
+61373,Utica,LaSalle County,"2,123"
+62958,Makanda,Jackson County,"2,103"
+61732,Danvers,McLean County,"2,099"
+62548,Mount Pulaski,Logan County,"2,090"
+60922,Chebanse,Kankakee County,"2,088"
+60511,Big Rock,Kane County,"2,081"
+60953,Milford,Iroquois County,"2,075"
+62882,Sandoval,Marion County,"2,057"
+62451,Palestine,Crawford County,"2,055"
+62257,Marissa,St. Clair County,"2,046"
+61813,Bement,Piatt County,"2,043"
+62865,Mulkeytown,Franklin County,"2,037"
+60938,Gilman,Iroquois County,"2,035"
+60034,Hebron,McHenry County,"2,033"
+62899,Xenia,Clay County,"2,022"
+62218,Bartelso,Clinton County,"2,018"
+61427,Cuba,Fulton County,"2,014"
+62907,Ava,Jackson County,"2,013"
+61723,Atlanta,Logan County,"2,005"
+62692,Waverly,Morgan County,"2,005"
+61864,Philo,Champaign County,"2,003"
+62926,Dongola,Union County,"1,998"
+62910,Brookport,Massac County,"1,993"
+62347,Liberty,Adams County,"1,977"
+62898,Woodlawn,Jefferson County,"1,968"
+62262,Mulberry Grove,Bond County,"1,967"
+61849,Homer,Champaign County,"1,961"
+62895,Wayne City,Wayne County,"1,960"
+60955,Onarga,Iroquois County,"1,953"
+61326,Granville,Putnam County,"1,953"
+60476,Thornton,Cook County,"1,940"
+62844,Grayville,White County,"1,937"
+61843,Fisher,Champaign County,"1,934"
+62312,Barry,Pike County,"1,931"
+62351,Mendon,Adams County,"1,928"
+61256,Hampton,Rock Island County,"1,926"
+62215,Albers,Clinton County,"1,917"
+60444,Mazon,Grundy County,"1,901"
+61376,Walnut,Bureau County,"1,894"
+62849,Iuka,Marion County,"1,887"
+60531,Leland,LaSalle County,"1,885"
+62271,Okawville,Washington County,"1,873"
+62001,Alhambra,Madison County,"1,869"
+62245,Germantown,Clinton County,"1,861"
+62379,Warsaw,Hancock County,"1,854"
+62044,Greenfield,Greene County,"1,852"
+62888,Tamaroa,Perry County,"1,843"
+61062,Pearl City,Stephenson County,"1,840"
+62554,Oreana,Macon County,"1,832"
+60180,Union,McHenry County,"1,831"
+62854,Kinmundy,Marion County,"1,827"
+62823,Cisne,Wayne County,"1,823"
+61469,Oquawka,Henderson County,"1,818"
+62531,Edinburg,Christian County,"1,816"
+62037,Grafton,Jersey County,"1,814"
+60407,Braceville,Grundy County,"1,812"
+61450,La Harpe,Hancock County,"1,812"
+62418,Brownstown,Fayette County,"1,809"
+61483,Toulon,Stark County,"1,801"
+62828,Dahlgren,Hamilton County,"1,801"
+62846,Ina,Jefferson County,"1,798"
+62240,East Carondelet,St. Clair County,"1,796"
+62414,Beecher City,Fayette County,"1,783"
+61937,Lovington,Moultrie County,"1,782"
+61914,Bethany,Moultrie County,"1,771"
+62914,Cairo,Alexander County,"1,765"
+61535,Groveland,Tazewell County,"1,748"
+60150,Malta,DeKalb County,"1,738"
+62427,Flat Rock,Crawford County,"1,730"
+62983,Royalton,Franklin County,"1,728"
+61534,Green Valley,Tazewell County,"1,725"
+62987,Stonefort,Pope County,"1,724"
+62009,Benld,Macoupin County,"1,723"
+61957,Windsor,Shelby County,"1,707"
+60958,Pembroke Township,Kankakee County,"1,698"
+60913,Bonfield,Kankakee County,"1,683"
+61028,Elizabeth,Jo Daviess County,"1,683"
+62510,Assumption,Christian County,"1,677"
+62693,Williamsville,Sangamon County,"1,677"
+62340,Griggsville,Pike County,"1,673"
+62685,Shipman,Macoupin County,"1,670"
+62544,Macon,Macon County,"1,668"
+62814,Bluford,Jefferson County,"1,668"
+60948,Loda,Iroquois County,"1,660"
+62242,Evansville,Randolph County,"1,660"
+61833,Tilton,Vermilion County,"1,658"
+62520,Dawson,Sangamon County,"1,652"
+62084,Roxana,Madison County,"1,631"
+60941,Herscher,Kankakee County,"1,627"
+61402,Galesburg,Knox County,"1,623"
+61047,Leaf River,Ogle County,"1,622"
+62443,Mason,Effingham County,"1,609"
+62360,Payson,Adams County,"1,605"
+62808,Ashley,Washington County,"1,602"
+61369,Toluca,Marshall County,"1,594"
+61087,Warren,Jo Daviess County,"1,588"
+60924,Cissna Park,Iroquois County,"1,565"
+61818,Cerro Gordo,Piatt County,"1,560"
+62530,Divernon,Sangamon County,"1,558"
+61060,Orangeville,Stephenson County,"1,554"
+61741,Forrest,Livingston County,"1,549"
+62047,Hardin,Calhoun County,"1,548"
+61742,Goodfield,Woodford County,"1,542"
+61006,Ashton,Lee County,"1,541"
+62974,Pittsburg,Williamson County,"1,536"
+61322,Depue,Bureau County,"1,530"
+62272,Percy,Randolph County,"1,521"
+62546,Morrisonville,Christian County,"1,521"
+62912,Buncombe,Johnson County,"1,515"
+61570,Washburn,Woodford County,"1,503"
+61501,Astoria,Fulton County,"1,493"
+61031,Franklin Grove,Lee County,"1,492"
+62061,Marine,Madison County,"1,487"
+62638,Franklin,Morgan County,"1,485"
+62824,Clay City,Clay County,"1,485"
+60602,Chicago,Cook County,"1,480"
+62330,Dallas City,Hancock County,"1,472"
+61051,Milledgeville,Carroll County,"1,469"
+61232,Andalusia,Rock Island County,"1,469"
+62868,Noble,Richland County,"1,463"
+60963,Rossville,Vermilion County,"1,460"
+61078,Shannon,Carroll County,"1,459"
+61415,Avon,Fulton County,"1,459"
+61725,Carlock,Woodford County,"1,459"
+62295,Valmeyer,Monroe County,"1,459"
+60921,Chatsworth,Livingston County,"1,458"
+62366,Pleasant Hill,Pike County,"1,450"
+62354,Nauvoo,Hancock County,"1,447"
+62674,Palmyra,Macoupin County,"1,447"
+62560,Raymond,Montgomery County,"1,446"
+61327,Hennepin,Putnam County,"1,442"
+61377,Wenona,LaSalle County,"1,441"
+61747,Hopedale,Tazewell County,"1,441"
+61272,New Boston,Mercer County,"1,437"
+61361,Sheffield,Bureau County,"1,417"
+62830,Dix,Jefferson County,"1,416"
+62539,Illiopolis,Sangamon County,"1,412"
+60460,Odell,Livingston County,"1,399"
+62612,Ashland,Cass County,"1,398"
+62835,Enfield,White County,"1,398"
+61943,Oakland,Coles County,"1,396"
+62642,Greenview,Menard County,"1,396"
+62984,Shawneetown,Gallatin County,"1,393"
+61412,Alexis,Mercer County,"1,392"
+62513,Blue Mound,Christian County,"1,391"
+60966,Sheldon,Iroquois County,"1,385"
+62028,Elsah,Jersey County,"1,385"
+61740,Flanagan,Livingston County,"1,377"
+61728,Colfax,McLean County,"1,359"
+61759,Minier,Tazewell County,"1,359"
+62555,Owaneco,Christian County,"1,358"
+61329,Ladd,Bureau County,"1,356"
+61931,Humboldt,Coles County,"1,350"
+62931,Elizabethtown,Hardin County,"1,348"
+62048,Hartford,Madison County,"1,347"
+62838,Farina,Fayette County,"1,341"
+61041,Hanover,Jo Daviess County,"1,338"
+61486,Viola,Mercer County,"1,330"
+60911,Ashkum,Iroquois County,"1,325"
+61070,Rock City,Stephenson County,"1,322"
+62086,Sorento,Bond County,"1,318"
+61913,Atwood,Piatt County,"1,300"
+61854,Mansfield,Piatt County,"1,299"
+60603,Chicago,Cook County,"1,298"
+62540,Kincaid,Christian County,"1,297"
+62367,Plymouth,Hancock County,"1,294"
+61319,Cornell,Livingston County,"1,286"
+61933,Kansas,Edgar County,"1,286"
+61776,Towanda,McLean County,"1,285"
+61235,Atkinson,Henry County,"1,283"
+61353,Paw Paw,Lee County,"1,282"
+61473,Roseville,Warren County,"1,279"
+61428,Dahinda,Knox County,"1,278"
+62376,Ursa,Adams County,"1,276"
+61038,Garden Prairie,Boone County,"1,274"
+61368,Tiskilwa,Bureau County,"1,273"
+61283,Tampico,Whiteside County,"1,269"
+62571,Tower Hill,Shelby County,"1,269"
+62999,Zeigler,Franklin County,"1,267"
+62473,Watson,Effingham County,"1,264"
+61729,Congerville,Woodford County,"1,263"
+62634,Elkhart,Logan County,"1,263"
+61565,Sparland,Marshall County,"1,262"
+61379,Wyanet,Bureau County,"1,260"
+60935,Essex,Kankakee County,"1,259"
+61912,Ashmore,Coles County,"1,255"
+62668,Murrayville,Morgan County,"1,249"
+61480,Stronghurst,Henderson County,"1,236"
+61421,Bradford,Stark County,"1,231"
+61859,Ogden,Champaign County,"1,227"
+61001,Apple River,Jo Daviess County,"1,226"
+62476,West Salem,Edwards County,"1,222"
+62665,Meredosia,Morgan County,"1,222"
+61370,Tonica,LaSalle County,"1,215"
+62661,Loami,Sangamon County,"1,212"
+62074,New Douglas,Madison County,"1,205"
+62701,Springfield,Sangamon County,"1,205"
+62460,Saint Francisville,Lawrence County,"1,202"
+61262,Lynn Center,Henry County,"1,197"
+62324,Clayton,Adams County,"1,196"
+61465,New Windsor,Mercer County,"1,192"
+61239,Carbon Cliff,Rock Island County,"1,189"
+62810,Belle Rive,Jefferson County,"1,188"
+62410,Allendale,Wabash County,"1,183"
+61330,La Moille,Bureau County,"1,182"
+61925,Dalton City,Macon County,"1,182"
+62956,Karnak,Massac County,"1,172"
+61865,Potomac,Vermilion County,"1,167"
+61602,Peoria,Peoria County,"1,163"
+61942,Newman,Douglas County,"1,161"
+61467,Oneida,Knox County,"1,159"
+61814,Bismarck,Vermilion County,"1,155"
+62872,Opdyke,Jefferson County,"1,153"
+62932,Elkville,Jackson County,"1,152"
+61349,Ohio,Bureau County,"1,151"
+62988,Tamms,Alexander County,"1,149"
+62573,Warrensburg,Macon County,"1,147"
+62827,Crossville,White County,"1,147"
+61052,Monroe Center,Ogle County,"1,145"
+61847,Gifford,Champaign County,"1,144"
+62433,Hutsonville,Crawford County,"1,140"
+61242,Cordova,Rock Island County,"1,135"
+62621,Bluffs,Scott County,"1,133"
+62816,Bonnie,Jefferson County,"1,133"
+62803,Hoyleton,Washington County,"1,132"
+61754,McLean,McLean County,"1,131"
+62985,Simpson,Pope County,"1,128"
+61878,Thomasboro,Champaign County,"1,127"
+62017,Coffeen,Montgomery County,"1,127"
+61234,Annawan,Henry County,"1,116"
+61841,Fairmount,Vermilion County,"1,112"
+62964,Mounds,Pulaski County,"1,109"
+62094,Witt,Montgomery County,"1,107"
+62440,Lerna,Coles County,"1,107"
+61771,Secor,Woodford County,"1,106"
+61877,Sidney,Champaign County,"1,106"
+61526,Edelstein,Peoria County,"1,105"
+62463,Stewardson,Shelby County,"1,103"
+62046,Hamel,Madison County,"1,102"
+62545,Mechanicsburg,Sangamon County,"1,101"
+62933,Energy,Williamson County,"1,101"
+62255,Lenzburg,St. Clair County,"1,092"
+60512,Bristol,Kendall County,"1,090"
+62022,Dow,Jersey County,"1,088"
+61870,Ridge Farm,Vermilion County,"1,085"
+61488,Wataga,Knox County,"1,084"
+62338,Fowler,Adams County,"1,075"
+61014,Chadwick,Carroll County,"1,067"
+61770,Saybrook,McLean County,"1,067"
+62889,Texico,Jefferson County,"1,066"
+62972,Ozark,Johnson County,"1,056"
+61259,Illinois City,Rock Island County,"1,053"
+62536,Glenarm,Sangamon County,"1,049"
+62214,Addieville,Washington County,"1,048"
+62611,Arenzville,Cass County,"1,047"
+62534,Findlay,Shelby County,"1,041"
+61230,Albany,Whiteside County,"1,039"
+62090,Venice,Madison County,"1,039"
+62875,Patoka,Marion County,"1,039"
+61413,Alpha,Henry County,"1,035"
+61490,Woodhull,Henry County,"1,035"
+61018,Dakota,Stephenson County,"1,034"
+61844,Fithian,Vermilion County,"1,031"
+62355,Nebo,Pike County,"1,026"
+61447,Kirkwood,Warren County,"1,020"
+62982,Rosiclare,Hardin County,"1,016"
+61279,Reynolds,Mercer County,"1,015"
+62627,Chandlerville,Cass County,"1,006"
+62625,Cantrall,Sangamon County,"1,003"
+62219,Beckemeyer,Clinton County,993
+60530,Lee,Lee County,992
+61375,Varna,Marshall County,989
+61075,Scales Mound,Jo Daviess County,986
+62445,Montrose,Jasper County,986
+61733,Deer Creek,Tazewell County,984
+61884,White Heath,Piatt County,973
+62990,Thebes,Alexander County,973
+62462,Sigel,Shelby County,971
+62339,Golden,Adams County,970
+62853,Kell,Marion County,969
+61420,Blandinsville,McDonough County,968
+61777,Wapella,De Witt County,956
+61325,Grand Ridge,LaSalle County,949
+61774,Stanford,McLean County,949
+60960,Rankin,Vermilion County,946
+61441,Ipava,Fulton County,945
+60550,Shabbona,DeKalb County,941
+62277,Prairie Du Rocher,Randolph County,940
+61569,Trivoli,Peoria County,938
+61564,South Pekin,Tazewell County,936
+62253,Keyesport,Bond County,932
+62979,Ridgway,Gallatin County,930
+62244,Fults,Monroe County,928
+62422,Cowden,Shelby County,926
+62893,Walnut Hill,Jefferson County,926
+62916,Campbell Hill,Jackson County,925
+62630,Chesterfield,Macoupin County,924
+62628,Chapin,Morgan County,917
+62533,Farmersville,Montgomery County,908
+60959,Piper City,Ford County,904
+62515,Buffalo,Sangamon County,902
+61015,Chana,Ogle County,901
+62836,Ewing,Franklin County,891
+62058,Livingston,Madison County,884
+62241,Ellis Grove,Randolph County,879
+62311,Augusta,Hancock County,872
+62021,Dorsey,Madison County,871
+60072,Ringwood,McHenry County,870
+62871,Omaha,Gallatin County,866
+62378,Versailles,Brown County,863
+62026,Edwardsville,Madison County,851
+61875,Seymour,Champaign County,846
+61257,Hillsdale,Rock Island County,844
+61863,Pesotum,Champaign County,844
+61367,Sublette,Lee County,843
+62425,Dundas,Richland County,838
+62934,Equality,Gallatin County,833
+62567,Stonington,Christian County,831
+61039,German Valley,Stephenson County,824
+61489,Williamsfield,Knox County,820
+62551,Niantic,Macon County,820
+62919,Cave In Rock,Hardin County,819
+62465,Strasburg,Shelby County,806
+62643,Hartsburg,Logan County,797
+60951,Martinton,Iroquois County,796
+62063,Medora,Jersey County,795
+62051,Irving,Montgomery County,791
+60549,Serena,LaSalle County,784
+61544,London Mills,Fulton County,784
+62894,Waltonville,Jefferson County,782
+62905,Alto Pass,Union County,779
+62426,Edgewood,Clay County,778
+61882,Weldon,De Witt County,777
+61928,Gays,Moultrie County,776
+61345,Neponset,Bureau County,770
+62217,Baldwin,Randolph County,767
+62807,Alma,Marion County,767
+62032,Fillmore,Montgomery County,765
+62268,Oakdale,Washington County,764
+62292,Tilden,Randolph County,762
+60930,Danforth,Iroquois County,761
+60918,Buckley,Iroquois County,754
+61436,Gilson,Knox County,745
+61440,Industry,McDonough County,744
+60961,Reddick,Kankakee County,740
+61438,Good Hope,McDonough County,739
+61334,Lostant,LaSalle County,738
+61484,Vermont,Fulton County,738
+62848,Irvington,Washington County,738
+61260,Joy,Mercer County,737
+62994,Vergennes,Jackson County,737
+61572,Yates City,Knox County,732
+62059,Lovejoy,St. Clair County,729
+61919,Camargo,Douglas County,728
+61320,Dalzell,Bureau County,727
+60537,Millington,LaSalle County,726
+62842,Geff,Wayne County,724
+60553,Steward,Lee County,722
+61545,Lowpoint,Woodford County,722
+61876,Sidell,Vermilion County,717
+62431,Herrick,Shelby County,717
+61430,East Galesburg,Knox County,713
+62480,Willow Hill,Jasper County,713
+62963,Mound City,Pulaski County,713
+62479,Wheeler,Jasper County,711
+62523,Decatur,Macon County,707
+62316,Bowen,Hancock County,705
+62949,Hurst,Williamson County,702
+61414,Altona,Knox County,696
+61336,Magnolia,Putnam County,694
+62850,Johnsonville,Wayne County,693
+62883,Scheller,Jefferson County,693
+61013,Cedarville,Stephenson County,690
+61930,Hindsboro,Douglas County,687
+61314,Buda,Bureau County,686
+62284,Smithboro,Bond County,686
+62682,San Jose,Mason County,684
+60952,Melvin,Ford County,683
+61278,Rapids City,Rock Island County,678
+62688,Tallula,Menard County,678
+61453,Little York,Warren County,677
+61425,Carman,Henderson County,672
+61929,Hammond,Piatt County,672
+60479,Verona,Grundy County,671
+62006,Batchtown,Calhoun County,667
+60474,South Wilmington,Grundy County,663
+62635,Emden,Logan County,661
+61722,Arrowsmith,McLean County,658
+62880,Saint Peter,Fayette County,658
+61263,Matherville,Mercer County,657
+61261,Lyndon,Whiteside County,656
+61458,Maquon,Knox County,656
+61749,Kenney,De Witt County,653
+62940,Gorham,Jackson County,645
+61769,Saunemin,Livingston County,641
+62957,McClure,Alexander County,640
+62817,Broughton,Hamilton County,639
+62941,Grand Chain,Pulaski County,639
+61423,Cameron,Warren County,638
+62633,Easton,Mason County,638
+62570,Tovey,Christian County,629
+62992,Ullin,Pulaski County,629
+62942,Grand Tower,Jackson County,628
+61516,Benson,Woodford County,627
+62474,Westfield,Clark County,626
+62461,Shumway,Effingham County,625
+62444,Mode,Shelby County,623
+61872,Sadorus,Champaign County,620
+60604,Chicago,Cook County,616
+61840,Dewey,Champaign County,612
+62343,Hull,Pike County,611
+62250,Hoffman,Clinton County,607
+62432,Hidalgo,Jasper County,601
+62977,Raleigh,Saline County,599
+61318,Compton,Lee County,595
+62655,Kilbourne,Mason County,594
+62436,Jewett,Cumberland County,590
+60962,Roberts,Ford County,589
+60929,Cullom,Livingston County,587
+60910,Aroma Park,Kankakee County,582
+61862,Penfield,Champaign County,581
+61049,Lindenwood,Ogle County,579
+61454,Lomax,Henderson County,579
+61811,Alvin,Vermilion County,578
+62013,Brussels,Calhoun County,578
+61418,Biggsville,Henderson County,575
+62036,Golden Eagle,Calhoun County,574
+62547,Mount Auburn,Christian County,574
+62667,Modesto,Macoupin County,569
+62867,New Haven,White County,568
+60949,Ludlow,Champaign County,564
+62282,Saint Libory,St. Clair County,563
+62997,Willisville,Perry County,561
+61337,Malden,Bureau County,558
+61839,De Land,Piatt County,558
+62238,Cutler,Perry County,558
+61721,Armington,Tazewell County,552
+62469,Trilla,Cumberland County,552
+61476,Seaton,Mercer County,551
+61437,Gladstone,Henderson County,549
+61778,Waynesville,De Witt County,547
+62423,Dennison,Clark County,546
+61340,Mark,Putnam County,545
+61432,Fairview,Fulton County,544
+62689,Thayer,Sangamon County,542
+62897,Whittington,Franklin County,542
+62314,Baylis,Pike County,530
+61089,Winslow,Stephenson County,526
+62477,West Union,Clark County,526
+61932,Hume,Edgar County,525
+62358,Niota,Hancock County,525
+62617,Bath,Mason County,524
+62996,Villa Ridge,Pulaski County,523
+61317,Cherry,Bureau County,521
+62248,Hecker,Monroe County,521
+60919,Cabery,Ford County,520
+60029,Golf,Cook County,518
+62356,New Canton,Pike County,518
+62031,Fieldon,Jersey County,517
+62349,Loraine,Adams County,517
+62027,Eldred,Greene County,516
+62891,Valier,Franklin County,514
+61378,West Brooklyn,Lee County,513
+60931,Donovan,Iroquois County,510
+61830,Cisco,Piatt County,510
+62518,Chestnut,Logan County,509
+61442,Keithsburg,Mercer County,504
+62695,Woodson,Morgan County,501
+60928,Crescent City,Iroquois County,493
+61482,Table Grove,Fulton County,492
+61470,Prairie City,McDonough County,488
+62089,Taylor Springs,Montgomery County,487
+62093,Wilsonville,Macoupin County,487
+62666,Middletown,Logan County,485
+60109,Burlington,Kane County,481
+61560,Putnam,Putnam County,477
+62543,Latham,Logan County,477
+60912,Beaverville,Iroquois County,475
+62885,Shobonier,Fayette County,474
+62325,Coatsburg,Adams County,465
+62970,Olmsted,Pulaski County,465
+62365,Plainville,Adams County,464
+61625,Peoria,Peoria County,456
+61472,Rio,Knox County,453
+61067,Ridott,Stephenson County,450
+60917,Buckingham,Kankakee County,449
+62512,Beason,Logan County,446
+61477,Smithfield,Fulton County,443
+62923,Cypress,Johnson County,441
+62874,Orient,Franklin County,440
+62908,Belknap,Massac County,440
+62877,Richview,Washington County,437
+62943,Grantsburg,Johnson County,428
+62015,Butler,Montgomery County,423
+62280,Rockwood,Jackson County,421
+61478,Smithshire,Warren County,420
+61917,Brocton,Edgar County,420
+62077,Panama,Montgomery County,420
+62572,Waggoner,Montgomery County,420
+61485,Victoria,Knox County,417
+61737,Ellsworth,McLean County,416
+60946,Kempton,Ford County,413
+61567,Topeka,Mason County,411
+62954,Junction,Gallatin County,411
+62818,Browns,Edwards County,409
+62947,Herod,Pope County,408
+61358,Rutland,LaSalle County,407
+61459,Marietta,Fulton County,406
+61042,Harmon,Lee County,404
+62481,Yale,Jasper County,398
+61312,Arlington,Bureau County,392
+62976,Pulaski,Pulaski County,392
+62452,Parkersburg,Richland County,387
+62860,Macedonia,Franklin County,384
+62915,Cambria,Williamson County,384
+61563,Saint David,Fulton County,383
+62375,Timewell,Brown County,383
+62313,Basco,Hancock County,382
+61251,Fenton,Whiteside County,377
+61816,Broadlands,Champaign County,377
+61411,Adair,McDonough County,376
+60968,Thawville,Iroquois County,374
+61720,Anchor,McLean County,374
+60932,East Lynn,Vermilion County,373
+62851,Keenes,Wayne County,371
+62556,Palmer,Christian County,370
+61359,Seatonville,Bureau County,369
+61724,Bellflower,McLean County,369
+62649,Hettick,Macoupin County,369
+61773,Sibley,Ford County,367
+62421,Claremont,Richland County,366
+62671,New Holland,Logan County,362
+61730,Cooksville,McLean County,361
+62673,Oakford,Menard County,361
+61735,Dewitt,De Witt County,360
+62380,West Point,Hancock County,360
+62345,Kinderhook,Pike County,359
+60470,Ransom,LaSalle County,358
+62419,Calhoun,Richland County,352
+62053,Kampsville,Calhoun County,351
+61850,Indianola,Vermilion County,350
+62815,Bone Gap,Edwards County,350
+60973,Wellington,Iroquois County,347
+61532,Forest City,Mason County,347
+62601,Alexander,Morgan County,344
+62538,Harvel,Montgomery County,342
+61449,La Fayette,Stark County,339
+62091,Walshville,Montgomery County,339
+62831,Du Bois,Washington County,339
+61815,Bondville,Champaign County,335
+62478,West York,Clark County,333
+62856,Logan,Franklin County,332
+62886,Sims,Wayne County,332
+62081,Rockbridge,Greene County,329
+62413,Annapolis,Crawford County,329
+61812,Armstrong,Vermilion County,322
+62624,Browning,Schuyler County,321
+62446,Mount Erie,Wayne County,318
+62553,Oconee,Shelby County,318
+62927,Dowell,Jackson County,317
+62054,Kane,Greene County,315
+62019,Donnellson,Bond County,314
+62969,Olive Branch,Alexander County,314
+60539,Mooseheart,Kane County,313
+61335,McNabb,Putnam County,312
+62370,Rockport,Pike County,309
+62967,New Burnside,Johnson County,309
+60113,Creston,Ogle County,306
+62273,Pierron,Bond County,305
+61333,Long Point,Livingston County,304
+61553,Norris,Fulton County,303
+62361,Pearl,Pike County,301
+61372,Troy Grove,LaSalle County,300
+61338,Manlius,Bureau County,299
+61439,Henderson,Knox County,299
+61524,Dunfermline,Fulton County,299
+60974,Woodland,Iroquois County,297
+62514,Boody,Macon County,297
+61871,Royal,Champaign County,296
+62079,Piasa,Macoupin County,292
+61233,Andover,Henry County,281
+62459,Sainte Marie,Jasper County,281
+62833,Ellery,Wayne County,280
+61431,Ellisville,Fulton County,279
+61851,Ivesdale,Champaign County,279
+61772,Shirley,McLean County,273
+62289,Summerfield,St. Clair County,273
+61451,Laura,Peoria County,272
+62537,Harristown,Macon County,272
+61435,Gerlaw,Warren County,271
+62050,Hillview,Greene County,268
+62809,Barnhill,Wayne County,267
+61810,Allerton,Vermilion County,265
+61315,Bureau,Bureau County,264
+61344,Mineral,Bureau County,264
+61466,North Henderson,Mercer County,263
+61940,Metcalf,Edgar County,259
+62953,Joppa,Massac County,259
+60933,Elliott,Ford County,258
+60111,Clare,DeKalb County,257
+61316,Cedar Point,LaSalle County,256
+60208,Evanston,Cook County,255
+62825,Coello,Franklin County,254
+61363,Standard,Putnam County,250
+61091,Woosung,Ogle County,248
+62045,Hamburg,Calhoun County,247
+62819,Buckner,Franklin County,247
+62862,Mill Shoals,White County,244
+60934,Emington,Livingston County,243
+61313,Blackstone,Livingston County,241
+62438,Lakewood,Shelby County,238
+62362,Perry,Pike County,237
+61848,Henning,Vermilion County,236
+61519,Bryant,Fulton County,235
+61845,Foosland,Champaign County,233
+62610,Alsey,Scott County,233
+62921,Colp,Williamson County,233
+60129,Esmond,Ogle County,229
+62631,Concord,Morgan County,228
+62011,Bingham,Fayette County,227
+61044,Kent,Stephenson County,225
+62373,Sutter,Hancock County,225
+61321,Dana,LaSalle County,224
+62811,Bellmont,Wabash County,224
+61474,Saint Augustine,Knox County,221
+62319,Camden,Schuyler County,218
+62998,Wolf Lake,Union County,218
+62352,Milton,Pike County,217
+62374,Tennessee,Hancock County,216
+62639,Frederick,Schuyler County,215
+61079,Shirland,Winnebago County,210
+62975,Pomona,Jackson County,207
+61416,Bardolph,McDonough County,204
+62348,Lima,Adams County,204
+61955,Vermilion,Edgar County,202
+61050,McConnell,Stephenson County,199
+62323,Chambersburg,Pike County,198
+61274,Osco,Henry County,197
+62663,Manchester,Scott County,197
+61007,Baileyville,Ogle County,196
+60141,Hines,Cook County,195
+62085,Sawyerville,Macoupin County,193
+62434,Ingraham,Clay County,191
+62475,West Liberty,Jasper County,189
+61775,Strawn,Livingston County,187
+62517,Bulpitt,Christian County,185
+62359,Paloma,Adams County,184
+60945,Iroquois,Iroquois County,183
+61258,Hooppole,Henry County,182
+61417,Berwick,Warren County,182
+61311,Ancona,Livingston County,180
+61460,Media,Henderson County,180
+61475,Sciota,McDonough County,180
+61059,Nora,Jo Daviess County,178
+62878,Rinard,Wayne County,177
+60920,Campus,Livingston County,172
+61852,Longview,Champaign County,172
+61949,Redmon,Edgar County,171
+61936,La Place,Piatt County,170
+61941,Murdock,Douglas County,168
+62346,La Prairie,Adams County,164
+62334,Elvaston,Hancock County,163
+61831,Collison,Vermilion County,160
+62297,Walsh,Randolph County,158
+61452,Littleton,Schuyler County,157
+61243,Deer Grove,Whiteside County,155
+61112,Rockford,Winnebago County,152
+62672,Nilwood,Macoupin County,151
+62892,Vernon,Marion County,150
+61539,Kingston Mines,Peoria County,147
+61857,Muncie,Vermilion County,147
+62876,Radom,Washington County,146
+61037,Galt,Whiteside County,145
+62083,Rosamond,Christian County,145
+61043,Holcomb,Ogle County,143
+62023,Eagarville,Macoupin County,139
+61419,Bishop Hill,Henry County,134
+61471,Raritan,Henderson County,134
+62357,New Salem,Pike County,134
+60956,Papineau,Iroquois County,132
+60075,Russell,Lake County,129
+61323,Dover,Bureau County,125
+62852,Keensburg,Wabash County,119
+61750,Lane,De Witt County,118
+62841,Freeman Spur,Williamson County,118
+60437,Kinsman,Grundy County,117
+61743,Graymont,Livingston County,113
+62279,Renault,Monroe County,112
+61332,Leonore,LaSalle County,104
+62098,Wrights,Greene County,104
+62887,Springerton,White County,104
+62266,New Memphis,Clinton County,103
+62928,Eddyville,Pope County,103
+62622,Bluff Springs,Cass County,100
+61077,Seward,Winnebago County,97
+61324,Eldena,Lee County,97
+61541,La Rose,Marshall County,97
+62820,Burnt Prairie,White County,96
+61479,Speer,Marshall County,95
+61468,Ophiem,Henry County,92
+61276,Preemption,Mercer County,88
+62843,Golden Gate,Wayne County,87
+62336,Ferris,Hancock County,84
+61371,Triumph,LaSalle County,83
+62464,Stoy,Crawford County,81
+62261,Modoc,Randolph County,80
+62965,Muddy,Saline County,79
+61731,Cropsey,McLean County,76
+62950,Jacob,Jackson County,76
+60969,Union Hill,Kankakee County,73
+62078,Patterson,Greene County,73
+62030,Fidelity,Jersey County,71
+61543,Liverpool,Fulton County,70
+60144,Kaneville,Kane County,66
+60536,Millbrook,Kendall County,62
+60519,Eola,DuPage County,61
+62344,Huntsville,Schuyler County,60
+62076,Ohlman,Montgomery County,59
+62861,Maunie,White County,57
+61374,Van Orin,Bureau County,56
+62541,Lake Fork,Logan County,54
+60967,Stockland,Iroquois County,51
+61552,Mossville,Peoria County,51
+60926,Claytonville,Iroquois County,50
+61346,New Bedford,Bureau County,43
+61426,Castleton,Stark County,41
+62532,Elwin,Macon County,40
+61562,Rome,Peoria County,38
+62961,Millcreek,Union County,37
+62256,Maeystown,Monroe County,35
+61236,Barstow,Rock Island County,34
+61027,Eleroy,Stephenson County,33
+61751,Lawndale,Logan County,32
+61057,Nachusa,Lee County,30
+62879,Sailor Springs,Clay County,28
+61855,Milmine,Piatt County,24
+62519,Cornland,Logan County,24
+60183,Wasco,Kane County,23
+61433,Fiatt,Fulton County,22
+62829,Dale,Hamilton County,22
+61424,Camp Grove,Marshall County,20
+61328,Kasbeer,Bureau County,18
+60557,Wedron,LaSalle County,0
+60939,Goodwine,Iroquois County,0
+61237,Buffalo Prairie,Rock Island County,0
+61331,Lee Center,Lee County,0
+62706,Springfield,Sangamon County,0
+62962,Miller City,Alexander County,0

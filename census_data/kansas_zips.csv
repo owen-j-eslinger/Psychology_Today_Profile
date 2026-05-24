@@ -1,0 +1,705 @@
+ZIP,City,County,Population
+66062,Olathe,Johnson County,"78,841"
+66061,Olathe,Johnson County,"67,967"
+67401,Salina,Saline County,"50,217"
+66502,Manhattan,Riley County,"43,693"
+67212,Wichita,Sedgwick County,"42,902"
+66048,Leavenworth,Leavenworth County,"35,717"
+67846,Garden City,Finney County,"34,475"
+66212,Overland Park,Johnson County,"32,917"
+67217,Wichita,Sedgwick County,"32,603"
+66614,Topeka,Shawnee County,"32,538"
+66049,Lawrence,Douglas County,"32,015"
+67801,Dodge City,Ford County,"30,967"
+67203,Wichita,Sedgwick County,"30,710"
+66213,Overland Park,Johnson County,"30,539"
+67037,Derby,Sedgwick County,"30,278"
+66102,Kansas City,Wyandotte County,"29,443"
+66044,Lawrence,Douglas County,"28,820"
+66109,Kansas City,Wyandotte County,"28,355"
+66801,Emporia,Lyon County,"27,585"
+67207,Wichita,Sedgwick County,"27,414"
+66104,Kansas City,Wyandotte County,"27,033"
+66030,Gardner,Johnson County,"26,328"
+66215,Lenexa,Johnson County,"25,960"
+66441,Junction City,Geary County,"25,828"
+66221,Overland Park,Johnson County,"25,550"
+66762,Pittsburg,Crawford County,"24,907"
+66216,Shawnee,Johnson County,"24,881"
+66223,Overland Park,Johnson County,"24,747"
+67501,Hutchinson,Reno County,"24,605"
+67601,Hays,Ellis County,"24,330"
+66106,Kansas City,Wyandotte County,"24,245"
+67218,Wichita,Sedgwick County,"23,383"
+67216,Wichita,Sedgwick County,"23,254"
+67502,Hutchinson,Reno County,"23,099"
+66604,Topeka,Shawnee County,"23,006"
+67204,Wichita,Sedgwick County,"22,538"
+67226,Wichita,Sedgwick County,"21,596"
+66208,Prairie Village,Johnson County,"21,576"
+67114,Newton,Harvey County,"20,919"
+67901,Liberal,Seward County,"20,902"
+66605,Topeka,Shawnee County,"20,891"
+66047,Lawrence,Douglas County,"20,473"
+66209,Leawood,Johnson County,"20,413"
+66210,Overland Park,Johnson County,"20,347"
+67205,Wichita,Sedgwick County,"20,098"
+67213,Wichita,Sedgwick County,"19,699"
+66046,Lawrence,Douglas County,"19,658"
+66203,Shawnee,Johnson County,"19,441"
+67211,Wichita,Sedgwick County,"19,105"
+67208,Wichita,Sedgwick County,"18,950"
+66204,Overland Park,Johnson County,"17,948"
+67530,Great Bend,Barton County,"17,798"
+66202,Mission,Johnson County,"17,408"
+67206,Wichita,Sedgwick County,"17,380"
+66503,Manhattan,Riley County,"17,273"
+67002,Andover,Butler County,"17,221"
+67042,El Dorado,Butler County,"16,978"
+66442,Fort Riley,Riley County,"16,890"
+67460,Mcpherson,McPherson County,"16,348"
+66067,Ottawa,Franklin County,"16,330"
+67220,Wichita,Sedgwick County,"16,270"
+66226,Shawnee,Johnson County,"16,219"
+66207,Overland Park,Johnson County,"15,739"
+67214,Wichita,Sedgwick County,"15,243"
+67005,Arkansas City,Cowley County,"15,073"
+67235,Wichita,Sedgwick County,"14,958"
+67156,Winfield,Cowley County,"14,513"
+67060,Haysville,Sedgwick County,"14,125"
+66205,Mission,Johnson County,"14,032"
+67010,Augusta,Butler County,"13,947"
+66219,Lenexa,Johnson County,"13,519"
+67209,Wichita,Sedgwick County,"13,289"
+66002,Atchison,Atchison County,"13,276"
+66083,Spring Hill,Miami County,"13,011"
+67301,Independence,Montgomery County,"12,953"
+66112,Kansas City,Wyandotte County,"12,881"
+66103,Kansas City,Wyandotte County,"12,730"
+66224,Overland Park,Johnson County,"12,683"
+67219,Wichita,Sedgwick County,"12,586"
+66101,Kansas City,Wyandotte County,"12,556"
+66071,Paola,Miami County,"12,400"
+66214,Overland Park,Johnson County,"12,351"
+66206,Leawood,Johnson County,"12,153"
+67230,Wichita,Sedgwick County,"11,981"
+67357,Parsons,Labette County,"11,853"
+66701,Fort Scott,Bourbon County,"11,503"
+66085,Stilwell,Johnson County,"11,486"
+66043,Lansing,Leavenworth County,"11,056"
+66086,Tonganoxie,Leavenworth County,"10,940"
+67337,Coffeyville,Montgomery County,"10,890"
+67147,Valley Center,Sedgwick County,"10,792"
+66720,Chanute,Neosho County,"10,631"
+66012,Bonner Springs,Leavenworth County,"10,425"
+66618,Topeka,Shawnee County,"10,179"
+66007,Basehor,Leavenworth County,"10,150"
+67410,Abilene,Dickinson County,"10,000"
+66111,Kansas City,Wyandotte County,"9,996"
+66607,Topeka,Shawnee County,"9,965"
+66610,Topeka,Shawnee County,"9,849"
+66606,Topeka,Shawnee County,"9,842"
+66611,Topeka,Shawnee County,"9,828"
+66227,Lenexa,Johnson County,"9,595"
+67052,Goddard,Sedgwick County,"9,262"
+67152,Wellington,Sumner County,"9,212"
+67210,Wichita,Sedgwick County,"9,024"
+66617,Topeka,Shawnee County,"8,903"
+66218,Shawnee,Johnson County,"8,820"
+67110,Mulvane,Sumner County,"8,722"
+66547,Wamego,Pottawatomie County,"8,579"
+66220,Lenexa,Johnson County,"8,535"
+66025,Eudora,Douglas County,"8,083"
+66006,Baldwin City,Douglas County,"8,013"
+67124,Pratt,Pratt County,"7,868"
+66053,Louisburg,Miami County,"7,834"
+66609,Topeka,Shawnee County,"7,572"
+66749,Iola,Allen County,"7,448"
+66027,Fort Leavenworth,Leavenworth County,"7,365"
+67880,Ulysses,Grant County,"7,293"
+67215,Wichita,Sedgwick County,"7,129"
+67101,Maize,Sedgwick County,"6,941"
+67133,Rose Hill,Butler County,"6,931"
+66018,De Soto,Johnson County,"6,584"
+66616,Topeka,Shawnee County,"6,212"
+67701,Colby,Thomas County,"6,134"
+66901,Concordia,Cloud County,"6,055"
+66064,Osawatomie,Miami County,"5,992"
+66211,Leawood,Johnson County,"5,791"
+67026,Clearwater,Sedgwick County,"5,692"
+66713,Baxter Springs,Cherokee County,"5,635"
+67432,Clay Center,Clay County,"5,607"
+66436,Holton,Jackson County,"5,537"
+66217,Shawnee,Johnson County,"5,468"
+67735,Goodland,Sherman County,"5,424"
+67550,Larned,Pawnee County,"5,104"
+66739,Galena,Cherokee County,"5,025"
+66725,Columbus,Cherokee County,"4,991"
+67871,Scott City,Scott County,"4,985"
+67456,Lindsborg,McPherson County,"4,977"
+66032,Garnett,Anderson County,"4,971"
+67665,Russell,Russell County,"4,861"
+66434,Hiawatha,Brown County,"4,740"
+67951,Hugoton,Stevens County,"4,563"
+66092,Wellsville,Franklin County,"4,351"
+66743,Girard,Crawford County,"4,313"
+66608,Topeka,Shawnee County,"4,216"
+66536,Saint Marys,Pottawatomie County,"4,204"
+67554,Lyons,Rice County,"4,048"
+67654,Norton,Norton County,"4,021"
+66508,Marysville,Marshall County,"3,987"
+67062,Hesston,Harvey County,"3,970"
+67068,Kingman,Kingman County,"3,949"
+66523,Osage City,Osage County,"3,941"
+67025,Cheney,Sedgwick County,"3,940"
+67420,Beloit,Mitchell County,"3,863"
+67135,Sedgwick,Harvey County,"3,681"
+66512,Meriden,Jefferson County,"3,678"
+66839,Burlington,Coffey County,"3,654"
+66040,La Cygne,Linn County,"3,651"
+66538,Seneca,Nemaha County,"3,602"
+66535,Saint George,Pottawatomie County,"3,556"
+67439,Ellsworth,Ellsworth County,"3,471"
+67063,Hillsboro,Marion County,"3,470"
+67045,Eureka,Greenwood County,"3,406"
+66763,Frontenac,Crawford County,"3,392"
+66534,Sabetha,Nemaha County,"3,381"
+66736,Fredonia,Wilson County,"3,374"
+66846,Council Grove,Morris County,"3,333"
+66757,Neodesha,Wilson County,"3,326"
+67335,Cherryvale,Montgomery County,"3,246"
+66619,Topeka,Shawnee County,"3,217"
+66506,Manhattan,Riley County,"3,155"
+67851,Holcomb,Finney County,"3,145"
+66409,Berryton,Shawnee County,"3,133"
+67579,Sterling,Rice County,"3,102"
+66402,Auburn,Shawnee County,"3,100"
+66539,Silver Lake,Shawnee County,"3,092"
+67544,Hoisington,Barton County,"3,064"
+67056,Halstead,Harvey County,"3,040"
+67030,Colwich,Sedgwick County,"3,037"
+66542,Tecumseh,Shawnee County,"3,019"
+67039,Douglass,Butler County,"2,996"
+66615,Topeka,Shawnee County,"2,943"
+67467,Minneapolis,Ottawa County,"2,871"
+67449,Herington,Morris County,"2,860"
+67661,Phillipsburg,Phillips County,"2,849"
+66748,Humboldt,Allen County,"2,830"
+66021,Edgerton,Johnson County,"2,819"
+66054,McLouth,Jefferson County,"2,777"
+66861,Marion,Marion County,"2,769"
+67860,Lakin,Kearny County,"2,763"
+67505,South Hutchinson,Reno County,"2,761"
+66013,Bucyrus,Miami County,"2,735"
+67356,Oswego,Labette County,"2,728"
+67835,Cimarron,Gray County,"2,716"
+67144,Towanda,Butler County,"2,712"
+67637,Ellis,Ellis County,"2,711"
+66088,Valley Falls,Jefferson County,"2,697"
+67013,Belle Plaine,Sumner County,"2,678"
+67748,Oakley,Logan County,"2,637"
+67526,Ellinwood,Barton County,"2,621"
+66105,Kansas City,Wyandotte County,"2,605"
+67546,Inman,McPherson County,"2,601"
+66439,Horton,Brown County,"2,578"
+67001,Andale,Sedgwick County,"2,535"
+66075,Pleasanton,Linn County,"2,497"
+67031,Conway Springs,Sumner County,"2,497"
+67333,Caney,Montgomery County,"2,478"
+67003,Anthony,Harper County,"2,477"
+66524,Overbrook,Osage County,"2,473"
+67107,Moundridge,McPherson County,"2,459"
+66066,Oskaloosa,Jefferson County,"2,432"
+67228,Wichita,Sedgwick County,"2,424"
+66076,Pomona,Franklin County,"2,416"
+66935,Belleville,Republic County,"2,413"
+66090,Wathena,Doniphan County,"2,380"
+66414,Carbondale,Osage County,"2,360"
+67663,Plainville,Rooks County,"2,346"
+67878,Syracuse,Hamilton County,"2,316"
+67067,Kechi,Sedgwick County,"2,293"
+67877,Sublette,Haskell County,"2,289"
+67017,Benton,Butler County,"2,264"
+66073,Perry,Jefferson County,"2,263"
+67431,Chapman,Dickinson County,"2,242"
+67749,Oberlin,Decatur County,"2,209"
+66783,Yates Center,Woodson County,"2,190"
+67522,Buhler,Reno County,"2,160"
+67672,Wakeeney,Trego County,"2,159"
+67117,North Newton,Harvey County,"2,157"
+67104,Medicine Lodge,Barber County,"2,142"
+66052,Linwood,Leavenworth County,"2,090"
+67443,Galva,McPherson County,"2,080"
+67202,Wichita,Sedgwick County,"2,046"
+66087,Troy,Doniphan County,"2,027"
+67543,Haven,Reno County,"2,026"
+66733,Erie,Neosho County,"2,012"
+66509,Mayetta,Jackson County,"1,974"
+66401,Alma,Wabaunsee County,"1,948"
+66070,Ozawkie,Jefferson County,"1,944"
+66440,Hoyt,Jackson County,"1,943"
+66045,Lawrence,Douglas County,"1,925"
+66967,Smith Center,Smith County,"1,913"
+67050,Garden Plain,Sedgwick County,"1,907"
+67669,Stockton,Rooks County,"1,888"
+67146,Udall,Cowley County,"1,867"
+67861,Leoti,Wichita County,"1,854"
+67855,Johnson,Stanton County,"1,831"
+66603,Topeka,Shawnee County,"1,830"
+66020,Easton,Leavenworth County,"1,809"
+67576,St John,Stafford County,"1,806"
+67361,Sedan,Chautauqua County,"1,780"
+67058,Harper,Harper County,"1,777"
+66050,Lecompton,Douglas County,"1,761"
+66612,Topeka,Shawnee County,"1,754"
+67642,Hill City,Graham County,"1,752"
+67950,Elkhart,Morton County,"1,744"
+66866,Peabody,Marion County,"1,737"
+67473,Osborne,Osborne County,"1,724"
+66413,Burlingame,Osage County,"1,721"
+67864,Meade,Meade County,"1,701"
+66517,Ogden,Riley County,"1,696"
+67756,Saint Francis,Cheyenne County,"1,677"
+66712,Arma,Crawford County,"1,675"
+66451,Lyndon,Osage County,"1,671"
+67730,Atwood,Rawlins County,"1,654"
+67330,Altamont,Labette County,"1,644"
+67547,Kinsley,Edwards County,"1,628"
+67020,Burrton,Harvey County,"1,596"
+67455,Lincoln,Lincoln County,"1,596"
+67867,Montezuma,Gray County,"1,596"
+66533,Rossville,Shawnee County,"1,595"
+67740,Hoxie,Sheridan County,"1,592"
+67561,Nickerson,Reno County,"1,591"
+66856,Lebo,Coffey County,"1,583"
+67074,Leon,Butler County,"1,583"
+67570,Pretty Prairie,Reno County,"1,571"
+67752,Quinter,Gove County,"1,544"
+67671,Victoria,Ellis County,"1,533"
+66549,Westmoreland,Pottawatomie County,"1,526"
+66776,Thayer,Neosho County,"1,524"
+67487,Wakefield,Clay County,"1,515"
+67876,Spearville,Ford County,"1,499"
+66537,Scranton,Osage County,"1,475"
+66968,Washington,Washington County,"1,454"
+66507,Maple Hill,Wabaunsee County,"1,438"
+67022,Caldwell,Sumner County,"1,436"
+66521,Onaga,Pottawatomie County,"1,417"
+67422,Bennington,Ottawa County,"1,407"
+67480,Solomon,Ottawa County,"1,406"
+67108,Mount Hope,Sedgwick County,"1,384"
+66056,Mound City,Linn County,"1,383"
+66956,Mankato,Jewell County,"1,351"
+66514,Milford,Geary County,"1,350"
+66871,Waverly,Coffey County,"1,347"
+66035,Highland,Doniphan County,"1,342"
+66860,Madison,Greenwood County,"1,342"
+67560,Ness City,Ness County,"1,336"
+66427,Frankfort,Marshall County,"1,334"
+67869,Plains,Meade County,"1,327"
+66060,Nortonville,Jefferson County,"1,325"
+67879,Tribune,Greeley County,"1,302"
+67154,Whitewater,Butler County,"1,290"
+67548,La Crosse,Rush County,"1,289"
+67119,Oxford,Sumner County,"1,287"
+67870,Satanta,Haskell County,"1,277"
+66531,Riley,Riley County,"1,256"
+67054,Greensburg,Kiowa County,"1,251"
+67448,Gypsum,Saline County,"1,251"
+66845,Cottonwood Falls,Chase County,"1,237"
+66422,Emmett,Pottawatomie County,"1,228"
+66072,Parker,Linn County,"1,211"
+66835,Americus,Lyon County,"1,202"
+66938,Clyde,Cloud County,"1,191"
+67428,Canton,McPherson County,"1,191"
+66023,Effingham,Atchison County,"1,189"
+66781,Weir,Cherokee County,"1,183"
+67336,Chetopa,Cherokee County,"1,150"
+66546,Wakarusa,Shawnee County,"1,143"
+66411,Blue Rapids,Marshall County,"1,127"
+66865,Olpe,Lyon County,"1,105"
+67578,Stafford,Stafford County,"1,104"
+66771,Saint Paul,Neosho County,"1,074"
+66945,Hanover,Washington County,"1,063"
+66756,Mulberry,Crawford County,"1,052"
+67464,Marquette,McPherson County,"1,051"
+67839,Dighton,Lane County,"1,050"
+66770,Riverton,Cherokee County,"1,047"
+67490,Wilson,Ellsworth County,"1,031"
+67758,Sharon Springs,Wallace County,"1,009"
+66854,Hartford,Lyon County,"1,007"
+67865,Minneola,Clark County,"1,007"
+67854,Jetmore,Hodgeman County,"1,004"
+66097,Winchester,Jefferson County,995
+67019,Burden,Cowley County,992
+66080,Richmond,Franklin County,980
+66543,Vassar,Osage County,980
+66548,Waterville,Marshall County,975
+67140,South Haven,Sumner County,971
+67437,Downs,Osborne County,971
+67831,Ashland,Clark County,968
+67441,Enterprise,Dickinson County,964
+67029,Coldwater,Comanche County,962
+67838,Deerfield,Kearny County,960
+67416,Assaria,Saline County,950
+66753,McCune,Crawford County,949
+67731,Bird City,Cheyenne County,942
+66449,Leonardville,Riley County,937
+67024,Cedar Vale,Chautauqua County,937
+66724,Cherokee,Crawford County,935
+67059,Haviland,Kiowa County,932
+66042,Lane,Franklin County,929
+67837,Copeland,Haskell County,927
+67070,Kiowa,Barber County,921
+66951,Kensington,Smith County,920
+66779,Uniontown,Bourbon County,892
+67035,Cunningham,Kingman County,891
+67834,Bucklin,Ford County,891
+66755,Moran,Allen County,890
+66423,Eskridge,Wabaunsee County,884
+67853,Ingalls,Gray County,875
+66857,Le Roy,Coffey County,872
+67123,Potwin,Butler County,867
+66834,Alta Vista,Wabaunsee County,856
+67223,Wichita,Sedgwick County,849
+67583,Turon,Reno County,848
+67149,Viola,Sedgwick County,844
+66026,Fontana,Miami County,840
+67451,Hope,Dickinson County,840
+67484,Tescott,Ottawa County,840
+66024,Elwood,Doniphan County,815
+66716,Bronson,Bourbon County,813
+66872,White City,Morris County,807
+66078,Princeton,Franklin County,805
+66710,Altoona,Wilson County,804
+66403,Axtell,Marshall County,801
+67004,Argonia,Sumner County,801
+67009,Attica,Harper County,796
+67844,Fowler,Meade County,796
+67566,Partridge,Reno County,785
+66039,Kincaid,Anderson County,784
+67341,Dennis,Labette County,781
+67954,Rolla,Morton County,777
+66554,Randolph,Riley County,770
+67118,Norwich,Kingman County,769
+67557,Macksville,Stafford County,765
+66415,Centralia,Nemaha County,762
+66528,Quenemo,Osage County,761
+67344,Elk City,Montgomery County,754
+66079,Rantoul,Franklin County,752
+67354,Mound Valley,Labette County,733
+67481,Sylvan Grove,Lincoln County,729
+67466,Miltonvale,Cloud County,728
+66431,Harveyville,Wabaunsee County,718
+66015,Colony,Anderson County,712
+67514,Arlington,Reno County,705
+66526,Paxico,Wabaunsee County,693
+66735,Franklin,Crawford County,692
+67038,Dexter,Cowley County,692
+66937,Clifton,Washington County,691
+67732,Brewster,Thomas County,691
+67552,Lewis,Edwards County,686
+67646,Logan,Phillips County,685
+66510,Melvern,Osage County,684
+67127,Protection,Comanche County,681
+67525,Claflin,Barton County,680
+67622,Almena,Norton County,680
+66780,Walnut,Crawford County,674
+67446,Glen Elder,Mitchell County,673
+66033,Greeley,Anderson County,672
+66869,Strong City,Chase County,669
+66851,Florence,Marion County,659
+66031,New Century,Johnson County,655
+67349,Howard,Elk County,646
+66412,Bremen,Marshall County,644
+67567,Pawnee Rock,Pawnee County,643
+66833,Allen,Lyon County,641
+66520,Olsburg,Pottawatomie County,635
+66953,Linn,Washington County,628
+66010,Blue Mound,Linn County,626
+67444,Geneseo,Ellsworth County,623
+66868,Reading,Lyon County,620
+67342,Edna,Labette County,618
+67457,Little River,Rice County,618
+67524,Chase,Rice County,618
+66041,Lancaster,Atchison County,614
+67454,Kanopolis,Ellsworth County,610
+67232,Wichita,Sedgwick County,607
+67640,Gorham,Ellis County,601
+66419,Denison,Jackson County,600
+67053,Goessel,Marion County,600
+66014,Centerville,Linn County,599
+67425,Brookville,Saline County,593
+66751,La Harpe,Allen County,590
+66773,Scammon,Cherokee County,587
+66852,Gridley,Coffey County,587
+66095,Williamsburg,Franklin County,583
+66540,Soldier,Jackson County,582
+66552,Whiting,Jackson County,581
+66966,Scandia,Republic County,577
+66093,Westphalia,Anderson County,576
+67120,Peck,Sumner County,575
+67738,Grinnell,Gove County,574
+66943,Greenleaf,Washington County,568
+66948,Jamestown,Cloud County,566
+67445,Glasco,Cloud County,565
+67106,Milton,Sumner County,560
+66016,Cummings,Atchison County,559
+67483,Tampa,Marion County,559
+66418,Delia,Jackson County,556
+66550,Wetmore,Nemaha County,552
+67436,Delphos,Ottawa County,548
+66432,Havensville,Pottawatomie County,540
+67651,Natoma,Osborne County,535
+67859,Kismet,Seward County,535
+66849,Dwight,Morris County,531
+67645,Lenora,Norton County,531
+67648,Lucas,Russell County,528
+66532,Robinson,Brown County,527
+66949,Jewell,Jewell County,524
+66416,Circleville,Jackson County,522
+67347,Havana,Montgomery County,521
+66769,Redfield,Bourbon County,520
+67260,Wichita,Sedgwick County,520
+67353,Moline,Elk County,519
+67516,Bazine,Ness County,510
+66842,Cassoday,Butler County,508
+66417,Corning,Nemaha County,507
+67523,Burdett,Pawnee County,498
+67047,Fall River,Greenwood County,496
+67008,Atlanta,Cowley County,494
+67352,Longton,Elk County,488
+66424,Everest,Brown County,486
+67850,Healy,Lane County,486
+66404,Baileyville,Nemaha County,481
+67016,Bentley,Sedgwick County,480
+66711,Arcadia,Crawford County,478
+66840,Burns,Butler County,474
+66777,Toronto,Greenwood County,473
+67430,Cawker City,Jewell County,468
+66717,Buffalo,Wilson County,467
+67757,Selden,Sheridan County,466
+67575,Rush Center,Rush County,454
+67952,Moscow,Stevens County,452
+67737,Grainfield,Gove County,451
+67565,Otis,Rush County,447
+66621,Topeka,Shawnee County,442
+67138,Sharon,Barber County,438
+66094,White Cloud,Brown County,437
+67450,Holyrood,Ellsworth County,432
+67572,Ransom,Ness County,430
+66858,Lincolnville,Marion County,428
+66408,Bern,Nemaha County,427
+66516,Netawaka,Jackson County,408
+67753,Rexford,Thomas County,407
+67051,Geuda Springs,Sumner County,404
+67151,Walton,Harvey County,402
+66952,Lebanon,Smith County,401
+67764,Winona,Logan County,401
+67458,Longford,Clay County,394
+66425,Fairview,Brown County,391
+67132,Rosalia,Butler County,385
+67485,Tipton,Osborne County,380
+66429,Grantville,Jefferson County,379
+67491,Windom,McPherson County,379
+66058,Muscotah,Atchison County,378
+67841,Ensign,Gray County,377
+67842,Ford,Ford County,376
+66864,Neosho Rapids,Lyon County,375
+66767,Prescott,Linn County,374
+67529,Garfield,Pawnee County,366
+66406,Beattie,Marshall County,365
+66501,McFarland,Wabaunsee County,363
+66515,Morrill,Brown County,362
+67142,Spivey,Kingman County,358
+67137,Severy,Greenwood County,357
+67745,McDonald,Rawlins County,353
+66933,Barnes,Washington County,345
+66754,Mapleton,Bourbon County,344
+67073,Lehigh,Marion County,344
+66734,Farlington,Crawford County,343
+67452,Hunter,Mitchell County,343
+66959,Munden,Republic County,339
+67563,Offerle,Edwards County,339
+66939,Courtland,Republic County,335
+67109,Mullinville,Kiowa County,335
+67621,Agra,Phillips County,335
+67657,Palco,Rooks County,326
+67221,Mcconnell Afb,Sedgwick County,325
+67351,Liberty,Montgomery County,325
+67427,Bushton,Rice County,323
+67111,Murdock,Kingman County,318
+67863,Marienthal,Wichita County,308
+66942,Formoso,Jewell County,305
+66944,Haddam,Washington County,304
+67423,Beverly,Lincoln County,304
+67510,Abbyville,Reno County,303
+66962,Palmer,Washington County,302
+67581,Sylvia,Reno County,300
+67849,Hanston,Hodgeman County,300
+66407,Belvue,Pottawatomie County,298
+67134,Sawyer,Pratt County,297
+67041,Elbing,Butler County,296
+67122,Piedmont,Greenwood County,296
+67664,Prairie View,Phillips County,296
+67762,Weskan,Wallace County,295
+66091,Welda,Anderson County,294
+66732,Elsmore,Allen County,294
+67072,Latham,Butler County,290
+67564,Olmitz,Barton County,290
+66772,Savonburg,Allen County,288
+66544,Vermillion,Marshall County,287
+67556,McCracken,Rush County,287
+66940,Cuba,Republic County,283
+66853,Hamilton,Greenwood County,281
+67346,Grenola,Elk County,280
+67739,Herndon,Rawlins County,280
+67131,Rock,Cowley County,274
+67520,Bison,Rush County,267
+67470,New Cambria,Saline County,266
+67468,Morganville,Clay County,265
+67459,Lorraine,Ellsworth County,264
+67360,Peru,Chautauqua County,259
+67741,Kanorado,Sherman County,258
+66761,Piqua,Woodson County,255
+67057,Hardtner,Barber County,252
+66758,Neosho Falls,Woodson County,251
+66746,Hepler,Crawford County,247
+67568,Plevna,Reno County,247
+66428,Goff,Nemaha County,246
+66527,Powhattan,Brown County,244
+67862,Manter,Stanton County,244
+67647,Long Island,Phillips County,243
+67626,Bunker Hill,Russell County,241
+67061,Hazelton,Barber County,237
+67625,Bogue,Graham County,237
+67634,Dorrance,Russell County,237
+66740,Galesburg,Neosho County,236
+67036,Danville,Harper County,236
+67066,Iuka,Pratt County,236
+67112,Nashville,Kingman County,235
+66541,Summerfield,Marshall County,234
+67653,Norcatur,Decatur County,232
+67623,Alton,Osborne County,228
+67438,Durham,Marion County,226
+66775,Stark,Neosho County,224
+67656,Ogallah,Trego County,220
+66017,Denton,Doniphan County,219
+66518,Oketo,Marshall County,211
+67340,Dearing,Montgomery County,209
+66963,Randall,Jewell County,208
+67447,Green,Clay County,207
+67751,Park,Gove County,207
+67545,Hudson,Stafford County,206
+67332,Bartlett,Labette County,204
+67650,Morland,Graham County,204
+66830,Admire,Lyon County,203
+66850,Elmdale,Chase County,202
+66873,Wilsey,Morris County,201
+67632,Damar,Rooks County,201
+66008,Bendena,Doniphan County,200
+66438,Home,Marshall County,200
+67492,Woodbine,Dickinson County,200
+67743,Levant,Thomas County,200
+67644,Kirwin,Phillips County,199
+66958,Morrowville,Washington County,198
+66936,Burr Oak,Jewell County,194
+67643,Jennings,Decatur County,194
+67364,Tyro,Montgomery County,192
+67868,Pierceville,Finney County,188
+67355,Niotaze,Chautauqua County,187
+67584,Utica,Ness County,187
+67627,Catharine,Ellis County,186
+67418,Barnard,Lincoln County,184
+67159,Zenda,Kingman County,183
+67736,Gove,Gove County,183
+67667,Schoenchen,Ellis County,181
+67103,Mayfield,Sumner County,180
+67882,Wright,Ford County,179
+67649,Luray,Russell County,178
+67345,Elk Falls,Elk County,176
+67761,Wallace,Wallace County,176
+66964,Republic,Republic County,175
+67519,Belpre,Edwards County,175
+67734,Gem,Thomas County,175
+66738,Fulton,Bourbon County,173
+67028,Coats,Kiowa County,173
+67857,Kendall,Hamilton County,172
+67639,Glade,Phillips County,168
+66782,West Mineral,Cherokee County,164
+66714,Benedict,Wilson County,162
+66932,Athol,Smith County,162
+66946,Hollenberg,Washington County,161
+66859,Lost Springs,Marion County,158
+67105,Milan,Sumner County,158
+67573,Raymond,Rice County,158
+67744,Ludell,Rawlins County,155
+67478,Simpson,Mitchell County,154
+67227,Wichita,Sedgwick County,152
+67442,Falun,Saline County,152
+67065,Isabel,Pratt County,151
+67747,Monument,Logan County,151
+67512,Alden,Rice County,148
+67511,Albert,Rush County,145
+66741,Garland,Bourbon County,144
+67521,Brownell,Ness County,136
+67635,Dresden,Decatur County,136
+66930,Agenda,Republic County,131
+66522,Oneida,Nemaha County,130
+66941,Esbon,Jewell County,130
+67475,Ramona,Marion County,126
+67628,Cedar,Smith County,126
+66960,Narka,Republic County,125
+66870,Virgil,Greenwood County,121
+67417,Aurora,Cloud County,121
+67675,Woodston,Rooks County,116
+67023,Cambridge,Cowley County,112
+67574,Rozel,Pawnee County,111
+67474,Portis,Smith County,110
+67658,Paradise,Russell County,110
+67674,Walker,Ellis County,106
+66843,Cedar Point,Chase County,105
+66838,Burdick,Morris County,99
+67155,Wilmore,Comanche County,97
+67513,Alexander,Rush County,97
+67631,Collyer,Trego County,93
+67334,Chautauqua,Chautauqua County,91
+67553,Liebenthal,Rush County,87
+67733,Edson,Sherman County,81
+67843,Fort Dodge,Ford County,74
+67638,Gaylord,Smith County,70
+66862,Matfield Green,Chase County,68
+67559,Nekoma,Rush County,66
+67018,Bluff City,Harper County,65
+67055,Greenwich,Sedgwick County,62
+67515,Arnold,Ness County,59
+66622,Topeka,Shawnee County,56
+67659,Penokee,Graham County,56
+67840,Englewood,Clark County,56
+67953,Richfield,Morton County,54
+67673,Waldo,Osborne County,51
+66955,Mahaska,Washington County,47
+67482,Talmage,Dickinson County,44
+67836,Coolidge,Hamilton County,44
+66970,Webber,Jewell County,39
+67012,Beaumont,Butler County,38
+67102,Maple City,Cowley County,38
+67518,Beeler,Ness County,38
+66160,Kansas City,Wyandotte County,37
+66760,Opolis,Crawford County,35
+67143,Sun City,Barber County,35
+67629,Clayton,Norton County,33
+67660,Pfeifer,Ellis County,32
+66742,Gas,Allen County,30
+66863,Neal,Greenwood County,27
+67021,Byers,Pratt County,26
+67049,Freeport,Harper County,12
+66251,Overland Park,Johnson County,8
+66961,Norway,Republic County,6
+67071,Lake City,Barber County,5
+67150,Waldron,Harper County,5
+66115,Kansas City,Wyandotte County,0
+66118,Kansas City,Wyandotte County,0
+66778,Treece,Cherokee County,0
+67363,Sycamore,Montgomery County,0
+67476,Roxbury,McPherson County,0

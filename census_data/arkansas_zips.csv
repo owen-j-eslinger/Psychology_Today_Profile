@@ -1,0 +1,616 @@
+ZIP,City,County,Population
+72764,Springdale,Washington County,"58,719"
+72034,Conway,Faulkner County,"50,285"
+72701,Fayetteville,Washington County,"49,835"
+72758,Rogers,Benton County,"48,233"
+71913,Hot Springs National Park,Garland County,"47,477"
+72762,Springdale,Washington County,"46,092"
+72401,Jonesboro,Craighead County,"42,602"
+72756,Rogers,Benton County,"41,791"
+72450,Paragould,Greene County,"40,807"
+72712,Bentonville,Benton County,"38,690"
+72076,Jacksonville,Pulaski County,"38,437"
+72023,Cabot,Lonoke County,"37,452"
+72703,Fayetteville,Washington County,"35,896"
+71854,Texarkana,Miller County,"35,720"
+72143,Searcy,White County,"35,000"
+72956,Van Buren,Crawford County,"34,546"
+72032,Conway,Faulkner County,"34,469"
+72120,Sherwood,Pulaski County,"34,365"
+72704,Fayetteville,Washington County,"32,497"
+72209,Little Rock,Pulaski County,"31,607"
+72601,Harrison,Boone County,"31,370"
+72204,Little Rock,Pulaski County,"30,525"
+72019,Benton,Saline County,"30,055"
+72404,Jonesboro,Craighead County,"29,968"
+71730,El Dorado,Union County,"29,760"
+71603,Pine Bluff,Jefferson County,"29,578"
+72653,Mountain Home,Baxter County,"29,564"
+72713,Bentonville,Benton County,"28,999"
+71901,Hot Springs National Park,Garland County,"28,937"
+72015,Benton,Saline County,"28,712"
+72903,Fort Smith,Sebastian County,"27,242"
+72223,Little Rock,Pulaski County,"26,986"
+72501,Batesville,Independence County,"26,218"
+72113,Maumelle,Pulaski County,"25,596"
+72761,Siloam Springs,Benton County,"24,745"
+72301,West Memphis,Crittenden County,"23,959"
+72104,Malvern,Hot Spring County,"23,624"
+72802,Russellville,Pope County,"23,283"
+72205,Little Rock,Pulaski County,"23,043"
+72118,North Little Rock,Pulaski County,"22,913"
+72206,Little Rock,Pulaski County,"22,667"
+72116,North Little Rock,Pulaski County,"22,464"
+72211,Little Rock,Pulaski County,"22,335"
+72002,Alexander,Saline County,"21,495"
+72904,Fort Smith,Sebastian County,"21,296"
+72315,Blytheville,Mississippi County,"19,890"
+72901,Fort Smith,Sebastian County,"19,819"
+72719,Centerton,Benton County,"19,701"
+72801,Russellville,Pope County,"19,019"
+72058,Greenbrier,Faulkner County,"18,880"
+72022,Bryant,Saline County,"18,808"
+72405,Jonesboro,Craighead County,"18,675"
+71909,Hot Springs Village,Garland County,"18,449"
+72715,Bella Vista,Benton County,"17,288"
+71701,Camden,Ouachita County,"16,847"
+72335,Forrest City,St. Francis County,"16,372"
+72364,Marion,Crittenden County,"16,034"
+72830,Clarksville,Johnson County,"15,757"
+72103,Mabelvale,Saline County,"15,736"
+72210,Little Rock,Pulaski County,"15,621"
+71753,Magnolia,Columbia County,"15,474"
+72745,Lowell,Benton County,"15,447"
+71602,White Hall,Jefferson County,"14,990"
+71801,Hope,Hempstead County,"14,883"
+71923,Arkadelphia,Clark County,"14,875"
+72714,Bella Vista,Benton County,"14,350"
+72908,Fort Smith,Sebastian County,"14,288"
+72936,Greenwood,Sebastian County,"14,070"
+71655,Monticello,Drew County,"14,022"
+72212,Little Rock,Pulaski County,"13,698"
+72012,Beebe,White County,"13,502"
+72455,Pocahontas,Randolph County,"13,442"
+72117,North Little Rock,Pulaski County,"13,438"
+71953,Mena,Polk County,"13,415"
+71601,Pine Bluff,Jefferson County,"13,367"
+72921,Alma,Crawford County,"12,888"
+72396,Wynne,Cross County,"12,766"
+72543,Heber Springs,Cleburne County,"12,350"
+72150,Sheridan,Grant County,"12,337"
+72086,Lonoke,Lonoke County,"11,718"
+72916,Fort Smith,Sebastian County,"11,711"
+72730,Farmington,Washington County,"11,570"
+72110,Morrilton,Conway County,"11,293"
+72227,Little Rock,Pulaski County,"11,284"
+72112,Newport,Jackson County,"11,161"
+72616,Berryville,Carroll County,"10,907"
+72753,Prairie Grove,Washington County,"10,744"
+72207,Little Rock,Pulaski County,"10,631"
+72007,Austin,Lonoke County,"10,579"
+71635,Crossett,Ashley County,"10,295"
+72740,Huntsville,Madison County,"10,179"
+71832,De Queen,Sevier County,"10,147"
+72114,North Little Rock,Pulaski County,"10,093"
+72751,Pea Ridge,Benton County,"9,997"
+72173,Vilonia,Faulkner County,"9,990"
+72202,Little Rock,Pulaski County,"9,704"
+72834,Dardanelle,Yell County,"9,482"
+72949,Ozark,Franklin County,"9,477"
+71852,Nashville,Howard County,"9,340"
+72160,Stuttgart,Arkansas County,"9,071"
+72472,Trumann,Poinsett County,"8,708"
+72734,Gentry,Benton County,"8,694"
+72176,Ward,Lonoke County,"8,678"
+71671,Warren,Bradley County,"8,601"
+72837,Dover,Pope County,"8,499"
+72927,Booneville,Logan County,"7,944"
+72736,Gravette,Benton County,"7,886"
+71822,Ashdown,Little River County,"7,675"
+72560,Mountain View,Stone County,"7,634"
+72081,Judsonia,White County,"7,436"
+72476,Walnut Ridge,Lawrence County,"7,334"
+72370,Osceola,Mississippi County,"7,301"
+72774,West Fork,Washington County,"7,082"
+71667,Star City,Lincoln County,"7,059"
+72958,Waldron,Scott County,"6,948"
+72638,Green Forest,Carroll County,"6,912"
+72727,Elkins,Madison County,"6,703"
+72031,Clinton,Van Buren County,"6,607"
+72390,West Helena,Phillips County,"6,577"
+71646,Hamburg,Ashley County,"6,563"
+72432,Harrisburg,Poinsett County,"6,283"
+72687,Yellville,Marion County,"6,238"
+72106,Mayflower,Faulkner County,"6,213"
+72855,Paris,Logan County,"6,167"
+72823,Atkins,Pope County,"6,023"
+72417,Brookland,Craighead County,"5,940"
+71857,Prescott,Nevada County,"5,818"
+72718,Cave Springs,Benton County,"5,806"
+72416,Bono,Craighead County,"5,642"
+72744,Lincoln,Washington County,"5,520"
+72065,Hensley,Saline County,"5,457"
+72732,Garfield,Benton County,"5,392"
+72010,Bald Knob,White County,"5,204"
+72632,Eureka Springs,Carroll County,"5,169"
+72941,Lavaca,Sebastian County,"5,140"
+71643,Gould,Lincoln County,"5,129"
+72933,Charleston,Franklin County,"5,087"
+71639,Dumas,Lincoln County,"5,077"
+72529,Cherokee Village,Sharp County,"5,059"
+72360,Marianna,Lee County,"5,048"
+72042,De Witt,Arkansas County,"4,993"
+72634,Flippin,Marion County,"4,977"
+71665,Rison,Cleveland County,"4,964"
+72923,Barling,Sebastian County,"4,956"
+72521,Cave City,Sharp County,"4,910"
+72454,Piggott,Clay County,"4,833"
+71653,Lake Village,Chicot County,"4,813"
+72650,Marshall,Searcy County,"4,741"
+72011,Bauxite,Saline County,"4,648"
+71929,Bismarck,Hot Spring County,"4,627"
+72131,Quitman,Cleburne County,"4,605"
+72442,Manila,Mississippi County,"4,584"
+71964,Pearcy,Garland County,"4,572"
+72947,Mulberry,Franklin County,"4,493"
+71968,Royal,Garland County,"4,437"
+71837,Fouke,Miller County,"4,424"
+72631,Eureka Springs,Carroll County,"4,361"
+71742,Fordyce,Dallas County,"4,333"
+72422,Corning,Clay County,"4,324"
+71654,McGehee,Desha County,"4,216"
+72153,Shirley,Van Buren County,"4,191"
+72576,Salem,Fulton County,"4,181"
+72937,Hackett,Sebastian County,"4,075"
+72542,Hardy,Sharp County,"4,072"
+72342,Helena,Phillips County,"4,070"
+72024,Carlisle,Lonoke County,"3,998"
+72046,England,Lonoke County,"3,876"
+72846,Lamar,Johnson County,"3,853"
+72946,Mountainburg,Crawford County,"3,844"
+72556,Melbourne,Izard County,"3,765"
+71943,Glenwood,Pike County,"3,731"
+72461,Rector,Clay County,"3,643"
+72132,Redfield,Jefferson County,"3,640"
+72121,Pangburn,White County,"3,631"
+72833,Danville,Yell County,"3,620"
+72021,Brinkley,Monroe County,"3,491"
+71921,Amity,Clark County,"3,427"
+72635,Gassville,Baxter County,"3,426"
+71770,Waldo,Columbia County,"3,307"
+72126,Perryville,Perry County,"3,241"
+72135,Roland,Pulaski County,"3,239"
+72136,Romance,White County,"3,209"
+71836,Foreman,Little River County,"3,166"
+72437,Lake City,Craighead County,"3,134"
+71957,Mount Ida,Montgomery County,"3,105"
+72020,Bradford,Jackson County,"3,100"
+72847,London,Pope County,"3,040"
+72858,Pottsville,Pope County,"3,030"
+72101,McCrory,Woodruff County,"3,019"
+72411,Bay,Craighead County,"2,997"
+72959,Winslow,Washington County,"2,972"
+72662,Omaha,Boone County,"2,967"
+71744,Hampton,Calhoun County,"2,963"
+72519,Calico Rock,Baxter County,"2,945"
+71846,Lockesburg,Sevier County,"2,944"
+71762,Smackover,Union County,"2,929"
+71743,Gurdon,Clark County,"2,913"
+72562,Newark,Independence County,"2,913"
+72513,Ash Flat,Sharp County,"2,888"
+72722,Decatur,Benton County,"2,876"
+71638,Dermott,Drew County,"2,874"
+72067,Higden,Cleburne County,"2,870"
+72554,Mammoth Spring,Fulton County,"2,817"
+71749,Junction City,Union County,"2,787"
+72064,Hazen,Prairie County,"2,781"
+72016,Bigelow,Perry County,"2,727"
+72433,Hoxie,Lawrence County,"2,723"
+72943,Magazine,Logan County,"2,708"
+72738,Hindsville,Madison County,"2,688"
+72443,Marmaduke,Greene County,"2,649"
+72102,McRae,White County,"2,620"
+72365,Marked Tree,Poinsett County,"2,618"
+72944,Mansfield,Sebastian County,"2,599"
+72127,Plumerville,Conway County,"2,565"
+72142,Scott,Lonoke County,"2,557"
+72088,Fairfield Bay,Van Buren County,"2,542"
+71720,Bearden,Ouachita County,"2,523"
+72512,Horseshoe Bend,Izard County,"2,506"
+71958,Murfreesboro,Pike County,"2,494"
+72824,Belleville,Yell County,"2,473"
+72840,Hartman,Johnson County,"2,448"
+72040,Des Arc,Prairie County,"2,421"
+72354,Lepanto,Poinsett County,"2,403"
+72644,Lead Hill,Boone County,"2,369"
+72331,Earle,Crittenden County,"2,316"
+72070,Houston,Perry County,"2,295"
+72438,Leachville,Mississippi County,"2,274"
+72137,Rose Bud,White County,"2,267"
+71640,Eudora,Chicot County,"2,265"
+71941,Donaldson,Hot Spring County,"2,203"
+71851,Mineral Springs,Howard County,"2,196"
+72035,Conway,Faulkner County,"2,151"
+72348,Hughes,Crittenden County,"2,135"
+72568,Pleasant Plains,Independence County,"2,110"
+72952,Rudy,Crawford County,"2,101"
+71740,Emerson,Columbia County,"2,100"
+71937,Cove,Polk County,"2,098"
+71861,Taylor,Lafayette County,"2,093"
+72324,Cherry Valley,Cross County,"2,051"
+72006,Augusta,Woodruff County,"2,004"
+72853,Ola,Yell County,"2,002"
+72843,Hector,Pope County,"1,984"
+72039,Damascus,Faulkner County,"1,983"
+72821,Altus,Franklin County,"1,972"
+72082,Kensett,White County,"1,956"
+71842,Horatio,Sevier County,"1,955"
+72326,Colt,St. Francis County,"1,929"
+72029,Clarendon,Monroe County,"1,918"
+72366,Marvell,Phillips County,"1,893"
+72434,Imboden,Randolph County,"1,880"
+71833,Dierks,Howard County,"1,862"
+72863,Scranton,Logan County,"1,856"
+72473,Tuckerman,Jackson County,"1,852"
+71860,Stamps,Lafayette County,"1,847"
+72447,Monette,Craighead County,"1,835"
+72940,Huntington,Sebastian County,"1,829"
+71834,Doddridge,Miller County,"1,807"
+72658,Norfork,Baxter County,"1,804"
+72168,Tucker,Jefferson County,"1,803"
+71675,Wilmar,Drew County,"1,785"
+72641,Jasper,Newton County,"1,784"
+72355,Lexa,Phillips County,"1,780"
+72530,Drasco,Cleburne County,"1,755"
+71765,Strong,Union County,"1,742"
+72087,Lonsdale,Saline County,"1,732"
+72932,Cedarville,Crawford County,"1,696"
+71764,Stephens,Ouachita County,"1,688"
+72619,Bull Shoals,Marion County,"1,675"
+72063,Hattieville,Conway County,"1,673"
+72642,Lakeview,Baxter County,"1,664"
+71845,Lewisville,Lafayette County,"1,663"
+72532,Evening Shade,Sharp County,"1,618"
+71763,Sparkman,Dallas County,"1,607"
+72320,Brickeys,Lee County,"1,604"
+72372,Palestine,St. Francis County,"1,604"
+72444,Maynard,Randolph County,"1,600"
+71647,Hermitage,Bradley County,"1,574"
+72013,Bee Branch,Van Buren County,"1,573"
+72611,Alpena,Carroll County,"1,534"
+72633,Everton,Marion County,"1,512"
+72129,Prattsville,Grant County,"1,506"
+71858,Rosston,Nevada County,"1,495"
+72157,Springfield,Conway County,"1,483"
+72122,Paron,Saline County,"1,471"
+71945,Hatfield,Polk County,"1,469"
+72376,Proctor,Crittenden County,"1,463"
+72466,Smithville,Lawrence County,"1,461"
+72027,Center Ridge,Conway County,"1,437"
+71956,Mountain Pine,Garland County,"1,407"
+72579,Sulphur Rock,Independence County,"1,407"
+72685,Western Grove,Newton County,"1,398"
+72419,Caraway,Craighead County,"1,394"
+72471,Swifton,Jackson County,"1,383"
+72773,Wesley,Madison County,"1,381"
+72415,Black Rock,Lawrence County,"1,376"
+72534,Floral,Independence County,"1,368"
+72565,Oxford,Izard County,"1,357"
+72459,Ravenden,Randolph County,"1,348"
+72358,Luxora,Mississippi County,"1,338"
+72645,Leslie,Searcy County,"1,306"
+72386,Tyronza,Poinsett County,"1,304"
+72651,Midway,Baxter County,"1,304"
+72327,Crawfordsville,Crittenden County,"1,297"
+72626,Cotter,Baxter County,"1,294"
+72111,Mount Vernon,Faulkner County,"1,283"
+72583,Viola,Fulton County,"1,272"
+72167,Traskwood,Saline County,"1,261"
+72057,Grapevine,Grant County,"1,231"
+72482,Williford,Sharp County,"1,226"
+72368,Moro,Lee County,"1,212"
+72857,Plainview,Yell County,"1,190"
+72041,De Valls Bluff,Prairie County,"1,175"
+71949,Jessieville,Garland County,"1,160"
+71835,Emmet,Nevada County,"1,156"
+72479,Weiner,Poinsett County,"1,152"
+72934,Chester,Crawford County,"1,147"
+71960,Norman,Montgomery County,"1,144"
+71940,Delight,Pike County,"1,125"
+71961,Oden,Montgomery County,"1,120"
+71944,Grannis,Polk County,"1,119"
+72842,Havana,Yell County,"1,112"
+72045,El Paso,White County,"1,110"
+72680,Timbo,Stone County,"1,109"
+71726,Chidester,Ouachita County,"1,108"
+72044,Edgemont,Cleburne County,"1,071"
+72717,Canehill,Washington County,"1,068"
+72845,Knoxville,Johnson County,"1,063"
+72395,Wilson,Mississippi County,"1,058"
+71933,Bonnerdale,Garland County,"1,057"
+72469,Strawberry,Lawrence County,"1,050"
+72084,Leola,Dallas County,"1,047"
+72675,Saint Joe,Searcy County,"1,047"
+72865,Subiaco,Logan County,"1,040"
+72768,Sulphur Springs,Benton County,"1,026"
+72460,Ravenden Springs,Randolph County,"1,016"
+71950,Kirby,Pike County,"1,007"
+71838,Fulton,Hempstead County,"1,006"
+71973,Wickes,Polk County,994
+71652,Kingsland,Cleveland County,993
+72350,Joiner,Mississippi County,988
+71670,Tillar,Desha County,983
+72561,Mount Pleasant,Izard County,972
+71826,Bradley,Lafayette County,962
+72523,Concord,Cleburne County,961
+72544,Henderson,Baxter County,952
+72467,State University,Craighead County,948
+72938,Hartford,Sebastian County,933
+72128,Poyen,Grant County,918
+72769,Summers,Washington County,907
+72183,Wrightsville,Pulaski County,904
+72677,Summit,Marion County,896
+72047,Enola,Faulkner County,894
+72436,Lafe,Greene County,885
+72531,Elizabeth,Fulton County,870
+71935,Caddo Gap,Montgomery County,866
+72721,Combs,Madison County,851
+72068,Higginson,White County,838
+72125,Perry,Perry County,837
+71660,New Edinburg,Cleveland County,836
+72025,Casa,Perry County,834
+72373,Parkin,Cross County,832
+72851,New Blaine,Logan County,829
+72351,Keiser,Mississippi County,828
+72073,Humphrey,Arkansas County,826
+71827,Buckner,Lafayette County,822
+72069,Holly Grove,Monroe County,815
+72577,Sidney,Izard County,815
+72156,Solgohachia,Conway County,811
+72201,Little Rock,Pulaski County,795
+72854,Ozone,Johnson County,791
+72661,Oakland,Marion County,777
+72639,Harriet,Searcy County,775
+72668,Peel,Marion County,763
+71642,Fountain Hill,Ashley County,759
+71962,Okolona,Clark County,744
+72628,Deer,Newton County,737
+72581,Tumbling Shoals,Cleburne County,735
+72951,Ratcliff,Logan County,729
+72835,Delaware,Logan County,727
+71971,Umpire,Howard County,719
+72347,Hickory Ridge,Cross County,719
+72955,Uniontown,Crawford County,719
+72384,Turrell,Crittenden County,695
+71766,Thornton,Calhoun County,690
+72430,Greenway,Clay County,684
+72538,Gepp,Fulton County,672
+71998,Arkadelphia,Clark County,669
+72004,Altheimer,Jefferson County,661
+72141,Scotland,Van Buren County,660
+72051,Fox,Stone County,659
+72566,Pineville,Izard County,656
+71747,Huttig,Union County,655
+72030,Cleveland,Conway County,650
+71752,McNeil,Columbia County,649
+72832,Coal Hill,Johnson County,649
+72550,Locust Grove,Independence County,643
+71862,Washington,Hempstead County,639
+72527,Desha,Independence County,636
+71674,Watson,Desha County,631
+72099,Little Rock Air Force Base,Pulaski County,629
+71959,Newhope,Pike County,628
+72003,Almyra,Arkansas County,623
+72421,Cash,Craighead County,618
+72640,Hasty,Newton County,607
+72036,Cotton Plant,Woodruff County,598
+72663,Onia,Stone County,594
+71841,Gillham,Sevier County,589
+72926,Boles,Scott County,587
+72648,Marble Falls,Newton County,580
+71751,Louann,Ouachita County,573
+71663,Portland,Chicot County,571
+72458,Powhatan,Lawrence County,567
+72623,Clarkridge,Baxter County,565
+72374,Poplar Grove,Phillips County,562
+72080,Jerusalem,Van Buren County,558
+72413,Biggers,Randolph County,540
+72060,Griffithville,White County,539
+72537,Gamaliel,Baxter County,535
+71676,Wilmot,Ashley County,529
+71970,Story,Montgomery County,526
+72928,Branch,Franklin County,522
+72935,Dyer,Crawford County,521
+72776,Witter,Madison County,520
+72950,Parks,Scott County,517
+72346,Heth,St. Francis County,513
+72945,Midland,Sebastian County,475
+72055,Gillett,Arkansas County,472
+72330,Dyess,Mississippi County,464
+72739,Hiwasse,Benton County,463
+71644,Grady,Lincoln County,462
+72536,Franklin,Izard County,460
+71630,Arkansas City,Desha County,456
+72564,Oil Trough,Independence County,455
+72394,Widener,St. Francis County,451
+71999,Arkadelphia,Clark County,450
+72856,Pelsor,Newton County,446
+72425,Delaplaine,Greene County,445
+72617,Big Flat,Baxter County,444
+72456,Pollard,Clay County,433
+72431,Grubbs,Jackson County,431
+72571,Rosie,Independence County,427
+72660,Oak Grove,Carroll County,424
+72392,Wheatley,St. Francis County,422
+72655,Mount Judea,Newton County,420
+71972,Vandervoort,Polk County,416
+71839,Garland City,Miller County,409
+72752,Pettigrew,Madison County,409
+72410,Alicia,Lawrence County,400
+72742,Kingston,Madison County,400
+72179,Wilburn,Cleburne County,399
+72175,Wabbaseka,Jefferson County,396
+71825,Blevins,Hempstead County,391
+72001,Adona,Perry County,391
+71866,Winthrop,Little River County,390
+72573,Sage,Izard County,389
+71658,Montrose,Ashley County,387
+72079,Jefferson,Jefferson County,385
+72123,Patterson,Woodruff County,364
+72572,Saffell,Lawrence County,360
+72134,Roe,Monroe County,355
+72666,Parthenon,Newton County,354
+71855,Ozan,Hempstead County,352
+72412,Beech Grove,Greene County,351
+72533,Fifty Six,Stone County,334
+72683,Vendor,Newton County,334
+72948,Natural Dam,Crawford County,334
+72839,Hagarville,Johnson County,328
+72478,Warm Springs,Randolph County,323
+72584,Violet Hill,Izard County,322
+72140,Saint Charles,Arkansas County,321
+72152,Sherrill,Jefferson County,320
+72841,Harvey,Scott County,316
+71631,Banks,Bradley County,313
+72333,Elaine,Phillips County,311
+72083,Keo,Lonoke County,310
+72520,Camp,Fulton County,307
+72130,Prim,Cleburne County,302
+72760,Saint Paul,Madison County,300
+71965,Pencil Bluff,Montgomery County,298
+72462,Reyno,Randolph County,298
+72749,Morrow,Washington County,296
+72528,Dolph,Izard County,292
+72389,Wabash,Phillips County,287
+72569,Poughkeepsie,Sharp County,279
+72470,Success,Clay County,278
+72624,Compton,Newton County,272
+72440,Lynn,Lawrence County,269
+72860,Rover,Yell County,269
+71725,Carthage,Dallas County,264
+72166,Tichnor,Arkansas County,264
+72072,Humnoke,Lonoke County,260
+72066,Hickory Plains,Prairie County,259
+72555,Marcella,Stone County,256
+72339,Gilmore,Crittenden County,252
+72429,Fisher,Poinsett County,247
+71759,Norphlet,Union County,243
+71853,Ogden,Little River County,231
+72414,Black Oak,Craighead County,227
+72672,Pyatt,Marion County,227
+72682,Valley Springs,Marion County,226
+72435,Knobel,Clay County,224
+71969,Sims,Montgomery County,223
+72629,Dennard,Van Buren County,223
+72567,Pleasant Grove,Stone County,222
+72139,Russell,White County,218
+71847,McCaskill,Hempstead County,210
+71865,Wilton,Little River County,210
+72085,Letona,White County,210
+72061,Guy,Faulkner County,207
+72930,Cecil,Franklin County,207
+72017,Biscoe,Prairie County,203
+72838,Gravelly,Yell County,203
+72026,Casscoe,Arkansas County,201
+72449,O'Kean,Randolph County,193
+72522,Charlotte,Independence County,191
+72852,Oark,Johnson County,189
+72585,Wideman,Izard County,187
+72669,Pindall,Searcy County,186
+72453,Peach Orchard,Clay County,175
+72170,Ulm,Prairie County,174
+72426,Dell,Mississippi County,168
+72524,Cord,Independence County,163
+71922,Antoine,Pike County,159
+72526,Cushman,Independence County,158
+72341,Haynes,Lee County,156
+72359,Madison,St. Francis County,154
+72729,Evansville,Washington County,154
+72670,Ponca,Newton County,153
+71758,Mount Holly,Union County,150
+71820,Alleene,Little River County,149
+71724,Calion,Union County,147
+71745,Harrell,Calhoun County,147
+71859,Saratoga,Hempstead County,146
+71823,Ben Lomond,Sevier County,144
+72457,Portia,Lawrence County,143
+72332,Edmondson,Crittenden County,135
+72747,Maysville,Benton County,135
+71942,Friendship,Hot Spring County,123
+72539,Glencoe,Fulton County,123
+72828,Briggsville,Yell County,123
+71677,Winchester,Drew County,122
+72052,Garner,White County,119
+72578,Sturkie,Fulton County,117
+72630,Diamond City,Boone County,117
+72428,Etowah,Mississippi County,115
+72553,Magness,Independence County,112
+71661,Parkdale,Ashley County,110
+71831,Columbus,Howard County,101
+71662,Pickens,Desha County,100
+72074,Hunter,Woodruff County,100
+72540,Guion,Izard County,99
+72679,Tilly,Searcy County,97
+72169,Tupelo,Jackson County,93
+72107,Menifee,Conway County,92
+72445,Minturn,Lawrence County,91
+71864,Willisville,Nevada County,90
+72180,Woodson,Pulaski County,89
+72517,Brockwell,Izard County,86
+72686,Witts Springs,Pope County,83
+72311,Aubrey,Lee County,80
+72827,Bluffton,Yell County,78
+72038,Crocketts Bluff,Arkansas County,76
+72328,Crumrod,Desha County,73
+72424,Datto,Clay County,67
+72005,Amagon,Jackson County,66
+71722,Bluff City,Nevada County,61
+72048,Ethel,Arkansas County,59
+72322,Caldwell,St. Francis County,56
+72441,McDougal,Clay County,51
+72353,Lambrook,Phillips County,47
+72427,Egypt,Craighead County,46
+72383,Turner,Phillips County,45
+71748,Ivan,Dallas County,44
+72178,West Point,White County,44
+72391,West Ridge,Mississippi County,44
+71952,Langley,Pike County,43
+72340,Goodwin,St. Francis County,43
+71651,Jersey,Bradley County,41
+72615,Bergman,Boone County,41
+72165,Thida,Independence County,40
+72014,Beedeville,Jackson County,38
+72181,Wooster,Faulkner County,37
+72379,Snow Lake,Desha County,34
+71678,Yorktown,Lincoln County,33
+71728,Curtis,Clark County,32
+72377,Rivervale,Poinsett County,32
+72182,Wright,Jefferson County,23
+72053,College Station,Pulaski County,21
+72325,Clarkedale,Crittenden County,19
+71772,Whelen Springs,Clark County,18
+72199,North Little Rock,Pulaski County,18
+72636,Gilbert,Searcy County,16
+72028,Choctaw,Van Buren County,14
+72352,La Grange,Lee County,13
+71659,Moscow,Jefferson County,12
+71666,Rohwer,Desha County,10
+72075,Jacksonport,Jackson County,10
+72464,Saint Francis,Clay County,10
+72826,Blue Mountain,Logan County,10
+72338,Frenchmans Bayou,Mississippi County,8
+71721,Beirne,Clark County,0
+72059,Gregory,Woodruff County,0
+72108,Monroe,Monroe County,0
+72119,North Little Rock,Pulaski County,0
+72133,Reydell,Jefferson County,0
+72313,Bassett,Mississippi County,0
+72329,Driver,Mississippi County,0
+72367,Mellwood,Phillips County,0
+72369,Oneida,Phillips County,0
+72387,Vanndale,Cross County,0
+72515,Bexar,Fulton County,0
+72546,Ida,Cleburne County,0
+72587,Wiseman,Izard County,0
+72829,Centerville,Yell County,0
+72905,Fort Smith,Sebastian County,0

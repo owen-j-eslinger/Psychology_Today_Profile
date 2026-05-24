@@ -1,0 +1,904 @@
+ZIP,City,County,Population
+22193,Woodbridge,Prince William County,"81,588"
+23464,Virginia Beach,Virginia Beach city,"75,061"
+22191,Woodbridge,Prince William County,"73,623"
+20147,Ashburn,Loudoun County,"67,692"
+23322,Chesapeake,Chesapeake city,"66,956"
+23462,Virginia Beach,Virginia Beach city,"66,151"
+22554,Stafford,Stafford County,"65,494"
+22407,Fredericksburg,Spotsylvania County,"65,425"
+20148,Ashburn,Loudoun County,"64,021"
+23456,Virginia Beach,Virginia Beach city,"61,911"
+22030,Fairfax,Fairfax County,"61,332"
+22192,Woodbridge,Prince William County,"59,794"
+23320,Chesapeake,Chesapeake city,"59,108"
+23452,Virginia Beach,Virginia Beach city,"58,455"
+23454,Virginia Beach,Virginia Beach city,"58,178"
+22003,Annandale,Fairfax County,"57,755"
+23112,Midlothian,Chesterfield County,"57,016"
+23185,Williamsburg,James City County,"55,270"
+23223,Richmond,Henrico County,"54,659"
+23434,Suffolk,Suffolk city,"54,387"
+23666,Hampton,Hampton city,"54,233"
+22204,Arlington,Arlington County,"51,921"
+20176,Leesburg,Loudoun County,"51,471"
+20171,Herndon,Fairfax County,"51,286"
+23455,Virginia Beach,Virginia Beach city,"49,977"
+20110,Manassas,Manassas city,"49,890"
+22304,Alexandria,Alexandria city,"48,613"
+24060,Blacksburg,Montgomery County,"48,541"
+23234,Richmond,Chesterfield County,"47,465"
+23188,Williamsburg,James City County,"45,803"
+20109,Manassas,Prince William County,"45,444"
+22015,Burke,Fairfax County,"44,647"
+23451,Virginia Beach,Virginia Beach city,"44,012"
+20170,Herndon,Fairfax County,"43,866"
+23608,Newport News,Newport News city,"43,641"
+20164,Sterling,Loudoun County,"43,436"
+23323,Chesapeake,Chesapeake city,"43,043"
+20120,Centreville,Fairfax County,"42,896"
+23225,Richmond,Richmond city,"42,771"
+23059,Glen Allen,Hanover County,"42,522"
+23602,Newport News,Newport News city,"42,265"
+23803,Petersburg,Dinwiddie County,"42,012"
+24502,Lynchburg,Lynchburg city,"41,979"
+23832,Chesterfield,Chesterfield County,"41,442"
+23224,Richmond,Richmond city,"40,575"
+22903,Charlottesville,Albemarle County,"40,372"
+23321,Chesapeake,Chesapeake city,"40,176"
+22801,Harrisonburg,Rockingham County,"39,983"
+23669,Hampton,Hampton city,"39,884"
+23831,Chester,Chesterfield County,"39,529"
+22033,Fairfax,Fairfax County,"39,526"
+24153,Salem,Roanoke County,"38,914"
+24401,Staunton,Augusta County,"38,756"
+24018,Roanoke,Roanoke County,"38,720"
+23231,Henrico,Henrico County,"38,544"
+22701,Culpeper,Culpeper County,"38,512"
+20111,Manassas,Prince William County,"38,124"
+23111,Mechanicsville,Hanover County,"38,070"
+20105,Aldie,Loudoun County,"37,639"
+20155,Gainesville,Prince William County,"37,486"
+22201,Arlington,Arlington County,"37,473"
+22031,Fairfax,Fairfax County,"37,276"
+22901,Charlottesville,Albemarle County,"37,237"
+22405,Fredericksburg,Stafford County,"36,890"
+20152,Chantilly,Loudoun County,"36,674"
+22314,Alexandria,Alexandria city,"36,612"
+23228,Henrico,Henrico County,"36,527"
+23060,Glen Allen,Henrico County,"36,497"
+23229,Henrico,Henrico County,"35,689"
+22630,Front Royal,Warren County,"35,615"
+22042,Falls Church,Fairfax County,"35,483"
+22207,Arlington,Arlington County,"35,479"
+22079,Lorton,Fairfax County,"35,284"
+20175,Leesburg,Loudoun County,"34,733"
+23220,Richmond,Richmond city,"34,671"
+23453,Virginia Beach,Virginia Beach city,"34,482"
+22309,Alexandria,Fairfax County,"34,316"
+23116,Mechanicsville,Hanover County,"34,188"
+20165,Sterling,Loudoun County,"34,088"
+23435,Suffolk,Suffolk city,"33,721"
+23235,Richmond,Chesterfield County,"33,461"
+22980,Waynesboro,Augusta County,"32,965"
+22602,Winchester,Frederick County,"32,840"
+22153,Springfield,Fairfax County,"32,664"
+20136,Bristow,Prince William County,"32,325"
+22556,Stafford,Stafford County,"31,785"
+22408,Fredericksburg,Spotsylvania County,"31,586"
+23233,Henrico,Henrico County,"31,582"
+23860,Hopewell,Prince George County,"31,404"
+24112,Martinsville,Henry County,"31,028"
+24540,Danville,Pittsylvania County,"31,013"
+20191,Reston,Fairfax County,"31,011"
+22101,McLean,Fairfax County,"30,953"
+22306,Alexandria,Fairfax County,"30,602"
+20112,Manassas,Prince William County,"30,500"
+22315,Alexandria,Fairfax County,"30,404"
+22802,Harrisonburg,Rockingham County,"30,374"
+23503,Norfolk,Norfolk city,"30,216"
+23606,Newport News,Newport News city,"29,971"
+23518,Norfolk,Norfolk city,"29,746"
+24073,Christiansburg,Montgomery County,"29,677"
+22032,Fairfax,Fairfax County,"29,240"
+22601,Winchester,Winchester city,"29,230"
+22102,McLean,Fairfax County,"29,184"
+22041,Falls Church,Fairfax County,"29,183"
+22152,Springfield,Fairfax County,"28,814"
+22401,Fredericksburg,Fredericksburg city,"28,731"
+23513,Norfolk,Norfolk city,"28,628"
+24019,Roanoke,Roanoke County,"28,585"
+24551,Forest,Bedford County,"28,554"
+23505,Norfolk,Norfolk city,"28,247"
+24012,Roanoke,Roanoke city,"28,235"
+22310,Alexandria,Fairfax County,"28,136"
+20169,Haymarket,Prince William County,"28,089"
+24541,Danville,Pittsylvania County,"28,042"
+22150,Springfield,Fairfax County,"27,955"
+23236,Richmond,Chesterfield County,"27,903"
+20121,Centreville,Fairfax County,"27,788"
+22182,Vienna,Fairfax County,"27,783"
+23139,Powhatan,Powhatan County,"27,757"
+22202,Arlington,Arlington County,"27,715"
+23113,Midlothian,Chesterfield County,"27,477"
+22406,Fredericksburg,Stafford County,"27,367"
+22485,King George,King George County,"27,131"
+23237,Richmond,Chesterfield County,"27,126"
+22312,Alexandria,Fairfax County,"26,768"
+23601,Newport News,Newport News city,"26,645"
+23834,Colonial Heights,Chesterfield County,"26,628"
+22203,Arlington,Arlington County,"26,594"
+22180,Vienna,Fairfax County,"26,568"
+23222,Richmond,Henrico County,"26,322"
+23238,Henrico,Goochland County,"26,050"
+22043,Falls Church,Fairfax County,"25,750"
+23703,Portsmouth,Portsmouth city,"25,610"
+24501,Lynchburg,Campbell County,"25,006"
+23227,Richmond,Henrico County,"24,925"
+23324,Chesapeake,Chesapeake city,"24,670"
+23701,Portsmouth,Portsmouth city,"24,298"
+22551,Spotsylvania,Spotsylvania County,"24,146"
+24017,Roanoke,Roanoke city,"23,678"
+23504,Norfolk,Norfolk city,"23,502"
+22902,Charlottesville,Albemarle County,"23,486"
+23061,Gloucester,Gloucester County,"23,308"
+23693,Yorktown,York County,"23,176"
+23607,Newport News,Newport News city,"23,096"
+22026,Dumfries,Prince William County,"22,897"
+22655,Stephens City,Frederick County,"22,687"
+20151,Chantilly,Fairfax County,"22,610"
+20190,Reston,Fairfax County,"22,012"
+23114,Midlothian,Chesterfield County,"21,631"
+24141,Radford,Pulaski County,"21,484"
+23805,Petersburg,Prince George County,"21,408"
+22206,Arlington,Arlington County,"20,703"
+24503,Lynchburg,Bedford County,"20,419"
+23502,Norfolk,Norfolk city,"20,399"
+24523,Bedford,Bedford County,"20,349"
+23294,Henrico,Henrico County,"20,216"
+23005,Ashland,Hanover County,"19,987"
+20132,Purcellville,Loudoun County,"19,817"
+22039,Fairfax Station,Fairfax County,"19,626"
+23508,Norfolk,Norfolk city,"19,432"
+22025,Dumfries,Prince William County,"19,356"
+22311,Alexandria,Alexandria city,"19,337"
+23692,Yorktown,York County,"19,301"
+23704,Portsmouth,Portsmouth city,"19,207"
+23325,Chesapeake,Chesapeake city,"19,138"
+23430,Smithfield,Isle of Wight County,"19,109"
+22911,Charlottesville,Albemarle County,"19,107"
+20187,Warrenton,Fauquier County,"18,980"
+24179,Vinton,Bedford County,"18,773"
+22546,Ruther Glen,Caroline County,"18,392"
+22046,Falls Church,Falls Church city,"18,169"
+24151,Rocky Mount,Franklin County,"18,154"
+22124,Oakton,Fairfax County,"18,091"
+22302,Alexandria,Alexandria city,"18,026"
+22205,Arlington,Arlington County,"17,738"
+24450,Lexington,Rockbridge County,"17,714"
+23838,Chesterfield,Chesterfield County,"17,686"
+23120,Moseley,Chesterfield County,"17,586"
+24333,Galax,Grayson County,"17,390"
+22305,Alexandria,Alexandria city,"17,214"
+22553,Spotsylvania,Spotsylvania County,"17,207"
+22066,Great Falls,Fairfax County,"17,185"
+22603,Winchester,Frederick County,"17,133"
+22151,Springfield,Fairfax County,"17,017"
+22303,Alexandria,Fairfax County,"16,922"
+22963,Palmyra,Fluvanna County,"16,896"
+24210,Abingdon,Washington County,"16,814"
+24201,Bristol,Bristol city,"15,903"
+24015,Roanoke,Roanoke city,"15,865"
+22181,Vienna,Fairfax County,"15,760"
+24572,Madison Heights,Amherst County,"15,744"
+20186,Warrenton,Fauquier County,"15,703"
+22508,Locust Grove,Orange County,"15,557"
+23226,Richmond,Richmond city,"15,477"
+24014,Roanoke,Roanoke County,"15,300"
+23836,Chester,Chesterfield County,"15,298"
+23901,Farmville,Cumberland County,"15,173"
+20166,Sterling,Loudoun County,"14,949"
+23707,Portsmouth,Portsmouth city,"14,766"
+23663,Hampton,Hampton city,"14,656"
+23093,Louisa,Louisa County,"14,647"
+24592,South Boston,Halifax County,"14,589"
+24382,Wytheville,Wythe County,"14,582"
+23221,Richmond,Richmond city,"14,402"
+20124,Clifton,Fairfax County,"14,375"
+22209,Arlington,Arlington County,"14,154"
+22308,Alexandria,Fairfax County,"14,090"
+23661,Hampton,Hampton city,"14,005"
+22044,Falls Church,Fairfax County,"13,996"
+24426,Covington,Alleghany County,"13,872"
+22301,Alexandria,Alexandria city,"13,665"
+24301,Pulaski,Pulaski County,"13,567"
+23605,Newport News,Newport News city,"13,332"
+23072,Hayes,Gloucester County,"13,328"
+23851,Franklin,Southampton County,"13,237"
+23509,Norfolk,Norfolk city,"13,105"
+23875,Prince George,Prince George County,"13,029"
+24354,Marion,Smyth County,"13,001"
+23847,Emporia,Greensville County,"12,956"
+23662,Poquoson,Poquoson city,"12,639"
+23150,Sandston,Henrico County,"12,544"
+23702,Portsmouth,Portsmouth city,"12,485"
+24202,Bristol,Washington County,"12,389"
+20194,Reston,Fairfax County,"12,275"
+22657,Strasburg,Shenandoah County,"12,067"
+24055,Bassett,Henry County,"11,814"
+22960,Orange,Orange County,"11,657"
+22172,Triangle,Prince William County,"11,490"
+24477,Stuarts Draft,Augusta County,"11,482"
+22835,Luray,Page County,"11,314"
+22968,Ruckersville,Greene County,"11,235"
+23024,Bumpass,Louisa County,"11,233"
+23002,Amelia Court House,Amelia County,"10,849"
+20181,Nokesville,Prince William County,"10,774"
+22812,Bridgewater,Rockingham County,"10,660"
+22060,Fort Belvoir,Fairfax County,"10,641"
+24084,Dublin,Pulaski County,"10,604"
+24521,Amherst,Amherst County,"10,599"
+22942,Gordonsville,Louisa County,"10,560"
+22827,Elkton,Rockingham County,"10,529"
+24016,Roanoke,Roanoke city,"10,521"
+23117,Mineral,Louisa County,"10,480"
+24219,Big Stone Gap,Wise County,"10,450"
+22307,Alexandria,Fairfax County,"10,343"
+24121,Moneta,Bedford County,"10,315"
+24211,Abingdon,Washington County,"10,298"
+23314,Carrollton,Isle of Wight County,"10,099"
+24522,Appomattox,Appomattox County,"10,056"
+22443,Colonial Beach,Westmoreland County,"10,011"
+24293,Wise,Wise County,"9,786"
+23168,Toano,James City County,"9,673"
+23511,Norfolk,Norfolk city,"9,664"
+23664,Hampton,Hampton city,"9,643"
+24504,Lynchburg,Campbell County,"9,632"
+22712,Bealeton,Fauquier County,"9,501"
+22664,Woodstock,Shenandoah County,"9,293"
+22611,Berryville,Clarke County,"9,276"
+24343,Hillsville,Carroll County,"9,210"
+24061,Blacksburg,Montgomery County,"9,202"
+23510,Norfolk,Norfolk city,"9,190"
+22932,Crozet,Albemarle County,"9,148"
+24416,Buena Vista,Rockbridge County,"9,082"
+23801,Fort Gregg Adams,Prince George County,"8,993"
+23230,Richmond,Henrico County,"8,910"
+24605,Bluefield,Tazewell County,"8,872"
+24588,Rustburg,Campbell County,"8,817"
+24531,Chatham,Pittsylvania County,"8,695"
+24266,Lebanon,Russell County,"8,688"
+22815,Broadway,Rockingham County,"8,465"
+20141,Round Hill,Loudoun County,"8,359"
+24148,Ridgeway,Henry County,"8,355"
+23075,Henrico,Henrico County,"8,347"
+22134,Quantico,Stafford County,"8,310"
+23009,Aylett,King William County,"8,270"
+24171,Stuart,Patrick County,"8,268"
+24590,Scottsville,Buckingham County,"8,229"
+24550,Evington,Campbell County,"8,190"
+23523,Norfolk,Norfolk city,"8,188"
+20115,Marshall,Fauquier County,"8,173"
+24175,Troutville,Botetourt County,"8,128"
+23970,South Hill,Mecklenburg County,"8,109"
+24013,Roanoke,Roanoke city,"8,026"
+24251,Gate City,Scott County,"7,937"
+23141,Quinton,New Kent County,"7,814"
+23140,Providence Forge,New Kent County,"7,755"
+24557,Gretna,Pittsylvania County,"7,678"
+20180,Lovettsville,Loudoun County,"7,531"
+24091,Floyd,Floyd County,"7,417"
+23936,Dillwyn,Buckingham County,"7,334"
+24319,Chilhowie,Smyth County,"6,997"
+22936,Earlysville,Albemarle County,"6,983"
+23842,Disputanta,Prince George County,"6,924"
+24609,Cedar Bluff,Tazewell County,"6,923"
+23103,Manakin Sabot,Goochland County,"6,922"
+22939,Fishersville,Augusta County,"6,908"
+24230,Coeburn,Wise County,"6,900"
+24614,Grundy,Buchanan County,"6,668"
+23507,Norfolk,Norfolk city,"6,645"
+23192,Montpelier,Hanover County,"6,629"
+22560,Tappahannock,Essex County,"6,612"
+22572,Warsaw,Richmond County,"6,597"
+22824,Edinburg,Shenandoah County,"6,596"
+24065,Boones Mill,Franklin County,"6,565"
+24441,Grottoes,Augusta County,"6,520"
+23487,Windsor,Isle of Wight County,"6,477"
+24558,Halifax,Halifax County,"6,458"
+23824,Blackstone,Nottoway County,"6,455"
+24078,Collinsville,Henry County,"6,438"
+22923,Barboursville,Albemarle County,"6,435"
+24515,Lynchburg,Lynchburg city,"6,391"
+24228,Clintwood,Dickenson County,"6,317"
+22973,Stanardsville,Greene County,"6,292"
+23868,Lawrenceville,Brunswick County,"6,281"
+24101,Hardy,Franklin County,"6,185"
+23063,Goochland,Goochland County,"6,164"
+22821,Dayton,Rockingham County,"6,116"
+24340,Glade Spring,Washington County,"6,111"
+24651,Tazewell,Tazewell County,"5,982"
+24054,Axton,Henry County,"5,957"
+23924,Chase City,Mecklenburg County,"5,915"
+22851,Stanley,Page County,"5,903"
+24277,Pennington Gap,Lee County,"5,839"
+24263,Jonesville,Lee County,"5,830"
+23665,Hampton,Hampton city,"5,810"
+24370,Saltville,Smyth County,"5,766"
+24360,Max Meadows,Wythe County,"5,750"
+22727,Madison,Madison County,"5,742"
+22904,Charlottesville,Albemarle County,"5,729"
+24244,Duffield,Scott County,"5,600"
+24273,Norton,Wise County,"5,593"
+22842,Mount Jackson,Shenandoah County,"5,580"
+24368,Rural Retreat,Wythe County,"5,574"
+23181,West Point,King William County,"5,565"
+23930,Crewe,Nottoway County,"5,508"
+22473,Heathsville,Northumberland County,"5,498"
+24641,Richlands,Tazewell County,"5,446"
+24134,Pearisburg,Giles County,"5,400"
+22656,Stephenson,Frederick County,"5,360"
+22807,Harrisonburg,Harrisonburg city,"5,347"
+24422,Clifton Forge,Alleghany County,"5,334"
+24260,Honaker,Russell County,"5,318"
+24482,Verona,Augusta County,"5,312"
+22974,Troy,Fluvanna County,"5,309"
+24630,North Tazewell,Tazewell County,"5,307"
+24224,Castlewood,Russell County,"5,273"
+22947,Keswick,Albemarle County,"5,256"
+22840,McGaheysville,Rockingham County,"5,239"
+22853,Timberville,Rockingham County,"5,214"
+24563,Hurt,Pittsylvania County,"5,184"
+23867,Jarratt,Sussex County,"5,173"
+22849,Shenandoah,Page County,"5,170"
+23124,New Kent,New Kent County,"5,147"
+22580,Woodford,Caroline County,"5,107"
+23310,Cape Charles,Northampton County,"5,031"
+23437,Suffolk,Suffolk city,"5,023"
+24088,Ferrum,Franklin County,"5,017"
+24517,Altavista,Campbell County,"4,996"
+20158,Hamilton,Loudoun County,"4,979"
+24066,Buchanan,Botetourt County,"4,963"
+24083,Daleville,Botetourt County,"4,948"
+23517,Norfolk,Norfolk city,"4,932"
+24064,Blue Ridge,Bedford County,"4,875"
+24538,Concord,Campbell County,"4,867"
+24348,Independence,Grayson County,"4,855"
+23089,Lanexa,New Kent County,"4,831"
+23457,Virginia Beach,Virginia Beach city,"4,814"
+23927,Clarksville,Mecklenburg County,"4,809"
+24586,Ringgold,Pittsylvania County,"4,807"
+22520,Montross,Westmoreland County,"4,740"
+22844,New Market,Shenandoah County,"4,677"
+24279,Pound,Wise County,"4,671"
+23040,Cumberland,Cumberland County,"4,640"
+22645,Middletown,Frederick County,"4,639"
+23837,Courtland,Southampton County,"4,623"
+23015,Beaverdam,Hanover County,"4,601"
+23690,Yorktown,York County,"4,597"
+23974,Victoria,Lunenburg County,"4,582"
+24577,Nathalie,Halifax County,"4,577"
+24184,Wirtz,Franklin County,"4,527"
+24090,Fincastle,Botetourt County,"4,521"
+24361,Meadowview,Washington County,"4,484"
+23030,Charles City,Charles City County,"4,470"
+23604,Fort Eustis,Newport News city,"4,416"
+24127,New Castle,Craig County,"4,392"
+22427,Bowling Green,Caroline County,"4,356"
+20106,Amissville,Rappahannock County,"4,297"
+22503,Lancaster,Lancaster County,"4,296"
+23421,Parksley,Accomack County,"4,290"
+23922,Burkeville,Nottoway County,"4,197"
+23890,Waverly,Sussex County,"4,167"
+24549,Dry Fork,Pittsylvania County,"4,160"
+23219,Richmond,Richmond city,"4,062"
+24124,Narrows,Giles County,"4,042"
+22213,Arlington,Arlington County,"4,021"
+24149,Riner,Montgomery County,"3,986"
+23944,Kenbridge,Lunenburg County,"3,978"
+24315,Bland,Bland County,"3,978"
+24095,Goodview,Bedford County,"3,962"
+24087,Elliston,Montgomery County,"3,941"
+23696,Seaford,York County,"3,937"
+22642,Linden,Warren County,"3,933"
+22734,Remington,Fauquier County,"3,918"
+23417,Onancock,Accomack County,"3,827"
+23947,Keysville,Lunenburg County,"3,785"
+24637,Pounding Mill,Tazewell County,"3,778"
+23086,King William,King William County,"3,777"
+24528,Brookneal,Campbell County,"3,775"
+24554,Gladys,Campbell County,"3,769"
+22728,Midland,Fauquier County,"3,752"
+24486,Weyers Cave,Augusta County,"3,739"
+24574,Monroe,Amherst County,"3,666"
+22920,Afton,Nelson County,"3,608"
+23102,Maidens,Goochland County,"3,605"
+20135,Bluemont,Clarke County,"3,585"
+23950,La Crosse,Mecklenburg County,"3,510"
+23603,Newport News,Newport News city,"3,504"
+22737,Rixeyville,Culpeper County,"3,465"
+23146,Rockville,Hanover County,"3,451"
+24421,Churchville,Augusta County,"3,450"
+23069,Hanover,Hanover County,"3,425"
+23958,Pamplin,Appomattox County,"3,425"
+20119,Catlett,Fauquier County,"3,416"
+22624,Clear Brook,Frederick County,"3,416"
+24317,Cana,Carroll County,"3,409"
+22625,Cross Junction,Frederick County,"3,376"
+24092,Glade Hill,Franklin County,"3,368"
+23336,Chincoteague Island,Accomack County,"3,319"
+22534,Partlow,Spotsylvania County,"3,290"
+24527,Blairs,Pittsylvania County,"3,262"
+23920,Brodnax,Brunswick County,"3,225"
+23885,Sutherland,Dinwiddie County,"3,193"
+24104,Huddleston,Bedford County,"3,163"
+24136,Pembroke,Giles County,"3,145"
+24236,Damascus,Washington County,"3,109"
+24430,Craigsville,Augusta County,"3,109"
+24381,Woodlawn,Carroll County,"3,091"
+22841,Mount Crawford,Rockingham County,"3,090"
+24380,Willis,Floyd County,"3,088"
+22482,Kilmarnock,Northumberland County,"3,075"
+23841,Dinwiddie,Dinwiddie County,"3,021"
+23350,Exmore,Northampton County,"2,983"
+24256,Haysi,Dickenson County,"2,982"
+24330,Fries,Grayson County,"2,982"
+22620,Boyce,Clarke County,"2,825"
+20117,Middleburg,Loudoun County,"2,790"
+24137,Penhook,Franklin County,"2,767"
+24639,Raven,Buchanan County,"2,736"
+23829,Capron,Southampton County,"2,731"
+22567,Unionville,Orange County,"2,717"
+24440,Greenville,Augusta County,"2,710"
+22843,Mount Solon,Augusta County,"2,697"
+23420,Painter,Accomack County,"2,673"
+24556,Goode,Bedford County,"2,584"
+23872,McKenney,Dinwiddie County,"2,571"
+22644,Maurertown,Shenandoah County,"2,561"
+23881,Spring Grove,Surry County,"2,531"
+23888,Wakefield,Sussex County,"2,528"
+24271,Nickelsville,Scott County,"2,525"
+22724,Jeffersonton,Culpeper County,"2,518"
+23917,Boydton,Mecklenburg County,"2,422"
+22542,Rhoadesville,Orange County,"2,418"
+23149,Saluda,Middlesex County,"2,414"
+24053,Ararat,Patrick County,"2,414"
+22967,Roseland,Nelson County,"2,413"
+23921,Buckingham,Buckingham County,"2,408"
+24631,Oakwood,Buchanan County,"2,397"
+23954,Meherrin,Prince Edward County,"2,396"
+24085,Eagle Rock,Botetourt County,"2,391"
+24067,Callaway,Franklin County,"2,371"
+23308,Bloxom,Accomack County,"2,370"
+23284,Richmond,Richmond city,"2,362"
+22971,Shipman,Nelson County,"2,359"
+22578,White Stone,Lancaster County,"2,353"
+24445,Hot Springs,Bath County,"2,332"
+23109,Mathews,Mathews County,"2,327"
+24467,Mount Sidney,Augusta County,"2,318"
+22958,Nellysford,Nelson County,"2,306"
+23919,Bracey,Mecklenburg County,"2,306"
+23410,Melfa,Accomack County,"2,305"
+24656,Vansant,Buchanan County,"2,305"
+24324,Draper,Pulaski County,"2,298"
+22454,Dunnsville,Essex County,"2,290"
+22514,Milford,Caroline County,"2,290"
+23415,New Church,Accomack County,"2,289"
+24290,Weber City,Scott County,"2,274"
+24620,Hurley,Buchanan County,"2,270"
+24089,Fieldale,Henry County,"2,265"
+24162,Shawsville,Montgomery County,"2,259"
+20198,The Plains,Fauquier County,"2,251"
+23898,Zuni,Isle of Wight County,"2,246"
+24216,Appalachia,Wise County,"2,246"
+22922,Arrington,Nelson County,"2,226"
+23083,Jetersville,Amelia County,"2,220"
+24133,Patrick Springs,Patrick County,"2,219"
+22435,Callao,Northumberland County,"2,215"
+23833,Church Road,Dinwiddie County,"2,212"
+22830,Fulks Run,Rockingham County,"2,209"
+24248,Ewing,Lee County,"2,207"
+24142,Radford,Radford city,"2,205"
+24174,Thaxton,Bedford County,"2,191"
+23960,Prospect,Prince Edward County,"2,176"
+24431,Crimora,Augusta County,"2,176"
+24472,Raphine,Rockbridge County,"2,176"
+24593,Spout Spring,Appomattox County,"2,162"
+24649,Swords Creek,Russell County,"2,135"
+24555,Glasgow,Rockbridge County,"2,123"
+22610,Bentonville,Warren County,"2,113"
+24226,Clinchco,Dickenson County,"2,110"
+23173,Richmond,Richmond city,"2,107"
+24571,Lynch Station,Campbell County,"2,092"
+22539,Reedville,Northumberland County,"2,074"
+23923,Charlotte Court House,Charlotte County,"2,063"
+23175,Urbanna,Middlesex County,"2,053"
+23966,Rice,Prince Edward County,"2,010"
+23123,New Canton,Buckingham County,"1,995"
+23821,Alberta,Brunswick County,"1,983"
+22469,Hague,Westmoreland County,"1,967"
+23866,Ivor,Southampton County,"1,943"
+22027,Dunn Loring,Fairfax County,"1,939"
+20137,Broad Run,Fauquier County,"1,938"
+22637,Gore,Frederick County,"1,933"
+24520,Alton,Halifax County,"1,931"
+22959,North Garden,Albemarle County,"1,923"
+23937,Drakes Branch,Charlotte County,"1,915"
+24328,Fancy Gap,Carroll County,"1,915"
+24281,Rose Hill,Lee County,"1,890"
+23071,Hartfield,Middlesex County,"1,879"
+24165,Spencer,Henry County,"1,875"
+23883,Surry,Surry County,"1,870"
+24069,Cascade,Pittsylvania County,"1,861"
+23882,Stony Creek,Sussex County,"1,848"
+24283,Saint Paul,Wise County,"1,832"
+20197,Waterford,Loudoun County,"1,825"
+23301,Accomac,Accomack County,"1,804"
+24225,Cleveland,Russell County,"1,791"
+24479,Swoope,Augusta County,"1,791"
+24471,Port Republic,Rockingham County,"1,768"
+24435,Fairfield,Rockbridge County,"1,764"
+24589,Scottsburg,Halifax County,"1,763"
+22460,Farnham,Richmond County,"1,757"
+23438,Suffolk,Suffolk city,"1,749"
+23062,Gloucester Point,Gloucester County,"1,745"
+22937,Esmont,Albemarle County,"1,743"
+23840,Dewitt,Dinwiddie County,"1,733"
+23306,Belle Haven,Accomack County,"1,729"
+22733,Rapidan,Culpeper County,"1,711"
+24375,Sugar Grove,Smyth County,"1,711"
+22663,White Post,Clarke County,"1,705"
+23551,Norfolk,Norfolk city,"1,702"
+22952,Lyndhurst,Augusta County,"1,694"
+23011,Barhamsville,New Kent County,"1,682"
+24347,Hiwassee,Pulaski County,"1,677"
+24534,Clover,Halifax County,"1,655"
+23084,Kents Store,Fluvanna County,"1,652"
+24312,Austinville,Carroll County,"1,650"
+22735,Reva,Madison County,"1,628"
+23043,Deltaville,Middlesex County,"1,628"
+23356,Greenbackville,Accomack County,"1,628"
+22652,Fort Valley,Shenandoah County,"1,625"
+23027,Cartersville,Cumberland County,"1,612"
+24553,Gladstone,Buckingham County,"1,610"
+22742,Sumerduck,Fauquier County,"1,596"
+24120,Meadows Of Dan,Patrick County,"1,591"
+23153,Sandy Hook,Goochland County,"1,586"
+24176,Union Hall,Franklin County,"1,586"
+22715,Brightwood,Madison County,"1,552"
+24311,Atkins,Smyth County,"1,526"
+22720,Goldvein,Fauquier County,"1,497"
+22846,Penn Laird,Rockingham County,"1,496"
+23035,Cobbs Creek,Mathews County,"1,495"
+23967,Saxe,Charlotte County,"1,495"
+24526,Big Island,Bedford County,"1,494"
+24122,Montvale,Bedford County,"1,492"
+22713,Boston,Culpeper County,"1,489"
+23038,Columbia,Goochland County,"1,471"
+23148,Saint Stephens Church,King and Queen County,"1,471"
+22660,Toms Brook,Shenandoah County,"1,468"
+24437,Fort Defiance,Augusta County,"1,468"
+24243,Dryden,Lee County,"1,452"
+24128,Newport,Giles County,"1,450"
+23891,Waverly,Sussex County,"1,449"
+24138,Pilot,Montgomery County,"1,432"
+22969,Schuyler,Nelson County,"1,429"
+22576,Weems,Lancaster County,"1,427"
+22949,Lovingston,Nelson County,"1,426"
+23830,Carson,Dinwiddie County,"1,412"
+24465,Monterey,Highland County,"1,403"
+23315,Carrsville,Isle of Wight County,"1,391"
+23433,Suffolk,Suffolk city,"1,391"
+24079,Copper Hill,Floyd County,"1,389"
+23047,Doswell,Hanover County,"1,381"
+24352,Laurel Fork,Carroll County,"1,381"
+22488,Kinsale,Westmoreland County,"1,367"
+23915,Baskerville,Mecklenburg County,"1,360"
+24147,Rich Creek,Giles County,"1,352"
+24529,Buffalo Junction,Mecklenburg County,"1,345"
+20144,Delaplane,Fauquier County,"1,340"
+23459,Virginia Beach,Virginia Beach city,"1,324"
+24314,Bastian,Bland County,"1,324"
+24598,Virgilina,Halifax County,"1,309"
+23065,Gum Spring,Goochland County,"1,292"
+24102,Henry,Franklin County,"1,291"
+24070,Catawba,Roanoke County,"1,271"
+24250,Fort Blackmore,Scott County,"1,268"
+24594,Sutherlin,Halifax County,"1,250"
+22511,Lottsburg,Northumberland County,"1,239"
+24072,Check,Floyd County,"1,238"
+23405,Machipongo,Northampton County,"1,237"
+22850,Singers Glen,Rockingham County,"1,218"
+23878,Sedley,Southampton County,"1,217"
+24602,Bandy,Tazewell County,"1,213"
+22716,Castleton,Rappahannock County,"1,200"
+23138,Port Haywood,Mathews County,"1,198"
+23160,State Farm,Powhatan County,"1,186"
+24282,Saint Charles,Lee County,"1,181"
+23432,Suffolk,Suffolk city,"1,180"
+22740,Sperryville,Rappahannock County,"1,179"
+24258,Hiltons,Scott County,"1,163"
+23850,Ford,Dinwiddie County,"1,161"
+23156,Shacklefords,King and Queen County,"1,158"
+23959,Phenix,Charlotte County,"1,154"
+22729,Mitchells,Culpeper County,"1,148"
+24265,Keokee,Lee County,"1,140"
+22832,Keezletown,Rockingham County,"1,136"
+24350,Ivanhoe,Wythe County,"1,130"
+24439,Goshen,Rockbridge County,"1,124"
+24460,Millboro,Bath County,"1,119"
+23909,Farmville,Prince Edward County,"1,109"
+24579,Natural Bridge Station,Rockbridge County,"1,107"
+23169,Topping,Middlesex County,"1,104"
+24565,Java,Pittsylvania County,"1,098"
+23827,Boykins,Southampton County,"1,091"
+24566,Keeling,Pittsylvania County,"1,084"
+20143,Catharpin,Prince William County,"1,070"
+22940,Free Union,Albemarle County,"1,066"
+23943,Hampden Sydney,Prince Edward County,"1,066"
+24237,Dante,Dickenson County,"1,064"
+24569,Long Island,Pittsylvania County,"1,059"
+24378,Troutdale,Grayson County,"1,056"
+22847,Quicksburg,Shenandoah County,"1,054"
+24245,Dungannon,Scott County,"1,053"
+23460,Virginia Beach,Virginia Beach city,"1,041"
+22654,Star Tannery,Frederick County,"1,040"
+24363,Mouth Of Wilson,Grayson County,"1,031"
+22650,Rileyville,Page County,"1,007"
+23022,Bremo Bluff,Fluvanna County,"1,006"
+23055,Fork Union,Fluvanna County,"1,004"
+23942,Green Bay,Prince Edward County,"1,001"
+23839,Dendron,Surry County,993
+24325,Dugspur,Carroll County,979
+24473,Rockbridge Baths,Rockbridge County,979
+22747,Washington,Rappahannock County,967
+22472,Haynesville,Richmond County,960
+22834,Linville,Rockingham County,956
+23897,Yale,Sussex County,949
+22211,Fort Myer,Arlington County,947
+22714,Brandy Station,Culpeper County,946
+22627,Flint Hill,Rappahannock County,945
+23461,Virginia Beach,Virginia Beach city,943
+24077,Cloverdale,Botetourt County,943
+23359,Hallwood,Accomack County,940
+23039,Crozier,Goochland County,938
+22738,Rochelle,Madison County,928
+22709,Aroda,Madison County,920
+23106,Manquin,King William County,917
+23964,Red Oak,Charlotte County,903
+22480,Irvington,Lancaster County,898
+24185,Woolwine,Patrick County,894
+24059,Bent Mountain,Roanoke County,893
+23357,Greenbush,Accomack County,890
+22938,Faber,Nelson County,884
+24150,Ripplemead,Giles County,883
+23436,Suffolk,Suffolk city,882
+24326,Elk Creek,Grayson County,858
+22736,Richardsville,Culpeper County,844
+22718,Elkwood,Culpeper County,826
+24562,Howardsville,Buckingham County,820
+23004,Arvonia,Buckingham County,819
+24313,Barren Springs,Wythe County,806
+24076,Claudville,Patrick County,801
+24323,Crockett,Wythe County,798
+22436,Caret,Essex County,791
+24011,Roanoke,Roanoke city,784
+24280,Rosedale,Russell County,784
+24635,Pocahontas,Tazewell County,779
+23413,Nassawadox,Northampton County,776
+22448,Dahlgren,King George County,765
+23092,Locust Hill,Middlesex County,765
+23110,Mattaponi,King and Queen County,764
+23418,Onley,Accomack County,753
+23668,Hampton,Hampton city,723
+23846,Elberon,Surry County,709
+23962,Randolph,Charlotte County,705
+24161,Sandy Level,Pittsylvania County,703
+23307,Birdsnest,Northampton County,701
+24132,Parrott,Pulaski County,694
+24597,Vernon Hill,Halifax County,691
+23025,Cardinal,Mathews County,686
+22125,Occoquan,Prince William County,681
+24530,Callands,Pittsylvania County,678
+23176,Wake,Middlesex County,677
+23874,Newsoms,Southampton County,673
+23968,Skipwith,Mecklenburg County,671
+24646,Rowe,Buchanan County,667
+23337,Wallops Island,Accomack County,666
+22726,Lignum,Culpeper County,660
+24139,Pittsville,Pittsylvania County,654
+22623,Chester Gap,Rappahannock County,641
+20184,Upperville,Loudoun County,635
+24221,Blackwater,Lee County,633
+24603,Big Rock,Buchanan County,632
+23887,Valentines,Brunswick County,631
+24595,Sweet Briar,Amherst County,630
+23070,Hardyville,Middlesex County,616
+23177,Walkerton,King and Queen County,608
+22639,Hume,Fauquier County,606
+24327,Emory,Washington County,598
+24020,Roanoke,Roanoke County,583
+22437,Center Cross,King and Queen County,582
+23828,Branchville,Southampton County,577
+22935,Dyke,Greene County,575
+24377,Tannersville,Tazewell County,569
+24487,Williamsville,Highland County,566
+23889,Warfield,Brunswick County,565
+23091,Little Plymouth,King and Queen County,562
+24351,Lambsburg,Carroll County,562
+22640,Huntly,Rappahannock County,556
+24292,Whitetop,Grayson County,555
+23076,Hudgins,Mathews County,552
+24432,Deerfield,Augusta County,544
+23856,Freeman,Brunswick County,540
+22746,Viewtown,Culpeper County,539
+20129,Paeonian Springs,Loudoun County,538
+24459,Middlebrook,Augusta County,535
+22810,Basye,Shenandoah County,532
+24622,Jewell Ridge,Buchanan County,527
+23844,Drewryville,Southampton County,522
+23066,Gwynn,Mathews County,514
+23709,Portsmouth,Portsmouth city,510
+23893,White Plains,Brunswick County,504
+24220,Birchleaf,Dickenson County,503
+23347,Eastville,Northampton County,502
+23442,Temperanceville,Accomack County,488
+24484,Warm Springs,Bath County,486
+23023,Bruington,King and Queen County,482
+23180,Water View,Middlesex County,479
+24483,Vesuvius,Rockbridge County,475
+24217,Bee,Dickenson County,474
+24599,Wingina,Buckingham County,470
+23963,Red House,Charlotte County,468
+23395,Horntown,Accomack County,466
+24366,Rocky Gap,Bland County,466
+23691,Yorktown,York County,464
+22535,Port Royal,Caroline County,460
+24578,Natural Bridge,Rockbridge County,457
+22722,Haywood,Madison County,448
+23843,Dolphin,Brunswick County,446
+23934,Cullen,Prince Edward County,441
+23651,Fort Monroe,Hampton city,439
+23050,Dutton,Mathews County,437
+23354,Franktown,Northampton County,433
+24105,Indian Valley,Floyd County,426
+24457,Low Moor,Alleghany County,425
+22741,Stevensburg,Culpeper County,421
+24448,Iron Gate,Alleghany County,420
+24270,Mendota,Washington County,416
+24374,Speedwell,Wythe County,411
+23126,Newtown,King and Queen County,410
+24536,Coleman Falls,Bedford County,406
+22943,Greenwood,Albemarle County,402
+23079,Jamaica,Middlesex County,400
+23085,King And Queen Court House,King and Queen County,393
+23899,Claremont,Surry County,387
+23879,Skippers,Greensville County,386
+24318,Ceres,Bland County,376
+23128,North,Mathews County,367
+24580,Nelson,Mecklenburg County,360
+22831,Hinton,Rockingham County,352
+23857,Gasburg,Brunswick County,352
+22538,Rappahannock Academy,Caroline County,348
+22719,Etlan,Madison County,348
+24485,West Augusta,Augusta County,346
+23303,Atlantic,Accomack County,342
+23480,Wachapreague,Accomack County,338
+24634,Pilgrims Knob,Buchanan County,338
+23161,Stevensville,King and Queen County,337
+22730,Oakpark,Madison County,336
+23068,Hallieford,Mathews County,333
+23894,Wilsons,Dinwiddie County,326
+22811,Bergton,Rockingham County,316
+24272,Nora,Dickenson County,316
+24607,Breaks,Buchanan County,313
+24606,Boissevain,Tazewell County,310
+23129,Oilville,Goochland County,305
+23938,Dundas,Brunswick County,295
+24082,Critz,Patrick County,291
+22972,Somerset,Orange County,290
+23401,Keller,Accomack County,288
+23119,Moon,Mathews County,284
+24058,Belspring,Pulaski County,281
+23845,Ebony,Brunswick County,280
+23486,Willis Wharf,Northampton County,278
+22743,Syria,Madison County,276
+24613,Falls Mills,Tazewell County,276
+24167,Staffordsville,Giles County,275
+20130,Paris,Clarke County,271
+23407,Mappsville,Accomack County,270
+23708,Portsmouth,Portsmouth city,269
+24086,Eggleston,Giles County,263
+22732,Radiant,Madison County,262
+22432,Burgess,Northumberland County,256
+22438,Champlain,Essex County,252
+23440,Tangier,Accomack County,252
+23876,Rawlings,Brunswick County,252
+24413,Blue Grass,Highland County,251
+24657,Whitewood,Buchanan County,250
+22749,Woodville,Rappahannock County,244
+24458,McDowell,Highland County,244
+23358,Hacksneck,Accomack County,236
+24604,Bishop,Tazewell County,230
+22504,Laneview,Essex County,227
+24476,Steeles Tavern,Augusta County,227
+22476,Hustle,Essex County,224
+23423,Quinby,Accomack County,219
+23427,Saxis,Accomack County,218
+24269,McClure,Dickenson County,209
+24412,Bacova,Bath County,205
+24168,Stanleytown,Henry County,204
+23422,Pungoteague,Accomack County,202
+22529,Oldhams,Westmoreland County,200
+22946,Keene,Albemarle County,195
+24464,Montebello,Nelson County,190
+23056,Foster,Mathews County,175
+22641,Strasburg,Shenandoah County,165
+24539,Crystal Hill,Halifax County,159
+22976,Tyro,Nelson County,149
+24474,Selma,Alleghany County,146
+22931,Covesville,Albemarle County,145
+22711,Banco,Madison County,139
+22643,Markham,Fauquier County,137
+22948,Locust Dale,Madison County,137
+24322,Cripple Creek,Wythe County,124
+22820,Criders,Rockingham County,118
+22548,Sharps,Richmond County,115
+24129,New River,Pulaski County,114
+24612,Doran,Tazewell County,113
+22433,Burr Hill,Orange County,111
+23302,Assawoman,Accomack County,111
+23032,Church View,Middlesex County,109
+23409,Mears,Accomack County,109
+24093,Glen Lyn,Giles County,102
+22725,Leon,Madison County,99
+22964,Piney River,Nelson County,99
+23298,Richmond,Richmond city,98
+23976,Wylliesburg,Charlotte County,97
+23416,Oak Hall,Accomack County,96
+23130,Onemo,Mathews County,94
+23389,Harborton,Accomack County,92
+23316,Cheriton,Northampton County,91
+24415,Brownsburg,Rockbridge County,90
+24433,Doe Hill,Highland County,88
+23952,Lunenburg,Lunenburg County,84
+23163,Susan,Mathews County,78
+24246,East Stone Gap,Wise County,78
+22509,Loretto,Essex County,74
+22731,Pratts,Madison County,70
+24442,Head Waters,Highland County,68
+23488,Withams,Accomack County,62
+22723,Hood,Madison County,52
+22989,Woodberry Forest,Madison County,49
+22845,Orkney Springs,Shenandoah County,48
+24316,Broadford,Tazewell County,46
+23304,Battery Park,Isle of Wight County,45
+24239,Davenport,Buchanan County,38
+23426,Sanford,Accomack County,37
+23884,Sussex,Sussex County,29
+23398,Jamesville,Northampton County,27
+23414,Nelsonia,Accomack County,26
+23045,Diggs,Mathews County,25
+23108,Mascot,King and Queen County,22
+23147,Ruthville,Charles City County,22
+23021,Bohannon,Mathews County,19
+23955,Nottoway,Nottoway County,14
+24131,Paint Bank,Craig County,10
+24411,Augusta Springs,Augusta County,2
+22035,Fairfax,Fairfax County,0
+22214,Arlington,Arlington County,0
+22646,Millwood,Clarke County,0
+22908,Charlottesville,Charlottesville city,0
+22957,Montpelier Station,Orange County,0
+23081,Jamestown,James City County,0
+23250,Richmond,Henrico County,0
+23408,Marionville,Northampton County,0
+23441,Tasley,Accomack County,0
+23667,Hampton,Hampton city,0
+23681,Hampton,Hampton city,0
+23870,Jarratt,Greensville County,0
+24022,Roanoke,Roanoke city,0
+24469,New Hope,Augusta County,0
+24570,Lowry,Bedford County,0
+24581,Norwood,Nelson County,0
+24601,Amonate,Tazewell County,0

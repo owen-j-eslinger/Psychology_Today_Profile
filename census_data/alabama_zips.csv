@@ -1,0 +1,657 @@
+ZIP,City,County,Population
+35242,Birmingham,Shelby County,"57,374"
+36117,Montgomery,Montgomery County,"53,172"
+36695,Mobile,Mobile County,"52,690"
+35758,Madison,Madison County,"50,266"
+35405,Tuscaloosa,Tuscaloosa County,"49,420"
+36830,Auburn,Lee County,"49,292"
+36116,Montgomery,Montgomery County,"45,250"
+35215,Birmingham,Jefferson County,"43,903"
+35401,Tuscaloosa,Tuscaloosa County,"43,459"
+36535,Foley,Baldwin County,"40,628"
+36330,Enterprise,Coffee County,"39,557"
+36301,Dothan,Houston County,"39,452"
+36608,Mobile,Mobile County,"38,890"
+35226,Birmingham,Jefferson County,"38,588"
+35244,Birmingham,Shelby County,"38,217"
+36532,Fairhope,Baldwin County,"38,108"
+36526,Daphne,Baldwin County,"36,484"
+35601,Decatur,Morgan County,"35,449"
+35216,Birmingham,Jefferson County,"34,327"
+35630,Florence,Lauderdale County,"34,028"
+35810,Huntsville,Madison County,"32,843"
+35209,Birmingham,Jefferson County,"32,734"
+35603,Decatur,Morgan County,"32,179"
+35173,Trussville,Jefferson County,"31,603"
+35811,Huntsville,Madison County,"31,008"
+36832,Auburn,Lee County,"30,959"
+35749,Harvest,Madison County,"30,710"
+36303,Dothan,Houston County,"30,173"
+35611,Athens,Limestone County,"29,969"
+35803,Huntsville,Madison County,"29,197"
+35806,Huntsville,Madison County,"29,161"
+35007,Alabaster,Shelby County,"28,586"
+36067,Prattville,Autauga County,"28,293"
+35640,Hartselle,Morgan County,"27,344"
+35160,Talladega,Talladega County,"26,031"
+35023,Bessemer,Jefferson County,"25,533"
+35613,Athens,Limestone County,"25,523"
+36801,Opelika,Lee County,"25,438"
+35124,Pelham,Shelby County,"25,238"
+36605,Mobile,Mobile County,"25,104"
+35756,Madison,Limestone County,"24,947"
+35211,Birmingham,Jefferson County,"24,924"
+35020,Bessemer,Jefferson County,"24,892"
+35802,Huntsville,Madison County,"23,858"
+36609,Mobile,Mobile County,"23,820"
+36582,Theodore,Mobile County,"23,705"
+36109,Montgomery,Montgomery County,"23,581"
+36575,Semmes,Mobile County,"23,481"
+35801,Huntsville,Madison County,"23,357"
+35022,Bessemer,Jefferson County,"23,126"
+35055,Cullman,Cullman County,"23,115"
+36867,Phenix City,Russell County,"22,821"
+36066,Prattville,Autauga County,"22,632"
+35950,Albertville,Marshall County,"22,603"
+35126,Pinson,Jefferson County,"22,599"
+36265,Jacksonville,Calhoun County,"22,452"
+35404,Tuscaloosa,Tuscaloosa County,"22,445"
+36092,Wetumpka,Elmore County,"22,242"
+36701,Selma,Dallas County,"22,183"
+36527,Daphne,Baldwin County,"21,765"
+36869,Phenix City,Russell County,"21,518"
+35805,Huntsville,Madison County,"20,856"
+35633,Florence,Lauderdale County,"20,813"
+35475,Northport,Tuscaloosa County,"20,745"
+36507,Bay Minette,Baldwin County,"20,641"
+36804,Opelika,Lee County,"20,535"
+35235,Birmingham,Jefferson County,"20,526"
+35111,McCalla,Jefferson County,"20,342"
+35080,Helena,Shelby County,"20,251"
+35674,Tuscumbia,Colbert County,"20,176"
+35763,Owens Cross Roads,Madison County,"19,819"
+35010,Alexander City,Tallapoosa County,"19,347"
+35040,Calera,Shelby County,"19,304"
+36207,Anniston,Calhoun County,"19,220"
+35661,Muscle Shoals,Colbert County,"19,169"
+36360,Ozark,Dale County,"19,060"
+36203,Oxford,Calhoun County,"18,919"
+36542,Gulf Shores,Baldwin County,"18,906"
+35406,Tuscaloosa,Tuscaloosa County,"18,904"
+35205,Birmingham,Jefferson County,"18,858"
+35901,Gadsden,Etowah County,"18,769"
+36606,Mobile,Mobile County,"18,728"
+36693,Mobile,Mobile County,"18,726"
+35757,Madison,Madison County,"18,529"
+35473,Northport,Tuscaloosa County,"18,198"
+35243,Birmingham,Jefferson County,"18,176"
+36870,Phenix City,Lee County,"17,951"
+36618,Mobile,Mobile County,"17,892"
+35120,Odenville,St. Clair County,"17,730"
+35115,Montevallo,Shelby County,"17,610"
+36305,Dothan,Houston County,"17,610"
+35150,Sylacauga,Talladega County,"17,305"
+35071,Gardendale,Jefferson County,"17,288"
+35016,Arab,Marshall County,"17,158"
+36571,Saraland,Mobile County,"17,143"
+35903,Gadsden,Etowah County,"17,113"
+35214,Birmingham,Jefferson County,"17,027"
+36201,Anniston,Calhoun County,"16,993"
+35967,Fort Payne,DeKalb County,"16,957"
+35976,Guntersville,Marshall County,"16,794"
+35957,Boaz,Marshall County,"16,737"
+36854,Valley,Chambers County,"16,537"
+36426,Brewton,Escambia County,"16,407"
+35121,Oneonta,Blount County,"16,170"
+36567,Robertsdale,Baldwin County,"16,095"
+35816,Huntsville,Madison County,"15,939"
+35043,Chelsea,Shelby County,"15,837"
+36022,Deatsville,Elmore County,"15,672"
+35206,Birmingham,Jefferson County,"15,621"
+35213,Birmingham,Jefferson County,"15,603"
+36541,Grand Bay,Mobile County,"15,590"
+36502,Atmore,Escambia County,"15,558"
+35045,Clanton,Chilton County,"15,324"
+36081,Troy,Pike County,"15,143"
+35951,Albertville,Marshall County,"14,869"
+36027,Eufaula,Barbour County,"14,869"
+35094,Leeds,Jefferson County,"14,854"
+36108,Montgomery,Montgomery County,"14,766"
+35057,Cullman,Cullman County,"14,730"
+36619,Mobile,Mobile County,"14,697"
+35773,Toney,Madison County,"14,606"
+36054,Millbrook,Elmore County,"14,600"
+35504,Jasper,Walker County,"14,332"
+36877,Smiths Station,Lee County,"14,134"
+35759,Meridianville,Madison County,"14,103"
+36064,Pike Road,Montgomery County,"14,103"
+36106,Montgomery,Montgomery County,"14,065"
+35904,Gadsden,Etowah County,"14,015"
+35146,Springville,St. Clair County,"13,973"
+35645,Killen,Lauderdale County,"13,960"
+35210,Birmingham,Jefferson County,"13,775"
+36078,Tallassee,Elmore County,"13,767"
+35761,New Market,Madison County,"13,557"
+35650,Moulton,Lawrence County,"13,473"
+35750,Hazel Green,Madison County,"13,413"
+35208,Birmingham,Jefferson County,"13,412"
+35077,Hanceville,Cullman County,"13,107"
+35180,Warrior,Jefferson County,"12,973"
+36272,Piedmont,Cherokee County,"12,954"
+36037,Greenville,Butler County,"12,933"
+35453,Cottondale,Tuscaloosa County,"12,620"
+36551,Loxley,Baldwin County,"12,458"
+35768,Scottsboro,Jackson County,"12,370"
+35217,Birmingham,Jefferson County,"12,240"
+36613,Eight Mile,Mobile County,"12,234"
+35004,Moody,St. Clair County,"12,155"
+36110,Montgomery,Montgomery County,"12,102"
+35954,Attalla,Etowah County,"12,054"
+36587,Wilmer,Mobile County,"12,013"
+36111,Montgomery,Montgomery County,"11,938"
+36863,Lanett,Chambers County,"11,919"
+35058,Cullman,Cullman County,"11,545"
+35653,Russellville,Franklin County,"11,481"
+36093,Wetumpka,Elmore County,"11,410"
+35125,Pell City,St. Clair County,"11,279"
+36206,Anniston,Calhoun County,"11,172"
+35570,Hamilton,Marion County,"11,138"
+36617,Mobile,Mobile County,"11,128"
+35620,Elkmont,Limestone County,"10,905"
+35223,Birmingham,Jefferson County,"10,666"
+35565,Haleyville,Winston County,"10,642"
+35128,Pell City,St. Clair County,"10,546"
+36104,Montgomery,Montgomery County,"10,535"
+36544,Irvington,Mobile County,"10,521"
+36420,Andalusia,Covington County,"10,463"
+35906,Rainbow City,Etowah County,"10,446"
+35634,Florence,Lauderdale County,"10,241"
+35228,Birmingham,Jefferson County,"10,216"
+35212,Birmingham,Jefferson County,"10,160"
+35079,Hayden,Blount County,"10,087"
+36274,Roanoke,Randolph County,"9,968"
+35501,Jasper,Walker County,"9,927"
+35769,Scottsboro,Jackson County,"9,908"
+36610,Mobile,Mobile County,"9,877"
+35064,Fairfield,Jefferson County,"9,872"
+35051,Columbiana,Shelby County,"9,818"
+36421,Andalusia,Covington County,"9,799"
+35960,Centre,Cherokee County,"9,703"
+35474,Moundville,Hale County,"9,654"
+35824,Huntsville,Madison County,"9,645"
+36460,Monroeville,Monroe County,"9,640"
+36467,Opp,Covington County,"9,575"
+36853,Dadeville,Tallapoosa County,"9,541"
+36561,Orange Beach,Baldwin County,"9,528"
+35127,Pleasant Grove,Jefferson County,"9,442"
+35096,Lincoln,Talladega County,"9,415"
+35660,Sheffield,Colbert County,"9,367"
+35907,Gadsden,Etowah County,"9,357"
+35503,Jasper,Walker County,"9,329"
+35555,Fayette,Fayette County,"9,271"
+36105,Montgomery,Montgomery County,"9,207"
+36079,Troy,Pike County,"9,174"
+35652,Rogersville,Lauderdale County,"9,173"
+36703,Selma,Dallas County,"9,125"
+36083,Tuskegee,Macon County,"9,109"
+36874,Salem,Lee County,"9,096"
+35179,Vinemont,Cullman County,"9,082"
+35204,Birmingham,Jefferson County,"8,953"
+35062,Dora,Jefferson County,"8,864"
+36604,Mobile,Mobile County,"8,836"
+35654,Russellville,Franklin County,"8,749"
+35956,Boaz,Etowah County,"8,748"
+36856,Fort Mitchell,Russell County,"8,716"
+36345,Headland,Henry County,"8,689"
+35085,Jemison,Chilton County,"8,683"
+36545,Jackson,Clarke County,"8,673"
+35962,Crossville,DeKalb County,"8,666"
+35476,Northport,Tuscaloosa County,"8,521"
+35952,Altoona,Etowah County,"8,415"
+36732,Demopolis,Marengo County,"8,387"
+35068,Fultondale,Jefferson County,"8,378"
+35222,Birmingham,Jefferson County,"8,361"
+35005,Adamsville,Jefferson County,"8,247"
+35986,Rainsville,DeKalb County,"8,207"
+36264,Heflin,Cleburne County,"8,025"
+36107,Montgomery,Montgomery County,"8,001"
+35031,Blountsville,Blount County,"7,973"
+36323,Elba,Coffee County,"7,967"
+36322,Daleville,Dale County,"7,959"
+35114,Alabaster,Shelby County,"7,922"
+36375,Slocomb,Geneva County,"7,884"
+35044,Childersburg,Talladega County,"7,837"
+36089,Union Springs,Bullock County,"7,802"
+35670,Somerville,Morgan County,"7,760"
+36603,Mobile,Mobile County,"7,760"
+35207,Birmingham,Jefferson County,"7,709"
+36350,Midland City,Dale County,"7,659"
+35614,Athens,Limestone County,"7,618"
+35748,Gurley,Madison County,"7,578"
+35151,Sylacauga,Talladega County,"7,482"
+35594,Winfield,Fayette County,"7,453"
+36025,Elmore,Elmore County,"7,450"
+36530,Elberta,Baldwin County,"7,409"
+36401,Evergreen,Conecuh County,"7,342"
+35673,Trinity,Lawrence County,"7,250"
+36522,Citronelle,Mobile County,"7,116"
+35953,Ashville,St. Clair County,"7,083"
+35218,Birmingham,Jefferson County,"6,981"
+36572,Satsuma,Mobile County,"6,922"
+35147,Sterrett,Shelby County,"6,897"
+35622,Falkville,Morgan County,"6,830"
+36580,Summerdale,Baldwin County,"6,638"
+35747,Grant,Marshall County,"6,559"
+35905,Gadsden,Etowah County,"6,452"
+35980,Horton,Marshall County,"6,418"
+36611,Mobile,Mobile County,"6,332"
+36312,Ashford,Houston County,"6,249"
+36310,Abbeville,Henry County,"6,201"
+36271,Ohatchee,Calhoun County,"6,063"
+36266,Lineville,Clay County,"6,028"
+36024,Eclectic,Elmore County,"6,022"
+36268,Munford,Talladega County,"5,939"
+35581,Phil Campbell,Franklin County,"5,932"
+35042,Centreville,Bibb County,"5,924"
+36862,Lafayette,Chambers County,"5,915"
+35961,Collinsville,DeKalb County,"5,879"
+36784,Thomasville,Clarke County,"5,835"
+35470,Livingston,Sumter County,"5,829"
+35184,West Blocton,Bibb County,"5,821"
+35672,Town Creek,Lawrence County,"5,709"
+36549,Lillian,Baldwin County,"5,622"
+36352,Newton,Houston County,"5,617"
+35117,Mount Olive,Jefferson County,"5,606"
+35578,Nauvoo,Walker County,"5,582"
+35978,Henagar,DeKalb County,"5,580"
+35754,Laceys Spring,Morgan County,"5,556"
+36521,Chunchula,Mobile County,"5,536"
+36744,Greensboro,Hale County,"5,491"
+36010,Brundidge,Pike County,"5,429"
+36344,Hartford,Geneva County,"5,405"
+36607,Mobile,Mobile County,"5,393"
+35034,Brent,Bibb County,"5,368"
+35619,Danville,Lawrence County,"5,343"
+36340,Geneva,Geneva County,"5,307"
+36251,Ashland,Clay County,"5,302"
+36756,Marion,Perry County,"5,288"
+36849,Auburn University,Lee County,"5,241"
+35442,Aliceville,Pickens County,"5,230"
+35116,Morris,Jefferson County,"5,227"
+35186,Wilsonville,Shelby County,"5,191"
+35046,Clanton,Chilton County,"5,160"
+36445,Frisco City,Monroe County,"5,146"
+35739,Ardmore,Limestone County,"5,134"
+36049,Luverne,Crenshaw County,"5,125"
+35553,Double Springs,Winston County,"4,920"
+36277,Weaver,Calhoun County,"4,918"
+35072,Goodwater,Coosa County,"4,914"
+35466,Gordo,Pickens County,"4,906"
+35175,Union Grove,Marshall County,"4,860"
+36451,Grove Hill,Clarke County,"4,842"
+35550,Cordova,Walker County,"4,806"
+35968,Fort Payne,DeKalb County,"4,763"
+35224,Birmingham,Jefferson County,"4,739"
+35959,Cedar Bluff,Cherokee County,"4,726"
+36362,Fort Novosel,Dale County,"4,705"
+35083,Holly Pond,Cullman County,"4,692"
+35760,New Hope,Madison County,"4,643"
+36260,Eastaboga,Talladega County,"4,626"
+36477,Samson,Geneva County,"4,610"
+35054,Cropwell,St. Clair County,"4,593"
+36280,Woodland,Randolph County,"4,576"
+35741,Brownsboro,Madison County,"4,571"
+35646,Leighton,Colbert County,"4,568"
+36726,Camden,Wilcox County,"4,549"
+36576,Silverhill,Baldwin County,"4,492"
+35490,Vance,Tuscaloosa County,"4,457"
+35971,Fyffe,DeKalb County,"4,452"
+36016,Clayton,Barbour County,"4,418"
+35592,Vernon,Lamar County,"4,357"
+36250,Alexandria,Calhoun County,"4,353"
+36278,Wedowee,Randolph County,"4,299"
+35546,Berry,Tuscaloosa County,"4,275"
+36904,Butler,Choctaw County,"4,275"
+36558,Millry,Washington County,"4,236"
+35444,Brookwood,Tuscaloosa County,"4,216"
+35462,Eutaw,Greene County,"4,203"
+35452,Coker,Tuscaloosa County,"4,195"
+35765,Pisgah,Jackson County,"4,175"
+35582,Red Bay,Franklin County,"4,145"
+35772,Stevenson,Jackson County,"4,082"
+36351,New Brockton,Coffee County,"4,029"
+35049,Cleveland,Blount County,"4,021"
+36875,Seale,Russell County,"4,017"
+35033,Bremen,Cullman County,"3,931"
+36866,Notasulga,Macon County,"3,898"
+35541,Arley,Winston County,"3,895"
+35006,Adger,Jefferson County,"3,894"
+35234,Birmingham,Jefferson County,"3,879"
+35586,Sulligent,Lamar County,"3,830"
+35091,Kimberly,Jefferson County,"3,802"
+35563,Guin,Marion County,"3,789"
+35580,Parrish,Walker County,"3,789"
+36033,Georgiana,Butler County,"3,763"
+35456,Duncanville,Tuscaloosa County,"3,745"
+35616,Cherokee,Colbert County,"3,731"
+36441,Flomaton,Escambia County,"3,645"
+35063,Empire,Walker County,"3,606"
+35576,Millport,Lamar County,"3,597"
+35171,Thorsby,Chilton County,"3,595"
+35983,Leesburg,Cherokee County,"3,572"
+35233,Birmingham,Jefferson County,"3,570"
+36442,Florala,Covington County,"3,560"
+35966,Flat Rock,Jackson County,"3,543"
+36273,Ranburne,Cleburne County,"3,526"
+35203,Birmingham,Jefferson County,"3,506"
+35621,Eva,Morgan County,"3,471"
+35740,Bridgeport,Jackson County,"3,443"
+35958,Bryant,Jackson County,"3,426"
+36553,McIntosh,Washington County,"3,422"
+35771,Section,Jackson County,"3,414"
+36088,Tuskegee Institute,Macon County,"3,400"
+35131,Ragland,St. Clair County,"3,363"
+35549,Carbon Hill,Fayette County,"3,355"
+35989,Valley Head,DeKalb County,"3,330"
+35447,Carrollton,Pickens County,"3,309"
+36091,Verbena,Chilton County,"3,290"
+35776,Woodville,Jackson County,"3,283"
+36612,Mobile,Mobile County,"3,274"
+36040,Hayneville,Lowndes County,"3,263"
+36043,Hope Hull,Lowndes County,"3,239"
+35014,Alpine,Talladega County,"3,219"
+35053,Crane Hill,Cullman County,"3,216"
+35130,Quinton,Walker County,"3,202"
+36750,Maplesville,Chilton County,"3,161"
+36320,Cottonwood,Houston County,"3,151"
+35133,Remlap,Blount County,"3,150"
+35143,Shelby,Shelby County,"3,146"
+36017,Clio,Barbour County,"3,138"
+35481,Reform,Pickens County,"3,132"
+35648,Lexington,Lauderdale County,"3,128"
+35221,Birmingham,Jefferson County,"3,119"
+35643,Hillsboro,Lawrence County,"3,101"
+35178,Vincent,Shelby County,"3,078"
+36279,Wellington,Calhoun County,"3,071"
+36051,Marbury,Autauga County,"3,050"
+36311,Ariton,Dale County,"3,048"
+35073,Graysville,Jefferson County,"3,031"
+36523,Coden,Mobile County,"2,972"
+35118,Mulga,Jefferson County,"2,960"
+35579,Oakman,Walker County,"2,916"
+35987,Steele,St. Clair County,"2,861"
+36560,Mount Vernon,Mobile County,"2,858"
+36861,Jacksons Gap,Tallapoosa County,"2,853"
+36879,Waverly,Chambers County,"2,826"
+35229,Birmingham,Jefferson County,"2,792"
+35973,Gaylesville,Cherokee County,"2,778"
+36474,Red Level,Covington County,"2,713"
+35172,Trafford,Blount County,"2,703"
+35188,Woodstock,Bibb County,"2,678"
+36453,Kinston,Coffee County,"2,665"
+36742,Gallion,Marengo County,"2,656"
+35744,Dutton,Jackson County,"2,574"
+36850,Camp Hill,Tallapoosa County,"2,557"
+36080,Titus,Elmore County,"2,539"
+35752,Hollywood,Jackson County,"2,524"
+36748,Linden,Marengo County,"2,522"
+36319,Columbia,Henry County,"2,477"
+36688,Mobile,Mobile County,"2,471"
+36032,Fort Deposit,Lowndes County,"2,444"
+36276,Wadley,Randolph County,"2,407"
+36053,Midway,Barbour County,"2,403"
+36925,York,Sumter County,"2,383"
+35988,Sylvania,DeKalb County,"2,368"
+35564,Hackleburg,Marion County,"2,356"
+36852,Cusseta,Chambers County,"2,308"
+35087,Joppa,Cullman County,"2,281"
+35671,Tanner,Limestone County,"2,267"
+35540,Addison,Winston County,"2,265"
+35148,Sumiton,Walker County,"2,241"
+36786,Uniontown,Perry County,"2,216"
+35019,Baileyton,Cullman County,"2,197"
+35078,Harpersville,Shelby County,"2,170"
+36353,Newville,Henry County,"2,158"
+36321,Cowarts,Houston County,"2,141"
+36518,Chatom,Washington County,"2,109"
+36009,Brantley,Crenshaw County,"2,093"
+36376,Webb,Houston County,"2,088"
+36069,Ramer,Montgomery County,"2,073"
+36316,Chancellor,Geneva County,"2,071"
+36769,Pine Hill,Wilcox County,"2,071"
+36006,Billingsley,Autauga County,"2,060"
+35981,Ider,DeKalb County,"2,052"
+35677,Waterloo,Lauderdale County,"2,046"
+35461,Ethelsville,Pickens County,"2,017"
+35487,Tuscaloosa,Tuscaloosa County,"1,950"
+36525,Creola,Mobile County,"1,945"
+36432,Castleberry,Conecuh County,"1,940"
+36003,Autaugaville,Autauga County,"1,901"
+36036,Grady,Montgomery County,"1,901"
+35446,Buhl,Tuscaloosa County,"1,896"
+35618,Courtland,Lawrence County,"1,896"
+36262,Fruithurst,Cleburne County,"1,886"
+35089,Kellyton,Coosa County,"1,884"
+35480,Ralph,Tuscaloosa County,"1,879"
+36919,Silas,Choctaw County,"1,878"
+36475,Repton,Conecuh County,"1,866"
+35097,Locust Fork,Blount County,"1,859"
+36528,Dauphin Island,Mobile County,"1,852"
+36782,Sweet Water,Marengo County,"1,850"
+36908,Gilbertown,Choctaw County,"1,795"
+36042,Honoraville,Crenshaw County,"1,781"
+36258,Delta,Cleburne County,"1,777"
+36035,Goshen,Pike County,"1,758"
+35136,Rockford,Coosa County,"1,755"
+35254,Birmingham,Jefferson County,"1,749"
+35610,Anderson,Lauderdale County,"1,744"
+35135,Riverside,St. Clair County,"1,718"
+35548,Brilliant,Marion County,"1,712"
+36767,Orrville,Dallas County,"1,673"
+35975,Groveoak,DeKalb County,"1,649"
+35585,Spruce Pine,Franklin County,"1,642"
+36562,Perdido,Baldwin County,"1,632"
+36907,Cuba,Sumter County,"1,618"
+35463,Fosters,Tuscaloosa County,"1,603"
+36005,Banks,Pike County,"1,600"
+35443,Boligee,Greene County,"1,599"
+36579,Stockton,Baldwin County,"1,583"
+36075,Shorter,Macon County,"1,580"
+36028,Dozier,Covington County,"1,562"
+36041,Highland Home,Crenshaw County,"1,561"
+36736,Dixons Mills,Marengo County,"1,559"
+35061,Dolomite,Jefferson County,"1,554"
+36026,Equality,Coosa County,"1,520"
+35974,Geraldine,DeKalb County,"1,518"
+36256,Daviston,Tallapoosa County,"1,515"
+36343,Gordon,Houston County,"1,496"
+36456,McKenzie,Conecuh County,"1,491"
+36860,Hurtsboro,Russell County,"1,486"
+36758,Plantersville,Chilton County,"1,484"
+36346,Jack,Coffee County,"1,483"
+35593,Vina,Franklin County,"1,470"
+36855,Five Points,Chambers County,"1,460"
+36269,Muscadine,Cleburne County,"1,443"
+35651,Mount Hope,Lawrence County,"1,429"
+35984,Mentone,DeKalb County,"1,424"
+36776,Sawyerville,Hale County,"1,419"
+35963,Dawson,DeKalb County,"1,398"
+35098,Logan,Cullman County,"1,390"
+35035,Brierfield,Bibb County,"1,389"
+36046,Lapine,Crenshaw County,"1,371"
+36480,Uriah,Monroe County,"1,293"
+35972,Gallant,Etowah County,"1,291"
+36115,Montgomery,Montgomery County,"1,255"
+36574,Seminole,Baldwin County,"1,254"
+36509,Bayou La Batre,Mobile County,"1,233"
+35574,Kennedy,Lamar County,"1,225"
+36912,Lisman,Choctaw County,"1,219"
+36318,Coffee Springs,Geneva County,"1,213"
+35458,Elrod,Tuscaloosa County,"1,211"
+35572,Houston,Winston County,"1,203"
+36048,Louisville,Barbour County,"1,203"
+35542,Bankston,Fayette County,"1,197"
+35554,Eldridge,Fayette County,"1,190"
+36548,Leroy,Washington County,"1,183"
+36759,Marion Junction,Dallas County,"1,166"
+36205,Anniston,Calhoun County,"1,159"
+35808,Huntsville,Madison County,"1,153"
+36785,Tyler,Lowndes County,"1,139"
+35632,Florence,Lauderdale County,"1,132"
+36020,Coosada,Elmore County,"1,132"
+35979,Higdon,DeKalb County,"1,103"
+36555,Magnolia Springs,Baldwin County,"1,099"
+35543,Bear Creek,Marion County,"1,092"
+36524,Coffeeville,Clarke County,"1,088"
+36082,Troy,Pike County,"1,087"
+36578,Stapleton,Baldwin County,"1,079"
+36047,Letohatchee,Lowndes County,"1,074"
+36921,Toxey,Choctaw County,"1,072"
+36602,Mobile,Mobile County,"1,043"
+36317,Clopton,Henry County,"1,040"
+35746,Fackler,Jackson County,"1,023"
+36503,Atmore,Escambia County,"1,002"
+36728,Catherine,Wilcox County,998
+36255,Cragford,Clay County,992
+36775,Sardis,Dallas County,991
+35544,Beaverton,Lamar County,969
+35441,Akron,Hale County,950
+35575,Lynn,Winston County,946
+36113,Montgomery,Montgomery County,940
+36740,Forkland,Greene County,936
+36751,Lower Peach Tree,Clarke County,935
+35647,Lester,Limestone County,909
+36752,Lowndesboro,Lowndes County,896
+36370,Pansey,Houston County,894
+35552,Detroit,Marion County,893
+36052,Mathews,Montgomery County,874
+36540,Gainestown,Clarke County,872
+36761,Minter,Dallas County,869
+36749,Jones,Autauga County,864
+35183,Weogufka,Coosa County,835
+35587,Townley,Walker County,818
+36029,Fitzpatrick,Bullock County,792
+36915,Needham,Choctaw County,779
+36511,Bon Secour,Baldwin County,769
+36505,Axis,Mobile County,762
+36738,Faunsdale,Marengo County,747
+35571,Hodges,Franklin County,741
+35176,Vandiver,Shelby County,704
+36374,Skipperville,Dale County,702
+36720,Alberta,Wilcox County,693
+36585,Wagarville,Washington County,681
+36583,Tibbie,Washington County,678
+36792,Randolph,Bibb County,674
+36768,Pine Apple,Wilcox County,671
+36783,Thomaston,Marengo County,671
+36425,Beatrice,Monroe County,668
+36314,Black,Geneva County,666
+36444,Franklin,Monroe County,666
+36793,Lawley,Bibb County,660
+36916,Pennington,Choctaw County,652
+36569,Saint Stephens,Washington County,637
+36112,Montgomery,Montgomery County,633
+36263,Graham,Randolph County,619
+35896,Huntsville,Madison County,603
+36550,Little River,Baldwin County,592
+36435,Coy,Wilcox County,581
+35459,Emelle,Sumter County,580
+35764,Paint Rock,Jackson County,575
+36765,Newbern,Perry County,567
+36482,Whatley,Clarke County,566
+36584,Vinegar Bend,Washington County,566
+36436,Dickinson,Clarke County,564
+36483,Wing,Covington County,555
+36871,Pittsview,Russell County,547
+36071,Rutledge,Crenshaw County,531
+36513,Calvert,Washington County,521
+36034,Glenwood,Pike County,503
+36471,Peterman,Monroe County,497
+36373,Shorterville,Henry County,493
+35469,Knoxville,Greene County,474
+35755,Langston,Marshall County,466
+36446,Fulton,Clarke County,459
+36539,Fruitdale,Washington County,453
+35460,Epes,Sumter County,442
+35464,Gainesville,Sumter County,439
+36371,Pinckard,Dale County,430
+36773,Safford,Dallas County,427
+35775,Valhermoso Springs,Morgan County,385
+36455,Lockhart,Covington County,343
+35745,Estillfork,Jackson County,335
+36030,Forest Home,Butler County,333
+36529,Deer Park,Washington County,310
+36858,Hatchechubbee,Russell County,303
+36922,Ward,Choctaw County,296
+36538,Frankville,Washington County,290
+36754,Magnolia,Marengo County,287
+35584,Sipsey,Walker County,285
+36790,Stanton,Chilton County,261
+36013,Cecil,Montgomery County,245
+36723,Boykin,Wilcox County,239
+36727,Campbell,Clarke County,231
+36267,Millerville,Clay County,226
+35477,Panola,Sumter County,222
+36559,Montrose,Baldwin County,221
+35751,Hollytree,Jackson County,215
+36568,Saint Elmo,Mobile County,213
+35036,Brookside,Jefferson County,208
+35052,Cook Springs,St. Clair County,191
+36663,Mobile,Mobile County,187
+36313,Bellwood,Geneva County,172
+36039,Hardaway,Macon County,171
+36581,Sunflower,Washington County,161
+35060,Docena,Jefferson County,158
+36031,Fort Davis,Macon County,143
+36481,Vredenburgh,Monroe County,143
+35013,Allgood,Blount County,141
+36439,Excel,Monroe County,140
+36057,Mount Meigs,Montgomery County,138
+35766,Princeton,Jackson County,137
+35070,Garden City,Cullman County,122
+35112,Margaret,St. Clair County,120
+35559,Glen Allen,Fayette County,120
+35774,Trenton,Jackson County,120
+36763,Myrtlewood,Marengo County,116
+36901,Bellamy,Sumter County,112
+35545,Belk,Fayette County,102
+35181,Watson,Jefferson County,98
+36473,Range,Conecuh County,95
+35032,Bon Air,Talladega County,91
+36722,Arlington,Wilcox County,89
+35649,Mooresville,Limestone County,81
+35990,Walnut Grove,Etowah County,70
+35457,Echola,Tuscaloosa County,56
+36652,Mobile,Mobile County,53
+36038,Gantt,Covington County,52
+36101,Montgomery,Montgomery County,51
+36910,Jachin,Choctaw County,50
+36476,River Falls,Covington County,49
+36913,Melvin,Choctaw County,33
+35615,Belle Mina,Limestone County,23
+36865,Loachapoka,Lee County,22
+35577,Natural Bridge,Winston County,17
+35249,Birmingham,Jefferson County,15
+35573,Kansas,Walker County,14
+36454,Lenox,Conecuh County,7
+36512,Bucks,Mobile County,7
+36543,Huxford,Escambia County,7
+36766,Oak Hill,Wilcox County,3
+35074,Green Pond,Bibb County,0
+35082,Hollins,Clay County,0
+35119,New Castle,Jefferson County,0
+35149,Sycamore,Talladega County,0
+35185,Westover,Shelby County,0
+35491,West Greene,Greene County,0
+36008,Booth,Autauga County,0
+36114,Montgomery,Montgomery County,0
+36130,Montgomery,Montgomery County,0
+36470,Perdue Hill,Monroe County,0
+36547,Gulf Shores,Baldwin County,0
+36556,Malcolm,Washington County,0
+36564,Point Clear,Baldwin County,0
+36615,Mobile,Mobile County,0
+36741,Furman,Wilcox County,0
+36753,McWilliams,Wilcox County,0
+36764,Nanafalia,Marengo County,0
+36851,Cottonton,Russell County,0

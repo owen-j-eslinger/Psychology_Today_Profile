@@ -1,0 +1,1825 @@
+ZIP,City,County,Population
+11368,Corona,Queens County,"105,716"
+11208,Brooklyn,Kings County,"105,428"
+11385,Ridgewood,Queens County,"101,704"
+11373,Elmhurst,Queens County,"98,403"
+10467,Bronx,Bronx County,"96,421"
+11226,Brooklyn,Kings County,"95,144"
+11219,Brooklyn,Kings County,"94,196"
+10314,Staten Island,Richmond County,"93,915"
+11207,Brooklyn,Kings County,"93,198"
+10025,New York,New York County,"93,065"
+11206,Brooklyn,Kings County,"93,020"
+11221,Brooklyn,Kings County,"91,588"
+11220,Brooklyn,Kings County,"90,652"
+11214,Brooklyn,Kings County,"89,397"
+11212,Brooklyn,Kings County,"89,020"
+11236,Brooklyn,Kings County,"88,051"
+10456,Bronx,Bronx County,"87,533"
+11230,Brooklyn,Kings County,"86,978"
+11234,Brooklyn,Kings County,"83,187"
+11233,Brooklyn,Kings County,"81,822"
+11377,Woodside,Queens County,"81,690"
+11355,Flushing,Queens County,"80,801"
+11204,Brooklyn,Kings County,"79,800"
+10457,Bronx,Bronx County,"79,543"
+11235,Brooklyn,Kings County,"78,558"
+11229,Brooklyn,Kings County,"78,377"
+11223,Brooklyn,Kings County,"78,093"
+10029,New York,New York County,"77,447"
+10002,New York,New York County,"76,873"
+11375,Forest Hills,Queens County,"76,839"
+10462,Bronx,Bronx County,"76,320"
+10453,Bronx,Bronx County,"76,282"
+10452,Bronx,Bronx County,"75,682"
+10468,Bronx,Bronx County,"75,557"
+10458,Bronx,Bronx County,"74,898"
+11203,Brooklyn,Kings County,"74,817"
+11218,Brooklyn,Kings County,"72,042"
+10977,Spring Valley,Rockland County,"71,571"
+10466,Bronx,Bronx County,"71,116"
+11209,Brooklyn,Kings County,"71,004"
+10701,Yonkers,Westchester County,"70,676"
+11201,Brooklyn,Kings County,"70,674"
+11215,Brooklyn,Kings County,"70,441"
+10463,Bronx,Bronx County,"69,470"
+10023,New York,New York County,"69,455"
+11691,Far Rockaway,Queens County,"69,359"
+11706,Bay Shore,Suffolk County,"68,976"
+11213,Brooklyn,Kings County,"68,846"
+14850,Ithaca,Tompkins County,"68,610"
+10469,Bronx,Bronx County,"68,521"
+11434,Jamaica,Queens County,"68,263"
+10950,Monroe,Orange County,"68,136"
+11746,Huntington Station,Suffolk County,"65,747"
+11211,Brooklyn,Kings County,"65,314"
+11372,Jackson Heights,Queens County,"64,756"
+10472,Bronx,Bronx County,"64,011"
+10027,New York,New York County,"63,885"
+10312,Staten Island,Richmond County,"63,469"
+10024,New York,New York County,"63,115"
+11432,Jamaica,Queens County,"62,892"
+10031,New York,New York County,"61,058"
+11550,Hempstead,Nassau County,"60,960"
+11216,Brooklyn,Kings County,"60,685"
+10009,New York,New York County,"60,209"
+10460,Bronx,Bronx County,"59,396"
+10473,Bronx,Bronx County,"58,855"
+11238,Brooklyn,Kings County,"58,345"
+11225,Brooklyn,Kings County,"58,158"
+10128,New York,New York County,"57,976"
+11210,Brooklyn,Kings County,"57,915"
+10306,Staten Island,Richmond County,"57,428"
+11435,Jamaica,Queens County,"56,826"
+10032,New York,New York County,"55,610"
+14221,Buffalo,Erie County,"55,255"
+12550,Newburgh,Orange County,"55,152"
+10033,New York,New York County,"54,838"
+11758,Massapequa,Nassau County,"54,375"
+14580,Webster,Monroe County,"54,180"
+10940,Middletown,Orange County,"53,611"
+10003,New York,New York County,"53,560"
+12180,Troy,Rensselaer County,"53,479"
+11354,Flushing,Queens County,"53,028"
+10016,New York,New York County,"52,971"
+10461,Bronx,Bronx County,"52,012"
+11205,Brooklyn,Kings County,"51,676"
+10451,Bronx,Bronx County,"50,942"
+11224,Brooklyn,Kings County,"50,822"
+14094,Lockport,Niagara County,"50,153"
+11420,South Ozone Park,Queens County,"49,415"
+10028,New York,New York County,"49,077"
+10011,New York,New York County,"48,277"
+10459,Bronx,Bronx County,"48,270"
+10952,Monsey,Rockland County,"48,019"
+11249,Brooklyn,Kings County,"47,728"
+11590,Westbury,Nassau County,"47,599"
+11419,South Richmond Hill,Queens County,"47,441"
+11374,Rego Park,Queens County,"46,989"
+11413,Springfield Gardens,Queens County,"45,965"
+10304,Staten Island,Richmond County,"45,658"
+10465,Bronx,Bronx County,"45,404"
+11237,Brooklyn,Kings County,"45,334"
+11003,Elmont,Nassau County,"45,174"
+12065,Clifton Park,Saratoga County,"45,116"
+11772,Patchogue,Suffolk County,"45,023"
+10019,New York,New York County,"44,942"
+11520,Freeport,Nassau County,"44,910"
+10455,Bronx,Bronx County,"44,801"
+14075,Hamburg,Erie County,"44,520"
+11757,Lindenhurst,Suffolk County,"44,413"
+14120,North Tonawanda,Niagara County,"44,241"
+12601,Poughkeepsie,Dutchess County,"44,164"
+11217,Brooklyn,Kings County,"43,490"
+11743,Huntington,Suffolk County,"43,490"
+11357,Whitestone,Queens County,"43,346"
+11580,Valley Stream,Nassau County,"43,092"
+13760,Endicott,Broome County,"42,896"
+11222,Brooklyn,Kings County,"42,853"
+10801,New Rochelle,Westchester County,"42,754"
+14450,Fairport,Monroe County,"42,750"
+11756,Levittown,Nassau County,"42,665"
+10475,Bronx,Bronx County,"42,578"
+14215,Buffalo,Erie County,"42,524"
+11365,Fresh Meadows,Queens County,"42,322"
+12603,Poughkeepsie,Dutchess County,"42,304"
+11228,Brooklyn,Kings County,"42,241"
+11101,Long Island City,Queens County,"42,219"
+11040,New Hyde Park,Nassau County,"41,988"
+11801,Hicksville,Nassau County,"41,585"
+13440,Rome,Oneida County,"41,555"
+10305,Staten Island,Richmond County,"41,270"
+14150,Tonawanda,Erie County,"41,260"
+14224,Buffalo,Erie County,"41,219"
+10301,Staten Island,Richmond County,"41,052"
+11106,Astoria,Queens County,"40,930"
+11367,Flushing,Queens County,"40,923"
+10573,Port Chester,Westchester County,"40,786"
+11704,West Babylon,Suffolk County,"40,706"
+11421,Woodhaven,Queens County,"40,612"
+14609,Rochester,Monroe County,"40,274"
+10583,Scarsdale,Westchester County,"40,207"
+10040,New York,New York County,"40,096"
+12866,Saratoga Springs,Saratoga County,"40,057"
+10021,New York,New York County,"39,868"
+11412,Saint Albans,Queens County,"39,828"
+10454,Bronx,Bronx County,"39,570"
+11722,Central Islip,Suffolk County,"39,033"
+10550,Mount Vernon,Westchester County,"38,972"
+13501,Utica,Oneida County,"38,931"
+10705,Yonkers,Westchester County,"38,887"
+10035,New York,New York County,"38,862"
+11561,Long Beach,Nassau County,"38,708"
+14624,Rochester,Monroe County,"38,626"
+14701,Jamestown,Chautauqua County,"38,461"
+11231,Brooklyn,Kings County,"38,276"
+11779,Ronkonkoma,Suffolk County,"38,206"
+11105,Astoria,Queens County,"37,936"
+11433,Jamaica,Queens County,"37,884"
+10034,New York,New York County,"37,758"
+11358,Flushing,Queens County,"37,665"
+13021,Auburn,Cayuga County,"37,247"
+10026,New York,New York County,"37,123"
+13601,Watertown,Jefferson County,"36,839"
+11554,East Meadow,Nassau County,"36,821"
+11379,Middle Village,Queens County,"36,773"
+13126,Oswego,Oswego County,"36,495"
+11378,Maspeth,Queens County,"36,392"
+12590,Wappingers Falls,Dutchess County,"35,712"
+11510,Baldwin,Nassau County,"35,701"
+14086,Lancaster,Erie County,"35,635"
+11418,Richmond Hill,Queens County,"35,481"
+11364,Oakland Gardens,Queens County,"35,276"
+11103,Astoria,Queens County,"35,163"
+14612,Rochester,Monroe County,"35,152"
+12401,Kingston,Ulster County,"35,136"
+11369,East Elmhurst,Queens County,"35,133"
+13027,Baldwinsville,Onondaga County,"35,088"
+12020,Ballston Spa,Saratoga County,"34,937"
+10309,Staten Island,Richmond County,"34,885"
+11710,Bellmore,Nassau County,"34,834"
+11566,Merrick,Nassau County,"34,741"
+11787,Smithtown,Suffolk County,"34,499"
+10022,New York,New York County,"34,049"
+13502,Utica,Oneida County,"34,037"
+10562,Ossining,Westchester County,"33,793"
+11422,Rosedale,Queens County,"33,757"
+14225,Buffalo,Erie County,"33,620"
+12309,Schenectady,Schenectady County,"33,246"
+14534,Pittsford,Monroe County,"33,230"
+11901,Riverhead,Suffolk County,"33,091"
+11050,Port Washington,Nassau County,"32,794"
+10039,New York,New York County,"32,492"
+14621,Rochester,Monroe County,"32,381"
+11793,Wantagh,Nassau County,"32,349"
+11735,Farmingdale,Suffolk County,"32,028"
+10704,Yonkers,Westchester County,"31,921"
+10956,New City,Rockland County,"31,898"
+14127,Orchard Park,Erie County,"31,543"
+12901,Plattsburgh,Clinton County,"31,447"
+11414,Howard Beach,Queens County,"31,308"
+10036,New York,New York County,"31,036"
+10065,New York,New York County,"30,808"
+12203,Albany,Albany County,"30,771"
+10010,New York,New York County,"30,702"
+11417,Ozone Park,Queens County,"30,578"
+10308,Staten Island,Richmond County,"30,568"
+10001,New York,New York County,"30,511"
+11572,Oceanside,Nassau County,"30,436"
+11370,East Elmhurst,Queens County,"30,267"
+11361,Bayside,Queens County,"30,127"
+11731,East Northport,Suffolk County,"29,999"
+11763,Medford,Suffolk County,"29,973"
+11803,Plainview,Nassau County,"29,713"
+11701,Amityville,Suffolk County,"29,509"
+12303,Schenectady,Albany County,"29,360"
+10030,New York,New York County,"29,297"
+11720,Centereach,Suffolk County,"29,292"
+14626,Rochester,Monroe County,"29,273"
+10014,New York,New York County,"29,230"
+14304,Niagara Falls,Niagara County,"29,208"
+14226,Buffalo,Erie County,"29,159"
+11725,Commack,Suffolk County,"29,073"
+13090,Liverpool,Onondaga County,"29,004"
+11542,Glen Cove,Nassau County,"28,965"
+11570,Rockville Centre,Nassau County,"28,908"
+10598,Yorktown Heights,Westchester County,"28,821"
+14424,Canandaigua,Ontario County,"28,786"
+11423,Hollis,Queens County,"28,534"
+11102,Astoria,Queens County,"28,503"
+11727,Coram,Suffolk County,"28,495"
+13045,Cortland,Cortland County,"28,361"
+12804,Queensbury,Warren County,"28,208"
+12302,Schenectady,Schenectady County,"28,031"
+13905,Binghamton,Broome County,"27,988"
+11967,Shirley,Suffolk County,"27,975"
+11530,Garden City,Nassau County,"27,939"
+11553,Uniondale,Nassau County,"27,875"
+12306,Schenectady,Schenectady County,"27,865"
+11232,Brooklyn,Kings County,"27,816"
+12010,Amsterdam,Montgomery County,"27,750"
+12553,New Windsor,Orange County,"27,384"
+12533,Hopewell Junction,Dutchess County,"27,325"
+11729,Deer Park,Suffolk County,"27,231"
+10013,New York,New York County,"27,219"
+10901,Suffern,Rockland County,"27,095"
+14616,Rochester,Monroe County,"26,863"
+11429,Queens Village,Queens County,"26,832"
+11741,Holbrook,Suffolk County,"26,667"
+10303,Staten Island,Richmond County,"26,497"
+10954,Nanuet,Rockland County,"26,495"
+10541,Mahopac,Putnam County,"26,361"
+14207,Buffalo,Erie County,"26,327"
+11784,Selden,Suffolk County,"26,244"
+11104,Sunnyside,Queens County,"26,132"
+14623,Rochester,Monroe County,"26,032"
+11416,Ozone Park,Queens County,"25,919"
+10710,Yonkers,Westchester County,"25,855"
+12205,Albany,Albany County,"25,838"
+11356,College Point,Queens County,"25,824"
+10310,Staten Island,Richmond County,"25,672"
+10566,Peekskill,Westchester County,"25,625"
+11010,Franklin Square,Nassau County,"25,604"
+14606,Rochester,Monroe County,"25,538"
+11791,Syosset,Nassau County,"25,520"
+11001,Floral Park,Nassau County,"25,493"
+14618,Rochester,Monroe County,"25,476"
+11795,West Islip,Suffolk County,"25,379"
+14228,Buffalo,Erie County,"25,350"
+11552,West Hempstead,Nassau County,"25,174"
+14043,Depew,Erie County,"25,098"
+14211,Buffalo,Erie County,"24,663"
+11427,Queens Village,Queens County,"24,607"
+14220,Buffalo,Erie County,"24,428"
+10512,Carmel,Putnam County,"24,234"
+14213,Buffalo,Erie County,"24,107"
+10591,Tarrytown,Westchester County,"23,926"
+10471,Bronx,Bronx County,"23,798"
+14620,Rochester,Monroe County,"23,769"
+13850,Vestal,Broome County,"23,689"
+12047,Cohoes,Albany County,"23,532"
+12208,Albany,Albany County,"23,289"
+13820,Oneonta,Otsego County,"23,056"
+13208,Syracuse,Onondaga County,"22,993"
+11563,Lynbrook,Nassau County,"22,899"
+14216,Buffalo,Erie County,"22,849"
+11581,Valley Stream,Nassau County,"22,818"
+13069,Fulton,Oswego County,"22,810"
+11776,Port Jefferson Station,Suffolk County,"22,808"
+11692,Arverne,Queens County,"22,734"
+11714,Bethpage,Nassau County,"22,695"
+14223,Buffalo,Erie County,"22,611"
+12078,Gloversville,Fulton County,"22,589"
+10703,Yonkers,Westchester County,"22,586"
+11436,Jamaica,Queens County,"22,527"
+11762,Massapequa Park,Nassau County,"22,487"
+10708,Bronxville,Westchester County,"22,482"
+14217,Buffalo,Erie County,"22,471"
+12304,Schenectady,Schenectady County,"22,403"
+10552,Mount Vernon,Westchester County,"22,341"
+10038,New York,New York County,"22,235"
+12144,Rensselaer,Rensselaer County,"22,111"
+13088,Liverpool,Onondaga County,"22,073"
+11768,Northport,Suffolk County,"22,030"
+14020,Batavia,Genesee County,"22,002"
+10075,New York,New York County,"21,897"
+11937,East Hampton,Suffolk County,"21,882"
+14617,Rochester,Monroe County,"21,788"
+11501,Mineola,Nassau County,"21,641"
+14206,Buffalo,Erie County,"21,631"
+11694,Rockaway Park,Queens County,"21,489"
+14072,Grand Island,Erie County,"21,488"
+11726,Copiague,Suffolk County,"21,455"
+10012,New York,New York County,"21,426"
+14214,Buffalo,Erie County,"21,314"
+11415,Kew Gardens,Queens County,"21,154"
+11783,Seaford,Nassau County,"21,127"
+11790,Stony Brook,Suffolk County,"21,074"
+10543,Mamaroneck,Westchester County,"20,989"
+10805,New Rochelle,Westchester County,"20,903"
+14227,Buffalo,Erie County,"20,621"
+11411,Cambria Heights,Queens County,"20,540"
+11747,Melville,Suffolk County,"20,513"
+14420,Brockport,Monroe County,"20,375"
+10990,Warwick,Orange County,"20,368"
+14845,Horseheads,Chemung County,"20,327"
+14218,Buffalo,Erie County,"20,312"
+12110,Latham,Albany County,"20,081"
+10509,Brewster,Putnam County,"20,046"
+10567,Cortlandt Manor,Westchester County,"19,976"
+13212,Syracuse,Onondaga County,"19,917"
+12561,New Paltz,Ulster County,"19,830"
+13210,Syracuse,Onondaga County,"19,803"
+11021,Great Neck,Nassau County,"19,783"
+14456,Geneva,Ontario County,"19,756"
+14051,East Amherst,Erie County,"19,739"
+14526,Penfield,Monroe County,"19,629"
+13901,Binghamton,Broome County,"19,613"
+12508,Beacon,Dutchess County,"19,566"
+10605,White Plains,Westchester County,"19,493"
+11360,Bayside,Queens County,"19,469"
+13204,Syracuse,Onondaga County,"19,440"
+11426,Bellerose,Queens County,"19,411"
+13205,Syracuse,Onondaga County,"19,137"
+12477,Saugerties,Ulster County,"19,066"
+10037,New York,New York County,"19,031"
+10302,Staten Island,Richmond County,"19,030"
+11428,Queens Village,Queens County,"19,028"
+14830,Corning,Steuben County,"19,015"
+10603,White Plains,Westchester County,"18,910"
+11738,Farmingville,Suffolk County,"18,877"
+13790,Johnson City,Broome County,"18,739"
+11575,Roosevelt,Nassau County,"18,705"
+12189,Watervliet,Albany County,"18,656"
+12589,Wallkill,Ulster County,"18,646"
+14468,Hilton,Monroe County,"18,526"
+11362,Little Neck,Queens County,"18,492"
+10580,Rye,Westchester County,"18,391"
+11030,Manhasset,Nassau County,"18,051"
+12831,Gansevoort,Saratoga County,"18,025"
+14607,Rochester,Monroe County,"17,891"
+14615,Rochester,Monroe County,"17,884"
+10538,Larchmont,Westchester County,"17,760"
+11733,East Setauket,Suffolk County,"17,752"
+11950,Mastic,Suffolk County,"17,599"
+13903,Binghamton,Broome County,"17,569"
+11754,Kings Park,Suffolk County,"17,565"
+14052,East Aurora,Erie County,"17,514"
+14760,Olean,Cattaraugus County,"17,474"
+12054,Delmar,Albany County,"17,436"
+11788,Hauppauge,Suffolk County,"17,374"
+10606,White Plains,Westchester County,"17,341"
+14559,Spencerport,Monroe County,"17,200"
+11703,North Babylon,Suffolk County,"17,187"
+12534,Hudson,Columbia County,"17,176"
+14611,Rochester,Monroe County,"17,145"
+12118,Mechanicville,Saratoga County,"17,069"
+13039,Cicero,Onondaga County,"16,951"
+13413,New Hartford,Oneida County,"16,742"
+14305,Niagara Falls,Niagara County,"16,696"
+11239,Brooklyn,Kings County,"16,410"
+14564,Victor,Ontario County,"16,364"
+13031,Camillus,Onondaga County,"16,285"
+13206,Syracuse,Onondaga County,"16,245"
+13203,Syracuse,Onondaga County,"16,180"
+13104,Manlius,Onondaga County,"16,168"
+10549,Mount Kisco,Westchester County,"16,135"
+10804,New Rochelle,Westchester County,"16,108"
+10470,Bronx,Bronx County,"16,004"
+11951,Mastic Beach,Suffolk County,"15,938"
+11946,Hampton Bays,Suffolk County,"15,819"
+14210,Buffalo,Erie County,"15,563"
+13662,Massena,St. Lawrence County,"15,556"
+12019,Ballston Lake,Saratoga County,"15,555"
+13669,Ogdensburg,St. Lawrence County,"15,542"
+10307,Staten Island,Richmond County,"15,512"
+12308,Schenectady,Schenectady County,"15,511"
+11968,Southampton,Suffolk County,"15,312"
+14222,Buffalo,Erie County,"15,311"
+10017,New York,New York County,"15,297"
+10960,Nyack,Rockland County,"15,251"
+10965,Pearl River,Rockland County,"15,206"
+14613,Rochester,Monroe County,"15,047"
+12524,Fishkill,Dutchess County,"15,026"
+11780,Saint James,Suffolk County,"15,018"
+11767,Nesconset,Suffolk County,"14,964"
+12182,Troy,Rensselaer County,"14,867"
+14904,Elmira,Chemung County,"14,861"
+13215,Syracuse,Onondaga County,"14,751"
+13219,Syracuse,Onondaga County,"14,744"
+14048,Dunkirk,Chautauqua County,"14,739"
+12801,Glens Falls,Warren County,"14,628"
+12206,Albany,Albany County,"14,572"
+11949,Manorville,Suffolk County,"14,563"
+10941,Middletown,Orange County,"14,422"
+11782,Sayville,Suffolk County,"14,405"
+12538,Hyde Park,Dutchess County,"14,391"
+12211,Albany,Albany County,"14,383"
+14610,Rochester,Monroe County,"14,311"
+13057,East Syracuse,Onondaga County,"14,253"
+11730,East Islip,Suffolk County,"14,247"
+13603,Watertown,Jefferson County,"14,136"
+10528,Harrison,Westchester County,"14,091"
+12771,Port Jervis,Orange County,"14,049"
+14901,Elmira,Chemung County,"13,970"
+11702,Babylon,Suffolk County,"13,909"
+10530,Hartsdale,Westchester County,"13,892"
+14425,Farmington,Ontario County,"13,839"
+12528,Highland,Ulster County,"13,827"
+11751,Islip,Suffolk County,"13,726"
+10924,Goshen,Orange County,"13,720"
+11004,Glen Oaks,Queens County,"13,615"
+11598,Woodmere,Nassau County,"13,599"
+12839,Hudson Falls,Washington County,"13,541"
+14619,Rochester,Monroe County,"13,477"
+11366,Fresh Meadows,Queens County,"13,463"
+10980,Stony Point,Rockland County,"13,414"
+14513,Newark,Wayne County,"13,375"
+14212,Buffalo,Erie County,"13,299"
+14586,West Henrietta,Monroe County,"13,291"
+10570,Pleasantville,Westchester County,"13,289"
+11693,Far Rockaway,Queens County,"13,244"
+11742,Holtsville,Suffolk County,"13,202"
+11577,Roslyn Heights,Nassau County,"13,077"
+10803,Pelham,Westchester County,"13,072"
+12586,Walden,Orange County,"12,971"
+12953,Malone,Franklin County,"12,893"
+13676,Potsdam,St. Lawrence County,"12,874"
+13032,Canastota,Madison County,"12,850"
+11953,Middle Island,Suffolk County,"12,846"
+14608,Rochester,Monroe County,"12,792"
+13421,Oneida,Madison County,"12,771"
+13209,Syracuse,Onondaga County,"12,714"
+14527,Penn Yan,Yates County,"12,677"
+13815,Norwich,Chenango County,"12,654"
+14519,Ontario,Wayne County,"12,642"
+14063,Fredonia,Chautauqua County,"12,575"
+14622,Rochester,Monroe County,"12,574"
+14208,Buffalo,Erie County,"12,572"
+11764,Miller Place,Suffolk County,"12,551"
+10604,West Harrison,Westchester County,"12,517"
+13066,Fayetteville,Onondaga County,"12,504"
+11753,Jericho,Nassau County,"12,435"
+13617,Canton,St. Lawrence County,"12,431"
+14411,Albion,Orleans County,"12,429"
+12095,Johnstown,Fulton County,"12,391"
+11778,Rocky Point,Suffolk County,"12,390"
+14843,Hornell,Steuben County,"12,383"
+14201,Buffalo,Erie County,"12,369"
+10520,Croton On Hudson,Westchester County,"12,368"
+13041,Clay,Onondaga County,"12,330"
+10927,Haverstraw,Rockland County,"12,325"
+11961,Ridge,Suffolk County,"12,315"
+13207,Syracuse,Onondaga County,"12,290"
+11576,Roslyn,Nassau County,"12,281"
+12701,Monticello,Sullivan County,"12,197"
+11545,Glen Head,Nassau County,"12,172"
+11755,Lake Grove,Suffolk County,"12,144"
+10918,Chester,Orange County,"12,069"
+10601,White Plains,Westchester County,"11,930"
+13827,Owego,Tioga County,"11,832"
+10514,Chappaqua,Westchester County,"11,790"
+14605,Rochester,Monroe County,"11,783"
+14810,Bath,Steuben County,"11,534"
+10044,New York,New York County,"11,520"
+10522,Dobbs Ferry,Westchester County,"11,502"
+10970,Pomona,Rockland County,"11,497"
+14004,Alden,Erie County,"11,396"
+10474,Bronx,Bronx County,"11,270"
+13492,Whitesboro,Oneida County,"11,250"
+14454,Geneseo,Livingston County,"11,127"
+13323,Clinton,Oneida County,"11,078"
+10553,Mount Vernon,Westchester County,"11,011"
+12188,Waterford,Saratoga County,"10,988"
+14301,Niagara Falls,Niagara County,"10,923"
+11771,Oyster Bay,Nassau County,"10,908"
+14502,Macedon,Wayne County,"10,831"
+14103,Medina,Orleans County,"10,810"
+11766,Mount Sinai,Suffolk County,"10,750"
+13148,Seneca Falls,Seneca County,"10,749"
+12549,Montgomery,Orange County,"10,745"
+14625,Rochester,Monroe County,"10,717"
+10536,Katonah,Westchester County,"10,669"
+14219,Buffalo,Erie County,"10,652"
+12209,Albany,Albany County,"10,626"
+13619,Carthage,Jefferson County,"10,578"
+11596,Williston Park,Nassau County,"10,516"
+11096,Inwood,Nassau County,"10,428"
+10709,Eastchester,Westchester County,"10,352"
+12210,Albany,Albany County,"10,297"
+12566,Pine Bush,Ulster County,"10,269"
+14092,Lewiston,Niagara County,"10,247"
+10510,Briarcliff Manor,Westchester County,"10,226"
+14032,Clarence Center,Erie County,"10,222"
+12414,Catskill,Greene County,"10,169"
+14467,Henrietta,Monroe County,"10,168"
+13357,Ilion,Herkimer County,"10,167"
+12202,Albany,Albany County,"10,166"
+11518,East Rockaway,Nassau County,"10,149"
+11740,Greenlawn,Suffolk County,"10,127"
+13078,Jamesville,Onondaga County,"10,119"
+12571,Red Hook,Dutchess County,"10,108"
+14031,Clarence,Erie County,"9,885"
+12061,East Greenbush,Rensselaer County,"9,854"
+10992,Washingtonville,Orange County,"9,843"
+12569,Pleasant Valley,Dutchess County,"9,837"
+14870,Painted Post,Steuben County,"9,795"
+12803,South Glens Falls,Saratoga County,"9,712"
+10707,Tuckahoe,Westchester County,"9,688"
+13244,Syracuse,Onondaga County,"9,683"
+11716,Bohemia,Suffolk County,"9,659"
+11023,Great Neck,Nassau County,"9,630"
+13037,Chittenango,Madison County,"9,607"
+10930,Highland Mills,Orange County,"9,569"
+13350,Herkimer,Herkimer County,"9,522"
+13165,Waterloo,Seneca County,"9,458"
+10523,Elmsford,Westchester County,"9,450"
+10005,New York,New York County,"9,439"
+11934,Center Moriches,Suffolk County,"9,418"
+11797,Woodbury,Nassau County,"9,402"
+11777,Port Jefferson,Suffolk County,"9,396"
+14006,Angola,Erie County,"9,260"
+12828,Fort Edward,Washington County,"9,230"
+13904,Binghamton,Broome County,"9,221"
+11713,Bellport,Suffolk County,"9,218"
+11752,Islip Terrace,Suffolk County,"9,204"
+10989,Valley Cottage,Rockland County,"9,187"
+10706,Hastings On Hudson,Westchester County,"9,183"
+11024,Great Neck,Nassau County,"9,155"
+14059,Elma,Erie County,"9,138"
+14522,Palmyra,Wayne County,"9,121"
+11516,Cedarhurst,Nassau County,"9,112"
+10923,Garnerville,Rockland County,"9,069"
+14895,Wellsville,Allegany County,"9,061"
+13642,Gouverneur,St. Lawrence County,"9,043"
+14472,Honeoye Falls,Monroe County,"9,039"
+10579,Putnam Valley,Putnam County,"9,019"
+11565,Malverne,Nassau County,"9,009"
+14437,Dansville,Livingston County,"8,984"
+14001,Akron,Erie County,"8,937"
+11769,Oakdale,Suffolk County,"8,935"
+10280,New York,New York County,"8,933"
+11792,Wading River,Suffolk County,"8,904"
+11559,Lawrence,Nassau County,"8,878"
+12572,Rhinebeck,Dutchess County,"8,869"
+12540,Lagrangeville,Dutchess County,"8,856"
+14905,Elmira,Chemung County,"8,751"
+13214,Syracuse,Onondaga County,"8,702"
+13224,Syracuse,Onondaga County,"8,659"
+14068,Getzville,Erie County,"8,636"
+13036,Central Square,Oswego County,"8,616"
+13367,Lowville,Lewis County,"8,601"
+13365,Little Falls,Herkimer County,"8,578"
+10018,New York,New York County,"8,559"
+14085,Lake View,Erie County,"8,531"
+11557,Hewlett,Nassau County,"8,504"
+11558,Island Park,Nassau County,"8,454"
+10920,Congers,Rockland County,"8,451"
+13035,Cazenovia,Madison County,"8,428"
+11963,Sag Harbor,Suffolk County,"8,390"
+14482,Le Roy,Genesee County,"8,339"
+14209,Buffalo,Erie County,"8,313"
+12754,Liberty,Sullivan County,"8,296"
+12043,Cobleskill,Schoharie County,"8,287"
+11705,Bayport,Suffolk County,"8,284"
+12159,Slingerlands,Albany County,"8,163"
+14428,Churchville,Monroe County,"8,127"
+14011,Attica,Wyoming County,"8,122"
+14057,Eden,Erie County,"7,972"
+14589,Williamson,Wayne County,"7,967"
+11109,Long Island City,Queens County,"7,948"
+12009,Altamont,Albany County,"7,934"
+12033,Castleton On Hudson,Rensselaer County,"7,932"
+14204,Buffalo,Erie County,"7,932"
+12204,Albany,Albany County,"7,812"
+12184,Valatie,Columbia County,"7,787"
+14470,Holley,Orleans County,"7,758"
+12564,Pawling,Dutchess County,"7,734"
+13029,Brewerton,Onondaga County,"7,725"
+14892,Waverly,Tioga County,"7,703"
+11560,Locust Valley,Nassau County,"7,696"
+13152,Skaneateles,Onondaga County,"7,681"
+10504,Armonk,Westchester County,"7,665"
+10589,Somers,Westchester County,"7,604"
+14141,Springville,Erie County,"7,603"
+14445,East Rochester,Monroe County,"7,529"
+13902,Binghamton,Broome County,"7,449"
+12018,Averill Park,Rensselaer County,"7,422"
+10007,New York,New York County,"7,406"
+13340,Frankfort,Herkimer County,"7,404"
+13403,Marcy,Oneida County,"7,388"
+13732,Apalachin,Tioga County,"7,385"
+11789,Sound Beach,Suffolk County,"7,369"
+10533,Irvington,Westchester County,"7,362"
+12721,Bloomingburg,Sullivan County,"7,359"
+12305,Schenectady,Schenectady County,"7,356"
+12563,Patterson,Putnam County,"7,304"
+12983,Saranac Lake,Franklin County,"7,296"
+10595,Valhalla,Westchester County,"7,243"
+11363,Little Neck,Queens County,"7,223"
+13114,Mexico,Oswego County,"7,214"
+10547,Mohegan Lake,Westchester County,"7,205"
+13202,Syracuse,Onondaga County,"7,098"
+14903,Elmira,Chemung County,"7,078"
+12307,Schenectady,Schenectady County,"7,050"
+12077,Glenmont,Albany County,"7,017"
+12428,Ellenville,Ulster County,"6,995"
+10590,South Salem,Westchester County,"6,989"
+14489,Lyons,Wayne County,"6,897"
+12972,Peru,Clinton County,"6,895"
+12222,Albany,Albany County,"6,889"
+12198,Wynantskill,Rensselaer County,"6,796"
+14464,Hamlin,Monroe County,"6,755"
+11709,Bayville,Nassau County,"6,744"
+14779,Salamanca,Cattaraugus County,"6,738"
+11507,Albertson,Nassau County,"6,736"
+12570,Poughquag,Dutchess County,"6,698"
+11933,Calverton,Suffolk County,"6,693"
+14886,Trumansburg,Tompkins County,"6,652"
+14414,Avon,Livingston County,"6,576"
+14514,North Chili,Monroe County,"6,572"
+13135,Phoenix,Oswego County,"6,515"
+12186,Voorheesville,Albany County,"6,512"
+10069,New York,New York County,"6,509"
+10607,White Plains,Westchester County,"6,466"
+11786,Shoreham,Suffolk County,"6,459"
+14132,Sanborn,Niagara County,"6,453"
+14569,Warsaw,Wyoming County,"6,430"
+11721,Centerport,Suffolk County,"6,426"
+13346,Hamilton,Madison County,"6,406"
+13077,Homer,Cortland County,"6,405"
+10994,West Nyack,Rockland County,"6,370"
+13142,Pulaski,Oswego County,"6,365"
+11971,Southold,Suffolk County,"6,361"
+10996,West Point,Orange County,"6,349"
+12822,Corinth,Saratoga County,"6,284"
+10506,Bedford,Westchester County,"6,244"
+10502,Ardsley,Westchester County,"6,197"
+14303,Niagara Falls,Niagara County,"6,156"
+12832,Granville,Washington County,"6,153"
+12518,Cornwall,Orange County,"6,114"
+13211,Syracuse,Onondaga County,"6,111"
+10507,Bedford Hills,Westchester County,"6,109"
+13108,Marcellus,Onondaga County,"6,093"
+13316,Camden,Oneida County,"6,063"
+13073,Groton,Tompkins County,"6,054"
+12834,Greenwich,Washington County,"6,039"
+14047,Derby,Erie County,"6,013"
+13339,Fort Plain,Montgomery County,"6,010"
+14469,Bloomfield,Ontario County,"6,008"
+10577,Purchase,Westchester County,"5,945"
+14706,Allegany,Cattaraugus County,"5,939"
+10983,Tappan,Rockland County,"5,934"
+10282,New York,New York County,"5,887"
+13856,Walton,Delaware County,"5,881"
+12158,Selkirk,Albany County,"5,878"
+12051,Coxsackie,Greene County,"5,876"
+11980,Yaphank,Suffolk County,"5,855"
+13309,Boonville,Oneida County,"5,825"
+11940,East Moriches,Suffolk County,"5,819"
+14837,Dundee,Yates County,"5,801"
+12582,Stormville,Dutchess County,"5,786"
+14036,Corfu,Genesee County,"5,782"
+14009,Arcade,Wyoming County,"5,748"
+14108,Newfane,Niagara County,"5,713"
+13753,Delhi,Delaware County,"5,696"
+11020,Great Neck,Nassau County,"5,676"
+14174,Youngstown,Niagara County,"5,669"
+12143,Ravena,Albany County,"5,664"
+12962,Morrisonville,Clinton County,"5,654"
+13166,Weedsport,Cayuga County,"5,622"
+12542,Marlboro,Ulster County,"5,612"
+13865,Windsor,Broome County,"5,610"
+13118,Moravia,Cayuga County,"5,591"
+14530,Perry,Wyoming County,"5,553"
+14568,Walworth,Wayne County,"5,547"
+14432,Clifton Springs,Ontario County,"5,518"
+14487,Livonia,Livingston County,"5,492"
+12090,Hoosick Falls,Rensselaer County,"5,482"
+14136,Silver Creek,Chautauqua County,"5,450"
+12446,Kerhonkson,Ulster County,"5,414"
+11942,East Quogue,Suffolk County,"5,406"
+10516,Cold Spring,Putnam County,"5,362"
+12170,Stillwater,Saratoga County,"5,351"
+13778,Greene,Chenango County,"5,351"
+10532,Hawthorne,Westchester County,"5,347"
+10913,Blauvelt,Rockland County,"5,343"
+12084,Guilderland,Albany County,"5,328"
+12986,Tupper Lake,Franklin County,"5,326"
+12833,Greenfield Center,Saratoga County,"5,316"
+14105,Middleport,Niagara County,"5,313"
+14801,Addison,Steuben County,"5,275"
+13605,Adams,Jefferson County,"5,259"
+14131,Ransomville,Niagara County,"5,252"
+12025,Broadalbin,Fulton County,"5,244"
+13637,Evans Mills,Jefferson County,"5,212"
+13159,Tully,Onondaga County,"5,204"
+14590,Wolcott,Wayne County,"5,191"
+14867,Newfield,Tompkins County,"5,149"
+14505,Marion,Wayne County,"5,138"
+10594,Thornwood,Westchester County,"5,110"
+13733,Bainbridge,Chenango County,"5,076"
+10928,Highland Falls,Orange County,"5,071"
+14551,Sodus,Wayne County,"5,063"
+13407,Mohawk,Herkimer County,"5,042"
+11952,Mattituck,Suffolk County,"5,040"
+11944,Greenport,Suffolk County,"5,037"
+11579,Sea Cliff,Nassau County,"5,033"
+14261,Buffalo,Erie County,"5,033"
+14070,Gowanda,Cattaraugus County,"5,001"
+12522,Dover Plains,Dutchess County,"4,959"
+14423,Caledonia,Livingston County,"4,947"
+14727,Cuba,Allegany County,"4,925"
+10560,North Salem,Westchester County,"4,918"
+10576,Pound Ridge,Westchester County,"4,891"
+10993,West Haverstraw,Rockland County,"4,888"
+12946,Lake Placid,Essex County,"4,872"
+14512,Naples,Ontario County,"4,852"
+11804,Old Bethpage,Nassau County,"4,835"
+12816,Cambridge,Washington County,"4,824"
+14572,Wayland,Steuben County,"4,817"
+14802,Alfred,Allegany County,"4,814"
+13053,Dryden,Tompkins County,"4,794"
+13452,Saint Johnsville,Fulton County,"4,792"
+14787,Westfield,Chautauqua County,"4,771"
+10962,Orangeburg,Rockland County,"4,767"
+14510,Mount Morris,Livingston County,"4,754"
+12883,Ticonderoga,Essex County,"4,744"
+12157,Schoharie,Schoharie County,"4,713"
+11978,Westhampton Beach,Suffolk County,"4,705"
+12027,Burnt Hills,Saratoga County,"4,693"
+12887,Whitehall,Washington County,"4,691"
+13624,Clayton,Jefferson County,"4,650"
+12992,West Chazy,Clinton County,"4,615"
+13830,Oxford,Chenango County,"4,597"
+13068,Freeville,Tompkins County,"4,592"
+13326,Cooperstown,Otsego County,"4,586"
+10524,Garrison,Putnam County,"4,578"
+12498,Woodstock,Ulster County,"4,572"
+14891,Watkins Glen,Schuyler County,"4,561"
+12053,Delanson,Schenectady County,"4,550"
+11514,Carle Place,Nassau County,"4,544"
+12580,Staatsburg,Dutchess County,"4,542"
+12790,Wurtsboro,Sullivan County,"4,537"
+14750,Lakewood,Chautauqua County,"4,508"
+13074,Hannibal,Oswego County,"4,496"
+12123,Nassau,Rensselaer County,"4,457"
+14546,Scottsville,Monroe County,"4,450"
+12885,Warrensburg,Warren County,"4,444"
+14080,Holland,Erie County,"4,444"
+11697,Breezy Point,Queens County,"4,429"
+13849,Unadilla,Otsego County,"4,427"
+10987,Tuxedo Park,Orange County,"4,411"
+14433,Clyde,Wayne County,"4,404"
+14772,Randolph,Cattaraugus County,"4,394"
+14737,Franklinville,Cattaraugus County,"4,376"
+12845,Lake George,Warren County,"4,370"
+12545,Millbrook,Dutchess County,"4,338"
+13082,Kirkville,Madison County,"4,314"
+10925,Greenwood Lake,Orange County,"4,313"
+13803,Marathon,Cortland County,"4,273"
+10548,Montrose,Westchester County,"4,254"
+13838,Sidney,Delaware County,"4,251"
+10916,Campbell Hall,Orange County,"4,238"
+10921,Florida,Orange County,"4,231"
+11954,Montauk,Suffolk County,"4,223"
+12594,Wingdale,Dutchess County,"4,222"
+14871,Pine City,Chemung County,"4,207"
+14882,Lansing,Tompkins County,"4,191"
+13833,Port Crane,Broome County,"4,190"
+14883,Spencer,Tioga County,"4,184"
+13460,Sherburne,Chenango County,"4,182"
+14532,Phelps,Ontario County,"4,165"
+13084,La Fayette,Onondaga County,"4,159"
+14485,Lima,Livingston County,"4,153"
+11568,Old Westbury,Nassau County,"4,144"
+13811,Newark Valley,Tioga County,"4,127"
+10006,New York,New York County,"4,096"
+12487,Ulster Park,Ulster County,"4,035"
+12758,Livingston Manor,Sullivan County,"4,025"
+12148,Rexford,Saratoga County,"4,023"
+14067,Gasport,Niagara County,"3,976"
+14042,Delevan,Cattaraugus County,"3,967"
+14416,Bergen,Genesee County,"3,960"
+13140,Port Byron,Cayuga County,"3,959"
+11715,Blue Point,Suffolk County,"3,936"
+12404,Accord,Ulster County,"3,935"
+12037,Chatham,Columbia County,"3,926"
+12944,Keeseville,Essex County,"3,910"
+10998,Westtown,Orange County,"3,889"
+13317,Canajoharie,Montgomery County,"3,888"
+12196,West Sand Lake,Rensselaer County,"3,880"
+13417,New York Mills,Oneida County,"3,880"
+13308,Blossvale,Oneida County,"3,862"
+14202,Buffalo,Erie County,"3,862"
+12015,Athens,Greene County,"3,852"
+13456,Sauquoit,Oneida County,"3,848"
+12134,Northville,Hamilton County,"3,846"
+12083,Greenville,Greene County,"3,844"
+10963,Otisville,Orange County,"3,842"
+10464,Bronx,Bronx County,"3,828"
+14548,Shortsville,Ontario County,"3,821"
+12871,Schuylerville,Saratoga County,"3,813"
+13748,Conklin,Broome County,"3,738"
+13033,Cato,Cayuga County,"3,732"
+14543,Rush,Monroe County,"3,717"
+12827,Fort Ann,Washington County,"3,716"
+14541,Romulus,Seneca County,"3,713"
+10004,New York,New York County,"3,711"
+13655,Hogansburg,Franklin County,"3,694"
+13439,Richfield Springs,Otsego County,"3,681"
+13795,Kirkwood,Broome County,"3,681"
+12809,Argyle,Washington County,"3,669"
+13116,Minoa,Onondaga County,"3,653"
+14125,Oakfield,Genesee County,"3,648"
+13030,Bridgeport,Madison County,"3,635"
+13132,Pennellville,Oswego County,"3,626"
+14823,Canisteo,Steuben County,"3,610"
+11749,Islandia,Suffolk County,"3,600"
+12122,Middleburgh,Schoharie County,"3,596"
+14738,Frewsburg,Chautauqua County,"3,578"
+13634,Dexter,Jefferson County,"3,570"
+13668,Norwood,St. Lawrence County,"3,563"
+11796,West Sayville,Suffolk County,"3,560"
+12443,Hurley,Ulster County,"3,559"
+13354,Holland Patent,Oneida County,"3,554"
+12526,Germantown,Columbia County,"3,548"
+13667,Norfolk,St. Lawrence County,"3,476"
+14719,Cattaraugus,Cattaraugus County,"3,448"
+13862,Whitney Point,Broome County,"3,440"
+13491,West Winfield,Otsego County,"3,431"
+10926,Harriman,Orange County,"3,416"
+13408,Morrisville,Madison County,"3,391"
+10974,Sloatsburg,Rockland County,"3,382"
+12413,Cairo,Greene County,"3,368"
+14733,Falconer,Chautauqua County,"3,367"
+12865,Salem,Washington County,"3,356"
+13480,Waterville,Oneida County,"3,321"
+13080,Jordan,Onondaga County,"3,313"
+14062,Forestville,Chautauqua County,"3,266"
+14712,Bemus Point,Chautauqua County,"3,262"
+13329,Dolgeville,Fulton County,"3,256"
+14604,Rochester,Monroe County,"3,251"
+12075,Ghent,Columbia County,"3,248"
+14025,Boston,Erie County,"3,243"
+11719,Brookhaven,Suffolk County,"3,235"
+11732,East Norwich,Nassau County,"3,228"
+13167,West Monroe,Oswego County,"3,215"
+12543,Maybrook,Orange County,"3,190"
+14111,North Collins,Erie County,"3,186"
+11718,Brightwaters,Suffolk County,"3,179"
+14627,Rochester,Monroe County,"3,159"
+12484,Stone Ridge,Ulster County,"3,155"
+12547,Milton,Ulster County,"3,144"
+14724,Clymer,Chautauqua County,"3,115"
+14757,Mayville,Chautauqua County,"3,114"
+12514,Clinton Corners,Dutchess County,"3,107"
+14172,Wilson,Niagara County,"3,091"
+12520,Cornwall On Hudson,Orange County,"3,081"
+13478,Verona,Oneida County,"3,078"
+13743,Candor,Tioga County,"3,077"
+12458,Napanoch,Ulster County,"3,074"
+11724,Cold Spring Harbor,Suffolk County,"3,073"
+13438,Remsen,Oneida County,"3,065"
+10958,New Hampton,Orange County,"3,054"
+13461,Sherrill,Oneida County,"3,047"
+12788,Woodbourne,Sullivan County,"3,037"
+12846,Lake Luzerne,Warren County,"3,013"
+12449,Lake Katrine,Ulster County,"3,010"
+13411,New Berlin,Otsego County,"2,999"
+13691,Theresa,Jefferson County,"2,990"
+14710,Ashville,Chautauqua County,"2,980"
+12183,Troy,Albany County,"2,970"
+12919,Champlain,Clinton County,"2,961"
+14821,Campbell,Steuben County,"2,958"
+14812,Beaver Dams,Schuyler County,"2,954"
+11976,Water Mill,Suffolk County,"2,952"
+13656,La Fargeville,Jefferson County,"2,942"
+13613,Brasher Falls,St. Lawrence County,"2,931"
+14755,Little Valley,Cattaraugus County,"2,919"
+14012,Barker,Niagara County,"2,911"
+11964,Shelter Island,Suffolk County,"2,906"
+13164,Warners,Onondaga County,"2,904"
+13825,Otego,Otsego County,"2,903"
+14809,Avoca,Steuben County,"2,890"
+12072,Fultonville,Montgomery County,"2,882"
+13131,Parish,Oswego County,"2,880"
+12117,Mayfield,Fulton County,"2,871"
+13612,Black River,Jefferson County,"2,865"
+11935,Cutchogue,Suffolk County,"2,863"
+12074,Galway,Saratoga County,"2,848"
+11977,Westhampton,Suffolk County,"2,843"
+11941,Eastport,Suffolk County,"2,814"
+13471,Taberg,Oneida County,"2,806"
+10984,Thiells,Rockland County,"2,805"
+10588,Shrub Oak,Westchester County,"2,783"
+13076,Hastings,Oswego County,"2,778"
+12154,Schaghticoke,Rensselaer County,"2,777"
+13754,Deposit,Broome County,"2,768"
+12525,Gardiner,Ulster County,"2,749"
+14081,Irving,Erie County,"2,742"
+14739,Friendship,Allegany County,"2,731"
+14471,Honeoye,Ontario County,"2,727"
+13060,Elbridge,Onondaga County,"2,725"
+12835,Hadley,Saratoga County,"2,708"
+14098,Lyndonville,Orleans County,"2,707"
+12546,Millerton,Dutchess County,"2,706"
+12138,Petersburg,Rensselaer County,"2,695"
+12567,Pine Plains,Dutchess County,"2,695"
+13092,Locke,Cayuga County,"2,689"
+12929,Dannemora,Clinton County,"2,684"
+14807,Arkport,Steuben County,"2,681"
+13730,Afton,Chenango County,"2,679"
+12094,Johnsonville,Rensselaer County,"2,656"
+12966,North Bangor,Franklin County,"2,656"
+13044,Constantia,Oswego County,"2,643"
+12920,Chateaugay,Franklin County,"2,624"
+12775,Rock Hill,Sullivan County,"2,623"
+14770,Portville,Allegany County,"2,621"
+14525,Pavilion,Genesee County,"2,608"
+13040,Cincinnatus,Cortland County,"2,595"
+12789,Woodridge,Sullivan County,"2,594"
+14521,Ovid,Seneca County,"2,594"
+13332,Earlville,Madison County,"2,577"
+14735,Fillmore,Allegany County,"2,575"
+13812,Nichols,Tioga County,"2,574"
+13476,Vernon,Oneida County,"2,572"
+13646,Hammond,St. Lawrence County,"2,546"
+12850,Middle Grove,Saratoga County,"2,537"
+13746,Chenango Forks,Broome County,"2,535"
+14435,Conesus,Livingston County,"2,512"
+13143,Red Creek,Wayne County,"2,504"
+12068,Fonda,Montgomery County,"2,503"
+13110,Marietta,Onondaga County,"2,494"
+14726,Conewango Valley,Cattaraugus County,"2,494"
+14715,Bolivar,Allegany County,"2,484"
+14813,Belmont,Allegany County,"2,480"
+14817,Brooktondale,Tompkins County,"2,479"
+12501,Amenia,Dutchess County,"2,476"
+13606,Adams Center,Jefferson County,"2,468"
+12979,Rouses Point,Clinton County,"2,465"
+11955,Moriches,Suffolk County,"2,458"
+10968,Piermont,Rockland County,"2,456"
+14716,Brocton,Chautauqua County,"2,453"
+13160,Union Springs,Cayuga County,"2,444"
+14476,Kendall,Orleans County,"2,443"
+13602,Fort Drum,Jefferson County,"2,440"
+10537,Lake Peekskill,Putnam County,"2,439"
+13787,Harpursville,Broome County,"2,432"
+13493,Williamstown,Oswego County,"2,428"
+14840,Hammondsport,Steuben County,"2,425"
+14203,Buffalo,Erie County,"2,424"
+14865,Montour Falls,Schuyler County,"2,421"
+12918,Cadyville,Clinton County,"2,412"
+14560,Springwater,Ontario County,"2,412"
+12529,Hillsdale,Columbia County,"2,410"
+14853,Ithaca,Tompkins County,"2,405"
+10511,Buchanan,Westchester County,"2,397"
+14517,Nunda,Livingston County,"2,388"
+12926,Constable,Franklin County,"2,371"
+14544,Rushville,Yates County,"2,371"
+14058,Elba,Genesee County,"2,370"
+13416,Newport,Herkimer County,"2,369"
+13685,Sackets Harbor,Jefferson County,"2,362"
+11549,Hempstead,Nassau County,"2,359"
+10973,Slate Hill,Orange County,"2,358"
+13101,McGraw,Cortland County,"2,358"
+12780,Sparrow Bush,Orange County,"2,346"
+12531,Holmes,Dutchess County,"2,337"
+14775,Ripley,Chautauqua County,"2,328"
+12604,Poughkeepsie,Dutchess County,"2,316"
+13424,Oriskany,Oneida County,"2,306"
+12921,Chazy,Clinton County,"2,304"
+14847,Interlaken,Seneca County,"2,300"
+12197,Worcester,Otsego County,"2,298"
+13620,Castorland,Lewis County,"2,298"
+14170,West Falls,Erie County,"2,292"
+12121,Melrose,Rensselaer County,"2,280"
+12167,Stamford,Schoharie County,"2,279"
+13734,Barton,Tioga County,"2,269"
+11548,Greenvale,Nassau County,"2,261"
+12981,Saranac,Clinton County,"2,259"
+12578,Salt Point,Dutchess County,"2,249"
+13648,Harrisville,Lewis County,"2,236"
+12747,Hurleyville,Sullivan County,"2,234"
+12779,South Fallsburg,Sullivan County,"2,205"
+13626,Copenhagen,Lewis County,"2,202"
+13699,Potsdam,St. Lawrence County,"2,194"
+13658,Lisbon,St. Lawrence County,"2,189"
+14744,Houghton,Allegany County,"2,188"
+14516,North Rose,Wayne County,"2,185"
+11005,Floral Park,Queens County,"2,174"
+11439,Jamaica,Queens County,"2,170"
+12817,Chestertown,Warren County,"2,168"
+14879,Savona,Steuben County,"2,160"
+13156,Sterling,Cayuga County,"2,156"
+14814,Big Flats,Chemung County,"2,152"
+13409,Munnsville,Madison County,"2,144"
+12916,Brushton,Franklin County,"2,143"
+13112,Memphis,Onondaga County,"2,140"
+10526,Goldens Bridge,Westchester County,"2,128"
+12821,Comstock,Washington County,"2,124"
+13797,Lisle,Broome County,"2,119"
+14139,South Wales,Erie County,"2,113"
+12173,Stuyvesant,Columbia County,"2,099"
+14782,Sinclairville,Chautauqua County,"2,099"
+13673,Philadelphia,Jefferson County,"2,097"
+14034,Collins,Erie County,"2,086"
+13146,Savannah,Wayne County,"2,085"
+14561,Stanley,Ontario County,"2,081"
+12137,Pattersonville,Schenectady County,"2,077"
+12776,Roscoe,Delaware County,"2,073"
+13654,Heuvelton,St. Lawrence County,"2,073"
+13652,Hermon,St. Lawrence County,"2,067"
+14030,Chaffee,Erie County,"2,067"
+14711,Belfast,Allegany County,"2,063"
+14767,Panama,Chautauqua County,"2,061"
+12521,Craryville,Columbia County,"2,056"
+14138,South Dayton,Cattaraugus County,"2,046"
+12149,Richmondville,Schoharie County,"2,038"
+13843,South New Berlin,Otsego County,"2,038"
+14743,Hinsdale,Cattaraugus County,"2,037"
+13783,Hancock,Delaware County,"2,035"
+14826,Cohocton,Steuben County,"2,035"
+13034,Cayuga,Cayuga County,"2,029"
+13145,Sandy Creek,Oswego County,"2,028"
+13607,Alexandria Bay,Jefferson County,"2,020"
+12070,Fort Johnson,Montgomery County,"2,011"
+13425,Oriskany Falls,Oneida County,"2,010"
+13327,Croghan,Lewis County,"2,009"
+14747,Kennedy,Chautauqua County,"2,005"
+10976,Sparkill,Rockland County,"2,002"
+14101,Machias,Cattaraugus County,"1,997"
+12583,Tivoli,Dutchess County,"1,994"
+12207,Albany,Albany County,"1,988"
+12928,Crown Point,Essex County,"1,984"
+12466,Port Ewen,Ulster County,"1,981"
+12491,West Hurley,Ulster County,"1,981"
+13363,Lee Center,Oneida County,"1,981"
+14040,Darien Center,Genesee County,"1,974"
+13320,Cherry Valley,Otsego County,"1,971"
+13042,Cleveland,Oneida County,"1,960"
+14873,Prattsburgh,Steuben County,"1,945"
+12577,Salisbury Mills,Orange County,"1,942"
+13736,Berkshire,Tioga County,"1,936"
+12993,Westport,Essex County,"1,926"
+12516,Copake,Columbia County,"1,925"
+10917,Central Valley,Orange County,"1,923"
+12723,Callicoon,Sullivan County,"1,923"
+12052,Cropseyville,Rensselaer County,"1,915"
+12581,Stanfordville,Dutchess County,"1,914"
+14806,Andover,Allegany County,"1,912"
+12431,Freehold,Greene County,"1,909"
+12523,Elizaville,Columbia County,"1,908"
+13661,Mannsville,Jefferson County,"1,908"
+12996,Willsboro,Essex County,"1,903"
+13697,Winthrop,St. Lawrence County,"1,898"
+12910,Altona,Clinton County,"1,890"
+14838,Erin,Chemung County,"1,889"
+13459,Sharon Springs,Schoharie County,"1,888"
+14818,Burdett,Schuyler County,"1,878"
+12733,Fallsburg,Sullivan County,"1,865"
+12106,Kinderhook,Columbia County,"1,864"
+12066,Esperance,Montgomery County,"1,863"
+12764,Narrowsburg,Sullivan County,"1,861"
+12060,East Chatham,Columbia County,"1,859"
+13622,Chaumont,Jefferson County,"1,859"
+14102,Marilla,Erie County,"1,856"
+14718,Cassadaga,Chautauqua County,"1,854"
+13431,Poland,Herkimer County,"1,847"
+13495,Yorkville,Oneida County,"1,841"
+13083,Lacona,Oswego County,"1,835"
+12958,Mooers,Clinton County,"1,827"
+12440,High Falls,Ulster County,"1,826"
+12903,Plattsburgh,Clinton County,"1,824"
+14422,Byron,Genesee County,"1,809"
+10986,Tomkins Cove,Rockland County,"1,806"
+14741,Great Valley,Cattaraugus County,"1,805"
+14167,Varysburg,Wyoming County,"1,804"
+14781,Sherman,Chautauqua County,"1,796"
+13625,Colton,St. Lawrence County,"1,792"
+12023,Berne,Albany County,"1,791"
+11509,Atlantic Beach,Nassau County,"1,790"
+12057,Eagle Bridge,Washington County,"1,789"
+12116,Maryland,Otsego County,"1,787"
+12957,Moira,Franklin County,"1,781"
+10578,Purdys,Westchester County,"1,780"
+13485,West Edmeston,Madison County,"1,779"
+13660,Madrid,St. Lawrence County,"1,774"
+14024,Bliss,Wyoming County,"1,773"
+14005,Alexander,Genesee County,"1,772"
+13618,Cape Vincent,Jefferson County,"1,771"
+13052,De Ruyter,Madison County,"1,759"
+12870,Schroon Lake,Essex County,"1,756"
+14466,Hemlock,Ontario County,"1,754"
+12168,Stephentown,Rensselaer County,"1,752"
+13775,Franklin,Delaware County,"1,752"
+12193,Westerlo,Albany County,"1,746"
+12740,Grahamsville,Ulster County,"1,732"
+13324,Cold Brook,Herkimer County,"1,729"
+10501,Amawalk,Westchester County,"1,727"
+14427,Castile,Wyoming County,"1,720"
+12185,Valley Falls,Rensselaer County,"1,709"
+14477,Kent,Orleans County,"1,706"
+12056,Duanesburg,Schenectady County,"1,695"
+12455,Margaretville,Delaware County,"1,689"
+13428,Palatine Bridge,Montgomery County,"1,689"
+13433,Port Leyden,Lewis County,"1,686"
+12155,Schenevus,Otsego County,"1,685"
+12912,Au Sable Forks,Clinton County,"1,682"
+13608,Antwerp,Jefferson County,"1,676"
+13304,Barneveld,Oneida County,"1,653"
+12062,East Nassau,Rensselaer County,"1,650"
+14481,Leicester,Livingston County,"1,640"
+12166,Sprakers,Montgomery County,"1,635"
+14504,Manchester,Ontario County,"1,631"
+12959,Mooers Forks,Clinton County,"1,627"
+13120,Nedrow,Onondaga County,"1,625"
+13063,Fabius,Onondaga County,"1,624"
+12859,Porter Corners,Saratoga County,"1,622"
+12759,Loch Sheldrake,Sullivan County,"1,619"
+13026,Aurora,Cayuga County,"1,619"
+12974,Port Henry,Essex County,"1,617"
+14171,West Valley,Cattaraugus County,"1,611"
+13343,Glenfield,Lewis County,"1,606"
+12461,Olivebridge,Ulster County,"1,604"
+10162,New York,New York County,"1,603"
+12575,Rock Tavern,Orange County,"1,600"
+14065,Freedom,Cattaraugus County,"1,597"
+12086,Hagaman,Saratoga County,"1,587"
+12087,Hannacroix,Greene County,"1,584"
+13808,Morris,Otsego County,"1,581"
+12028,Buskirk,Washington County,"1,557"
+10919,Circleville,Orange County,"1,551"
+12076,Gilboa,Schoharie County,"1,549"
+14880,Scio,Allegany County,"1,548"
+13801,McDonough,Chenango County,"1,545"
+14033,Colden,Erie County,"1,539"
+14778,Saint Bonaventure,Cattaraugus County,"1,539"
+14533,Piffard,Livingston County,"1,538"
+12059,East Berne,Albany County,"1,530"
+12748,Jeffersonville,Sullivan County,"1,518"
+14803,Alfred Station,Allegany County,"1,514"
+12737,Glen Spey,Sullivan County,"1,513"
+12140,Poestenkill,Rensselaer County,"1,512"
+13335,Edmeston,Otsego County,"1,511"
+13477,Vernon Center,Oneida County,"1,498"
+14591,Wyoming,Wyoming County,"1,495"
+12515,Clintondale,Ulster County,"1,492"
+12941,Jay,Essex County,"1,487"
+14109,Niagara University,Niagara County,"1,473"
+14898,Woodhull,Steuben County,"1,469"
+13111,Martville,Cayuga County,"1,463"
+13694,Waddington,St. Lawrence County,"1,442"
+12486,Tillson,Ulster County,"1,440"
+12565,Philmont,Columbia County,"1,439"
+13616,Calcium,Jefferson County,"1,430"
+14858,Lindley,Steuben County,"1,425"
+14008,Appleton,Niagara County,"1,423"
+14013,Basom,Genesee County,"1,423"
+14055,East Concord,Erie County,"1,418"
+13303,Ava,Oneida County,"1,410"
+13809,Mount Upton,Otsego County,"1,410"
+13348,Hartwick,Otsego County,"1,409"
+12751,Kiamesha Lake,Sullivan County,"1,407"
+10922,Fort Montgomery,Orange County,"1,403"
+10546,Millwood,Westchester County,"1,392"
+14054,East Bethany,Genesee County,"1,391"
+14478,Keuka Park,Yates County,"1,391"
+12463,Palenville,Greene County,"1,373"
+14804,Almond,Allegany County,"1,362"
+13839,Sidney Center,Delaware County,"1,360"
+14889,Van Etten,Chemung County,"1,357"
+12719,Barryville,Sullivan County,"1,339"
+13054,Durhamville,Oneida County,"1,334"
+10964,Palisades,Rockland County,"1,333"
+11939,East Marion,Suffolk County,"1,331"
+12468,Prattsville,Greene County,"1,329"
+10931,Hillburn,Rockland County,"1,319"
+14091,Lawtons,Erie County,"1,316"
+13328,Deansboro,Oneida County,"1,311"
+14550,Silver Springs,Wyoming County,"1,301"
+12937,Fort Covington,Franklin County,"1,300"
+14507,Middlesex,Yates County,"1,292"
+13302,Altmar,Oswego County,"1,289"
+13338,Forestport,Herkimer County,"1,280"
+13635,Edwards,St. Lawrence County,"1,279"
+12932,Elizabethtown,Essex County,"1,278"
+12093,Jefferson,Schoharie County,"1,276"
+12956,Mineville,Essex County,"1,271"
+14740,Gerry,Chautauqua County,"1,269"
+12967,North Lawrence,St. Lawrence County,"1,263"
+14861,Lowman,Chemung County,"1,260"
+13122,New Woodstock,Madison County,"1,257"
+14028,Burt,Niagara County,"1,257"
+12430,Fleischmanns,Greene County,"1,253"
+12997,Wilmington,Essex County,"1,251"
+12481,Shokan,Ulster County,"1,247"
+14894,Wellsburg,Chemung County,"1,244"
+13315,Burlington Flats,Otsego County,"1,237"
+13147,Scipio Center,Cayuga County,"1,236"
+13650,Henderson,Jefferson County,"1,236"
+14129,Perrysburg,Cattaraugus County,"1,236"
+12853,North Creek,Warren County,"1,235"
+13024,Auburn,Cayuga County,"1,230"
+12592,Wassaic,Dutchess County,"1,226"
+14731,Ellicottville,Cattaraugus County,"1,226"
+11739,Great River,Suffolk County,"1,225"
+12917,Burke,Franklin County,"1,221"
+12058,Earlton,Greene County,"1,220"
+13144,Richland,Oswego County,"1,219"
+13807,Milford,Otsego County,"1,218"
+13158,Truxton,Cortland County,"1,217"
+14143,Stafford,Genesee County,"1,216"
+12977,Ray Brook,Essex County,"1,213"
+13796,Laurens,Otsego County,"1,210"
+12092,Howes Cave,Schoharie County,"1,208"
+13464,Smyrna,Chenango County,"1,207"
+10914,Blooming Grove,Orange County,"1,205"
+13679,Redwood,Jefferson County,"1,205"
+12729,Cuddebackville,Orange County,"1,203"
+14709,Angelica,Allegany County,"1,201"
+14860,Lodi,Seneca County,"1,197"
+14864,Millport,Chemung County,"1,197"
+14571,Waterport,Orleans County,"1,190"
+14723,Cherry Creek,Chautauqua County,"1,187"
+13680,Rensselaer Falls,St. Lawrence County,"1,186"
+14145,Strykersville,Wyoming County,"1,185"
+13630,De Kalb Junction,St. Lawrence County,"1,184"
+13835,Richford,Tioga County,"1,184"
+12935,Ellenburg Depot,Clinton County,"1,180"
+13322,Clayville,Herkimer County,"1,172"
+12726,Cochecton,Sullivan County,"1,168"
+12814,Bolton Landing,Warren County,"1,168"
+12067,Feura Bush,Albany County,"1,165"
+14555,Sodus Point,Wayne County,"1,165"
+12496,Windham,Greene County,"1,164"
+13028,Bernhards Bay,Oswego County,"1,162"
+14614,Rochester,Monroe County,"1,158"
+10969,Pine Island,Orange County,"1,150"
+13684,Russell,St. Lawrence County,"1,149"
+14418,Branchport,Yates County,"1,149"
+12472,Rosendale,Ulster County,"1,146"
+12585,Verbank,Dutchess County,"1,144"
+12824,Diamond Point,Warren County,"1,143"
+12960,Moriah,Essex County,"1,143"
+12125,New Lebanon,Columbia County,"1,141"
+12815,Brant Lake,Warren County,"1,140"
+13402,Madison,Madison County,"1,133"
+13757,East Meredith,Delaware County,"1,130"
+13368,Lyons Falls,Lewis County,"1,129"
+13744,Castle Creek,Broome County,"1,125"
+13081,King Ferry,Cayuga County,"1,122"
+11957,Orient,Suffolk County,"1,121"
+12022,Berlin,Rensselaer County,"1,120"
+12934,Ellenburg Center,Clinton County,"1,120"
+10505,Baldwin Place,Westchester County,"1,119"
+12989,Vermontville,Franklin County,"1,110"
+13864,Willseyville,Tioga County,"1,099"
+13810,Mount Vision,Otsego County,"1,090"
+12970,Paul Smiths,Franklin County,"1,084"
+12419,Cottekill,Ulster County,"1,081"
+12192,West Coxsackie,Greene County,"1,077"
+12980,Saint Regis Falls,Franklin County,"1,075"
+12029,Canaan,Columbia County,"1,069"
+13334,Eaton,Madison County,"1,067"
+12548,Modena,Ulster County,"1,064"
+12783,Swan Lake,Sullivan County,"1,060"
+14753,Limestone,Cattaraugus County,"1,060"
+13420,Old Forge,Herkimer County,"1,055"
+14836,Dalton,Livingston County,"1,055"
+12136,Old Chatham,Columbia County,"1,043"
+12457,Mount Tremper,Ulster County,"1,041"
+13731,Andes,Delaware County,"1,038"
+12464,Phoenicia,Ulster County,"1,033"
+13490,Westmoreland,Oneida County,"1,031"
+12485,Tannersville,Greene County,"1,021"
+12837,Hampton,Washington County,"1,021"
+13788,Hobart,Delaware County,997
+13813,Nineveh,Broome County,997
+12842,Indian Lake,Hamilton County,995
+10518,Cross River,Westchester County,992
+14855,Jasper,Steuben County,992
+14066,Gainesville,Wyoming County,991
+12913,Bloomingdale,Franklin County,989
+12502,Ancram,Columbia County,984
+13473,Turin,Lewis County,982
+14869,Odessa,Schuyler County,982
+14859,Lockwood,Tioga County,979
+12423,East Durham,Greene County,970
+13780,Guilford,Chenango County,968
+12151,Round Lake,Saratoga County,967
+12504,Annandale On Hudson,Dutchess County,961
+12734,Ferndale,Sullivan County,950
+11569,Point Lookout,Nassau County,945
+12434,Grand Gorge,Delaware County,944
+13782,Hamden,Delaware County,936
+12427,Elka Park,Greene County,935
+12494,West Shokan,Ulster County,934
+14846,Hunt,Livingston County,928
+11948,Laurel,Suffolk County,924
+14260,Buffalo,Erie County,924
+14720,Celoron,Chautauqua County,924
+14506,Mendon,Monroe County,923
+13325,Constableville,Lewis County,918
+12785,Westbrookville,Sullivan County,917
+14556,Sonyea,Livingston County,913
+12863,Rock City Falls,Saratoga County,910
+12451,Leeds,Greene County,909
+14037,Cowlesville,Wyoming County,904
+12930,Dickinson Center,Franklin County,897
+13318,Cassville,Oneida County,896
+13750,Davenport,Delaware County,896
+12763,Mountain Dale,Sullivan County,890
+12873,Shushan,Washington County,886
+11958,Peconic,Suffolk County,884
+13470,Stratford,Fulton County,877
+14462,Groveland,Livingston County,877
+12765,Neversink,Sullivan County,873
+12409,Bearsville,Ulster County,865
+13752,Delancey,Delaware County,858
+12474,Roxbury,Delaware County,857
+12768,Parksville,Sullivan County,857
+13469,Stittville,Oneida County,855
+13682,Rodman,Jefferson County,854
+14822,Canaseraga,Allegany County,851
+11930,Amagansett,Suffolk County,842
+14728,Dewittville,Chautauqua County,842
+13072,Georgetown,Madison County,840
+13739,Bloomville,Delaware County,833
+11794,Stony Brook,Suffolk County,831
+12473,Round Top,Greene County,831
+11960,Remsenburg,Suffolk County,830
+12417,Connelly,Ulster County,828
+12878,Stony Creek,Warren County,819
+12156,Schodack Landing,Rensselaer County,808
+14784,Stockton,Chautauqua County,805
+14842,Himrod,Yates County,802
+14805,Alpine,Schuyler County,801
+12469,Preston Hollow,Albany County,798
+13071,Genoa,Cayuga County,796
+13355,Hubbardsville,Madison County,780
+12746,Huguenot,Orange County,778
+12732,Eldred,Sullivan County,776
+12791,Youngsville,Sullivan County,763
+14769,Portland,Chautauqua County,757
+14729,East Otto,Cattaraugus County,756
+12985,Schuyler Falls,Clinton County,755
+14819,Cameron,Steuben County,755
+12187,Warnerville,Schoharie County,752
+14825,Chemung,Chemung County,751
+14885,Troupsburg,Steuben County,749
+13690,Star Lake,St. Lawrence County,748
+12847,Long Lake,Hamilton County,740
+13681,Richville,St. Lawrence County,738
+13454,Salisbury Center,Herkimer County,735
+11959,Quogue,Suffolk County,734
+12838,Hartford,Washington County,734
+12503,Ancramdale,Columbia County,732
+13802,Maine,Broome County,729
+11932,Bridgehampton,Suffolk County,725
+13361,Jordanville,Herkimer County,725
+12160,Sloansville,Schoharie County,716
+11962,Sagaponack,Suffolk County,712
+12914,Bombay,Franklin County,711
+12150,Rotterdam Junction,Schenectady County,710
+14113,North Java,Wyoming County,709
+12778,Smallwood,Sullivan County,707
+11547,Glenwood Landing,Nassau County,706
+13615,Brownville,Jefferson County,700
+14841,Hector,Schuyler County,698
+12432,Glasco,Ulster County,697
+13756,East Branch,Delaware County,697
+10988,Unionville,Orange County,695
+12777,Forestburgh,Sullivan County,695
+12936,Essex,Essex County,691
+14824,Cayuta,Schuyler County,687
+11765,Mill Neck,Nassau County,683
+10597,Waccabuc,Westchester County,679
+13321,Clark Mills,Oneida County,678
+14815,Bradford,Schuyler County,678
+12190,Wells,Hamilton County,671
+14897,Whitesville,Allegany County,671
+12153,Sand Lake,Rensselaer County,669
+13155,South Otselic,Chenango County,669
+13061,Erieville,Madison County,668
+12063,East Schodack,Rensselaer County,665
+12032,Caroga Lake,Hamilton County,662
+14536,Portageville,Wyoming County,659
+14877,Rexville,Steuben County,658
+13777,Glen Aubrey,Broome County,656
+13310,Bouckville,Madison County,654
+13141,Preble,Cortland County,652
+13755,Downsville,Delaware County,652
+10596,Verplanck,Westchester County,650
+13486,Westernville,Oneida County,646
+12406,Arkville,Ulster County,644
+12950,Lewis,Essex County,628
+13740,Bovina Center,Delaware County,626
+12482,South Cairo,Greene County,619
+12574,Rhinecliff,Dutchess County,619
+12470,Purling,Greene County,618
+14026,Bowmansville,Erie County,617
+12175,Summit,Schoharie County,612
+12786,White Lake,Sullivan County,610
+14839,Greenwood,Steuben County,610
+12436,Haines Falls,Greene County,607
+13337,Fly Creek,Otsego County,607
+12857,Olmstedville,Essex County,606
+14820,Cameron Mills,Steuben County,606
+14878,Rock Stream,Schuyler County,602
+12120,Medusa,Albany County,600
+12823,Cossayuna,Washington County,597
+13621,Chase Mills,St. Lawrence County,589
+14872,Pine Valley,Chemung County,589
+11430,Jamaica,Queens County,588
+13313,Bridgewater,Oneida County,586
+14717,Caneadea,Allegany County,586
+14754,Little Genesee,Allegany County,586
+10517,Crompond,Westchester County,584
+13842,South Kortright,Delaware County,582
+12444,Jewett,Greene County,576
+13489,West Leyden,Lewis County,576
+12035,Central Bridge,Schoharie County,566
+12475,Ruby,Ulster County,557
+13844,South Plymouth,Chenango County,555
+14714,Black Creek,Allegany County,555
+14511,Mumford,Monroe County,548
+12164,Speculator,Hamilton County,539
+12884,Victory Mills,Saratoga County,538
+12442,Hunter,Greene County,537
+12766,North Branch,Sullivan County,535
+14816,Breesport,Chemung County,534
+12923,Churubusco,Clinton County,532
+13157,Sylvan Beach,Oneida County,529
+12493,West Park,Ulster County,526
+14480,Lakeville,Livingston County,520
+12480,Shandaken,Greene County,510
+13410,Nelliston,Montgomery County,508
+12955,Lyon Mountain,Clinton County,503
+12861,Putnam Station,Washington County,501
+14808,Atlanta,Steuben County,500
+12836,Hague,Warren County,498
+12852,Newcomb,Essex County,490
+13406,Middleville,Herkimer County,486
+14082,Java Center,Wyoming County,485
+13687,South Colton,St. Lawrence County,483
+12412,Boiceville,Ulster County,475
+12017,Austerlitz,Columbia County,471
+12810,Athol,Warren County,471
+12433,Glenford,Ulster County,470
+12041,Clarksville,Albany County,468
+12147,Rensselaerville,Albany County,466
+13665,Natural Bridge,Lewis County,465
+13861,West Oneonta,Otsego County,462
+12843,Johnsburg,Warren County,461
+14777,Rushford,Allegany County,454
+11975,Wainscott,Suffolk County,450
+12942,Keene,Essex County,450
+13672,Parishville,St. Lawrence County,449
+13832,Plymouth,Chenango County,448
+12405,Acra,Greene County,447
+12720,Bethel,Sullivan County,447
+14748,Kill Buck,Cattaraugus County,446
+14486,Linwood,Livingston County,444
+14069,Glenwood,Erie County,443
+13786,Harpersfield,Delaware County,430
+12174,Stuyvesant Falls,Columbia County,427
+12418,Cornwallville,Greene County,427
+14549,Silver Lake,Wyoming County,426
+12069,Fort Hunter,Montgomery County,425
+12738,Glen Wild,Sullivan County,423
+13693,Three Mile Bay,Jefferson County,423
+12008,Alplaus,Schenectady County,422
+12749,Kauneonga Lake,Sullivan County,419
+12860,Pottersville,Warren County,419
+10527,Granite Springs,Westchester County,418
+12169,Stephentown,Rensselaer County,417
+11970,South Jamesport,Suffolk County,416
+13136,Pitcher,Chenango County,406
+11965,Shelter Island Heights,Suffolk County,404
+12725,Claryville,Ulster County,403
+13153,Skaneateles Falls,Onondaga County,403
+13305,Beaver Falls,Lewis County,403
+12422,Durham,Greene County,399
+12998,Witherbee,Essex County,399
+12762,Mongaup Valley,Sullivan County,394
+12176,Surprise,Greene County,393
+10535,Jefferson Valley,Westchester County,392
+12945,Lake Clear,Franklin County,391
+12456,Mount Marion,Ulster County,390
+13633,De Peyster,St. Lawrence County,389
+12177,Tribes Hill,Montgomery County,387
+13659,Lorraine,Jefferson County,386
+13841,Smithville Flats,Chenango County,385
+12439,Hensonville,Greene County,384
+13664,Morristown,St. Lawrence County,384
+13784,Harford,Cortland County,382
+13863,Willet,Cortland County,382
+12420,Cragsmoor,Ulster County,381
+13776,Gilbertsville,Otsego County,380
+13670,Oswegatchie,St. Lawrence County,378
+13483,Westdale,Oneida County,377
+12849,Middle Granville,Washington County,371
+12760,Long Eddy,Delaware County,367
+12965,Nicholville,St. Lawrence County,363
+14060,Farmersville Station,Allegany County,362
+14884,Swain,Allegany County,362
+12046,Coeymans Hollow,Albany County,358
+12085,Guilderland Center,Albany County,357
+12108,Lake Pleasant,Hamilton County,350
+12819,Clemons,Washington County,350
+13494,Woodgate,Oneida County,346
+13319,Chadwicks,Oneida County,344
+12410,Big Indian,Ulster County,343
+12064,East Worcester,Otsego County,342
+12978,Redford,Clinton County,340
+11972,Speonk,Suffolk County,334
+12924,Keeseville,Clinton County,333
+13364,Leonardsville,Madison County,333
+12007,Alcove,Albany County,331
+13628,Deferiet,Jefferson County,330
+12411,Bloomington,Ulster County,325
+12769,Phillipsport,Sullivan County,325
+14774,Richburg,Allegany County,324
+13774,Fishs Eddy,Delaware County,323
+12927,Cranberry Lake,St. Lawrence County,318
+13640,Wellesley Island,Jefferson County,318
+12752,Lake Huntington,Sullivan County,309
+13846,Treadwell,Delaware County,308
+14041,Dayton,Cattaraugus County,308
+14441,Dresden,Yates County,308
+11956,New Suffolk,Suffolk County,298
+12124,New Baltimore,Greene County,298
+12492,West Kill,Greene County,298
+13751,Davenport Center,Delaware County,297
+12952,Lyon Mountain,Clinton County,286
+13163,Wampsville,Madison County,286
+12808,Adirondack,Warren County,284
+12071,Fultonham,Schoharie County,283
+12042,Climax,Greene County,280
+12743,Highland Lake,Sullivan County,279
+12969,Owls Head,Franklin County,279
+12495,Willow,Ulster County,277
+12851,Minerva,Essex County,275
+12530,Hollowville,Columbia County,270
+12454,Maplecrest,Greene County,266
+14173,Yorkshire,Cattaraugus County,266
+12812,Blue Mountain Lake,Hamilton County,265
+12421,Denver,Delaware County,261
+12856,North River,Warren County,260
+12943,Keene Valley,Essex County,260
+10279,New York,New York County,259
+13472,Thendara,Herkimer County,259
+13860,West Davenport,Delaware County,257
+13468,Springfield Center,Otsego County,256
+12465,Pine Hill,Ulster County,255
+13342,Garrattsville,Otsego County,255
+14463,Hall,Ontario County,255
+13437,Redfield,Oswego County,254
+12742,Harris,Sullivan County,253
+10975,Southfields,Orange County,246
+13804,Masonville,Delaware County,244
+14722,Chautauqua,Chautauqua County,243
+12453,Malden On Hudson,Ulster County,241
+14588,Willard,Seneca County,240
+12424,East Jewett,Greene County,239
+12471,Rifton,Ulster County,237
+13666,Newton Falls,St. Lawrence County,234
+14479,Knowlesville,Orleans County,234
+12130,Niverville,Columbia County,233
+12513,Claverack,Columbia County,228
+13312,Brantingham,Lewis County,228
+12139,Piseco,Hamilton County,227
+12507,Barrytown,Dutchess County,227
+13360,Inlet,Hamilton County,227
+14721,Ceres,Allegany County,227
+13103,Mallory,Oswego County,224
+12036,Charlotteville,Schoharie County,223
+10979,Sterling Forest,Orange County,222
+12741,Hankins,Sullivan County,222
+13692,Thousand Island Park,Jefferson County,222
+12165,Spencertown,Columbia County,220
+13435,Prospect,Oneida County,218
+13345,Greig,Lewis County,217
+12407,Ashland,Greene County,215
+12450,Lanesville,Greene County,215
+12886,Wevertown,Warren County,215
+14475,Ionia,Ontario County,215
+14515,North Greece,Monroe County,215
+13614,Brier Hill,St. Lawrence County,214
+14537,Port Gibson,Ontario County,210
+12435,Greenfield Park,Ulster County,209
+14874,Pulteney,Steuben County,209
+12855,North Hudson,Essex County,208
+12045,Coeymans,Albany County,207
+12448,Lake Hill,Ulster County,207
+12874,Silver Bay,Warren County,205
+13331,Eagle Bay,Herkimer County,204
+13062,Etna,Tompkins County,195
+12512,Chelsea,Dutchess County,194
+13162,Verona Beach,Oneida County,193
+13643,Great Bend,Jefferson County,193
+12787,White Sulphur Springs,Sullivan County,192
+12438,Halcottsville,Delaware County,190
+14302,Niagara Falls,Niagara County,189
+12517,Copake Falls,Columbia County,187
+10545,Maryknoll,Westchester County,185
+12429,Esopus,Ulster County,185
+12131,North Blenheim,Schoharie County,183
+12811,Bakers Mills,Warren County,181
+13696,West Stockholm,St. Lawrence County,181
+13674,Pierrepont Manor,Jefferson County,178
+12781,Summitville,Sullivan County,177
+12172,Stottville,Columbia County,176
+12939,Gabriels,Franklin County,173
+14166,Van Buren Point,Chautauqua County,173
+12844,Kattskill Bay,Washington County,172
+14736,Findley Lake,Chautauqua County,172
+14585,West Bloomfield,Ontario County,170
+12792,Yulan,Sullivan County,163
+12194,West Fulton,Schoharie County,162
+12195,West Lebanon,Columbia County,162
+14056,East Pembroke,Genesee County,162
+13404,Martinsburg,Lewis County,159
+13138,Pompey,Onondaga County,157
+13638,Felts Mills,Jefferson County,157
+13695,Wanakena,St. Lawrence County,157
+12767,Obernburg,Sullivan County,156
+12973,Piercefield,St. Lawrence County,154
+12460,Oak Hill,Albany County,152
+14035,Collins Center,Erie County,152
+11947,Jamesport,Suffolk County,148
+14708,Alma,Allegany County,148
+13611,Belleville,Jefferson County,147
+13651,Henderson Harbor,Jefferson County,147
+12736,Fremont Center,Sullivan County,145
+12770,Pond Eddy,Sullivan County,145
+13450,Roseboom,Otsego County,143
+13806,Meridale,Delaware County,143
+14592,York,Livingston County,143
+14027,Brant,Erie County,142
+11042,New Hyde Park,Nassau County,141
+13636,Ellisburg,Jefferson County,141
+13826,Ouaquaga,Broome County,141
+14545,Scottsburg,Livingston County,141
+12976,Rainbow Lake,Franklin County,137
+13436,Raquette Lake,Hamilton County,135
+10503,Ardsley On Hudson,Westchester County,132
+13117,Montezuma,Cayuga County,132
+14707,Allentown,Allegany County,129
+14557,South Byron,Genesee County,128
+12544,Mellenville,Columbia County,127
+12862,Riparius,Warren County,127
+13115,Minetto,Oswego County,127
+12031,Carlisle,Schoharie County,120
+12987,Upper Jay,Essex County,119
+12858,Paradox,Essex County,118
+13314,Brookfield,Madison County,118
+13632,Depauville,Jefferson County,118
+10933,Johnson,Orange County,117
+14039,Dale,Wyoming County,117
+14881,Slaterville Springs,Tompkins County,117
+13087,Little York,Cortland County,116
+13134,Peterboro,Madison County,113
+12132,North Chatham,Columbia County,111
+14126,Olcott,Niagara County,109
+10540,Lincolndale,Westchester County,108
+13482,West Burlington,Otsego County,108
+14788,Westons Mills,Cattaraugus County,107
+12416,Chichester,Ulster County,106
+12441,Highmount,Delaware County,106
+13488,Westford,Otsego County,103
+14539,Retsof,Livingston County,102
+13484,West Eaton,Madison County,100
+10519,Croton Falls,Westchester County,99
+12161,South Bethlehem,Albany County,99
+13418,North Brookfield,Madison County,97
+12489,Wawarsing,Ulster County,93
+14061,Farnham,Erie County,93
+13834,Portlandville,Otsego County,92
+13641,Fishers Landing,Jefferson County,91
+13123,North Bay,Oneida County,90
+14135,Sheridan,Chautauqua County,90
+13124,North Pitcher,Chenango County,88
+12854,North Granville,Washington County,86
+13020,Apulia Station,Onondaga County,86
+13065,Fayette,Seneca County,80
+14783,Steamburg,Cattaraugus County,80
+12024,Brainard,Columbia County,78
+12975,Port Kent,Essex County,78
+11770,Ocean Beach,Suffolk County,77
+14169,Wales Center,Erie County,77
+14415,Bellona,Yates County,77
+14529,Perkinsville,Steuben County,77
+14854,Jacksonville,Tompkins County,76
+14083,Java Village,Wyoming County,75
+12841,Huletts Landing,Washington County,74
+13455,Sangerfield,Oneida County,74
+12964,New Russia,Essex County,73
+13415,New Lisbon,Otsego County,73
+06390,Fishers Island,Suffolk County,72
+14742,Greenhurst,Chautauqua County,72
+14413,Alton,Wayne County,71
+14130,Pike,Wyoming County,70
+13301,Alder Creek,Oneida County,69
+13441,Rome,Oneida County,68
+13623,Chippewa Bay,St. Lawrence County,68
+13154,South Butler,Wayne County,65
+13353,Hoffmeister,Hamilton County,63
+14752,Lily Dale,Chautauqua County,62
+12115,Malden Bridge,Columbia County,60
+12724,Callicoon Center,Sullivan County,60
+13113,Meridian,Cayuga County,56
+13649,Helena,St. Lawrence County,56
+13859,Wells Bridge,Otsego County,56
+12915,Brainardsville,Franklin County,55
+13675,Plessis,Jefferson County,54
+14168,Versailles,Cattaraugus County,50
+11973,Upton,Suffolk County,48
+14732,Ellington,Chautauqua County,48
+13051,Delphi Falls,Onondaga County,47
+13333,East Springfield,Otsego County,46
+12483,Spring Glen,Sullivan County,45
+12922,Childwold,St. Lawrence County,44
+13475,Van Hornesville,Herkimer County,44
+12911,Keeseville,Clinton County,41
+13683,Rooseveltown,St. Lawrence County,41
+12527,Glenham,Dutchess County,40
+14893,Wayne,Steuben County,37
+13102,McLean,Tompkins County,36
+12452,Lexington,Greene County,33
+12750,Kenoza Lake,Sullivan County,33
+14134,Sardinia,Erie County,32
+14542,Rose,Wayne County,32
+12459,New Kingston,Delaware County,30
+11931,Aquebogue,Suffolk County,27
+12040,Cherry Plain,Rensselaer County,27
+13457,Schuyler Lake,Otsego County,26
+13647,Hannawa Falls,St. Lawrence County,26
+14756,Maple Springs,Chautauqua County,26
+13352,Hinckley,Oneida County,25
+13814,North Norwich,Chenango County,25
+13639,Fine,St. Lawrence County,23
+10953,Mountainville,Orange County,22
+12872,Severance,Essex County,22
+12961,Moriah Center,Essex County,22
+14827,Coopers Plains,Steuben County,22
+12745,Hortonville,Sullivan County,20
+13678,Raymondville,St. Lawrence County,20
+13738,Blodgett Mills,Cortland County,20
+14029,Centerville,Allegany County,20
+13847,Trout Creek,Delaware County,18
+10985,Thompson Ridge,Orange County,17
+10932,Howells,Orange County,13
+12820,Cleverdale,Warren County,10
+12864,Sabael,Hamilton County,8
+10152,New York,New York County,7
+12933,Ellenburg,Clinton County,7
+12082,Grafton,Rensselaer County,2
+10020,New York,New York County,0
+10103,New York,New York County,0
+10110,New York,New York County,0
+10111,New York,New York County,0
+10112,New York,New York County,0
+10115,New York,New York County,0
+10119,New York,New York County,0
+10153,New York,New York County,0
+10154,New York,New York County,0
+10165,New York,New York County,0
+10167,New York,New York County,0
+10168,New York,New York County,0
+10169,New York,New York County,0
+10170,New York,New York County,0
+10171,New York,New York County,0
+10172,New York,New York County,0
+10173,New York,New York County,0
+10174,New York,New York County,0
+10177,New York,New York County,0
+10199,New York,New York County,0
+10271,New York,New York County,0
+10278,New York,New York County,0
+10311,Staten Island,Richmond County,0
+10542,Mahopac Falls,Putnam County,0
+10910,Arden,Orange County,0
+10911,Bear Mountain,Rockland County,0
+10915,Bullville,Orange County,0
+11359,Bayside,Queens County,0
+11371,Flushing,Queens County,0
+11424,Jamaica,Queens County,0
+11451,Jamaica,Queens County,0
+11556,Uniondale,Nassau County,0
+12226,Albany,Albany County,0
+12490,West Camp,Ulster County,0
+12722,Burlingham,Sullivan County,0
+12784,Thompsonville,Sullivan County,0
+13119,Mottville,Onondaga County,0
+13121,New Haven,Oswego County,0
+13290,Syracuse,Onondaga County,0
+13645,Hailesboro,St. Lawrence County,0
+13747,Colliersville,Otsego County,0
+14112,North Evans,Erie County,0
+14453,Fishers,Ontario County,0
+14642,Rochester,Monroe County,0
+14785,Stow,Chautauqua County,0
+14856,Kanona,Steuben County,0

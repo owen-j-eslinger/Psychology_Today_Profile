@@ -1,0 +1,882 @@
+ZIP,City,County,Population
+55044,Lakeville,Dakota County,"64,762"
+55901,Rochester,Olmsted County,"58,495"
+55106,Saint Paul,Ramsey County,"56,708"
+55124,Saint Paul,Dakota County,"55,658"
+55303,Anoka,Anoka County,"52,614"
+56001,Mankato,Blue Earth County,"51,585"
+55379,Shakopee,Scott County,"50,041"
+55304,Andover,Anoka County,"49,737"
+55337,Burnsville,Dakota County,"47,633"
+55104,Saint Paul,Ramsey County,"45,762"
+55330,Elk River,Sherburne County,"45,721"
+55112,Saint Paul,Ramsey County,"45,346"
+55117,Saint Paul,Ramsey County,"44,697"
+55119,Saint Paul,Ramsey County,"44,567"
+56560,Moorhead,Clay County,"44,405"
+55125,Saint Paul,Washington County,"44,185"
+55113,Saint Paul,Ramsey County,"40,819"
+55016,Cottage Grove,Washington County,"40,695"
+55369,Osseo,Hennepin County,"39,290"
+55311,Maple Grove,Hennepin County,"38,472"
+55407,Minneapolis,Hennepin County,"37,667"
+55110,Saint Paul,Ramsey County,"37,305"
+55024,Farmington,Dakota County,"37,287"
+55423,Minneapolis,Hennepin County,"36,724"
+55406,Minneapolis,Hennepin County,"36,581"
+55082,Stillwater,Washington County,"36,277"
+56301,Saint Cloud,Stearns County,"35,580"
+55416,Minneapolis,Hennepin County,"35,015"
+55414,Minneapolis,Hennepin County,"35,007"
+56601,Bemidji,Beltrami County,"34,784"
+55372,Prior Lake,Scott County,"34,772"
+55433,Minneapolis,Anoka County,"34,463"
+55449,Minneapolis,Anoka County,"34,443"
+55129,Saint Paul,Washington County,"34,120"
+55987,Winona,Winona County,"34,072"
+55432,Minneapolis,Anoka County,"33,672"
+55443,Minneapolis,Hennepin County,"33,660"
+55109,Saint Paul,Ramsey County,"33,461"
+55068,Rosemount,Dakota County,"33,119"
+55434,Minneapolis,Anoka County,"33,029"
+55428,Minneapolis,Hennepin County,"32,499"
+55122,Saint Paul,Dakota County,"32,261"
+55378,Savage,Scott County,"32,162"
+56401,Brainerd,Crow Wing County,"31,841"
+55408,Minneapolis,Hennepin County,"31,507"
+55418,Minneapolis,Hennepin County,"31,505"
+55021,Faribault,Rice County,"30,908"
+55421,Minneapolis,Anoka County,"30,843"
+55347,Eden Prairie,Hennepin County,"30,429"
+55318,Chaska,Carver County,"30,369"
+55419,Minneapolis,Hennepin County,"29,738"
+55033,Hastings,Dakota County,"29,674"
+55904,Rochester,Olmsted County,"29,639"
+55912,Austin,Mower County,"29,632"
+55060,Owatonna,Steele County,"29,599"
+55118,Saint Paul,Dakota County,"29,564"
+55128,Saint Paul,Washington County,"29,384"
+55014,Circle Pines,Anoka County,"29,047"
+55448,Minneapolis,Anoka County,"29,005"
+55404,Minneapolis,Hennepin County,"28,920"
+55105,Saint Paul,Ramsey County,"28,617"
+55422,Minneapolis,Hennepin County,"28,452"
+55446,Minneapolis,Hennepin County,"28,247"
+55811,Duluth,St. Louis County,"28,118"
+55411,Minneapolis,Hennepin County,"27,741"
+55126,Saint Paul,Ramsey County,"27,456"
+55343,Hopkins,Hennepin County,"27,102"
+55429,Minneapolis,Hennepin County,"27,024"
+56308,Alexandria,Douglas County,"27,008"
+55123,Saint Paul,Dakota County,"26,501"
+55902,Rochester,Olmsted County,"26,464"
+55116,Saint Paul,Ramsey County,"25,918"
+55025,Forest Lake,Anoka County,"25,891"
+56303,Saint Cloud,Stearns County,"25,827"
+55057,Northfield,Rice County,"25,650"
+55426,Minneapolis,Hennepin County,"25,251"
+56201,Willmar,Kandiyohi County,"25,146"
+55417,Minneapolis,Hennepin County,"25,102"
+55038,Hugo,Washington County,"25,061"
+55313,Buffalo,Wright County,"24,913"
+55427,Minneapolis,Hennepin County,"24,764"
+55412,Minneapolis,Hennepin County,"24,460"
+55420,Minneapolis,Hennepin County,"24,451"
+55316,Champlin,Hennepin County,"23,294"
+55430,Minneapolis,Hennepin County,"22,749"
+55317,Chanhassen,Carver County,"22,299"
+55309,Big Lake,Sherburne County,"21,378"
+56007,Albert Lea,Freeborn County,"21,377"
+55076,Inver Grove Heights,Dakota County,"21,374"
+55305,Hopkins,Hennepin County,"21,068"
+56377,Sartell,Stearns County,"21,063"
+55447,Minneapolis,Hennepin County,"20,931"
+55345,Minnetonka,Hennepin County,"20,789"
+55075,South Saint Paul,Dakota County,"20,714"
+55362,Monticello,Wright County,"20,663"
+55906,Rochester,Olmsted County,"20,437"
+55410,Minneapolis,Hennepin County,"20,422"
+55744,Grand Rapids,Itasca County,"20,295"
+55376,Saint Michael,Wright County,"20,106"
+56537,Fergus Falls,Otter Tail County,"19,856"
+55331,Excelsior,Hennepin County,"19,805"
+55102,Saint Paul,Ramsey County,"19,630"
+55066,Red Wing,Goodhue County,"19,226"
+55437,Minneapolis,Hennepin County,"18,881"
+55431,Minneapolis,Hennepin County,"18,664"
+55350,Hutchinson,McLeod County,"18,610"
+55346,Eden Prairie,Hennepin County,"18,588"
+55371,Princeton,Mille Lacs County,"18,103"
+55127,Saint Paul,Ramsey County,"18,090"
+56501,Detroit Lakes,Becker County,"18,004"
+55441,Minneapolis,Hennepin County,"17,944"
+55130,Saint Paul,Ramsey County,"17,775"
+55398,Zimmerman,Sherburne County,"17,688"
+55803,Duluth,St. Louis County,"17,662"
+56379,Sauk Rapids,Benton County,"17,607"
+55403,Minneapolis,Hennepin County,"17,601"
+56304,Saint Cloud,Sherburne County,"17,473"
+55720,Cloquet,Carlton County,"17,448"
+56073,New Ulm,Brown County,"17,339"
+55405,Minneapolis,Hennepin County,"17,198"
+55306,Burnsville,Dakota County,"16,830"
+55746,Hibbing,St. Louis County,"16,730"
+55008,Cambridge,Isanti County,"16,729"
+55374,Rogers,Hennepin County,"16,661"
+55444,Minneapolis,Hennepin County,"16,559"
+55804,Duluth,St. Louis County,"15,922"
+56258,Marshall,Lyon County,"15,888"
+55438,Minneapolis,Hennepin County,"15,701"
+55391,Wayzata,Hennepin County,"15,502"
+55107,Saint Paul,Ramsey County,"15,377"
+56003,Mankato,Nicollet County,"15,258"
+55108,Saint Paul,Ramsey County,"15,224"
+56187,Worthington,Nobles County,"15,214"
+55387,Waconia,Carver County,"15,030"
+56345,Little Falls,Morrison County,"15,008"
+55040,Isanti,Isanti County,"14,837"
+55056,North Branch,Chisago County,"14,753"
+55413,Minneapolis,Hennepin County,"14,655"
+56082,Saint Peter,Nicollet County,"14,606"
+55077,Inver Grove Heights,Dakota County,"14,503"
+55436,Minneapolis,Hennepin County,"14,462"
+55435,Minneapolis,Hennepin County,"14,192"
+55364,Mound,Hennepin County,"14,097"
+55344,Eden Prairie,Hennepin County,"14,034"
+55042,Lake Elmo,Washington County,"13,705"
+55445,Minneapolis,Hennepin County,"13,546"
+55301,Albertville,Wright County,"13,482"
+56071,New Prague,Le Sueur County,"13,157"
+55103,Saint Paul,Ramsey County,"13,125"
+56701,Thief River Falls,Pennington County,"12,705"
+55442,Minneapolis,Hennepin County,"12,694"
+56093,Waseca,Waseca County,"12,672"
+55401,Minneapolis,Hennepin County,"11,816"
+56031,Fairmont,Martin County,"11,665"
+55011,Cedar,Anoka County,"11,482"
+55092,Wyoming,Anoka County,"11,200"
+55409,Minneapolis,Hennepin County,"11,188"
+56470,Park Rapids,Hubbard County,"11,186"
+55425,Minneapolis,Hennepin County,"10,908"
+55812,Duluth,St. Louis County,"10,859"
+56721,East Grand Forks,Polk County,"10,679"
+55805,Duluth,St. Louis County,"10,602"
+55352,Jordan,Scott County,"10,515"
+55308,Becker,Sherburne County,"10,321"
+55424,Minneapolis,Hennepin County,"10,289"
+55340,Hamel,Hennepin County,"10,183"
+55386,Victoria,Carver County,"10,077"
+56374,Saint Joseph,Stearns County,"10,029"
+55328,Delano,Wright County,"10,019"
+55051,Mora,Kanabec County,"9,935"
+56011,Belle Plaine,Scott County,"9,921"
+55807,Duluth,St. Louis County,"9,763"
+55355,Litchfield,Meeker County,"9,663"
+55792,Virginia,St. Louis County,"9,663"
+56353,Milaca,Mille Lacs County,"9,546"
+55439,Minneapolis,Hennepin County,"9,459"
+55806,Duluth,St. Louis County,"9,356"
+56431,Aitkin,Aitkin County,"9,312"
+55920,Byron,Olmsted County,"9,271"
+55063,Pine City,Pine County,"9,212"
+55121,Saint Paul,Dakota County,"9,198"
+55115,Saint Paul,Washington County,"8,949"
+56425,Baxter,Crow Wing County,"8,932"
+56716,Crookston,Polk County,"8,903"
+55454,Minneapolis,Hennepin County,"8,880"
+56472,Pequot Lakes,Cass County,"8,830"
+56649,International Falls,Koochiching County,"8,825"
+56378,Sauk Centre,Stearns County,"8,649"
+55976,Stewartville,Olmsted County,"8,509"
+55079,Stacy,Chisago County,"8,508"
+56320,Cold Spring,Stearns County,"8,482"
+55070,Saint Francis,Anoka County,"8,441"
+55336,Glencoe,McLeod County,"8,296"
+55810,Duluth,St. Louis County,"8,285"
+55944,Kasson,Dodge County,"8,161"
+55009,Cannon Falls,Goodhue County,"8,127"
+56347,Long Prairie,Todd County,"8,042"
+55101,Saint Paul,Ramsey County,"7,911"
+55045,Lindstrom,Chisago County,"7,846"
+56329,Foley,Benton County,"7,778"
+56387,Waite Park,Stearns County,"7,756"
+56482,Wadena,Wadena County,"7,619"
+55041,Lake City,Wabasha County,"7,510"
+55947,La Crescent,Houston County,"7,403"
+55302,Annandale,Wright County,"7,326"
+55616,Two Harbors,Lake County,"7,250"
+56265,Montevideo,Chippewa County,"7,225"
+56573,Perham,Otter Tail County,"7,221"
+56367,Rice,Benton County,"7,209"
+55315,Carver,Carver County,"7,147"
+55013,Chisago City,Chisago County,"7,015"
+55359,Maple Plain,Hennepin County,"6,997"
+55415,Minneapolis,Hennepin County,"6,900"
+56267,Morris,Stevens County,"6,783"
+56283,Redwood Falls,Redwood County,"6,481"
+56156,Luverne,Rock County,"6,371"
+55734,Eveleth,St. Louis County,"6,265"
+56081,Saint James,Watonwan County,"6,172"
+56101,Windom,Cottonwood County,"6,157"
+55046,Lonsdale,Rice County,"6,145"
+56352,Melrose,Stearns County,"6,112"
+56058,Le Sueur,Le Sueur County,"6,067"
+55327,Dayton,Hennepin County,"6,016"
+55320,Clearwater,Stearns County,"5,998"
+55388,Watertown,Carver County,"5,893"
+55069,Rush City,Chisago County,"5,836"
+56572,Pelican Rapids,Otter Tail County,"5,827"
+55373,Rockford,Hennepin County,"5,822"
+55363,Montrose,Wright County,"5,814"
+56334,Glenwood,Pope County,"5,776"
+56362,Paynesville,Stearns County,"5,773"
+56751,Roseau,Roseau County,"5,761"
+56544,Frazee,Becker County,"5,726"
+55071,Saint Paul Park,Washington County,"5,719"
+56364,Pierz,Morrison County,"5,708"
+55356,Long Lake,Hennepin County,"5,696"
+55808,Duluth,St. Louis County,"5,691"
+55321,Cokato,Wright County,"5,646"
+55719,Chisholm,St. Louis County,"5,613"
+55992,Zumbrota,Goodhue County,"5,544"
+56164,Pipestone,Pipestone County,"5,516"
+55972,Saint Charles,Winona County,"5,434"
+56310,Avon,Stearns County,"5,431"
+55455,Minneapolis,Hennepin County,"5,390"
+56307,Albany,Stearns County,"5,385"
+55731,Ely,Lake County,"5,361"
+55963,Pine Island,Goodhue County,"5,244"
+55037,Hinckley,Pine County,"5,215"
+55319,Clear Lake,Sherburne County,"5,185"
+56763,Warroad,Roseau County,"5,180"
+55733,Esko,Carlton County,"5,139"
+55358,Maple Lake,Wright County,"5,061"
+55120,Saint Paul,Dakota County,"5,058"
+56464,Menahga,Wadena County,"5,053"
+55114,Saint Paul,Ramsey County,"5,049"
+56085,Sleepy Eye,Brown County,"5,047"
+56549,Hawley,Clay County,"5,028"
+56479,Staples,Todd County,"5,021"
+56069,Montgomery,Le Sueur County,"4,991"
+56273,New London,Kandiyohi County,"4,956"
+56633,Cass Lake,Cass County,"4,802"
+55325,Dassel,Meeker County,"4,795"
+55055,Newport,Washington County,"4,754"
+56529,Dilworth,Clay County,"4,713"
+56288,Spicer,Kandiyohi County,"4,697"
+56215,Benson,Swift County,"4,677"
+55921,Caledonia,Houston County,"4,659"
+56636,Deer River,Itasca County,"4,643"
+55709,Bovey,Itasca County,"4,628"
+55767,Moose Lake,Carlton County,"4,582"
+56013,Blue Earth,Faribault County,"4,535"
+56468,Nisswa,Crow Wing County,"4,520"
+56143,Jackson,Jackson County,"4,509"
+56474,Pine River,Cass County,"4,475"
+55975,Spring Valley,Fillmore County,"4,433"
+55072,Sandstone,Pine County,"4,418"
+55964,Plainview,Wabasha County,"4,400"
+55005,Bethel,Anoka County,"4,376"
+55923,Chatfield,Fillmore County,"4,375"
+56621,Bagley,Clearwater County,"4,336"
+55375,Saint Bonifacius,Hennepin County,"4,326"
+55927,Dodge Center,Dodge County,"4,297"
+56368,Richmond,Stearns County,"4,262"
+55073,Scandia,Washington County,"4,169"
+55020,Elko New Market,Scott County,"4,115"
+55721,Cohasset,Itasca County,"4,044"
+56048,Janesville,Waseca County,"4,025"
+56514,Barnesville,Clay County,"3,994"
+55981,Wabasha,Wabasha County,"3,955"
+56241,Granite Falls,Yellow Medicine County,"3,933"
+56057,Le Center,Le Sueur County,"3,919"
+55003,Bayport,Washington County,"3,905"
+55779,Saginaw,St. Louis County,"3,905"
+56055,Lake Crystal,Blue Earth County,"3,898"
+56520,Breckenridge,Wilkin County,"3,852"
+55322,Cologne,Carver County,"3,775"
+56360,Osakis,Todd County,"3,721"
+55604,Grand Marais,Cook County,"3,719"
+55006,Braham,Kanabec County,"3,694"
+55382,South Haven,Stearns County,"3,691"
+56024,Eagle Lake,Blue Earth County,"3,647"
+55341,Hanover,Wright County,"3,561"
+55349,Howard Lake,Wright County,"3,549"
+56359,Onamia,Mille Lacs County,"3,521"
+56473,Pillager,Cass County,"3,518"
+55390,Waverly,Wright County,"3,492"
+56097,Wells,Faribault County,"3,487"
+55707,Barnum,Carlton County,"3,470"
+55934,Eyota,Olmsted County,"3,466"
+55043,Lakeland,Washington County,"3,424"
+55357,Loretto,Hennepin County,"3,419"
+55032,Harris,Chisago County,"3,416"
+55917,Blooming Prairie,Steele County,"3,410"
+55397,Young America,Carver County,"3,404"
+55946,Kenyon,Goodhue County,"3,395"
+55960,Oronoco,Olmsted County,"3,375"
+56567,New York Mills,Otter Tail County,"3,367"
+55353,Kimball,Stearns County,"3,361"
+56441,Crosby,Crow Wing County,"3,348"
+55360,Mayer,Carver County,"3,341"
+56461,Laporte,Hubbard County,"3,337"
+56444,Deerwood,Crow Wing County,"3,331"
+56373,Royalton,Morrison County,"3,329"
+56466,Motley,Cass County,"3,284"
+56484,Walker,Cass County,"3,252"
+56062,Madelia,Watonwan County,"3,234"
+55943,Houston,Houston County,"3,221"
+56063,Madison Lake,Blue Earth County,"3,221"
+55705,Aurora,St. Louis County,"3,211"
+55080,Stanchfield,Isanti County,"3,180"
+55354,Lester Prairie,McLeod County,"3,159"
+55718,Carlton,Carlton County,"3,111"
+56358,Ogilvie,Kanabec County,"3,107"
+56087,Springfield,Brown County,"3,105"
+55001,Afton,Washington County,"3,027"
+55971,Rushford,Fillmore County,"3,018"
+56172,Slayton,Murray County,"2,987"
+55307,Arlington,Sibley County,"2,981"
+56175,Tracy,Lyon County,"2,972"
+55768,Mountain Iron,St. Louis County,"2,964"
+56671,Redlake,Clearwater County,"2,961"
+56096,Waterville,Le Sueur County,"2,953"
+55741,Gilbert,St. Louis County,"2,947"
+56438,Browerville,Todd County,"2,942"
+56277,Olivia,Renville County,"2,905"
+55760,Mcgregor,Aitkin County,"2,894"
+55054,Elko New Market,Scott County,"2,831"
+56467,Nevis,Hubbard County,"2,827"
+56150,Lakefield,Jackson County,"2,802"
+56435,Backus,Cass County,"2,801"
+55940,Hayfield,Dodge County,"2,791"
+56342,Isle,Aitkin County,"2,788"
+56065,Mapleton,Blue Earth County,"2,766"
+56442,Crosslake,Crow Wing County,"2,762"
+56547,Glyndon,Clay County,"2,762"
+56557,Mahnomen,Mahnomen County,"2,758"
+56554,Lake Park,Becker County,"2,752"
+55027,Goodhue,Goodhue County,"2,739"
+56623,Baudette,Lake of the Woods County,"2,733"
+55334,Gaylord,Sibley County,"2,727"
+55395,Winsted,McLeod County,"2,723"
+56515,Battle Lake,Otter Tail County,"2,723"
+56278,Ortonville,Big Stone County,"2,698"
+56159,Mountain Lake,Cottonwood County,"2,668"
+55783,Sturgeon Lake,Pine County,"2,639"
+55049,Medford,Steele County,"2,636"
+56220,Canby,Yellow Medicine County,"2,617"
+55955,Mantorville,Dodge County,"2,605"
+56477,Sebeka,Wadena County,"2,594"
+56361,Parkers Prairie,Otter Tail County,"2,592"
+55952,Lewiston,Winona County,"2,585"
+56209,Atwater,Kandiyohi County,"2,570"
+56542,Fosston,Polk County,"2,486"
+55614,Silver Bay,Lake County,"2,485"
+56465,Merrifield,Crow Wing County,"2,476"
+56256,Madison,Lac qui Parle County,"2,446"
+56762,Warren,Polk County,"2,433"
+55802,Duluth,St. Louis County,"2,399"
+55074,Shafer,Chisago County,"2,393"
+56551,Henning,Otter Tail County,"2,387"
+55389,Watkins,Meeker County,"2,384"
+56232,Dawson,Lac qui Parle County,"2,379"
+56044,Henderson,Sibley County,"2,370"
+56381,Starbuck,Pope County,"2,344"
+56750,Red Lake Falls,Red Lake County,"2,324"
+56340,Holdingford,Stearns County,"2,309"
+55019,Dundas,Rice County,"2,305"
+55965,Preston,Fillmore County,"2,300"
+56510,Ada,Norman County,"2,292"
+55396,Winthrop,Sibley County,"2,288"
+56264,Minneota,Lyon County,"2,277"
+56312,Belgrade,Stearns County,"2,270"
+56481,Verndale,Wadena County,"2,255"
+55047,Marine On Saint Croix,Washington County,"2,244"
+56131,Fulda,Murray County,"2,238"
+56072,New Richland,Waseca County,"2,228"
+55329,Eden Valley,Meeker County,"2,219"
+55769,Nashwauk,Itasca County,"2,219"
+55007,Brook Park,Kanabec County,"2,201"
+55956,Mazeppa,Wabasha County,"2,199"
+56630,Blackduck,Beltrami County,"2,180"
+56284,Renville,Renville County,"2,168"
+56026,Ellendale,Steele County,"2,124"
+55052,Morristown,Rice County,"2,114"
+56208,Appleton,Swift County,"2,113"
+56330,Foreston,Mille Lacs County,"2,097"
+55012,Center City,Chisago County,"2,087"
+56088,Truman,Martin County,"2,071"
+55750,Hoyt Lakes,St. Louis County,"2,068"
+56531,Elbow Lake,Grant County,"2,063"
+56331,Freeport,Stearns County,"2,057"
+56672,Remer,Cass County,"2,052"
+56511,Audubon,Becker County,"2,006"
+55932,Elgin,Olmsted County,"1,999"
+55084,Taylors Falls,Chisago County,"1,975"
+55342,Hector,Renville County,"1,973"
+55939,Harmony,Fillmore County,"1,973"
+56222,Clara City,Chippewa County,"1,972"
+56098,Winnebago,Faribault County,"1,970"
+56296,Wheaton,Traverse County,"1,956"
+56452,Hackensack,Cass County,"1,936"
+55723,Cook,St. Louis County,"1,927"
+55949,Lanesboro,Fillmore County,"1,923"
+56243,Grove City,Meeker County,"1,921"
+55974,Spring Grove,Houston County,"1,902"
+55384,Spring Park,Hennepin County,"1,896"
+56540,Fertile,Polk County,"1,891"
+55959,Minnesota City,Winona County,"1,889"
+55031,Hampton,Dakota County,"1,881"
+55983,Wanamingo,Goodhue County,"1,874"
+56586,Underwood,Otter Tail County,"1,873"
+55790,Tower,St. Louis County,"1,847"
+56074,Nicollet,Nicollet County,"1,845"
+56244,Hancock,Stevens County,"1,832"
+55381,Silver Lake,McLeod County,"1,819"
+55735,Finlayson,Pine County,"1,814"
+55088,Webster,Rice County,"1,812"
+55795,Willow River,Pine County,"1,807"
+56315,Brandon,Douglas County,"1,803"
+56634,Clearbrook,Clearwater County,"1,801"
+55936,Grand Meadow,Mower County,"1,785"
+56676,Shevlin,Clearwater County,"1,780"
+55368,Norwood Young America,Carver County,"1,775"
+56128,Edgerton,Pipestone County,"1,768"
+56017,Cleveland,Le Sueur County,"1,763"
+56589,Waubun,Mahnomen County,"1,760"
+55985,West Concord,Dodge County,"1,759"
+56475,Randall,Morrison County,"1,750"
+56571,Ottertail,Otter Tail County,"1,745"
+56036,Glenville,Freeborn County,"1,740"
+56678,Solway,Beltrami County,"1,730"
+56326,Evansville,Douglas County,"1,716"
+55030,Grasston,Pine County,"1,711"
+56449,Fort Ripley,Crow Wing County,"1,710"
+55706,Babbitt,St. Louis County,"1,703"
+56455,Ironton,Crow Wing County,"1,688"
+56628,Bigfork,Itasca County,"1,675"
+56229,Cottonwood,Lyon County,"1,672"
+56178,Tyler,Lincoln County,"1,669"
+55332,Fairfax,Renville County,"1,667"
+55335,Gibbon,Sibley County,"1,666"
+56338,Hillman,Morrison County,"1,636"
+56110,Adrian,Nobles County,"1,633"
+56171,Sherburn,Martin County,"1,632"
+56332,Garfield,Douglas County,"1,627"
+56528,Dent,Otter Tail County,"1,623"
+56433,Akeley,Hubbard County,"1,614"
+55089,Welch,Goodhue County,"1,612"
+56266,Morgan,Redwood County,"1,583"
+56336,Grey Eagle,Todd County,"1,566"
+56443,Cushing,Morrison County,"1,537"
+56009,Alden,Freeborn County,"1,527"
+56321,Collegeville,Stearns County,"1,526"
+56726,Greenbush,Roseau County,"1,494"
+55771,Orr,St. Louis County,"1,484"
+56670,Redby,Beltrami County,"1,477"
+56282,Raymond,Kandiyohi County,"1,471"
+56316,Brooten,Pope County,"1,461"
+55797,Wrenshall,Carlton County,"1,457"
+55732,Embarrass,St. Louis County,"1,453"
+56152,Lamberton,Redwood County,"1,431"
+55312,Brownton,McLeod County,"1,428"
+56446,Eagle Bend,Todd County,"1,418"
+56437,Bertha,Todd County,"1,410"
+56440,Clarissa,Todd County,"1,395"
+55991,Zumbro Falls,Wabasha County,"1,394"
+56314,Bowlus,Morrison County,"1,393"
+55751,Iron,St. Louis County,"1,388"
+55909,Adams,Mower County,"1,387"
+55951,Le Roy,Mower County,"1,385"
+55929,Dover,Olmsted County,"1,383"
+55748,Hill City,Aitkin County,"1,374"
+56037,Good Thunder,Blue Earth County,"1,374"
+56382,Swanville,Morrison County,"1,365"
+55710,Britt,St. Louis County,"1,362"
+56223,Clarkfield,Yellow Medicine County,"1,351"
+56655,Longville,Cass County,"1,351"
+55310,Bird Island,Renville County,"1,344"
+55736,Floodwood,St. Louis County,"1,344"
+56587,Vergas,Otter Tail County,"1,339"
+55385,Stewart,McLeod County,"1,337"
+56354,Miltona,Douglas County,"1,337"
+55925,Dakota,Winona County,"1,336"
+56271,Murdock,Swift County,"1,334"
+55954,Mabel,Fillmore County,"1,332"
+56569,Ogema,Becker County,"1,324"
+55945,Kellogg,Wabasha County,"1,321"
+56149,Lake Benton,Lincoln County,"1,318"
+56556,Mcintosh,Polk County,"1,312"
+56252,Kerkhoven,Swift County,"1,310"
+55775,Pengilly,Itasca County,"1,309"
+56535,Erskine,Polk County,"1,307"
+56050,Kasota,Le Sueur County,"1,306"
+56580,Sabin,Clay County,"1,305"
+56584,Twin Valley,Norman County,"1,297"
+56309,Ashby,Grant County,"1,296"
+56180,Walnut Grove,Redwood County,"1,287"
+56563,Moorhead,Clay County,"1,285"
+56319,Carlos,Douglas County,"1,283"
+56181,Welcome,Martin County,"1,280"
+56183,Westbrook,Cottonwood County,"1,241"
+56653,Littlefork,Koochiching County,"1,239"
+56357,Oak Park,Benton County,"1,230"
+56738,Newfolden,Marshall County,"1,228"
+55065,Randolph,Dakota County,"1,224"
+55753,Keewatin,Itasca County,"1,215"
+56136,Hendricks,Lincoln County,"1,203"
+56534,Erhard,Otter Tail County,"1,201"
+56318,Burtrum,Todd County,"1,191"
+56119,Brewster,Nobles County,"1,188"
+55314,Buffalo Lake,Renville County,"1,187"
+55324,Darwin,Meeker County,"1,179"
+56570,Osage,Becker County,"1,173"
+55910,Altura,Winona County,"1,171"
+55924,Claremont,Dodge County,"1,170"
+55969,Rollingstone,Winona County,"1,169"
+56010,Amboy,Blue Earth County,"1,159"
+56293,Wabasso,Redwood County,"1,147"
+56144,Jasper,Rock County,"1,143"
+56279,Pennock,Kandiyohi County,"1,126"
+56115,Balaton,Lyon County,"1,123"
+55367,New Germany,Carver County,"1,122"
+56728,Hallock,Kittson County,"1,116"
+56339,Hoffman,Grant County,"1,115"
+56021,Courtland,Nicollet County,"1,108"
+55726,Cromwell,Carlton County,"1,087"
+55918,Brownsdale,Mower County,"1,084"
+56270,Morton,Renville County,"1,076"
+55941,Hokah,Houston County,"1,072"
+55970,Rose Creek,Mower County,"1,068"
+56714,Badger,Roseau County,"1,065"
+56585,Ulen,Clay County,"1,064"
+55979,Utica,Winona County,"1,053"
+55704,Askov,Pine County,"1,051"
+56579,Rothsay,Wilkin County,"1,050"
+55713,Buhl,St. Louis County,"1,048"
+56068,Minnesota Lake,Blue Earth County,"1,041"
+55919,Brownsville,Houston County,"1,040"
+56041,Hanska,Brown County,"1,039"
+56137,Heron Lake,Jackson County,"1,039"
+56142,Ivanhoe,Lincoln County,"1,036"
+56324,Dalton,Otter Tail County,"1,028"
+56028,Elysian,Le Sueur County,"1,018"
+55935,Fountain,Fillmore County,"1,006"
+55967,Racine,Mower County,"1,001"
+55053,Nerstrand,Rice County,995
+56016,Clarks Grove,Freeborn County,989
+56120,Butterfield,Watonwan County,983
+56285,Sacred Heart,Renville County,983
+56450,Garrison,Crow Wing County,983
+55338,Green Isle,Sibley County,978
+55018,Dennison,Goodhue County,969
+56469,Palisade,Aitkin County,967
+55722,Coleraine,Itasca County,963
+56732,Karlstad,Kittson County,951
+56251,Kandiyohi,Kandiyohi County,949
+55339,Hamburg,Carver County,942
+56725,Goodridge,Pennington County,941
+55708,Biwabik,St. Louis County,929
+56138,Hills,Rock County,927
+56045,Hollandale,Freeborn County,922
+56228,Cosmos,Meeker County,922
+56385,Villard,Pope County,917
+56260,Maynard,Chippewa County,913
+55703,Angora,St. Louis County,906
+56686,Williams,Lake of the Woods County,905
+55953,Lyle,Mower County,901
+55990,Wykoff,Fillmore County,899
+56661,Northome,Koochiching County,895
+56176,Trimont,Martin County,888
+56527,Deer Creek,Otter Tail County,881
+56039,Granada,Martin County,880
+56262,Milan,Chippewa County,871
+56757,Stephen,Marshall County,861
+56168,Rushmore,Nobles County,858
+56727,Grygla,Beltrami County,858
+56054,Lafayette,Nicollet County,853
+56447,Emily,Crow Wing County,843
+56453,Hewitt,Otter Tail County,841
+56723,Fisher,Polk County,838
+56650,Kelliher,Beltrami County,831
+56644,Gonvick,Clearwater County,830
+56349,Lowry,Pope County,829
+56647,Hines,Beltrami County,822
+55781,Side Lake,Itasca County,821
+56576,Richville,Otter Tail County,820
+55922,Canton,Fillmore County,818
+56666,Ponemah,Beltrami County,816
+56297,Wood Lake,Yellow Medicine County,811
+56737,Middle River,Marshall County,811
+55765,Meadowlands,St. Louis County,803
+55017,Dalbo,Isanti County,799
+55926,Dexter,Mower County,799
+56240,Graceville,Big Stone County,796
+56019,Comfrey,Brown County,795
+56281,Prinsburg,Kandiyohi County,786
+56169,Russell,Lyon County,780
+56230,Danube,Renville County,779
+56713,Argyle,Marshall County,777
+56667,Puposky,Beltrami County,770
+56129,Ellsworth,Nobles County,761
+56248,Herman,Grant County,761
+56343,Kensington,Douglas County,759
+55962,Peterson,Fillmore County,756
+56042,Hartland,Freeborn County,751
+55957,Millville,Wabasha County,748
+56052,Kilkenny,Le Sueur County,747
+56742,Oklee,Red Lake County,744
+56083,Sanborn,Redwood County,741
+56253,Lake Lillian,Kandiyohi County,740
+55757,Kettle River,Carlton County,739
+56355,Nelson,Douglas County,737
+56225,Clinton,Big Stone County,734
+56221,Chokio,Stevens County,731
+56327,Farwell,Pope County,729
+56014,Bricelyn,Faribault County,727
+55724,Cotton,St. Louis County,707
+56157,Lynd,Lyon County,707
+55333,Franklin,Renville County,698
+56219,Browns Valley,Traverse County,697
+56375,Saint Stephen,Stearns County,694
+56524,Clitherall,Otter Tail County,694
+56027,Elmore,Faribault County,692
+56521,Callaway,Becker County,692
+56736,Mentor,Polk County,687
+56735,Lancaster,Kittson County,683
+56683,Tenstrike,Beltrami County,677
+56545,Gary,Norman County,676
+56748,Plummer,Red Lake County,673
+56080,Saint Clair,Blue Earth County,672
+55402,Minneapolis,Hennepin County,667
+56651,Lengby,Mahnomen County,667
+55793,Warba,Itasca County,666
+56311,Barrett,Grant County,666
+56575,Ponsford,Becker County,665
+56386,Wahkon,Mille Lacs County,661
+56122,Chandler,Murray County,660
+56578,Rochert,Becker County,654
+56214,Belview,Redwood County,648
+56151,Lake Wilson,Murray County,643
+56029,Emmons,Freeborn County,642
+56673,Roosevelt,Lake of the Woods County,642
+55798,Wright,Carlton County,627
+56662,Outing,Cass County,624
+55787,Tamarack,Aitkin County,621
+56566,Naytahwaush,Mahnomen County,613
+56323,Cyrus,Pope County,612
+56548,Halstad,Norman County,611
+56051,Kiester,Faribault County,610
+56522,Campbell,Wilkin County,604
+56734,Lake Bronson,Kittson County,601
+55738,Forbes,St. Louis County,599
+56289,Sunburg,Kandiyohi County,599
+56090,Vernon Center,Blue Earth County,596
+56216,Blomkest,Kandiyohi County,592
+56121,Ceylon,Martin County,590
+56239,Ghent,Lyon County,587
+56369,Rockville,Stearns County,582
+56756,Salol,Roseau County,581
+56292,Vesta,Redwood County,577
+55605,Grand Portage,Cook County,572
+56744,Oslo,Marshall County,571
+56023,Delavan,Faribault County,559
+56116,Beaver Creek,Rock County,559
+55370,Plato,McLeod County,558
+56167,Round Lake,Jackson County,555
+56237,Echo,Yellow Medicine County,553
+55982,Waltham,Mower County,551
+56592,Winger,Polk County,550
+56170,Ruthton,Pipestone County,546
+55764,Marble,Itasca County,541
+55711,Brookston,St. Louis County,540
+55612,Lutsen,Cook County,535
+55749,Holyoke,Carlton County,532
+56280,Porter,Lincoln County,530
+56562,Moorhead,Clay County,528
+56552,Hitterdal,Clay County,527
+56235,Donnelly,Stevens County,523
+55712,Bruno,Pine County,522
+55961,Ostrander,Mower County,520
+56145,Jeffers,Cottonwood County,510
+56536,Felton,Clay County,502
+56185,Wilmont,Nobles County,500
+56760,Viking,Marshall County,496
+55763,Makinen,St. Louis County,495
+56518,Bluffton,Otter Tail County,494
+56236,Dumont,Traverse County,493
+56754,Saint Hilaire,Pennington County,491
+55603,Finland,Lake County,490
+56211,Beardsley,Big Stone County,484
+56025,Easton,Faribault County,483
+56588,Vining,Otter Tail County,483
+56710,Alvarado,Marshall County,483
+56448,Fifty Lakes,Crow Wing County,476
+56212,Bellingham,Lac qui Parle County,475
+56127,Dunnell,Martin County,474
+56139,Holland,Pipestone County,474
+56350,McGrath,Aitkin County,471
+55026,Frontenac,Goodhue County,470
+56132,Garvin,Lyon County,462
+56761,Wannaska,Roseau County,458
+56118,Bingham Lake,Cottonwood County,457
+56078,Pemberton,Blue Earth County,451
+56186,Woodstock,Pipestone County,450
+55752,Jacobson,Aitkin County,446
+56263,Milroy,Redwood County,446
+56594,Wolverton,Wilkin County,442
+56134,Hardwick,Rock County,441
+56245,Hanley Falls,Yellow Medicine County,441
+56652,Leonard,Clearwater County,437
+56218,Boyd,Lac qui Parle County,435
+56591,White Earth,Becker County,429
+55366,New Auburn,Sibley County,423
+56043,Hayward,Freeborn County,423
+56759,Strathcona,Roseau County,421
+55782,Soudan,St. Louis County,420
+56123,Currie,Murray County,420
+56550,Hendrum,Norman County,413
+55702,Alborn,St. Louis County,412
+56033,Frost,Faribault County,411
+56155,Lismore,Nobles County,411
+56032,Freeborn,Freeborn County,407
+56231,Danvers,Swift County,405
+55090,Willernie,Washington County,401
+56060,Lewisville,Watonwan County,400
+56117,Bigelow,Nobles County,400
+56291,Taunton,Yellow Medicine County,397
+56034,Garden City,Blue Earth County,393
+55931,Eitzen,Houston County,392
+56255,Lucan,Redwood County,389
+56035,Geneva,Freeborn County,387
+56758,Strandquist,Marshall County,385
+56523,Climax,Polk County,382
+56733,Kennedy,Kittson County,380
+55615,Tofte,Cook County,379
+56257,Marietta,Lac qui Parle County,377
+56722,Euclid,Polk County,377
+55085,Vermillion,Dakota County,371
+56590,Wendell,Grant County,367
+56141,Iona,Murray County,362
+56639,Effie,Itasca County,359
+56111,Alpha,Jackson County,356
+56161,Okabena,Jackson County,356
+56174,Storden,Cottonwood County,352
+56516,Bejou,Mahnomen County,352
+55602,Brimson,St. Louis County,346
+56641,Federal Dam,Cass County,339
+56165,Reading,Nobles County,333
+56715,Brooks,Red Lake County,329
+55087,Warsaw,Rice County,327
+56158,Magnolia,Rock County,322
+55814,Duluth,St. Louis County,319
+56162,Ormsby,Martin County,313
+56376,Saint Martin,Stearns County,313
+55756,Kerrick,Pine County,309
+56114,Avoca,Murray County,309
+56173,Steen,Rock County,307
+56295,Watson,Chippewa County,305
+56384,Upsala,Morrison County,303
+56249,Holloway,Swift County,301
+56458,Lake George,Hubbard County,301
+55717,Canyon,St. Louis County,287
+56519,Borup,Norman County,287
+56533,Elizabeth,Otter Tail County,286
+56663,Pennington,Beltrami County,282
+56684,Trail,Polk County,280
+55716,Calumet,Itasca County,279
+55780,Sawyer,Carlton County,277
+56581,Shelly,Norman County,276
+55785,Swatara,Aitkin County,271
+56335,Greenwald,Stearns County,270
+56681,Squaw Lake,Itasca County,267
+56356,New Munich,Stearns County,266
+56646,Gully,Polk County,266
+56574,Perley,Norman County,264
+56669,Kabetogama,Koochiching County,264
+56553,Kent,Wilkin County,261
+55742,Goodland,Itasca County,259
+56224,Clements,Redwood County,259
+56091,Waldorf,Waseca County,256
+56276,Odessa,Big Stone County,256
+56517,Beltrami,Polk County,255
+56626,Bena,Cass County,254
+55973,Sargeant,Mower County,251
+56657,Marcell,Itasca County,251
+56363,Pease,Mille Lacs County,238
+55111,Saint Paul,Hennepin County,233
+55613,Schroeder,Cook County,232
+56160,Odin,Martin County,224
+56629,Birchdale,Koochiching County,224
+56543,Foxhome,Wilkin County,222
+56325,Elrosa,Stearns County,217
+56668,Ranier,Koochiching County,217
+55933,Elkton,Mower County,215
+56226,Clontarf,Pope County,215
+56227,Correll,Big Stone County,215
+56089,Twin Lakes,Freeborn County,214
+56207,Alberta,Stevens County,211
+56546,Georgetown,Clay County,210
+56113,Arco,Lincoln County,208
+55150,Mendota,Dakota County,201
+55606,Hovland,Cook County,198
+56660,Mizpah,Koochiching County,193
+55607,Isabella,Lake County,192
+56627,Big Falls,Koochiching County,192
+56434,Aldrich,Todd County,182
+55977,Taopi,Mower County,180
+56166,Revere,Redwood County,178
+56075,Northrop,Martin County,176
+56153,Leota,Nobles County,173
+56274,Norcross,Grant County,170
+56046,Hope,Steele County,157
+56637,Talmoon,Itasca County,153
+55968,Reads Landing,Wabasha County,151
+56583,Tintah,Traverse County,150
+55784,Swan River,Itasca County,149
+56328,Flensburg,Morrison County,144
+56568,Nielsville,Polk County,140
+56680,Spring Lake,Itasca County,137
+56731,Humboldt,Kittson County,137
+55796,Winton,Lake County,135
+56147,Kenneth,Rock County,135
+55609,Knife River,Lake County,131
+55950,Lansing,Mower County,129
+55601,Beaver Bay,Lake County,128
+55450,Minneapolis,Hennepin County,124
+56659,Max,Itasca County,122
+55758,Kinney,St. Louis County,121
+56729,Halma,Kittson County,121
+55786,Taconite,Itasca County,118
+56724,Gatzke,Marshall County,112
+56654,Loman,Koochiching County,109
+56294,Wanda,Redwood County,104
+56525,Comstock,Clay County,100
+56287,Seaforth,Redwood County,98
+56371,Roscoe,Stearns County,95
+56688,Wirt,Itasca County,94
+56685,Waskish,Beltrami County,91
+55725,Crane Lake,St. Louis County,89
+56711,Angle Inlet,Lake of the Woods County,85
+56565,Nashua,Wilkin County,83
+56755,Saint Vincent,Kittson County,82
+56140,Ihlen,Pipestone County,81
+55772,Nett Lake,Koochiching County,77
+56020,Conger,Freeborn County,74
+56389,West Union,Todd County,74
+56022,Darfur,Watonwan County,63
+56056,La Salle,Watonwan County,55
+56146,Kanaranzi,Rock County,55
+56313,Bock,Mille Lacs County,49
+56125,Dovray,Murray County,41
+55036,Henriette,Pine County,37
+55029,Grandy,Isanti County,31
+56541,Flom,Norman County,31
+56030,Essig,Brown County,30
+56210,Barry,Big Stone County,16
+56720,Donaldson,Kittson County,15
+55155,Saint Paul,Ramsey County,0
+55903,Rochester,Olmsted County,0
+55905,Rochester,Olmsted County,0
+56658,Margie,Koochiching County,0

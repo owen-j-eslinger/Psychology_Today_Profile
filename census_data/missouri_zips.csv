@@ -1,0 +1,1036 @@
+ZIP,City,County,Population
+63376,Saint Peters,St. Charles County,"74,962"
+65203,Columbia,Boone County,"61,539"
+65807,Springfield,Greene County,"56,659"
+63021,Ballwin,St. Louis County,"55,666"
+63366,O'Fallon,St. Charles County,"54,769"
+63301,Saint Charles,St. Charles County,"52,667"
+63129,Saint Louis,St. Louis County,"51,553"
+63385,Wentzville,St. Charles County,"51,330"
+63031,Florissant,St. Louis County,"50,196"
+65201,Columbia,Boone County,"50,011"
+63123,Saint Louis,St. Louis County,"49,077"
+65202,Columbia,Boone County,"47,327"
+63368,O'Fallon,St. Charles County,"46,966"
+65802,Springfield,Greene County,"46,739"
+63303,Saint Charles,St. Charles County,"46,089"
+63026,Fenton,Jefferson County,"45,354"
+63017,Chesterfield,St. Louis County,"43,243"
+63304,Saint Charles,St. Charles County,"43,195"
+63033,Florissant,St. Louis County,"43,056"
+65803,Springfield,Greene County,"42,882"
+63116,Saint Louis,St. Louis city,"42,170"
+64118,Kansas City,Clay County,"41,984"
+63122,Saint Louis,St. Louis County,"41,634"
+65109,Jefferson City,Cole County,"41,145"
+65804,Springfield,Greene County,"40,935"
+63136,Saint Louis,St. Louis County,"40,929"
+63701,Cape Girardeau,Cape Girardeau County,"39,345"
+64068,Liberty,Clay County,"37,758"
+64804,Joplin,Newton County,"37,016"
+65714,Nixa,Christian County,"37,013"
+64801,Joplin,Jasper County,"36,287"
+64133,Kansas City,Jackson County,"36,249"
+64055,Independence,Jackson County,"35,960"
+63011,Ballwin,St. Louis County,"35,920"
+63901,Poplar Bluff,Butler County,"35,324"
+65301,Sedalia,Pettis County,"35,091"
+63010,Arnold,Jefferson County,"34,478"
+63119,Saint Louis,St. Louis County,"34,181"
+63114,Saint Louis,St. Louis County,"33,969"
+65721,Ozark,Christian County,"33,452"
+63125,Saint Louis,St. Louis County,"33,294"
+64119,Kansas City,Clay County,"33,199"
+65401,Rolla,Phelps County,"32,714"
+64015,Blue Springs,Jackson County,"32,245"
+64152,Kansas City,Platte County,"31,545"
+63146,Saint Louis,St. Louis County,"30,678"
+63128,Saint Louis,St. Louis County,"30,540"
+65536,Lebanon,Laclede County,"29,915"
+63367,Lake Saint Louis,St. Charles County,"29,725"
+64012,Belton,Cass County,"29,304"
+63640,Farmington,St. Francois County,"29,263"
+63130,Saint Louis,St. Louis County,"28,910"
+64155,Kansas City,Clay County,"28,824"
+65101,Jefferson City,Cole County,"28,793"
+64014,Blue Springs,Jackson County,"28,788"
+63052,Imperial,Jefferson County,"28,712"
+64151,Kansas City,Platte County,"28,526"
+65616,Branson,Taney County,"28,460"
+63028,Festus,Jefferson County,"28,457"
+64093,Warrensburg,Johnson County,"28,199"
+63379,Troy,Lincoln County,"27,731"
+63755,Jackson,Cape Girardeau County,"27,629"
+64836,Carthage,Jasper County,"26,562"
+64030,Grandview,Jackson County,"26,422"
+64083,Raymore,Cass County,"26,201"
+63118,Saint Louis,St. Louis city,"25,913"
+65775,West Plains,Howell County,"25,773"
+64081,Lees Summit,Jackson County,"25,305"
+63109,Saint Louis,St. Louis city,"25,236"
+64850,Neosho,Newton County,"25,126"
+63121,Saint Louis,St. Louis County,"25,008"
+64114,Kansas City,Jackson County,"24,229"
+64138,Kansas City,Jackson County,"23,805"
+64086,Lees Summit,Jackson County,"23,599"
+63090,Washington,Franklin County,"23,258"
+64157,Kansas City,Clay County,"23,030"
+64134,Kansas City,Jackson County,"22,964"
+65251,Fulton,Callaway County,"22,579"
+64052,Independence,Jackson County,"22,138"
+65810,Springfield,Greene County,"22,137"
+63801,Sikeston,Scott County,"22,027"
+64029,Grain Valley,Jackson County,"21,961"
+64131,Kansas City,Jackson County,"21,942"
+63043,Maryland Heights,St. Louis County,"21,924"
+64063,Lees Summit,Jackson County,"21,863"
+63139,Saint Louis,St. Louis city,"21,631"
+63401,Hannibal,Marion County,"21,489"
+64506,Saint Joseph,Buchanan County,"21,461"
+63108,Saint Louis,St. Louis city,"21,336"
+65738,Republic,Greene County,"21,283"
+63501,Kirksville,Adair County,"21,218"
+64050,Independence,Jackson County,"21,079"
+63141,Saint Louis,St. Louis County,"20,932"
+63084,Union,Franklin County,"20,708"
+63020,De Soto,Jefferson County,"20,166"
+64082,Lees Summit,Jackson County,"20,068"
+64064,Lees Summit,Jackson County,"20,050"
+63005,Chesterfield,St. Louis County,"19,779"
+63137,Saint Louis,St. Louis County,"19,684"
+64130,Kansas City,Jackson County,"19,644"
+63025,Eureka,St. Louis County,"19,508"
+63104,Saint Louis,St. Louis city,"19,007"
+63034,Florissant,St. Louis County,"18,908"
+63105,Saint Louis,St. Louis County,"18,875"
+63111,Saint Louis,St. Louis city,"18,851"
+63050,Hillsboro,Jefferson County,"18,744"
+63135,Saint Louis,St. Louis County,"18,381"
+63138,Saint Louis,St. Louis County,"18,233"
+64116,Kansas City,Clay County,"18,046"
+63112,Saint Louis,St. Louis city,"17,985"
+63131,Saint Louis,St. Louis County,"17,935"
+63042,Hazelwood,St. Louis County,"17,813"
+64127,Kansas City,Jackson County,"17,668"
+65613,Bolivar,Polk County,"17,666"
+63110,Saint Louis,St. Louis city,"17,645"
+64056,Independence,Jackson County,"17,395"
+65706,Marshfield,Webster County,"17,133"
+63383,Warrenton,Warren County,"16,927"
+64111,Kansas City,Jackson County,"16,887"
+64110,Kansas City,Jackson County,"16,878"
+65270,Moberly,Randolph County,"16,612"
+63049,High Ridge,Jefferson County,"16,592"
+64060,Kearney,Clay County,"16,488"
+63628,Bonne Terre,St. Francois County,"16,416"
+63601,Park Hills,St. Francois County,"16,389"
+63775,Perryville,Perry County,"16,325"
+64870,Webb City,Jasper County,"16,186"
+65340,Marshall,Saline County,"16,026"
+63074,Saint Ann,St. Louis County,"15,793"
+63069,Pacific,Franklin County,"15,697"
+64024,Excelsior Springs,Clay County,"15,574"
+63126,Saint Louis,St. Louis County,"15,452"
+65473,Fort Leonard Wood,Pulaski County,"15,438"
+64079,Platte City,Platte County,"15,160"
+65265,Mexico,Audrain County,"15,153"
+64117,Kansas City,Clay County,"14,919"
+65020,Camdenton,Camden County,"14,748"
+64701,Harrisonville,Cass County,"14,731"
+65583,Waynesville,Pulaski County,"14,711"
+63115,Saint Louis,St. Louis city,"14,488"
+64089,Smithville,Clay County,"14,380"
+64057,Independence,Jackson County,"14,328"
+63132,Saint Louis,St. Louis County,"14,283"
+64468,Maryville,Nodaway County,"14,280"
+65742,Rogersville,Greene County,"14,185"
+64505,Saint Joseph,Andrew County,"14,107"
+64735,Clinton,Henry County,"14,013"
+64080,Pleasant Hill,Cass County,"14,007"
+64507,Saint Joseph,Buchanan County,"13,991"
+64154,Kansas City,Platte County,"13,851"
+65560,Salem,Dent County,"13,822"
+65806,Springfield,Greene County,"13,692"
+63051,House Springs,Jefferson County,"13,436"
+63841,Dexter,Stoddard County,"13,191"
+63080,Sullivan,Franklin County,"13,124"
+63134,Saint Louis,St. Louis County,"13,059"
+65708,Monett,Barry County,"12,869"
+64772,Nevada,Vernon County,"12,824"
+64113,Kansas City,Jackson County,"12,386"
+63670,Sainte Genevieve,Ste. Genevieve County,"12,293"
+64601,Chillicothe,Livingston County,"12,189"
+64075,Oak Grove,Jackson County,"12,121"
+64132,Kansas City,Jackson County,"12,084"
+64503,Saint Joseph,Buchanan County,"11,954"
+63857,Kennett,Dunklin County,"11,930"
+64128,Kansas City,Jackson County,"11,912"
+64123,Kansas City,Jackson County,"11,833"
+65026,Eldon,Miller County,"11,606"
+63645,Fredericktown,Madison County,"11,554"
+65605,Aurora,Barry County,"11,514"
+64429,Cameron,DeKalb County,"11,449"
+65355,Warsaw,Benton County,"11,436"
+63077,Saint Clair,Franklin County,"11,391"
+65809,Springfield,Greene County,"11,384"
+64106,Kansas City,Jackson County,"11,343"
+63390,Wright City,Warren County,"10,970"
+64124,Kansas City,Jackson County,"10,925"
+63124,Saint Louis,St. Louis County,"10,839"
+64501,Saint Joseph,Buchanan County,"10,689"
+65233,Boonville,Cooper County,"10,640"
+64834,Carl Junction,Jasper County,"10,586"
+65584,Saint Robert,Pulaski County,"10,553"
+64108,Kansas City,Jackson County,"10,495"
+63348,Foristell,St. Charles County,"10,394"
+63044,Bridgeton,St. Louis County,"10,324"
+63012,Barnhart,Jefferson County,"10,314"
+63113,Saint Louis,St. Louis city,"10,221"
+65043,Holts Summit,Callaway County,"10,120"
+64504,Saint Joseph,Buchanan County,"10,068"
+64109,Kansas City,Jackson County,"10,043"
+63362,Moscow Mills,Lincoln County,"9,930"
+64078,Peculiar,Cass County,"9,853"
+63664,Potosi,Washington County,"9,693"
+65781,Willard,Greene County,"9,692"
+64076,Odessa,Lafayette County,"9,623"
+63144,Saint Louis,St. Louis County,"9,505"
+65619,Brookline,Greene County,"9,453"
+64137,Kansas City,Jackson County,"9,422"
+65746,Seymour,Webster County,"9,336"
+65559,Saint James,Phelps County,"9,303"
+64129,Kansas City,Jackson County,"9,267"
+63117,Saint Louis,St. Louis County,"9,261"
+65712,Mount Vernon,Lawrence County,"9,015"
+64034,Greenwood,Jackson County,"8,998"
+63143,Saint Louis,St. Louis County,"8,975"
+63107,Saint Louis,St. Louis city,"8,909"
+65240,Centralia,Audrain County,"8,830"
+63103,Saint Louis,St. Louis city,"8,778"
+65737,Reeds Spring,Stone County,"8,745"
+65622,Buffalo,Dallas County,"8,695"
+65757,Strafford,Greene County,"8,584"
+65459,Dixon,Maries County,"8,562"
+65608,Ava,Douglas County,"8,545"
+63040,Wildwood,St. Louis County,"8,526"
+65672,Hollister,Taney County,"8,432"
+63070,Pevely,Jefferson County,"8,428"
+64759,Lamar,Barton County,"8,310"
+64112,Kansas City,Jackson County,"8,260"
+64744,El Dorado Springs,Cedar County,"8,242"
+63088,Valley Park,St. Louis County,"8,226"
+63703,Cape Girardeau,Cape Girardeau County,"8,201"
+65453,Cuba,Crawford County,"8,175"
+63147,Saint Louis,St. Louis city,"8,173"
+65711,Mountain Grove,Wright County,"8,106"
+64485,Savannah,Andrew County,"7,998"
+64156,Kansas City,Clay County,"7,946"
+63935,Doniphan,Ripley County,"7,931"
+64085,Richmond,Ray County,"7,855"
+65018,California,Moniteau County,"7,748"
+64683,Trenton,Grundy County,"7,631"
+63389,Winfield,Lincoln County,"7,616"
+63334,Bowling Green,Pike County,"7,564"
+63552,Macon,Macon County,"7,554"
+65084,Versailles,Morgan County,"7,473"
+65625,Cassville,Barry County,"7,473"
+64158,Kansas City,Clay County,"7,317"
+65010,Ashland,Boone County,"7,205"
+65065,Osage Beach,Camden County,"7,197"
+65049,Lake Ozark,Camden County,"7,123"
+63038,Wildwood,St. Louis County,"7,107"
+65542,Licking,Texas County,"7,060"
+64062,Lawson,Ray County,"6,968"
+64126,Kansas City,Jackson County,"6,898"
+63120,Saint Louis,St. Louis city,"6,790"
+64053,Independence,Jackson County,"6,775"
+63106,Saint Louis,St. Louis city,"6,751"
+64058,Independence,Jackson County,"6,660"
+64153,Kansas City,Platte County,"6,653"
+63133,Saint Louis,St. Louis County,"6,569"
+63357,Marthasville,Warren County,"6,536"
+65336,Knob Noster,Johnson County,"6,519"
+64037,Higginsville,Lafayette County,"6,460"
+63016,Cedar Hill,Jefferson County,"6,459"
+64730,Butler,Bates County,"6,432"
+65548,Mountain View,Howell County,"6,388"
+64040,Holden,Johnson County,"6,379"
+64105,Kansas City,Jackson County,"6,312"
+63780,Scott City,Scott County,"6,243"
+64831,Anderson,McDonald County,"6,206"
+63068,New Haven,Franklin County,"6,202"
+65631,Clever,Christian County,"6,174"
+65066,Owensville,Gasconade County,"6,140"
+63830,Caruthersville,Pemiscot County,"6,118"
+65793,Willow Springs,Howell County,"6,004"
+65785,Stockton,Cedar County,"6,002"
+64067,Lexington,Lafayette County,"5,978"
+65653,Forsyth,Taney County,"5,905"
+65648,Fair Grove,Greene County,"5,861"
+64865,Seneca,Newton County,"5,692"
+63089,Villa Ridge,Franklin County,"5,662"
+64628,Brookfield,Linn County,"5,661"
+65041,Hermann,Gasconade County,"5,626"
+65753,Sparta,Christian County,"5,590"
+65610,Billings,Christian County,"5,561"
+63461,Palmyra,Marion County,"5,446"
+65704,Mansfield,Wright County,"5,394"
+63863,Malden,Dunklin County,"5,321"
+63127,Saint Louis,St. Louis County,"5,268"
+63845,East Prairie,Mississippi County,"5,261"
+65037,Gravois Mills,Morgan County,"5,244"
+65255,Hallsville,Boone County,"5,216"
+63834,Charleston,Mississippi County,"5,169"
+63740,Chaffee,Scott County,"5,165"
+63957,Piedmont,Wayne County,"5,144"
+65656,Galena,Stone County,"5,031"
+65441,Bourbon,Crawford County,"5,028"
+63023,Dittmer,Jefferson County,"5,002"
+64145,Kansas City,Jackson County,"4,965"
+65705,Marionville,Lawrence County,"4,949"
+64854,Noel,McDonald County,"4,910"
+65565,Steelville,Crawford County,"4,845"
+65556,Richland,Pulaski County,"4,823"
+64844,Granby,Newton County,"4,796"
+63353,Louisiana,Pike County,"4,790"
+63764,Marble Hill,Bollinger County,"4,760"
+63456,Monroe City,Marion County,"4,749"
+65652,Fordland,Webster County,"4,649"
+64016,Buckner,Jackson County,"4,603"
+65360,Windsor,Henry County,"4,586"
+64720,Adrian,Bates County,"4,494"
+63019,Crystal City,Jefferson County,"4,489"
+65051,Linn,Osage County,"4,487"
+65483,Houston,Texas County,"4,487"
+65689,Cabool,Texas County,"4,482"
+65248,Fayette,Howard County,"4,480"
+64150,Riverside,Platte County,"4,463"
+63361,Montgomery City,Montgomery County,"4,460"
+65791,Thayer,Oregon County,"4,425"
+63459,New London,Ralls County,"4,423"
+65081,Tipton,Moniteau County,"4,417"
+64048,Holt,Clay County,"4,387"
+65079,Sunrise Beach,Camden County,"4,385"
+63343,Elsberry,Lincoln County,"4,381"
+64633,Carrollton,Carroll County,"4,346"
+63435,Canton,Lewis County,"4,318"
+65686,Kimberling City,Stone County,"4,256"
+63048,Herculaneum,Jefferson County,"4,228"
+63825,Bloomfield,Stoddard County,"4,224"
+64747,Garden City,Cass County,"4,201"
+65734,Purdy,Barry County,"4,112"
+64856,Pineville,McDonald County,"4,092"
+63382,Vandalia,Audrain County,"4,033"
+65747,Shell Knob,Stone County,"4,016"
+63873,Portageville,New Madrid County,"4,015"
+63630,Cadet,Washington County,"4,006"
+63565,Unionville,Putnam County,"3,965"
+65633,Crane,Stone County,"3,952"
+64465,Lathrop,Clinton County,"3,947"
+64424,Bethany,Harrison County,"3,929"
+64011,Bates City,Lafayette County,"3,876"
+65604,Ash Grove,Greene County,"3,873"
+63445,Kahoka,Clark County,"3,831"
+65052,Linn Creek,Camden County,"3,790"
+63736,Benton,Scott County,"3,755"
+63851,Hayti,Pemiscot County,"3,684"
+63650,Ironton,Iron County,"3,600"
+65078,Stover,Morgan County,"3,584"
+64054,Independence,Jackson County,"3,547"
+63341,Defiance,St. Charles County,"3,515"
+65740,Rockaway Beach,Taney County,"3,508"
+63377,Silex,Lincoln County,"3,501"
+64477,Plattsburg,Clinton County,"3,489"
+64070,Lone Jack,Jackson County,"3,479"
+63072,Robertsville,Franklin County,"3,469"
+63624,Bismarck,St. Francois County,"3,447"
+65305,Whiteman Air Force Base,Johnson County,"3,445"
+65745,Seligman,Barry County,"3,417"
+63730,Advance,Stoddard County,"3,397"
+64776,Osceola,St. Clair County,"3,374"
+65063,New Bloomfield,Callaway County,"3,372"
+64840,Diamond,Newton County,"3,325"
+64098,Weston,Platte County,"3,311"
+63555,Memphis,Scotland County,"3,258"
+65667,Hartville,Wright County,"3,250"
+63869,New Madrid,New Madrid County,"3,218"
+63960,Puxico,Stoddard County,"3,204"
+63556,Milan,Sullivan County,"3,196"
+65550,Newburg,Phelps County,"3,181"
+64843,Goodman,McDonald County,"3,180"
+64862,Sarcoxie,Jasper County,"3,173"
+64061,Kingsville,Johnson County,"3,161"
+64658,Marceline,Chariton County,"3,147"
+63347,Foley,Lincoln County,"3,140"
+65013,Belle,Maries County,"3,137"
+65231,Auxvasse,Callaway County,"3,132"
+63101,Saint Louis,St. Louis city,"3,130"
+65338,Lincoln,Benton County,"3,129"
+64640,Gallatin,Daviess County,"3,125"
+65723,Pierce City,Lawrence County,"3,123"
+65647,Exeter,Barry County,"3,077"
+65039,Hartsburg,Boone County,"3,076"
+65325,Cole Camp,Benton County,"3,071"
+65632,Conway,Laclede County,"3,067"
+63933,Campbell,Dunklin County,"3,049"
+64855,Oronogo,Jasper County,"3,039"
+65281,Salisbury,Chariton County,"3,030"
+65259,Huntsville,Randolph County,"2,990"
+63037,Gerald,Franklin County,"2,970"
+65486,Iberia,Miller County,"2,956"
+64020,Concordia,Lafayette County,"2,953"
+65243,Clark,Randolph County,"2,950"
+65679,Kirbyville,Taney County,"2,942"
+64454,Gower,Clinton County,"2,941"
+65074,Russellville,Moniteau County,"2,936"
+64644,Hamilton,Caldwell County,"2,923"
+65674,Humansville,Polk County,"2,896"
+63102,Saint Louis,St. Louis city,"2,882"
+63369,Old Monroe,Lincoln County,"2,822"
+63877,Steele,Pemiscot County,"2,816"
+64139,Kansas City,Jackson County,"2,796"
+63627,Bloomsdale,Ste. Genevieve County,"2,787"
+63660,Mineral Point,Washington County,"2,784"
+65669,Highlandville,Christian County,"2,764"
+63822,Bernie,Stoddard County,"2,724"
+65663,Half Way,Polk County,"2,700"
+64779,Rich Hill,Bates County,"2,688"
+65275,Paris,Monroe County,"2,657"
+63937,Ellsinore,Carter County,"2,643"
+65897,Springfield,Greene County,"2,613"
+63965,Van Buren,Carter County,"2,607"
+65770,Walnut Grove,Greene County,"2,599"
+65717,Norwood,Wright County,"2,523"
+65452,Crocker,Pulaski County,"2,519"
+65725,Pleasant Hope,Polk County,"2,501"
+64673,Princeton,Mercer County,"2,497"
+63638,Ellington,Reynolds County,"2,489"
+65349,Slater,Saline County,"2,480"
+64125,Kansas City,Jackson County,"2,472"
+65655,Gainesville,Ozark County,"2,435"
+65661,Greenfield,Dade County,"2,434"
+65769,Verona,Barry County,"2,409"
+64648,Jamesport,Daviess County,"2,396"
+64019,Centerview,Johnson County,"2,385"
+65606,Alton,Oregon County,"2,381"
+64402,Albany,Gentry County,"2,379"
+65552,Plato,Texas County,"2,378"
+63771,Oran,Scott County,"2,365"
+65011,Barnett,Morgan County,"2,365"
+65438,Birch Tree,Shannon County,"2,363"
+63549,La Plata,Macon County,"2,344"
+63673,Saint Mary,Ste. Genevieve County,"2,340"
+64755,Jasper,Jasper County,"2,332"
+64734,Cleveland,Cass County,"2,318"
+65284,Sturgeon,Boone County,"2,316"
+63468,Shelbina,Shelby County,"2,314"
+65014,Bland,Gasconade County,"2,245"
+65588,Winona,Shannon County,"2,235"
+64469,Maysville,DeKalb County,"2,225"
+64489,Stanberry,Gentry County,"2,204"
+63537,Edina,Knox County,"2,194"
+63060,Lonedell,Franklin County,"2,192"
+64742,Drexel,Cass County,"2,185"
+65707,Miller,Lawrence County,"2,181"
+65786,Macks Creek,Camden County,"2,174"
+63349,Hawk Point,Lincoln County,"2,149"
+64725,Archie,Cass County,"2,130"
+65351,Sweet Springs,Saline County,"2,122"
+63966,Wappapello,Wayne County,"2,110"
+64835,Carterville,Jasper County,"2,074"
+63876,Senath,Dunklin County,"2,071"
+65772,Washburn,Barry County,"2,063"
+65644,Elkland,Dallas County,"2,059"
+65612,Bois D Arc,Greene County,"2,057"
+63384,Wellsville,Montgomery County,"2,049"
+65713,Niangua,Webster County,"2,022"
+65256,Harrisburg,Boone County,"2,011"
+64724,Appleton City,St. Clair County,"1,999"
+64671,Polo,Caldwell County,"1,986"
+65767,Urbana,Dallas County,"1,983"
+64482,Rock Port,Atchison County,"1,980"
+65274,New Franklin,Howard County,"1,969"
+65611,Blue Eye,Stone County,"1,963"
+65646,Everton,Dade County,"1,961"
+65337,La Monte,Pettis County,"1,952"
+65332,Green Ridge,Pettis County,"1,949"
+65279,Rocheport,Boone County,"1,940"
+63015,Catawissa,Franklin County,"1,939"
+64490,Stewartsville,Clinton County,"1,939"
+65072,Rocky Mount,Morgan County,"1,932"
+65649,Fair Play,Polk County,"1,932"
+65326,Edwards,Benton County,"1,901"
+63056,Leslie,Franklin County,"1,896"
+65682,Lockwood,Dade County,"1,885"
+65590,Long Lane,Dallas County,"1,872"
+65254,Glasgow,Howard County,"1,869"
+63648,Irondale,Washington County,"1,858"
+65624,Cape Fair,Stone County,"1,847"
+65668,Hermitage,Hickory County,"1,846"
+65591,Montreal,Camden County,"1,837"
+65053,Lohman,Cole County,"1,813"
+65276,Pilot Grove,Cooper County,"1,777"
+65571,Summersville,Texas County,"1,762"
+63448,La Grange,Lewis County,"1,760"
+64401,Agency,Buchanan County,"1,757"
+65239,Cairo,Randolph County,"1,743"
+65582,Vienna,Maries County,"1,732"
+65617,Brighton,Polk County,"1,716"
+63766,Millersville,Cape Girardeau County,"1,715"
+64492,Trimble,Clinton County,"1,713"
+65681,Lampe,Stone County,"1,709"
+65263,Madison,Monroe County,"1,705"
+63055,Labadie,Franklin County,"1,693"
+65035,Freeburg,Osage County,"1,681"
+64763,Lowry City,St. Clair County,"1,676"
+63359,Middletown,Pike County,"1,667"
+64077,Orrick,Ray County,"1,665"
+63332,Augusta,St. Charles County,"1,651"
+63655,Marquand,Madison County,"1,639"
+64491,Tarkio,Atchison County,"1,638"
+63621,Arcadia,Iron County,"1,632"
+64136,Kansas City,Jackson County,"1,602"
+63961,Qulin,Butler County,"1,600"
+64761,Leeton,Johnson County,"1,598"
+65710,Morrisville,Polk County,"1,589"
+64863,South West City,McDonald County,"1,586"
+65023,Centertown,Cole County,"1,566"
+65724,Pittsburg,Hickory County,"1,563"
+63437,Clarence,Shelby County,"1,560"
+65789,Pomona,Howell County,"1,555"
+64439,Dearborn,Platte County,"1,537"
+65640,Dunnegan,Polk County,"1,530"
+64746,Freeman,Cass County,"1,502"
+63344,Eolia,Pike County,"1,501"
+65032,Eugene,Miller County,"1,491"
+64624,Braymer,Caldwell County,"1,489"
+65257,Higbee,Randolph County,"1,484"
+64470,Mound City,Holt County,"1,483"
+65080,Tebbetts,Callaway County,"1,475"
+64740,Deepwater,Henry County,"1,469"
+65040,Henley,Cole County,"1,468"
+65466,Eminence,Shannon County,"1,464"
+65567,Stoutland,Camden County,"1,458"
+64088,Sibley,Jackson County,"1,456"
+65350,Smithton,Pettis County,"1,455"
+65650,Flemington,Hickory County,"1,454"
+63091,Rosebud,Gasconade County,"1,449"
+65764,Tunas,Dallas County,"1,449"
+65047,Kaiser,Miller County,"1,445"
+64788,Urich,Henry County,"1,435"
+63823,Bertrand,Mississippi County,"1,434"
+65348,Otterville,Cooper County,"1,419"
+65626,Caulfield,Ozark County,"1,405"
+63781,Sedgewickville,Bollinger County,"1,398"
+65535,Leasburg,Crawford County,"1,395"
+65771,Walnut Shade,Taney County,"1,394"
+65722,Phillipsburg,Laclede County,"1,391"
+63351,Jonesburg,Warren County,"1,389"
+65555,Raymondville,Texas County,"1,384"
+63837,Clarkton,Dunklin County,"1,381"
+64841,Duenweg,Jasper County,"1,381"
+64084,Rayville,Ray County,"1,380"
+64762,Liberal,Barton County,"1,379"
+64738,Collins,St. Clair County,"1,368"
+64456,Grant City,Worth County,"1,367"
+63530,Atlanta,Macon County,"1,361"
+64784,Sheldon,Vernon County,"1,359"
+63769,Oak Ridge,Cape Girardeau County,"1,358"
+64463,King City,Gentry County,"1,349"
+65732,Preston,Hickory County,"1,342"
+63546,Greentop,Adair County,"1,340"
+63462,Perry,Ralls County,"1,335"
+63944,Greenville,Wayne County,"1,332"
+64873,Wentworth,Lawrence County,"1,329"
+63940,Fisk,Butler County,"1,326"
+64861,Rocky Comfort,McDonald County,"1,324"
+65761,Theodosia,Ozark County,"1,324"
+65261,Keytesville,Chariton County,"1,316"
+63967,Williamsville,Wayne County,"1,313"
+65787,Roach,Camden County,"1,305"
+64832,Asbury,Jasper County,"1,286"
+64473,Oregon,Holt County,"1,285"
+63785,Whitewater,Cape Girardeau County,"1,282"
+64146,Kansas City,Jackson County,"1,278"
+64668,Norborne,Carroll County,"1,278"
+65058,Meta,Maries County,"1,274"
+65462,Edgar Springs,Phelps County,"1,264"
+65658,Golden,Barry County,"1,262"
+63559,Novinger,Adair County,"1,258"
+64443,Easton,Buchanan County,"1,249"
+65016,Bonnots Mill,Osage County,"1,240"
+63846,Essex,Stoddard County,"1,239"
+63862,Lilbourn,New Madrid County,"1,237"
+65024,Chamois,Osage County,"1,218"
+63532,Bevier,Macon County,"1,215"
+64859,Reeds,Jasper County,"1,212"
+63436,Center,Ralls County,"1,199"
+65236,Brunswick,Chariton County,"1,199"
+65085,Westphalia,Osage County,"1,193"
+65637,Dora,Ozark County,"1,190"
+64035,Hardin,Ray County,"1,189"
+63653,Leadwood,St. Francois County,"1,186"
+65017,Brumley,Miller County,"1,183"
+64163,Kansas City,Platte County,"1,181"
+63748,Frohna,Perry County,"1,174"
+63852,Holcomb,Dunklin County,"1,172"
+64096,Waverly,Lafayette County,"1,166"
+65082,Tuscumbia,Miller County,"1,165"
+64494,Union Star,Andrew County,"1,163"
+63544,Green Castle,Adair County,"1,159"
+65463,Eldridge,Laclede County,"1,158"
+63548,Lancaster,Schuyler County,"1,154"
+64481,Ridgeway,Harrison County,"1,154"
+65075,Saint Elizabeth,Miller County,"1,154"
+64770,Montrose,Henry County,"1,151"
+63441,Frankford,Pike County,"1,144"
+63533,Brashear,Adair County,"1,141"
+65662,Grovespring,Wright County,"1,137"
+63013,Beaufort,Franklin County,"1,136"
+63440,Ewing,Lewis County,"1,136"
+65046,Jamestown,Moniteau County,"1,127"
+64790,Walker,Vernon County,"1,114"
+63071,Richwoods,Washington County,"1,113"
+64866,Stark City,Newton County,"1,113"
+64733,Chilhowee,Johnson County,"1,112"
+64748,Golden City,Barton County,"1,105"
+63454,Maywood,Marion County,"1,104"
+65680,Kissee Mills,Taney County,"1,097"
+65334,Hughesville,Pettis County,"1,094"
+65726,Point Lookout,Taney County,"1,093"
+64479,Ravenwood,Nodaway County,"1,091"
+64643,Hale,Carroll County,"1,088"
+65059,Mokane,Callaway County,"1,085"
+64867,Stella,McDonald County,"1,082"
+63336,Clarksville,Pike County,"1,079"
+63829,Cardwell,Dunklin County,"1,070"
+65692,Koshkonong,Oregon County,"1,068"
+63087,Valles Mines,St. Francois County,"1,066"
+63870,Parma,New Madrid County,"1,066"
+64446,Fairfax,Atchison County,"1,066"
+64739,Creighton,Cass County,"1,065"
+63447,La Belle,Lewis County,"1,060"
+65324,Climax Springs,Camden County,"1,055"
+65779,Wheatland,Hickory County,"1,053"
+63561,Queen City,Schuyler County,"1,043"
+64444,Edgerton,Platte County,"1,043"
+63620,Annapolis,Iron County,"1,036"
+63452,Lewistown,Lewis County,"1,026"
+63352,Laddonia,Audrain County,"1,018"
+64097,Wellington,Lafayette County,"1,014"
+64670,Pattonsburg,Daviess County,"1,007"
+63036,French Village,St. Francois County,"1,001"
+63339,Curryville,Pike County,996
+63380,Truesdale,Warren County,990
+63039,Gray Summit,Franklin County,986
+64018,Camden Point,Platte County,981
+63747,Friedheim,Cape Girardeau County,972
+63545,Green City,Sullivan County,968
+63939,Fairdealing,Ripley County,963
+63954,Neelyville,Butler County,954
+64442,Eagleville,Harrison County,951
+63363,New Florence,Montgomery County,949
+63629,Bunker,Shannon County,947
+63751,Glenallen,Bollinger County,946
+65323,Calhoun,Henry County,943
+64484,Rushville,Buchanan County,940
+63945,Harviell,Butler County,928
+64679,Spickard,Grundy County,921
+65264,Martinsburg,Audrain County,919
+64448,Faucett,Buchanan County,912
+63469,Shelbyville,Shelby County,911
+64440,De Kalb,Buchanan County,900
+63623,Belleview,Iron County,895
+65054,Loose Creek,Osage County,893
+65068,Prairie Home,Cooper County,893
+63848,Gideon,New Madrid County,887
+64436,Cosby,Andrew County,873
+65739,Ridgedale,Taney County,865
+65790,Pottersville,Howell County,865
+63732,Altenburg,Perry County,863
+65566,Viburnum,Crawford County,858
+65759,Taneyville,Taney County,856
+65774,Weaubleau,Hickory County,855
+63855,Hornersville,Dunklin County,854
+63932,Broseley,Butler County,848
+65347,Nelson,Saline County,846
+64001,Alma,Lafayette County,842
+65470,Falcon,Laclede County,842
+63536,Downing,Schuyler County,837
+64631,Bucklin,Linn County,836
+64474,Osborn,DeKalb County,831
+65444,Bucyrus,Texas County,824
+63943,Grandin,Carter County,823
+64430,Clarksdale,DeKalb County,823
+65050,Latham,Moniteau County,823
+65756,Stotts City,Lawrence County,823
+64421,Amazonia,Andrew County,817
+64649,Kidder,Caldwell County,814
+64642,Gilman City,Harrison County,804
+63073,Saint Albans,Franklin County,803
+65733,Protem,Taney County,801
+65685,Louisburg,Dallas County,794
+64659,Meadville,Linn County,793
+63953,Naylor,Ripley County,787
+64423,Barnard,Nodaway County,777
+65247,Excello,Macon County,777
+63633,Centerville,Reynolds County,775
+64842,Fairview,Newton County,775
+65025,Clarksburg,Moniteau County,773
+63471,Taylor,Marion County,770
+63956,Patterson,Wayne County,770
+63350,High Hill,Montgomery County,769
+64461,Hopkins,Nodaway County,768
+63622,Belgrade,Washington County,764
+63867,Matthews,New Madrid County,764
+65237,Bunceton,Cooper County,763
+63637,Doe Run,St. Francois County,759
+64661,Mercer,Mercer County,757
+65635,Dadeville,Dade County,754
+63654,Lesterville,Reynolds County,752
+64625,Breckenridge,Caldwell County,738
+63964,Silva,Wayne County,733
+65609,Bakersfield,Ozark County,733
+63434,Bethel,Shelby County,731
+65262,Kingdom City,Callaway County,729
+65627,Cedarcreek,Taney County,729
+64071,Mayview,Lafayette County,728
+65064,Olean,Miller County,727
+64622,Bogard,Carroll County,718
+65570,Success,Texas County,715
+63463,Philadelphia,Marion County,711
+65322,Blackwater,Cooper County,706
+64688,Wheeling,Livingston County,705
+65354,Syracuse,Morgan County,701
+63735,Bell City,Stoddard County,697
+63879,Wardell,Pemiscot County,694
+63373,Portage Des Sioux,St. Charles County,690
+63333,Bellflower,Montgomery County,688
+65580,Vichy,Maries County,686
+63388,Williamsburg,Callaway County,685
+64756,Jerico Springs,Cedar County,681
+65061,Morrison,Gasconade County,681
+64650,Kingston,Caldwell County,665
+65333,Houstonia,Pettis County,658
+65543,Lynchburg,Wright County,657
+63868,Morehouse,New Madrid County,653
+63534,Callao,Macon County,652
+63663,Pilot Knob,Iron County,649
+65630,Chestnutridge,Christian County,640
+65456,Davisville,Crawford County,637
+65755,Squires,Douglas County,636
+63465,Revere,Clark County,633
+65754,Spokane,Christian County,631
+64620,Altamont,Daviess County,626
+65638,Drury,Douglas County,626
+64641,Galt,Grundy County,625
+64830,Alba,Jasper County,624
+63381,Truxton,Warren County,618
+63821,Arbyrd,Dunklin County,616
+64036,Henrietta,Ray County,610
+64428,Burlington Junction,Nodaway County,609
+64848,La Russell,Lawrence County,609
+64783,Schell City,Vernon County,607
+65634,Cross Timbers,Hickory County,606
+65641,Eagle Rock,Barry County,606
+63760,Leopold,Bollinger County,604
+63558,New Cambria,Macon County,602
+65339,Malta Bend,Saline County,592
+64483,Rosendale,Andrew County,591
+65230,Armstrong,Howard County,591
+63626,Blackwell,Washington County,588
+64858,Racine,Newton County,586
+64427,Bolckow,Andrew County,582
+63656,Middle Brook,Iron County,576
+65330,Gilliam,Saline County,575
+64021,Corder,Lafayette County,573
+64487,Skidmore,Nodaway County,572
+65601,Aldrich,Polk County,572
+65614,Bradleyville,Taney County,567
+64466,Maitland,Holt County,565
+65629,Chadwick,Christian County,563
+64437,Craig,Holt County,561
+63030,Fletcher,Washington County,557
+64120,Kansas City,Jackson County,552
+63787,Zalma,Bollinger County,551
+63431,Anabel,Macon County,547
+65283,Stoutsville,Monroe County,546
+64752,Hume,Vernon County,545
+63631,Caledonia,Washington County,544
+65760,Tecumseh,Ozark County,538
+63662,Patton,Bollinger County,536
+64426,Blythedale,Harrison County,530
+65329,Florence,Morgan County,529
+63767,Morley,Scott County,526
+64074,Napoleon,Lafayette County,524
+65285,Thompson,Audrain County,523
+65076,Saint Thomas,Cole County,515
+65034,Fortuna,Morgan County,514
+65069,Rhineland,Montgomery County,511
+64874,Wheaton,Barry County,509
+63739,Burfordville,Cape Girardeau County,508
+64635,Chula,Livingston County,508
+64459,Helena,Andrew County,507
+65534,Laquey,Pulaski County,502
+63563,Rutledge,Knox County,501
+64630,Browning,Sullivan County,495
+63936,Dudley,Stoddard County,494
+64434,Conception Junction,Nodaway County,494
+63446,Knox City,Knox County,493
+64637,Cowgill,Caldwell County,492
+64449,Fillmore,Andrew County,491
+63942,Gatewood,Ripley County,490
+64771,Moundville,Vernon County,490
+64497,Weatherby,DeKalb County,488
+63386,West Alton,St. Charles County,482
+64646,Humphreys,Sullivan County,471
+64638,Dawn,Livingston County,470
+64623,Bosworth,Carroll County,464
+64651,Laclede,Linn County,461
+65676,Isabella,Ozark County,461
+64769,Mindenmines,Barton County,459
+63430,Alexandria,Clark County,457
+64723,Amsterdam,Bates County,452
+65258,Holliday,Monroe County,452
+63636,Des Arc,Iron County,446
+64728,Bronaugh,Vernon County,445
+65762,Thornfield,Ozark County,445
+63474,Wyaconda,Clark County,444
+64660,Mendon,Chariton County,444
+64147,Kansas City,Jackson County,441
+64431,Clearmont,Nodaway County,441
+63472,Wayland,Clark County,439
+64750,Harwood,Vernon County,439
+65077,Steedman,Callaway County,437
+63758,Kelso,Scott County,435
+63827,Bragg City,Pemiscot County,431
+64653,Linneus,Linn County,431
+65778,Myrtle,Oregon County,430
+63014,Berger,Franklin County,426
+64647,Jameson,Daviess County,423
+64689,Winston,Daviess County,422
+64778,Richards,Vernon County,422
+63540,Gibbs,Adair County,418
+64149,Kansas City,Jackson County,418
+64767,Milo,Vernon County,418
+64682,Tina,Carroll County,411
+63866,Marston,New Madrid County,409
+64674,Purdin,Linn County,409
+65321,Blackburn,Saline County,405
+64475,Parnell,Nodaway County,403
+65446,Cherryville,Crawford County,401
+65720,Oldfield,Christian County,400
+64857,Purcell,Jasper County,396
+63443,Hunnewell,Monroe County,393
+63531,Baring,Knox County,393
+64847,Lanagan,McDonald County,390
+63457,Monticello,Lewis County,389
+63453,Luray,Clark County,388
+65260,Jacksonville,Randolph County,384
+63541,Glenwood,Schuyler County,383
+63625,Black,Reynolds County,382
+63547,Hurdland,Knox County,377
+65345,Mora,Benton County,376
+63473,Williamstown,Lewis County,375
+64632,Cainsville,Mercer County,371
+64780,Rockville,St. Clair County,364
+63432,Arbela,Scotland County,363
+65657,Garrison,Christian County,361
+64422,Amity,DeKalb County,350
+64652,Laredo,Grundy County,346
+65702,Macomb,Douglas County,343
+65788,Peace Valley,Howell County,341
+64017,Camden,Ray County,335
+65752,South Greenfield,Dade County,335
+64451,Forest City,Holt County,333
+64493,Turney,Clinton County,333
+64480,Rea,Andrew County,329
+64722,Amoret,Bates County,325
+63882,Wyatt,Mississippi County,322
+63750,Gipsy,Bollinger County,318
+63140,Saint Louis,St. Louis County,316
+63543,Gorin,Scotland County,315
+65557,Roby,Texas County,314
+63665,Redford,Reynolds County,313
+65244,Clifton Hill,Randolph County,311
+63041,Grubville,Franklin County,309
+64028,Farley,Platte County,309
+64471,New Hampton,Harrison County,309
+64457,Guilford,Nodaway County,308
+64741,Deerfield,Vernon County,308
+64445,Elmo,Nodaway County,301
+65067,Portland,Callaway County,299
+65479,Hartshorn,Shannon County,295
+65250,Franklin,Howard County,293
+64161,Kansas City,Clay County,292
+64455,Graham,Nodaway County,292
+63345,Farber,Audrain County,291
+63839,Cooter,Pemiscot County,290
+65287,Wooldridge,Moniteau County,290
+65660,Graff,Wright County,290
+63874,Risco,New Madrid County,288
+65464,Elk Creek,Texas County,285
+63952,Mill Spring,Wayne County,284
+65327,Emma,Saline County,284
+64726,Blairstown,Henry County,278
+65083,Ulman,Miller County,278
+63557,New Boston,Linn County,272
+64166,Kansas City,Clay County,270
+64486,Sheridan,Worth County,270
+65773,Wasola,Ozark County,267
+64657,McFall,Gentry County,266
+65620,Bruner,Christian County,265
+63539,Ethel,Macon County,259
+65232,Benton City,Audrain County,256
+64667,Newtown,Sullivan County,255
+63784,Vanduser,Scott County,253
+63551,Livonia,Putnam County,251
+63820,Anniston,Mississippi County,249
+65654,Freistatt,Lawrence County,245
+64664,Mooresville,Livingston County,244
+64167,Kansas City,Clay County,243
+64656,Ludlow,Livingston County,237
+63438,Durham,Lewis County,232
+65215,Columbia,Boone County,225
+64496,Watson,Atchison County,224
+64476,Pickering,Nodaway County,223
+63941,Fremont,Carter County,221
+64498,Westboro,Atchison County,221
+64636,Coffey,Daviess County,217
+63061,Luebbering,Franklin County,216
+64165,Kansas City,Clay County,212
+65735,Quincy,Hickory County,212
+64686,Utica,Livingston County,211
+64164,Kansas City,Platte County,208
+65440,Boss,Dent County,206
+64072,Missouri City,Clay County,205
+63770,Old Appleton,Perry County,203
+64101,Kansas City,Jackson County,203
+64433,Conception,Nodaway County,202
+65216,Columbia,Boone County,202
+63951,Lowndes,Wayne County,200
+63744,Delta,Cape Girardeau County,198
+64645,Harris,Sullivan County,195
+65048,Koeltztown,Osage County,194
+64849,Neck City,Jasper County,187
+65529,Jerome,Phelps County,187
+63458,Newark,Knox County,185
+63824,Blodgett,Scott County,185
+64672,Powersville,Putnam County,185
+63439,Emden,Shelby County,183
+65744,Rueter,Taney County,182
+63451,Leonard,Shelby County,177
+63828,Canalou,New Madrid County,177
+65457,Devils Elbow,Pulaski County,177
+63849,Gobler,Dunklin County,176
+65335,Ionia,Pettis County,175
+65344,Miami,Saline County,173
+63782,Sturdivant,Bollinger County,172
+63860,Kewanee,New Madrid County,172
+64681,Sumner,Chariton County,170
+65282,Santa Fe,Monroe County,168
+65768,Vanzant,Douglas County,166
+63826,Braggadocio,Pemiscot County,164
+64743,East Lynne,Cass County,162
+65449,Cook Sta,Crawford County,161
+64458,Hatfield,Harrison County,159
+65001,Argyle,Maries County,159
+65603,Arcola,Dade County,158
+65777,Moody,Howell County,154
+63460,Novelty,Knox County,151
+65541,Lenox,Dent County,150
+63450,Lentner,Shelby County,145
+64467,Martinsville,Harrison County,145
+63853,Holland,Pemiscot County,141
+64022,Dover,Lafayette County,140
+64453,Gentry,Gentry County,140
+63833,Catron,New Madrid County,137
+64499,Worth,Worth County,137
+64868,Tiff City,McDonald County,137
+65586,Wesco,Crawford County,137
+63745,Dutchtown,Cape Girardeau County,136
+64676,Rothville,Chariton County,132
+64090,Strasburg,Cass County,130
+65690,Couch,Oregon County,130
+65731,Powersite,Taney County,130
+65783,Windyville,Dallas County,127
+65729,Pontiac,Ozark County,126
+65280,Rush Hill,Audrain County,121
+64432,Clyde,Nodaway County,119
+64639,De Witt,Carroll County,113
+64441,Denver,Worth County,110
+65589,Yukon,Texas County,110
+65618,Brixey,Ozark County,110
+63330,Annada,Pike County,108
+63387,Whiteside,Lincoln County,108
+65443,Brinktown,Maries County,107
+63774,Perkins,Scott County,106
+63538,Elmer,Macon County,105
+65727,Polk,Polk County,101
+65286,Triplett,Chariton County,99
+63763,McGee,Wayne County,98
+64066,Levasy,Jackson County,98
+63880,Whiteoak,Dunklin County,97
+65461,Duke,Pulaski County,97
+64065,Lees Summit,Jackson County,94
+64655,Lucerne,Putnam County,93
+63878,Tallapoosa,New Madrid County,92
+63847,Gibson,Dunklin County,91
+65501,Jadwin,Dent County,87
+64781,Roscoe,St. Clair County,80
+65468,Eunice,Texas County,78
+64438,Darlington,Gentry County,77
+65766,Udall,Ozark County,77
+63840,Deering,Pemiscot County,74
+63566,Winigan,Linn County,72
+63567,Worthington,Putnam County,70
+64833,Avilla,Jasper County,70
+65320,Arrow Rock,Saline County,65
+63742,Commerce,Scott County,64
+63743,Daisy,Cape Girardeau County,64
+63955,Oxly,Ripley County,64
+63560,Pollock,Sullivan County,61
+63079,Stanton,Franklin County,60
+63783,Uniontown,Perry County,60
+63053,Kimmswick,Jefferson County,56
+64102,Kansas City,Jackson County,56
+65439,Bixby,Iron County,55
+65246,Dalton,Chariton County,54
+63365,New Melle,St. Charles County,51
+64745,Foster,Bates County,51
+64654,Lock Springs,Daviess County,49
+63674,Tiff,Washington County,48
+65484,Huggins,Texas County,42
+65564,Solo,Texas County,42
+65688,Brandsville,Howell County,42
+65664,Halltown,Lawrence County,40
+65675,Hurley,Stone County,38
+65278,Renick,Randolph County,35
+63934,Clubb,Wayne County,31
+64420,Allendale,Worth County,31
+65623,Butterfield,Barry County,28
+63675,Vulcan,Iron County,24
+65436,Beulah,Phelps County,21
+65715,Noble,Ozark County,21
+65784,Zanoni,Ozark County,21
+65062,Mount Sterling,Osage County,20
+63467,Saverton,Ralls County,19
+65730,Powell,McDonald County,19
+63535,Coatsville,Schuyler County,14
+63746,Farrar,Perry County,11
+63850,Grayridge,Stoddard County,8
+64765,Metz,Vernon County,7
+63045,Earth City,St. Louis County,0
+63047,Hematite,Jefferson County,0
+63155,Saint Louis,St. Louis city,0
+63433,Ashburn,Pike County,0
+63466,Saint Patrick,Clark County,0
+63738,Brownwood,Stoddard County,0
+63950,Lodi,Wayne County,0
+63962,Rombauer,Butler County,0
+64092,Waldron,Platte County,0
+65409,Rolla,Phelps County,0
+65666,Hardenville,Ozark County,0
+65728,Ponce De Leon,Christian County,0
+65741,Rockbridge,Ozark County,0
+65801,Springfield,Greene County,0

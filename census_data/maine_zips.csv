@@ -1,0 +1,427 @@
+ZIP,City,County,Population
+04401,Bangor,Penobscot County,"44,854"
+04240,Lewiston,Androscoggin County,"38,324"
+04103,Portland,Cumberland County,"32,024"
+04901,Waterville,Kennebec County,"27,870"
+04106,South Portland,Cumberland County,"27,019"
+04330,Augusta,Kennebec County,"26,690"
+04005,Biddeford,York County,"24,772"
+04210,Auburn,Androscoggin County,"24,602"
+04074,Scarborough,Cumberland County,"23,076"
+04011,Brunswick,Cumberland County,"22,336"
+04072,Saco,York County,"20,819"
+04092,Westbrook,Cumberland County,"20,775"
+04062,Windham,Cumberland County,"19,188"
+04101,Portland,Cumberland County,"18,431"
+04038,Gorham,Cumberland County,"18,300"
+04073,Sanford,York County,"17,414"
+04102,Portland,Cumberland County,"17,267"
+04605,Ellsworth,Hancock County,"14,529"
+04105,Falmouth,Cumberland County,"12,755"
+04345,Gardiner,Kennebec County,"12,579"
+04043,Kennebunk,York County,"11,820"
+04090,Wells,York County,"11,713"
+04530,Bath,Sagadahoc County,"11,275"
+03909,York,York County,"10,943"
+04938,Farmington,Franklin County,"10,542"
+04730,Houlton,Aroostook County,"10,106"
+04976,Skowhegan,Somerset County,"10,072"
+04086,Topsham,Sagadahoc County,"9,706"
+04107,Cape Elizabeth,Cumberland County,"9,656"
+04412,Brewer,Penobscot County,"9,652"
+04444,Hampden,Penobscot County,"9,371"
+04468,Old Town,Penobscot County,"9,291"
+04915,Belfast,Waldo County,"9,107"
+04096,Yarmouth,Cumberland County,"9,053"
+04736,Caribou,Aroostook County,"9,025"
+04032,Freeport,Cumberland County,"8,802"
+04769,Presque Isle,Aroostook County,"8,736"
+04064,Old Orchard Beach,York County,"8,632"
+04093,Buxton,York County,"8,512"
+03904,Kittery,York County,"8,389"
+04473,Orono,Penobscot County,"8,371"
+03901,Berwick,York County,"8,175"
+04039,Gray,Cumberland County,"8,102"
+04046,Kennebunkport,York County,"8,102"
+04084,Standish,Cumberland County,"7,900"
+04002,Alfred,York County,"7,737"
+04963,Oakland,Kennebec County,"7,524"
+03908,South Berwick,York County,"7,431"
+03903,Eliot,York County,"7,146"
+04280,Sabattus,Androscoggin County,"7,040"
+04841,Rockland,Knox County,"7,035"
+04021,Cumberland Center,Cumberland County,"6,990"
+04027,Lebanon,York County,"6,629"
+04937,Fairfield,Somerset County,"6,358"
+04270,Oxford,Oxford County,"6,284"
+04364,Winthrop,Kennebec County,"6,191"
+04274,Poland,Androscoggin County,"5,954"
+04276,Rumford,Oxford County,"5,942"
+04282,Turner,Androscoggin County,"5,891"
+04457,Lincoln,Penobscot County,"5,823"
+04260,New Gloucester,Cumberland County,"5,766"
+04416,Bucksport,Hancock County,"5,497"
+04009,Bridgton,Cumberland County,"5,478"
+03906,North Berwick,York County,"5,368"
+04281,South Paris,Oxford County,"5,317"
+04572,Waldoboro,Lincoln County,"5,253"
+04609,Bar Harbor,Hancock County,"5,244"
+04843,Camden,Knox County,"5,242"
+04268,Norway,Oxford County,"5,228"
+04429,Holden,Hancock County,"5,008"
+04426,Dover Foxcroft,Piscataquis County,"4,999"
+04071,Raymond,Cumberland County,"4,971"
+04252,Lisbon Falls,Androscoggin County,"4,968"
+04864,Warren,Knox County,"4,932"
+04042,Hollis Center,York County,"4,872"
+04083,Springvale,York County,"4,833"
+04250,Lisbon,Androscoggin County,"4,782"
+04950,Madison,Somerset County,"4,782"
+04743,Fort Kent,Aroostook County,"4,770"
+04578,Wiscasset,Lincoln County,"4,709"
+04239,Jay,Franklin County,"4,657"
+04989,Vassalboro,Kennebec County,"4,592"
+04358,South China,Kennebec County,"4,526"
+04462,Millinocket,Piscataquis County,"4,464"
+04236,Greene,Androscoggin County,"4,417"
+04222,Durham,Androscoggin County,"4,262"
+04930,Dexter,Penobscot County,"4,258"
+04097,North Yarmouth,Cumberland County,"4,240"
+04079,Harpswell,Cumberland County,"4,026"
+04037,Fryeburg,Oxford County,"4,024"
+04862,Union,Knox County,"4,023"
+04049,Limington,York County,"4,017"
+04849,Lincolnville,Waldo County,"4,017"
+04957,Norridgewock,Somerset County,"4,006"
+04055,Naples,Cumberland County,"3,985"
+04294,Wilton,Franklin County,"3,982"
+04967,Pittsfield,Somerset County,"3,930"
+04474,Orrington,Penobscot County,"3,853"
+04496,Winterport,Waldo County,"3,850"
+04220,Buckfield,Oxford County,"3,717"
+04015,Casco,Cumberland County,"3,696"
+04350,Litchfield,Kennebec County,"3,680"
+04856,Rockport,Knox County,"3,675"
+04259,Monmouth,Kennebec County,"3,610"
+04357,Richmond,Sagadahoc County,"3,566"
+04469,Orono,Penobscot County,"3,531"
+04348,Jefferson,Lincoln County,"3,484"
+04048,Limerick,York County,"3,400"
+04217,Bethel,Oxford County,"3,387"
+04927,Clinton,Kennebec County,"3,385"
+04917,Belgrade,Kennebec County,"3,351"
+04756,Madawaska,Aroostook County,"3,341"
+04654,Machias,Washington County,"3,340"
+04428,Eddington,Penobscot County,"3,334"
+04742,Fort Fairfield,Aroostook County,"3,309"
+04287,Bowdoin,Sagadahoc County,"3,188"
+04579,Woolwich,Sagadahoc County,"3,158"
+04953,Newport,Penobscot County,"3,143"
+04008,Bowdoinham,Sagadahoc County,"3,142"
+04256,Mechanic Falls,Androscoggin County,"3,134"
+04224,Dixfield,Oxford County,"3,110"
+04254,Livermore Falls,Androscoggin County,"3,102"
+04619,Calais,Washington County,"3,097"
+04461,Milford,Penobscot County,"3,095"
+04061,North Waterboro,York County,"3,074"
+04456,Levant,Penobscot County,"3,069"
+04040,Harrison,Cumberland County,"3,050"
+04344,Farmingdale,Kennebec County,"3,017"
+04427,Corinth,Penobscot County,"2,990"
+04076,Shapleigh,York County,"2,976"
+04419,Carmel,Penobscot County,"2,941"
+04614,Blue Hill,Hancock County,"2,813"
+04258,Minot,Androscoggin County,"2,794"
+04257,Mexico,Oxford County,"2,782"
+04861,Thomaston,Knox County,"2,769"
+04085,Steep Falls,Cumberland County,"2,762"
+04030,East Waterboro,York County,"2,731"
+04001,Acton,York County,"2,721"
+04363,Windsor,Kennebec County,"2,690"
+03902,Cape Neddick,York County,"2,665"
+04974,Searsport,Waldo County,"2,655"
+04355,Readfield,Kennebec County,"2,651"
+04757,Mapleton,Aroostook County,"2,627"
+04347,Hallowell,Kennebec County,"2,592"
+04463,Milo,Piscataquis County,"2,582"
+04981,Stockton Springs,Waldo County,"2,575"
+04640,Hancock,Hancock County,"2,450"
+04351,Manchester,Kennebec County,"2,424"
+04634,Franklin,Hancock County,"2,374"
+04263,Leeds,Androscoggin County,"2,285"
+04087,Waterboro,York County,"2,250"
+04562,Phippsburg,Sagadahoc County,"2,238"
+04986,Thorndike,Waldo County,"2,228"
+04443,Guilford,Piscataquis County,"2,211"
+04965,Palmyra,Somerset County,"2,209"
+04910,Albion,Kennebec County,"2,204"
+04543,Damariscotta,Lincoln County,"2,192"
+04928,Corinna,Penobscot County,"2,192"
+04694,Baileyville,Washington County,"2,155"
+04627,Deer Isle,Hancock County,"2,137"
+04353,Whitefield,Lincoln County,"2,115"
+04029,Sebago,Cumberland County,"2,086"
+03905,Kittery Point,York County,"2,084"
+04785,Van Buren,Aroostook County,"2,073"
+04924,Canaan,Somerset County,"2,063"
+04668,Princeton,Washington County,"2,010"
+04983,Strong,Franklin County,"2,005"
+04958,North Anson,Somerset County,"2,002"
+04553,Newcastle,Lincoln County,"1,913"
+04555,Nobleboro,Lincoln County,"1,906"
+04988,Unity,Waldo County,"1,894"
+04911,Anson,Somerset County,"1,880"
+04253,Livermore,Androscoggin County,"1,868"
+04920,Bingham,Somerset County,"1,866"
+04472,Orland,Hancock County,"1,852"
+04493,West Enfield,Penobscot County,"1,840"
+04441,Greenville,Piscataquis County,"1,839"
+04684,Surry,Hancock County,"1,836"
+04971,Saint Albans,Somerset County,"1,831"
+04010,Brownfield,Oxford County,"1,830"
+04750,Limestone,Aroostook County,"1,815"
+04538,Boothbay Harbor,Lincoln County,"1,810"
+04289,West Paris,Oxford County,"1,808"
+04020,Cornish,York County,"1,803"
+04952,Morrill,Waldo County,"1,790"
+04921,Brooks,Waldo County,"1,775"
+04414,Brownville,Piscataquis County,"1,766"
+04041,Hiram,Oxford County,"1,748"
+04847,Hope,Knox County,"1,748"
+04068,Porter,Oxford County,"1,746"
+04352,Mount Vernon,Kennebec County,"1,716"
+04047,Parsonsfield,York County,"1,715"
+04069,Pownal,Cumberland County,"1,696"
+04537,Boothbay,Lincoln County,"1,685"
+04110,Cumberland Foreside,Cumberland County,"1,657"
+04418,Greenbush,Penobscot County,"1,649"
+04973,Searsmont,Waldo County,"1,646"
+04342,Dresden,Lincoln County,"1,645"
+04411,Bradley,Penobscot County,"1,645"
+04966,Phillips,Franklin County,"1,632"
+04574,Washington,Knox County,"1,624"
+04346,Randolph,Kennebec County,"1,610"
+04943,Hartland,Somerset County,"1,602"
+04786,Washburn,Aroostook County,"1,599"
+04947,Kingfield,Franklin County,"1,596"
+04941,Freedom,Waldo County,"1,577"
+04679,Southwest Harbor,Hancock County,"1,553"
+04955,New Sharon,Franklin County,"1,550"
+04860,Tenants Harbor,Knox County,"1,543"
+04448,Howland,Penobscot County,"1,540"
+04652,Lubec,Washington County,"1,525"
+04290,Peru,Oxford County,"1,501"
+04430,East Millinocket,Penobscot County,"1,495"
+04854,Owls Head,Knox County,"1,482"
+04095,West Newfield,York County,"1,480"
+04354,Palermo,Waldo County,"1,473"
+04563,Cushing,Knox County,"1,460"
+04539,Bristol,Lincoln County,"1,456"
+04765,Patten,Penobscot County,"1,434"
+04740,Easton,Aroostook County,"1,433"
+04732,Ashland,Aroostook County,"1,427"
+04758,Mars Hill,Aroostook County,"1,405"
+04219,Bryant Pond,Oxford County,"1,399"
+04680,Steuben,Washington County,"1,388"
+04349,Kents Hill,Kennebec County,"1,383"
+03907,Ogunquit,York County,"1,379"
+04858,South Thomaston,Knox County,"1,378"
+04421,Castine,Hancock County,"1,362"
+04051,Lovell,Oxford County,"1,353"
+04450,Kenduskeag,Penobscot County,"1,333"
+04945,Jackman,Somerset County,"1,325"
+04969,Plymouth,Penobscot County,"1,319"
+04747,Island Falls,Aroostook County,"1,316"
+04667,Perry,Washington County,"1,296"
+04088,Waterford,Oxford County,"1,269"
+04631,Eastport,Washington County,"1,263"
+04410,Bradford,Penobscot County,"1,254"
+04434,Etna,Penobscot County,"1,252"
+04449,Hudson,Penobscot County,"1,251"
+04556,Edgecomb,Lincoln County,"1,251"
+04664,Sullivan,Hancock County,"1,246"
+04630,East Machias,Washington County,"1,230"
+04658,Milbridge,Washington County,"1,222"
+04863,Vinalhaven,Knox County,"1,216"
+04547,Friendship,Knox County,"1,213"
+04932,Dixmont,Penobscot County,"1,207"
+04942,Harmony,Somerset County,"1,192"
+04221,Canton,Oxford County,"1,191"
+04666,Pembroke,Washington County,"1,178"
+04623,Columbia Falls,Washington County,"1,173"
+04649,Jonesport,Washington County,"1,166"
+04476,Penobscot,Hancock County,"1,154"
+04488,Stetson,Penobscot County,"1,151"
+04607,Gouldsboro,Hancock County,"1,142"
+04479,Sangerville,Piscataquis County,"1,136"
+04676,Sedgwick,Hancock County,"1,130"
+04422,Charleston,Penobscot County,"1,117"
+04460,Medway,Penobscot County,"1,111"
+04238,Hebron,Oxford County,"1,105"
+04970,Rangeley,Franklin County,"1,105"
+04284,Wayne,Kennebec County,"1,101"
+04438,Frankfort,Waldo County,"1,098"
+04435,Exeter,Penobscot County,"1,093"
+04660,Mount Desert,Hancock County,"1,072"
+04022,Denmark,Oxford County,"1,054"
+04622,Cherryfield,Washington County,"1,050"
+04606,Addison,Washington County,"1,045"
+04655,Machiasport,Washington County,"1,016"
+04548,Georgetown,Sagadahoc County,"1,012"
+04951,Monroe,Waldo County,"1,001"
+04776,Sherman,Aroostook County,999
+04987,Troy,Waldo County,984
+04424,Danforth,Washington County,983
+04544,East Boothbay,Lincoln County,978
+04745,Frenchville,Aroostook County,971
+04949,Liberty,Waldo County,969
+04979,Solon,Somerset County,963
+04922,Burnham,Waldo County,953
+04455,Lee,Penobscot County,925
+04961,New Portland,Somerset County,919
+04551,Bremen,Lincoln County,917
+04643,Harrington,Washington County,917
+04616,Brooklin,Hancock County,869
+04912,Athens,Somerset County,858
+04978,Smithfield,Somerset County,856
+04292,Sumner,Oxford County,845
+04772,Saint Agatha,Aroostook County,842
+04681,Stonington,Hancock County,840
+04487,Springfield,Penobscot County,838
+04066,Orrs Island,Cumberland County,837
+04108,Peaks Island,Cumberland County,826
+04739,Eagle Lake,Aroostook County,825
+04984,Temple,Franklin County,824
+04939,Garland,Penobscot County,823
+04535,Alna,Lincoln County,818
+04734,Blaine,Aroostook County,804
+04091,West Baldwin,Cumberland County,801
+04453,Lagrange,Penobscot County,785
+04780,Smyrna Mills,Aroostook County,783
+04255,Greenwood,Oxford County,759
+04859,Spruce Head,Knox County,753
+04459,Mattawamkeag,Aroostook County,750
+04471,Orient,Aroostook County,730
+04653,Bass Harbor,Hancock County,719
+04406,Abbot,Piscataquis County,675
+04760,Monticello,Aroostook County,674
+04617,Brooksville,Hancock County,651
+04929,Detroit,Somerset County,650
+04848,Islesboro,Waldo County,636
+04763,Oakfield,Aroostook County,629
+04774,Saint Francis,Aroostook County,624
+04671,Robbinston,Washington County,621
+04063,Ocean Park,York County,612
+04956,New Vineyard,Franklin County,607
+04464,Monson,Piscataquis County,596
+04628,Dennysville,Washington County,582
+04216,Andover,Oxford County,578
+04648,Jonesboro,Washington County,570
+04573,Walpole,Lincoln County,557
+04017,Chebeague Island,Cumberland County,555
+04265,North Monmouth,Kennebec County,552
+04773,Saint David,Aroostook County,550
+04481,Sebec,Piscataquis County,547
+04576,Southport,Lincoln County,547
+04783,Stockholm,Aroostook County,545
+04360,Vienna,Kennebec County,536
+04923,Cambridge,Somerset County,532
+04781,Wallagrass,Aroostook County,528
+04275,Roxbury,Oxford County,526
+04564,Round Pond,Lincoln County,520
+04554,New Harbor,Lincoln County,514
+04568,South Bristol,Lincoln County,512
+04612,Bernard,Hancock County,505
+04691,Whiting,Washington County,499
+04611,Beals,Washington County,498
+04762,New Sweden,Aroostook County,494
+04693,Winter Harbor,Hancock County,493
+04626,Cutler,Washington County,492
+04735,Bridgewater,Aroostook County,492
+04853,North Haven,Knox County,480
+04777,Stacyville,Penobscot County,478
+04662,Northeast Harbor,Hancock County,476
+04733,Benedicta,Aroostook County,465
+04285,Weld,Franklin County,459
+04779,Sinclair,Aroostook County,446
+04571,Trevett,Lincoln County,439
+04685,Swans Island,Hancock County,438
+04746,Grand Isle,Aroostook County,407
+04475,Passadumkeag,Penobscot County,384
+04558,Pemaquid,Lincoln County,382
+04787,Westfield,Aroostook County,382
+04768,Portage,Aroostook County,374
+04761,New Limerick,Aroostook County,372
+03911,York Harbor,York County,363
+04024,East Baldwin,Cumberland County,356
+04417,Burlington,Penobscot County,355
+04677,Sorrento,Hancock County,345
+04650,Little Deer Isle,Hancock County,333
+04686,Wesley,Washington County,328
+04657,Meddybemps,Washington County,326
+04766,Perham,Aroostook County,326
+04478,Rockwood,Somerset County,316
+04855,Port Clyde,Knox County,313
+04497,Wytopitlock,Aroostook County,311
+04359,South Gardiner,Kennebec County,298
+04495,Winn,Penobscot County,287
+04575,West Boothbay Harbor,Lincoln County,286
+04674,Seal Cove,Hancock County,284
+04237,Hanover,Oxford County,276
+04231,Stoneham,Oxford County,271
+04982,Stratton,Franklin County,269
+04261,Newry,Oxford County,268
+04050,Long Island,Cumberland County,249
+04485,Shirley Mills,Piscataquis County,234
+04936,Eustis,Franklin County,232
+04490,Topsfield,Washington County,228
+04624,Corea,Hancock County,225
+04451,Kingman,Aroostook County,217
+04985,West Forks,Somerset County,217
+04415,Brownville Junction,Piscataquis County,215
+04489,Stillwater,Penobscot County,214
+04109,Portland,Cumberland County,213
+04442,Greenville Junction,Piscataquis County,208
+04642,Harborside,Hancock County,202
+04408,Aurora,Hancock County,194
+04003,Bailey Island,Cumberland County,183
+04492,Waite,Washington County,175
+04669,Prospect Harbor,Hancock County,171
+04057,North Bridgton,Cumberland County,164
+04413,Brookton,Washington County,162
+04673,Sargentville,Hancock County,144
+04944,Hinckley,Somerset County,140
+04646,Islesford,Hancock County,134
+04675,Seal Harbor,Hancock County,123
+04491,Vanceboro,Washington County,122
+04852,Monhegan,Lincoln County,120
+04964,Oquossoc,Oxford County,108
+04226,East Andover,Oxford County,101
+04925,Caratunk,Somerset County,101
+04056,Newfield,York County,100
+04019,Cliff Island,Cumberland County,93
+04613,Birch Harbor,Hancock County,92
+04764,Oxbow,Aroostook County,88
+04645,Isle Au Haut,Knox County,69
+04431,East Orland,Hancock County,63
+04625,Cranberry Isles,Hancock County,62
+04851,Matinicus,Knox County,48
+04541,Chamberlain,Lincoln County,45
+04341,Coopers Mills,Lincoln County,42
+04006,Biddeford Pool,York County,39
+04227,East Dixfield,Oxford County,35
+04635,Frenchboro,Hancock County,30
+04267,North Waterford,Oxford County,26
+04975,Shawmut,Somerset County,21
+03910,York Beach,York County,15
+04454,Lambert Lake,Washington County,11
+04570,Squirrel Island,Lincoln County,3
+04234,East Wilton,Franklin County,0
+04271,Paris,Oxford County,0
+04286,West Bethel,Oxford County,0
+04683,Sunset,Hancock County,0
+04737,Clayton Lake,Aroostook County,0
+04918,Belgrade Lakes,Kennebec County,0
+04926,China Village,Kennebec County,0
+04940,Farmington Falls,Franklin County,0
+04992,West Farmington,Franklin County,0

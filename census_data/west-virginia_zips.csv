@@ -1,0 +1,739 @@
+ZIP,City,County,Population
+26554,Fairmont,Marion County,"42,118"
+26508,Morgantown,Monongalia County,"40,231"
+26003,Wheeling,Ohio County,"39,982"
+26505,Morgantown,Monongalia County,"37,492"
+25801,Beckley,Raleigh County,"31,128"
+26301,Clarksburg,Harrison County,"28,716"
+26101,Parkersburg,Wood County,"28,005"
+25404,Martinsburg,Berkeley County,"23,990"
+25177,Saint Albans,Kanawha County,"22,665"
+25526,Hurricane,Putnam County,"22,514"
+25701,Huntington,Cabell County,"21,197"
+25414,Charles Town,Jefferson County,"21,073"
+25705,Huntington,Cabell County,"20,922"
+26062,Weirton,Hancock County,"20,578"
+26501,Morgantown,Monongalia County,"19,529"
+26201,Buckhannon,Upshur County,"18,689"
+24701,Bluefield,Mercer County,"17,117"
+26104,Parkersburg,Wood County,"16,805"
+25427,Hedgesville,Berkeley County,"16,595"
+24740,Princeton,Mercer County,"16,498"
+25403,Martinsburg,Berkeley County,"16,470"
+26330,Bridgeport,Harrison County,"15,600"
+26041,Moundsville,Marshall County,"15,254"
+25401,Martinsburg,Berkeley County,"14,979"
+25428,Inwood,Berkeley County,"14,825"
+25314,Charleston,Kanawha County,"14,794"
+25704,Huntington,Wayne County,"14,351"
+25405,Martinsburg,Berkeley County,"14,266"
+26241,Elkins,Randolph County,"14,102"
+24739,Princeton,Mercer County,"13,981"
+25425,Harpers Ferry,Jefferson County,"13,332"
+25302,Charleston,Kanawha County,"13,204"
+25419,Falling Waters,Berkeley County,"13,201"
+26726,Keyser,Mineral County,"12,629"
+25411,Berkeley Springs,Morgan County,"12,367"
+25504,Barboursville,Cabell County,"12,251"
+25309,South Charleston,Kanawha County,"12,154"
+26105,Vienna,Wood County,"12,107"
+25313,Charleston,Kanawha County,"11,760"
+25071,Elkview,Kanawha County,"11,107"
+25312,Charleston,Kanawha County,"10,047"
+25901,Oak Hill,Fayette County,"10,012"
+25311,Charleston,Kanawha County,"9,825"
+25413,Bunker Hill,Berkeley County,"9,618"
+26354,Grafton,Taylor County,"9,558"
+25541,Milton,Cabell County,"9,318"
+25560,Scott Depot,Putnam County,"9,303"
+26452,Weston,Lewis County,"9,220"
+24901,Lewisburg,Greenbrier County,"9,093"
+25064,Dunbar,Kanawha County,"9,090"
+26651,Summersville,Nicholas County,"9,067"
+25550,Point Pleasant,Mason County,"8,963"
+25430,Kearneysville,Jefferson County,"8,954"
+25143,Nitro,Kanawha County,"8,714"
+25304,Charleston,Kanawha County,"8,655"
+26525,Bruceton Mills,Preston County,"8,630"
+25508,Chapmanville,Logan County,"8,028"
+26155,New Martinsville,Wetzel County,"8,003"
+25840,Fayetteville,Fayette County,"7,746"
+26070,Wellsburg,Brooke County,"7,741"
+26416,Philippi,Barbour County,"7,693"
+26426,Salem,Doddridge County,"7,575"
+25443,Shepherdstown,Jefferson County,"7,496"
+26164,Ravenswood,Jackson County,"7,435"
+25303,South Charleston,Kanawha County,"7,396"
+25271,Ripley,Jackson County,"7,376"
+25438,Ranson,Jefferson County,"7,330"
+25702,Huntington,Cabell County,"7,188"
+25276,Spencer,Roane County,"7,127"
+26757,Romney,Hampshire County,"7,029"
+25813,Beaver,Raleigh County,"6,958"
+25530,Kenova,Wayne County,"6,856"
+25570,Wayne,Wayne County,"6,445"
+26431,Shinnston,Harrison County,"6,271"
+25213,Winfield,Putnam County,"6,224"
+26181,Washington,Wood County,"6,167"
+25880,Mount Hope,Raleigh County,"6,163"
+26187,Williamstown,Wood County,"6,060"
+25306,Charleston,Kanawha County,"6,040"
+26753,Ridgeley,Mineral County,"5,960"
+26150,Mineral Wells,Wood County,"5,869"
+26037,Follansbee,Brooke County,"5,714"
+26170,Saint Marys,Pleasants County,"5,701"
+25545,Ona,Cabell County,"5,670"
+26836,Moorefield,Hardy County,"5,625"
+26047,New Cumberland,Hancock County,"5,357"
+26250,Belington,Barbour County,"5,322"
+26847,Petersburg,Grant County,"5,305"
+25506,Branchland,Lincoln County,"5,299"
+26537,Kingwood,Preston County,"5,276"
+26704,Augusta,Hampshire County,"5,148"
+25510,Culloden,Cabell County,"5,098"
+24986,White Sulphur Springs,Greenbrier County,"5,014"
+25420,Gerrardstown,Berkeley County,"4,945"
+25951,Hinton,Summers County,"4,904"
+25918,Shady Spring,Raleigh County,"4,844"
+25832,Daniels,Raleigh County,"4,818"
+26378,Jane Lew,Lewis County,"4,778"
+24801,Welch,Wyoming County,"4,745"
+25387,Charleston,Kanawha County,"4,708"
+24910,Alderson,Greenbrier County,"4,664"
+26034,Chester,Hancock County,"4,664"
+25703,Huntington,Cabell County,"4,598"
+25320,Charleston,Kanawha County,"4,595"
+26351,Glenville,Gilmer County,"4,440"
+25601,Logan,Logan County,"4,380"
+25661,Williamson,Mingo County,"4,277"
+25045,Clendenin,Kanawha County,"4,234"
+26764,Terra Alta,Preston County,"4,175"
+26601,Sutton,Braxton County,"4,121"
+25015,Belle,Kanawha County,"3,888"
+25053,Danville,Boone County,"3,801"
+26582,Mannington,Marion County,"3,743"
+25159,Poca,Putnam County,"3,656"
+24970,Ronceverte,Greenbrier County,"3,647"
+24963,Peterstown,Monroe County,"3,560"
+25514,Fort Gay,Wayne County,"3,520"
+26444,Tunnelton,Preston County,"3,490"
+25130,Madison,Boone County,"3,456"
+26143,Elizabeth,Wirt County,"3,363"
+26570,Fairview,Monongalia County,"3,350"
+26415,Pennsboro,Ritchie County,"3,308"
+25962,Rainelle,Fayette County,"3,302"
+25315,Charleston,Kanawha County,"3,286"
+25434,Paw Paw,Hampshire County,"3,272"
+26362,Harrisville,Ritchie County,"3,270"
+26541,Maidsville,Monongalia County,"3,254"
+25248,Kenna,Jackson County,"3,222"
+25670,Delbarton,Mingo County,"3,203"
+26288,Webster Springs,Webster County,"3,148"
+24747,Rock,Mercer County,"3,125"
+26287,Parsons,Tucker County,"3,034"
+24954,Marlinton,Pocahontas County,"3,019"
+26456,West Union,Doddridge County,"2,998"
+26175,Sistersville,Tyler County,"2,991"
+26205,Craigsville,Nicholas County,"2,957"
+24712,Athens,Mercer County,"2,913"
+26833,Maysville,Grant County,"2,890"
+26059,Triadelphia,Ohio County,"2,888"
+26218,French Creek,Upshur County,"2,883"
+26385,Lost Creek,Harrison County,"2,870"
+26547,Reedsville,Preston County,"2,828"
+26206,Cowen,Webster County,"2,807"
+26347,Flemington,Taylor County,"2,807"
+25442,Shenandoah Junction,Jefferson County,"2,772"
+26261,Richwood,Greenbrier County,"2,760"
+25523,Hamlin,Lincoln County,"2,753"
+26038,Glen Dale,Marshall County,"2,752"
+26711,Capon Bridge,Hampshire County,"2,724"
+25825,Cool Ridge,Raleigh County,"2,659"
+26588,Rivesville,Marion County,"2,635"
+26253,Beverly,Randolph County,"2,589"
+25524,Harts,Lincoln County,"2,533"
+25301,Charleston,Kanawha County,"2,498"
+26035,Colliers,Brooke County,"2,491"
+25976,Meadow Bridge,Fayette County,"2,469"
+25535,Lavalette,Wayne County,"2,461"
+26159,Paden City,Wetzel County,"2,446"
+25123,Leon,Mason County,"2,440"
+25515,Gallipolis Ferry,Mason County,"2,386"
+26519,Albright,Preston County,"2,363"
+26184,Waverly,Wood County,"2,352"
+25168,Red House,Putnam County,"2,330"
+26149,Middlebourne,Tyler County,"2,314"
+25033,Buffalo,Putnam County,"2,284"
+25882,Mullens,Wyoming County,"2,268"
+26142,Davisville,Wood County,"2,262"
+26386,Lumberport,Harrison County,"2,243"
+26807,Franklin,Pendleton County,"2,228"
+25253,Letart,Mason County,"2,219"
+26624,Gassaway,Braxton County,"2,219"
+26743,New Creek,Mineral County,"2,216"
+25275,Sandyville,Jackson County,"2,181"
+25241,Evans,Jackson County,"2,154"
+26180,Walker,Wood County,"2,106"
+26147,Grantsville,Calhoun County,"2,089"
+26719,Fort Ashby,Mineral County,"2,082"
+26542,Masontown,Preston County,"2,067"
+26408,Mount Clare,Harrison County,"2,043"
+25984,Rupert,Greenbrier County,"2,014"
+25555,Prichard,Wayne County,"2,008"
+25674,Kermit,Mingo County,"1,999"
+25921,Sophia,Raleigh County,"1,989"
+25003,Alum Creek,Kanawha County,"1,975"
+26273,Huttonsville,Randolph County,"1,964"
+24817,Bradshaw,McDowell County,"1,931"
+26710,Burlington,Mineral County,"1,912"
+25559,Salt Rock,Cabell County,"1,899"
+26040,Mcmechen,Marshall County,"1,899"
+25671,Dingess,Mingo County,"1,898"
+25070,Eleanor,Putnam County,"1,875"
+26851,Wardensville,Hardy County,"1,870"
+25537,Lesage,Cabell County,"1,855"
+24874,Pineville,Wyoming County,"1,851"
+25082,Fraziers Bottom,Putnam County,"1,830"
+25969,Jumping Branch,Summers County,"1,826"
+26033,Cameron,Marshall County,"1,801"
+26571,Farmington,Marion County,"1,788"
+25239,Cottageville,Jackson County,"1,787"
+26031,Benwood,Marshall County,"1,770"
+25621,Gilbert,Mingo County,"1,739"
+25938,Victor,Fayette County,"1,739"
+25649,Verdunville,Logan County,"1,722"
+26374,Independence,Preston County,"1,676"
+26060,Valley Grove,Ohio County,"1,655"
+25286,Walton,Roane County,"1,652"
+25755,Huntington,Cabell County,"1,644"
+24870,Oceana,Wyoming County,"1,639"
+26679,Mount Nebo,Nicholas County,"1,628"
+26559,Barrackville,Marion County,"1,619"
+26818,Fisher,Hardy County,"1,616"
+26717,Elk Garden,Mineral County,"1,593"
+25865,Lester,Raleigh County,"1,573"
+26591,Worthington,Marion County,"1,568"
+25136,Montgomery,Fayette County,"1,543"
+26812,Mathias,Hardy County,"1,525"
+25652,Whitman,Logan County,"1,524"
+26801,Baker,Hardy County,"1,517"
+25124,Liberty,Putnam County,"1,514"
+25517,Genoa,Wayne County,"1,512"
+24818,Brenton,Wyoming County,"1,481"
+26506,Morgantown,Monongalia County,"1,476"
+24983,Union,Monroe County,"1,474"
+25422,Great Cacapon,Morgan County,"1,463"
+25181,Seth,Boone County,"1,457"
+25202,Tornado,Kanawha County,"1,451"
+25625,Holden,Logan County,"1,445"
+25971,Lerona,Mercer County,"1,438"
+26678,Mount Lookout,Nicholas County,"1,427"
+26623,Frametown,Braxton County,"1,425"
+24918,Ballard,Monroe County,"1,420"
+24951,Lindside,Monroe County,"1,416"
+26283,Montrose,Randolph County,"1,410"
+25635,Man,Logan County,"1,408"
+25692,Red Jacket,Mingo County,"1,395"
+26074,West Liberty,Ohio County,"1,391"
+26280,Mill Creek,Randolph County,"1,390"
+25831,Danese,Fayette County,"1,389"
+25827,Crab Orchard,Raleigh County,"1,380"
+25446,Summit Point,Jefferson County,"1,374"
+25571,West Hamlin,Lincoln County,"1,365"
+25634,Mallory,Logan County,"1,358"
+26050,Newell,Hancock County,"1,357"
+25606,Accoville,Logan County,"1,341"
+25812,Ansted,Fayette County,"1,339"
+25678,Matewan,Mingo County,"1,336"
+25564,Sod,Lincoln County,"1,335"
+25836,Eccles,Raleigh County,"1,333"
+24966,Renick,Greenbrier County,"1,332"
+25140,Naoma,Raleigh County,"1,321"
+25063,Duck,Braxton County,"1,309"
+25287,West Columbia,Mason County,"1,302"
+25260,Mason,Mason County,"1,298"
+25265,New Haven,Mason County,"1,285"
+25501,Alkol,Lincoln County,"1,268"
+25917,Scarbro,Fayette County,"1,255"
+26763,Springfield,Hampshire County,"1,253"
+25557,Ranger,Lincoln County,"1,251"
+24941,Gap Mills,Monroe County,"1,243"
+25696,Varney,Mingo County,"1,241"
+25676,Lenore,Mingo County,"1,239"
+24938,Frankford,Greenbrier County,"1,233"
+25262,Millwood,Jackson County,"1,233"
+26146,Friendly,Tyler County,"1,215"
+25611,Bruno,Logan County,"1,211"
+26133,Belleville,Wood County,"1,210"
+25646,Stollings,Logan County,"1,204"
+25252,Le Roy,Jackson County,"1,195"
+26260,Davis,Tucker County,"1,194"
+24892,War,McDowell County,"1,193"
+24737,Montcalm,Mercer County,"1,186"
+26447,Walkersville,Lewis County,"1,174"
+24931,Crawley,Greenbrier County,"1,173"
+25507,Ceredo,Wayne County,"1,168"
+25043,Clay,Clay County,"1,165"
+26160,Palestine,Wirt County,"1,163"
+26335,Burnsville,Braxton County,"1,149"
+26055,Proctor,Marshall County,"1,139"
+25520,Glenwood,Cabell County,"1,129"
+25270,Reedy,Roane County,"1,127"
+26238,Volga,Barbour County,"1,107"
+24976,Sinks Grove,Monroe County,"1,095"
+25878,Midway,Raleigh County,"1,094"
+25154,Peytona,Boone County,"1,085"
+25081,Foster,Boone County,"1,084"
+24946,Hillsboro,Pocahontas County,"1,075"
+26032,Bethany,Brooke County,"1,061"
+25608,Baisden,Mingo County,"1,051"
+24844,Iaeger,McDowell County,"1,049"
+26440,Thornton,Taylor County,"1,046"
+26234,Rock Cave,Upshur County,"1,045"
+26852,Purgitsville,Hampshire County,"1,029"
+25529,Julian,Boone County,"1,027"
+26845,Old Fields,Hardy County,"1,015"
+26448,Wallace,Harrison County,"1,005"
+25637,Mount Gay,Logan County,"1,004"
+24868,Northfork,McDowell County,999
+26425,Rowlesburg,Preston County,999
+24834,Fanrock,Wyoming County,996
+25214,Winifrede,Kanawha County,994
+25125,Lizemores,Clay County,990
+26866,Upper Tract,Pendleton County,989
+25843,Ghent,Raleigh County,986
+26585,Metz,Marion County,977
+24882,Simon,Wyoming County,974
+25121,Lake,Logan County,948
+25235,Chloe,Calhoun County,945
+26716,Eglon,Preston County,944
+26270,Harman,Randolph County,934
+25512,East Lynn,Wayne County,932
+25873,MacArthur,Raleigh County,926
+24836,Gary,McDowell County,914
+25086,Glasgow,Kanawha County,907
+26808,High View,Hampshire County,903
+26134,Belmont,Pleasants County,902
+25521,Griffithsville,Lincoln County,897
+26208,Camden On Gauley,Webster County,893
+26802,Brandywine,Pendleton County,893
+24822,Clear Fork,Wyoming County,890
+25259,Looneyville,Roane County,880
+26681,Nettie,Nicholas County,871
+25009,Ashford,Boone County,870
+26581,Littleton,Wetzel County,870
+25511,Dunlow,Wayne County,855
+25208,Wharton,Boone County,852
+25067,East Bank,Kanawha County,850
+25244,Gay,Jackson County,850
+25607,Amherstdale,Logan County,847
+26269,Hambleton,Tucker County,843
+25981,Quinwood,Greenbrier County,842
+25503,Ashton,Mason County,837
+25909,Prosperity,Raleigh County,836
+25285,Wallback,Clay County,825
+26690,Swiss,Fayette County,824
+25567,Sumerco,Lincoln County,823
+24854,Kopperston,Wyoming County,820
+26257,Coalton,Randolph County,820
+26137,Big Springs,Gilmer County,818
+26337,Cairo,Ritchie County,806
+25928,Stephenson,Wyoming County,803
+26405,Moatsville,Barbour County,803
+24935,Forest Hill,Summers County,797
+26276,Kerens,Randolph County,797
+26534,Granville,Monongalia County,792
+26292,Thomas,Tucker County,789
+25875,McGraws,Wyoming County,779
+25871,Mabscott,Raleigh County,778
+25565,Spurlockville,Lincoln County,774
+24857,Lynco,Wyoming County,770
+26412,Orlando,Lewis County,767
+25685,Naugatuck,Mingo County,763
+26617,Dille,Nicholas County,763
+25644,Sarah Ann,Logan County,761
+26750,Piedmont,Mineral County,759
+26419,Pine Grove,Wetzel County,758
+25109,Hometown,Putnam County,756
+24827,Cyclone,Wyoming County,755
+24862,Mohawk,McDowell County,749
+26294,Valley Head,Randolph County,744
+26621,Flatwoods,Braxton County,744
+26662,Canvas,Nicholas County,743
+25690,Ragland,Mingo County,742
+26691,Tioga,Nicholas County,741
+25243,Gandeeville,Roane County,740
+25267,Normantown,Gilmer County,731
+24866,Newhall,McDowell County,729
+25185,Mount Olive,Fayette County,729
+26169,Rockport,Wood County,726
+25186,Smithers,Fayette County,725
+26320,Alma,Tyler County,723
+26610,Birch River,Nicholas County,723
+26562,Burton,Wetzel County,721
+25035,Cabin Creek,Kanawha County,719
+25444,Slanesville,Hampshire County,717
+26705,Aurora,Preston County,716
+26036,Dallas,Marshall County,712
+25854,Hico,Fayette County,704
+26739,Mount Storm,Grant County,702
+25826,Corinne,Wyoming County,700
+26619,Exchange,Braxton County,695
+24957,Maxwelton,Greenbrier County,689
+25007,Arnett,Raleigh County,687
+24924,Buckeye,Pocahontas County,685
+25245,Given,Jackson County,684
+25266,Newton,Roane County,680
+26346,Ellenboro,Ritchie County,675
+24871,Pageton,McDowell County,667
+25019,Bickmore,Clay County,666
+25632,Lyburn,Logan County,663
+26293,Valley Bend,Randolph County,661
+25075,Eskdale,Kanawha County,660
+25113,Ivydale,Clay County,655
+26377,Jacksonburg,Wetzel County,654
+26267,Ellamore,Randolph County,650
+26568,Enterprise,Harrison County,650
+25040,Charlton Heights,Fayette County,648
+25011,Bancroft,Putnam County,647
+26372,Horner,Lewis County,635
+26576,Idamay,Marion County,634
+25669,Crum,Wayne County,633
+26855,Cabins,Grant County,633
+25039,Cedar Grove,Kanawha County,629
+24860,Matheny,Wyoming County,628
+26278,Mabie,Randolph County,622
+26264,Durbin,Pocahontas County,618
+25165,Racine,Boone County,616
+25868,Lookout,Fayette County,610
+25844,Glen Daniel,Raleigh County,607
+26755,Rio,Hampshire County,607
+25573,Yawkey,Lincoln County,600
+25845,Glen Fork,Wyoming County,596
+26451,West Milford,Harrison County,591
+25148,Orgas,Boone County,587
+25547,Pecks Mill,Logan County,583
+25820,Camp Creek,Mercer County,583
+26237,Tallmansville,Upshur County,579
+24925,Caldwell,Greenbrier County,577
+26410,Newburg,Preston County,577
+26151,Mount Zion,Calhoun County,572
+25164,Procious,Clay County,571
+25234,Arnoldsburg,Calhoun County,566
+25904,Pax,Fayette County,559
+25085,Gauley Bridge,Fayette County,557
+25108,Hewett,Boone County,557
+26411,New Milton,Doddridge County,554
+26590,Wana,Monongalia County,550
+25049,Comfort,Boone County,548
+25134,Miami,Kanawha County,548
+24716,Bud,Wyoming County,544
+25639,Peach Creek,Logan County,544
+25979,Pipestem,Summers County,541
+25209,Whitesville,Boone County,539
+26815,Sugar Grove,Pendleton County,539
+25030,Bomont,Clay County,537
+25978,Nimitz,Summers County,534
+25651,Wharncliffe,Mingo County,533
+26804,Circleville,Pendleton County,530
+25841,Flat Top,Mercer County,526
+26575,Hundred,Wetzel County,523
+26275,Junior,Barbour County,520
+26075,Windsor Heights,Brooke County,519
+26338,Camden,Lewis County,518
+25161,Powellton,Fayette County,514
+25160,Pond Gap,Kanawha County,510
+26574,Grant Town,Marion County,506
+24915,Arbovale,Pocahontas County,505
+26437,Smithfield,Wetzel County,502
+24808,Anawalt,McDowell County,501
+25132,Mammoth,Kanawha County,501
+25247,Hartford,Mason County,499
+25139,Mount Carbon,Fayette County,498
+25268,Orma,Calhoun County,498
+25187,Southside,Mason County,497
+26722,Green Spring,Hampshire County,496
+24839,Hanover,Wyoming County,495
+26039,Glen Easton,Marshall County,493
+26376,Ireland,Braxton County,487
+25958,Charmco,Greenbrier County,483
+26342,Coxs Mills,Gilmer County,483
+26520,Arthurdale,Preston County,483
+25264,Mount Alto,Mason County,482
+24872,Panther,McDowell County,477
+24927,Cass,Pocahontas County,476
+26167,Reader,Wetzel County,474
+25989,White Oak,Raleigh County,471
+25667,Chattaroy,Mingo County,467
+24977,Smoot,Greenbrier County,465
+24981,Talcott,Summers County,463
+26671,Gilboa,Nicholas County,459
+24853,Kimball,McDowell County,458
+26202,Fenwick,Nicholas County,457
+25024,Bloomingrose,Boone County,452
+26443,Troy,Gilmer County,450
+26660,Calvin,Nicholas County,449
+24944,Green Bank,Pocahontas County,448
+26030,Beech Bottom,Brooke County,443
+25133,Maysel,Clay County,441
+26714,Delray,Hampshire County,441
+25028,Bob White,Boone County,440
+25628,Kistler,Logan County,440
+26814,Riverton,Pendleton County,440
+25083,Gallagher,Kanawha County,439
+25162,Pratt,Kanawha County,438
+24828,Davy,McDowell County,429
+24736,Matoaka,Wyoming County,426
+24869,North Spring,Wyoming County,425
+26761,Shanks,Hampshire County,425
+26817,Bloomery,Hampshire County,425
+25031,Boomer,Fayette County,424
+25823,Coal City,Raleigh County,423
+26343,Crawford,Lewis County,419
+25102,Handley,Kanawha County,418
+25169,Ridgeview,Boone County,415
+26161,Petroleum,Ritchie County,415
+26656,Belva,Nicholas County,414
+24823,Coal Mountain,Wyoming County,413
+25431,Levels,Hampshire County,413
+24894,Warriormine,McDowell County,409
+25118,Kimberly,Fayette County,409
+24813,Bartley,McDowell County,400
+25119,Kincaid,Fayette County,397
+24831,Elkhorn,McDowell County,393
+26767,Wiley Ford,Mineral County,393
+25839,Fairdale,Raleigh County,390
+25624,Henlawson,Logan County,388
+26369,Hepzibah,Harrison County,387
+25152,Page,Fayette County,384
+26323,Anmoore,Harrison County,382
+25505,Big Creek,Lincoln County,380
+25251,Left Hand,Roane County,377
+25672,Edgarton,Mingo County,377
+25502,Apple Grove,Mason County,376
+25110,Hugheston,Kanawha County,366
+25985,Sandstone,Summers County,366
+25061,Drybranch,Kanawha County,363
+24934,Dunmore,Pocahontas County,362
+25688,North Matewan,Mingo County,361
+26627,Heaters,Braxton County,357
+24920,Bartow,Pocahontas County,356
+26141,Creston,Calhoun County,356
+25972,Leslie,Greenbrier County,352
+25048,Colcord,Raleigh County,351
+25106,Henderson,Mason County,346
+25654,Yolyn,Logan County,346
+26321,Alum Bridge,Lewis County,344
+26546,Pursglove,Monongalia County,341
+25855,Hilltop,Fayette County,339
+25920,Slab Fork,Raleigh County,330
+25261,Millstone,Calhoun County,325
+25044,Clear Creek,Raleigh County,324
+25059,Dixie,Fayette County,324
+24845,Ikes Fork,Wyoming County,322
+24916,Asbury,Greenbrier County,322
+26810,Lost City,Hardy County,319
+25837,Edmond,Fayette County,314
+26203,Erbacon,Webster County,312
+24898,Wyoming,Wyoming County,311
+26224,Helvetia,Randolph County,311
+26436,Smithburg,Doddridge County,310
+26222,Hacker Valley,Webster County,309
+25866,Lochgelly,Fayette County,308
+26136,Big Bend,Calhoun County,307
+26680,Nallen,Fayette County,307
+25107,Hernshaw,Kanawha County,306
+25141,Nebo,Clay County,305
+24945,Greenville,Monroe County,303
+25864,Layland,Fayette County,299
+26271,Hendricks,Tucker County,299
+26707,Bayard,Grant County,299
+24811,Avondale,McDowell County,295
+26424,Rosemont,Taylor County,290
+26636,Rosedale,Braxton County,288
+25907,Prince,Fayette County,283
+26217,Diana,Webster County,283
+25005,Amma,Roane County,281
+24878,Premier,McDowell County,279
+25630,Lorado,Logan County,279
+25114,Jeffrey,Boone County,278
+24991,Williamsburg,Greenbrier County,277
+26731,Lahmansville,Grant County,276
+24715,Bramwell,Mercer County,275
+24726,Herndon,Wyoming County,275
+26684,Pool,Nicholas County,275
+25879,Minden,Fayette County,273
+24846,Isaban,McDowell County,266
+24984,Waiteville,Monroe County,265
+25206,Van,Boone County,264
+26285,Norton,Randolph County,261
+26563,Carolina,Marion County,261
+25902,Odd,Raleigh County,260
+25021,Bim,Boone County,258
+25986,Spring Dale,Fayette County,257
+26629,Little Birch,Braxton County,257
+25915,Rhodell,Raleigh County,252
+25638,Omar,Logan County,249
+24873,Paynesville,McDowell County,247
+26463,Wyatt,Harrison County,246
+25054,Dawes,Kanawha County,238
+25062,Dry Creek,Raleigh County,233
+26056,New Manchester,Hancock County,233
+25149,Ottawa,Boone County,231
+25193,Sylvester,Boone County,230
+25205,Uneeda,Boone County,229
+25203,Turtle Creek,Boone County,228
+25111,Indore,Clay County,227
+24974,Secondcreek,Monroe County,223
+26339,Center Point,Doddridge County,223
+26325,Auburn,Ritchie County,221
+26865,Yellow Spring,Hampshire County,218
+26266,Upperglade,Webster County,217
+25862,Lansing,Fayette County,216
+26430,Sand Fork,Gilmer County,216
+26631,Napier,Braxton County,214
+25112,Institute,Kanawha County,206
+26263,Dryfork,Randolph County,206
+26282,Monterville,Randolph County,205
+25174,Rock Creek,Raleigh County,204
+26884,Seneca Rocks,Pendleton County,204
+24714,Beeson,Mercer County,203
+26384,Linn,Gilmer County,201
+25916,Sabine,Wyoming County,200
+25612,Chauncey,Logan County,198
+26421,Pullman,Ritchie County,198
+25817,Bolt,Raleigh County,195
+25849,Glen White,Raleigh County,193
+25540,Midkiff,Lincoln County,192
+24880,Rock View,Wyoming County,189
+24851,Justice,Mingo County,186
+26178,Smithville,Ritchie County,184
+26348,Folsom,Wetzel County,184
+25180,Saxon,Raleigh County,182
+24879,Raysal,McDowell County,180
+24815,Berwind,McDowell County,176
+24731,Kegley,Mercer County,175
+25932,Surveyor,Raleigh County,167
+26215,Cleveland,Webster County,166
+26148,Macfarlan,Ritchie County,164
+25617,Davin,Logan County,163
+25818,Bradley,Raleigh County,163
+24985,Wayside,Monroe County,161
+25204,Twilight,Boone County,161
+25911,Raleigh,Raleigh County,160
+25036,Cannelton,Fayette County,159
+26886,Onego,Pendleton County,158
+26349,Galloway,Barbour County,157
+24943,Grassy Meadows,Greenbrier County,156
+26560,Baxter,Marion County,153
+25088,Glen,Clay County,151
+25103,Hansford,Kanawha County,151
+25047,Clothier,Boone County,146
+25666,Breeden,Mingo County,145
+25437,Points,Hampshire County,143
+25647,Switzer,Logan County,140
+25057,Deep Water,Fayette County,138
+25913,Ravencliff,Wyoming County,137
+26254,Bowden,Randolph County,137
+26667,Drennen,Nicholas County,136
+25848,Glen Rogers,Wyoming County,131
+25142,Nellis,Boone County,130
+25908,Princewick,Raleigh County,130
+26676,Leivasy,Nicholas County,126
+24830,Elbert,McDowell County,125
+26210,Adrian,Upshur County,124
+24719,Covel,Wyoming County,123
+24733,Lashmeet,Mercer County,122
+25432,Millville,Jefferson County,120
+25156,Pinch,Kanawha County,119
+25051,Costa,Boone County,117
+26615,Copen,Braxton County,115
+26572,Four States,Marion County,114
+24816,Big Sandy,McDowell County,113
+25008,Artie,Raleigh County,113
+26259,Dailey,Randolph County,113
+26404,Meadowbrook,Harrison County,113
+26521,Blacksville,Monongalia County,113
+24848,Jenkinjones,McDowell County,112
+24849,Jesse,Wyoming County,110
+25810,Allen Junction,Wyoming County,109
+26823,Capon Springs,Hampshire County,109
+25093,Gordon,Boone County,107
+25853,Helen,Raleigh County,106
+26361,Gypsy,Harrison County,102
+25211,Widen,Clay County,100
+26587,Rachel,Marion County,98
+25966,Green Sulphur Springs,Summers County,95
+26422,Reynoldsville,Harrison County,94
+25090,Glen Ferris,Fayette County,91
+24861,Maybeury,McDowell County,90
+24888,Thorpe,McDowell County,90
+25876,Saulsville,Wyoming County,90
+26638,Shock,Gilmer County,89
+24826,Cucumber,McDowell County,87
+26435,Simpson,Taylor County,87
+26438,Spelter,Harrison County,87
+25650,Verner,Logan County,86
+25025,Blount,Kanawha County,83
+24881,Roderfield,McDowell County,82
+25076,Ethel,Logan County,81
+24847,Itmann,Wyoming County,80
+25183,Sharples,Logan County,80
+26524,Bretz,Preston County,77
+25126,London,Kanawha County,76
+24867,New Richmond,Wyoming County,74
+25653,Wilkinson,Logan County,74
+26611,Cedarville,Gilmer County,69
+24724,Freeman,Mercer County,68
+25173,Robson,Fayette County,67
+25534,Kiahsville,Wayne County,65
+25201,Tad,Kanawha County,64
+25922,Spanishburg,Mercer County,63
+26209,Snowshoe,Pocahontas County,63
+26138,Brohard,Calhoun County,58
+26586,Montana Mines,Marion County,58
+24884,Squire,McDowell County,54
+26720,Gormania,Grant County,54
+26327,Berea,Ritchie County,51
+25977,Meadow Creek,Summers County,50
+26228,Kanawha Head,Upshur County,42
+24855,Kyle,McDowell County,39
+25115,Kanawha Falls,Fayette County,39
+24729,Hiawatha,Mercer County,38
+24993,Wolfcreek,Monroe County,37
+25811,Amigo,Raleigh County,37
+26230,Pickens,Randolph County,37
+25022,Blair,Logan County,36
+25060,Dorothy,Raleigh County,36
+25846,Glen Jean,Fayette County,34
+26268,Glady,Randolph County,34
+25942,Winona,Fayette County,32
+25699,Wilsondale,Wayne County,30
+24850,Jolo,McDowell County,29
+26298,Bergoo,Webster County,20
+25870,Maben,Wyoming County,19
+26236,Selbyville,Randolph County,19
+26058,Short Creek,Brooke County,17
+25544,Myra,Lincoln County,16
+26366,Haywood,Harrison County,13
+26291,Slatyfork,Pocahontas County,12
+26289,Red Creek,Tucker County,11
+24962,Pence Springs,Summers County,7
+25231,Advent,Jackson County,6
+25936,Thurmond,Fayette County,5
+24895,Wilcoe,McDowell County,4
+24738,Nemours,Mercer County,0
+24843,Hensley,McDowell County,0
+24887,Switchback,McDowell County,0
+25002,Alloy,Fayette County,0
+25305,Charleston,Kanawha County,0
+25421,Glengary,Berkeley County,0
+25851,Harper,Raleigh County,0
+25857,Josephine,Raleigh County,0
+25943,Wyco,Wyoming County,0
+26152,Munday,Calhoun County,0
+26162,Porters Falls,Wetzel County,0
+26296,Whitmer,Randolph County,0
+26543,Osage,Monongalia County,0
+26544,Pentress,Monongalia County,0
+26838,Milam,Hardy County,0

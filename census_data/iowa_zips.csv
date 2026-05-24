@@ -1,0 +1,971 @@
+ZIP,City,County,Population
+50023,Ankeny,Polk County,"46,306"
+50613,Cedar Falls,Black Hawk County,"43,867"
+52001,Dubuque,Dubuque County,"43,101"
+52404,Cedar Rapids,Linn County,"42,958"
+52402,Cedar Rapids,Linn County,"42,938"
+52302,Marion,Linn County,"42,706"
+52722,Bettendorf,Scott County,"41,264"
+51503,Council Bluffs,Pottawattamie County,"37,972"
+50266,West Des Moines,Dallas County,"37,523"
+50317,Des Moines,Polk County,"36,548"
+52240,Iowa City,Johnson County,"35,074"
+50315,Des Moines,Polk County,"34,816"
+51501,Council Bluffs,Pottawattamie County,"34,618"
+50010,Ames,Story County,"33,799"
+50265,West Des Moines,Polk County,"33,488"
+50014,Ames,Story County,"32,958"
+50322,Urbandale,Polk County,"31,931"
+50158,Marshalltown,Marshall County,"31,396"
+50310,Des Moines,Polk County,"31,177"
+52501,Ottumwa,Wapello County,"30,371"
+50021,Ankeny,Polk County,"30,283"
+50701,Waterloo,Black Hawk County,"30,232"
+50263,Waukee,Dallas County,"29,611"
+52761,Muscatine,Muscatine County,"29,474"
+50501,Fort Dodge,Webster County,"28,823"
+50401,Mason City,Cerro Gordo County,"28,703"
+51106,Sioux City,Woodbury County,"28,592"
+52601,Burlington,Des Moines County,"27,341"
+52806,Davenport,Scott County,"26,871"
+52804,Davenport,Scott County,"26,835"
+52405,Cedar Rapids,Linn County,"26,526"
+52732,Clinton,Clinton County,"25,880"
+50320,Des Moines,Polk County,"24,807"
+50131,Johnston,Polk County,"24,583"
+52241,Coralville,Johnson County,"23,250"
+51104,Sioux City,Woodbury County,"23,197"
+52317,North Liberty,Johnson County,"23,097"
+50009,Altoona,Polk County,"22,886"
+52245,Iowa City,Johnson County,"22,853"
+52803,Davenport,Scott County,"22,742"
+52403,Cedar Rapids,Linn County,"22,551"
+52246,Iowa City,Johnson County,"22,308"
+50702,Waterloo,Black Hawk County,"20,882"
+50208,Newton,Jasper County,"20,595"
+50125,Indianola,Warren County,"20,121"
+50325,Clive,Polk County,"19,012"
+50703,Waterloo,Black Hawk County,"17,952"
+50313,Des Moines,Polk County,"17,440"
+50323,Urbandale,Dallas County,"17,265"
+52002,Dubuque,Dubuque County,"17,005"
+51103,Sioux City,Woodbury County,"16,895"
+50111,Grimes,Polk County,"16,865"
+50211,Norwalk,Warren County,"16,835"
+50316,Des Moines,Polk County,"16,710"
+50036,Boone,Boone County,"16,154"
+50312,Des Moines,Polk County,"15,802"
+52807,Davenport,Scott County,"15,617"
+52577,Oskaloosa,Mahaska County,"14,585"
+50311,Des Moines,Polk County,"14,574"
+50219,Pella,Marion County,"14,416"
+52003,Dubuque,Dubuque County,"13,796"
+50588,Storm Lake,Buena Vista County,"13,431"
+50327,Pleasant Hill,Polk County,"13,177"
+51031,Le Mars,Plymouth County,"12,808"
+52101,Decorah,Winneshiek County,"12,706"
+52627,Fort Madison,Lee County,"12,677"
+50677,Waverly,Bremer County,"12,673"
+51301,Spencer,Clay County,"12,638"
+52641,Mount Pleasant,Henry County,"12,428"
+51401,Carroll,Carroll County,"11,990"
+50112,Grinnell,Poweshiek County,"11,862"
+52632,Keokuk,Lee County,"11,711"
+52556,Fairfield,Jefferson County,"11,448"
+50138,Knoxville,Marion County,"11,117"
+50314,Des Moines,Polk County,"10,438"
+51105,Sioux City,Woodbury County,"10,415"
+50035,Bondurant,Polk County,"10,131"
+50309,Des Moines,Polk County,"10,110"
+51250,Sioux Center,Sioux County,"9,970"
+50003,Adel,Dallas County,"9,948"
+51442,Denison,Crawford County,"9,692"
+52748,Eldridge,Scott County,"9,594"
+52802,Davenport,Scott County,"9,466"
+50616,Charles City,Floyd County,"9,358"
+52353,Washington,Washington County,"9,241"
+50220,Perry,Dallas County,"9,216"
+50428,Clear Lake,Cerro Gordo County,"9,071"
+50801,Creston,Union County,"9,034"
+50273,Winterset,Madison County,"8,950"
+50595,Webster City,Hamilton County,"8,885"
+51534,Glenwood,Mills County,"8,874"
+51360,Spirit Lake,Dickinson County,"8,653"
+52205,Anamosa,Jones County,"8,627"
+50022,Atlantic,Cass County,"8,526"
+50644,Independence,Buchanan County,"8,419"
+52411,Cedar Rapids,Linn County,"8,342"
+50201,Nevada,Story County,"8,320"
+52057,Manchester,Delaware County,"8,193"
+52544,Centerville,Appanoose County,"8,121"
+52060,Maquoketa,Jackson County,"8,007"
+50321,Des Moines,Polk County,"7,900"
+50707,Evansdale,Black Hawk County,"7,784"
+50226,Polk City,Polk County,"7,759"
+52349,Vinton,Benton County,"7,737"
+50213,Osceola,Clarke County,"7,489"
+51041,Orange City,Sioux County,"7,324"
+52333,Solon,Johnson County,"7,295"
+52742,De Witt,Clinton County,"7,284"
+50511,Algona,Kossuth County,"7,240"
+52537,Bloomfield,Davis County,"7,069"
+51566,Red Oak,Montgomery County,"7,010"
+52233,Hiawatha,Linn County,"7,000"
+51334,Estherville,Emmet County,"6,960"
+50047,Carlisle,Warren County,"6,690"
+51632,Clarinda,Page County,"6,624"
+50662,Oelwein,Fayette County,"6,576"
+52310,Monticello,Jones County,"6,450"
+51201,Sheldon,Sioux County,"6,430"
+50049,Chariton,Lucas County,"6,414"
+51537,Harlan,Shelby County,"6,382"
+50126,Iowa Falls,Hardin County,"6,368"
+51012,Cherokee,Cherokee County,"6,311"
+52314,Mount Vernon,Linn County,"6,200"
+52340,Tiffin,Johnson County,"6,128"
+52531,Albia,Monroe County,"6,036"
+52753,Le Claire,Scott County,"6,020"
+51108,Sioux City,Plymouth County,"5,960"
+52247,Kalona,Johnson County,"5,914"
+52172,Waukon,Allamakee County,"5,877"
+52136,Cresco,Howard County,"5,840"
+50436,Forest City,Winnebago County,"5,771"
+50548,Humboldt,Humboldt County,"5,722"
+50659,New Hampton,Chickasaw County,"5,688"
+51601,Shenandoah,Page County,"5,629"
+52040,Dyersville,Delaware County,"5,584"
+51054,Sergeant Bluff,Woodbury County,"5,583"
+50441,Hampton,Franklin County,"5,450"
+52031,Bellevue,Jackson County,"5,403"
+52772,Tipton,Cedar County,"5,348"
+52068,Peosta,Dubuque County,"5,280"
+50461,Osage,Mitchell County,"5,228"
+52726,Blue Grass,Scott County,"5,160"
+50324,Windsor Heights,Polk County,"5,143"
+51247,Rock Valley,Sioux County,"5,094"
+52776,West Liberty,Muscatine County,"5,090"
+50129,Jefferson,Greene County,"5,014"
+51351,Milford,Dickinson County,"4,988"
+51555,Missouri Valley,Harrison County,"4,952"
+50124,Huxley,Story County,"4,859"
+52730,Camanche,Clinton County,"4,776"
+52242,Iowa City,Johnson County,"4,688"
+52361,Williamsburg,Iowa County,"4,582"
+50156,Madrid,Boone County,"4,575"
+52339,Tama,Tama County,"4,326"
+52655,West Burlington,Des Moines County,"4,322"
+50648,Jesup,Black Hawk County,"4,269"
+50248,Story City,Story County,"4,216"
+50013,Ames,Story County,"4,211"
+50536,Emmetsburg,Palo Alto County,"4,207"
+52213,Center Point,Linn County,"4,114"
+51246,Rock Rapids,Lyon County,"4,041"
+52301,Marengo,Iowa County,"4,028"
+50438,Garner,Hancock County,"3,995"
+50533,Eagle Grove,Wright County,"3,977"
+52338,Swisher,Johnson County,"3,934"
+52228,Fairfax,Linn County,"3,802"
+52327,Riverside,Washington County,"3,796"
+51510,Carter Lake,Pottawattamie County,"3,767"
+52162,Postville,Allamakee County,"3,744"
+50169,Mitchellville,Polk County,"3,667"
+50237,Runnells,Polk County,"3,635"
+52778,Wilton,Cedar County,"3,632"
+51109,Sioux City,Plymouth County,"3,606"
+52358,West Branch,Cedar County,"3,598"
+51249,Sibley,Osceola County,"3,564"
+50622,Denver,Bremer County,"3,549"
+52645,New London,Henry County,"3,503"
+51040,Onawa,Monona County,"3,500"
+52175,West Union,Fayette County,"3,484"
+51023,Hawarden,Sioux County,"3,473"
+50674,Sumner,Bremer County,"3,446"
+50638,Grundy Center,Grundy County,"3,441"
+50261,Van Meter,Madison County,"3,399"
+52738,Columbus Junction,Louisa County,"3,398"
+50225,Pleasantville,Marion County,"3,364"
+50109,Granger,Polk County,"3,309"
+52033,Cascade,Jones County,"3,292"
+50627,Eldora,Hardin County,"3,276"
+50525,Clarion,Wright County,"3,179"
+50421,Belmond,Wright County,"3,168"
+50054,Colfax,Jasper County,"3,166"
+50025,Audubon,Audubon County,"3,148"
+50651,La Porte City,Black Hawk County,"3,147"
+52046,Farley,Dubuque County,"3,129"
+51546,Logan,Harrison County,"3,114"
+52653,Wapello,Louisa County,"3,083"
+50459,Northwood,Worth County,"3,045"
+52637,Mediapolis,Des Moines County,"3,041"
+50579,Rockwell City,Calhoun County,"3,034"
+50643,Hudson,Black Hawk County,"3,027"
+50170,Monroe,Jasper County,"3,024"
+52052,Guttenberg,Clayton County,"2,999"
+52227,Ely,Linn County,"2,996"
+50212,Ogden,Boone County,"2,993"
+50072,Earlham,Madison County,"2,979"
+51050,Remsen,Plymouth County,"2,962"
+50450,Lake Mills,Winnebago County,"2,952"
+52208,Belle Plaine,Benton County,"2,877"
+51239,Hull,Sioux County,"2,876"
+51039,Moville,Woodbury County,"2,845"
+50140,Lamoni,Decatur County,"2,842"
+50250,Stuart,Adair County,"2,832"
+50115,Guthrie Center,Guthrie County,"2,809"
+52211,Brooklyn,Poweshiek County,"2,795"
+51002,Alta,Buena Vista County,"2,787"
+50216,Panora,Guthrie County,"2,786"
+52045,Epworth,Dubuque County,"2,777"
+52214,Central City,Linn County,"2,761"
+52591,Sigourney,Keokuk County,"2,721"
+50063,Dallas Center,Dallas County,"2,720"
+52328,Robins,Linn County,"2,712"
+52342,Toledo,Tama County,"2,705"
+50665,Parkersburg,Butler County,"2,693"
+50144,Leon,Decatur County,"2,692"
+50276,Woodward,Boone County,"2,679"
+52356,Wellman,Washington County,"2,664"
+52253,Lisbon,Cedar County,"2,622"
+52206,Atkins,Benton County,"2,564"
+50472,Saint Ansgar,Mitchell County,"2,560"
+50171,Montezuma,Poweshiek County,"2,524"
+50563,Manson,Calhoun County,"2,505"
+51445,Ida Grove,Ida County,"2,485"
+50658,Nashua,Chickasaw County,"2,450"
+50669,Reinbeck,Grundy County,"2,439"
+50060,Corydon,Wayne County,"2,417"
+52159,Monona,Allamakee County,"2,398"
+52336,Springville,Linn County,"2,397"
+50240,Saint Charles,Madison County,"2,393"
+50854,Mount Ayr,Ringgold County,"2,391"
+52773,Walcott,Scott County,"2,389"
+50849,Greenfield,Adair County,"2,374"
+51001,Akron,Plymouth County,"2,342"
+50841,Corning,Adams County,"2,340"
+52625,Donnellson,Lee County,"2,338"
+50207,New Sharon,Mahaska County,"2,325"
+50601,Ackley,Franklin County,"2,299"
+50161,Maxwell,Polk County,"2,296"
+50423,Britt,Hancock County,"2,291"
+50583,Sac City,Sac County,"2,288"
+51579,Woodbine,Harrison County,"2,282"
+51455,Manning,Carroll County,"2,279"
+50670,Shell Rock,Butler County,"2,270"
+52322,Oxford,Johnson County,"2,266"
+52076,Strawberry Point,Clayton County,"2,258"
+51346,Hartley,O'Brien County,"2,247"
+52203,Amana,Iowa County,"2,231"
+52324,Palo,Linn County,"2,216"
+50675,Traer,Tama County,"2,198"
+50851,Lenox,Taylor County,"2,193"
+51028,Kingsley,Plymouth County,"2,191"
+50636,Greene,Butler County,"2,186"
+52401,Cedar Rapids,Linn County,"2,181"
+52747,Durant,Muscatine County,"2,160"
+50619,Clarksville,Butler County,"2,150"
+52224,Dysart,Benton County,"2,141"
+50574,Pocahontas,Pocahontas County,"2,132"
+50061,Cumming,Madison County,"2,123"
+50228,Prairie City,Jasper County,"2,120"
+51241,Larchwood,Lyon County,"2,103"
+50458,Nora Springs,Floyd County,"2,094"
+52755,Lone Tree,Johnson County,"2,092"
+50629,Fairbank,Buchanan County,"2,082"
+51024,Hinton,Plymouth County,"2,081"
+50833,Bedford,Taylor County,"2,077"
+52043,Elkader,Clayton County,"2,058"
+50166,Milo,Warren County,"2,023"
+50676,Tripoli,Bremer County,"2,017"
+50247,State Center,Marshall County,"2,004"
+50058,Coon Rapids,Guthrie County,"1,999"
+52623,Danville,Des Moines County,"1,982"
+52756,Long Grove,Scott County,"1,982"
+50028,Baxter,Jasper County,"1,981"
+50647,Janesville,Bremer County,"1,978"
+50466,Riceville,Howard County,"1,972"
+51521,Avoca,Pottawattamie County,"1,953"
+50641,Hazleton,Buchanan County,"1,950"
+51449,Lake City,Calhoun County,"1,950"
+51003,Alton,Sioux County,"1,938"
+51025,Holstein,Ida County,"1,925"
+51240,Inwood,Lyon County,"1,914"
+50012,Ames,Story County,"1,913"
+52142,Fayette,Fayette County,"1,890"
+52151,Lansing,Allamakee County,"1,886"
+52654,Wayland,Henry County,"1,884"
+50624,Dike,Grundy County,"1,855"
+50830,Afton,Union County,"1,846"
+52553,Eddyville,Wapello County,"1,846"
+51551,Malvern,Mills County,"1,842"
+51559,Neola,Pottawattamie County,"1,841"
+52352,Walker,Linn County,"1,833"
+52656,West Point,Lee County,"1,833"
+52237,Hopkinton,Delaware County,"1,830"
+52042,Edgewood,Clayton County,"1,804"
+52801,Davenport,Scott County,"1,788"
+51560,Oakland,Pottawattamie County,"1,772"
+51576,Underwood,Pottawattamie County,"1,769"
+50236,Roland,Story County,"1,761"
+52132,Calmar,Winneshiek County,"1,759"
+50135,Kellogg,Jasper County,"1,754"
+52639,Montrose,Lee County,"1,745"
+52069,Preston,Jackson County,"1,743"
+51529,Dunlap,Harrison County,"1,732"
+50244,Slater,Polk County,"1,729"
+50456,Manly,Worth County,"1,699"
+51535,Griswold,Cass County,"1,697"
+50682,Winthrop,Buchanan County,"1,692"
+52248,Keota,Washington County,"1,675"
+51034,Mapleton,Monona County,"1,674"
+51526,Crescent,Pottawattamie County,"1,664"
+50864,Villisca,Montgomery County,"1,662"
+52571,Moravia,Appanoose County,"1,660"
+50554,Laurens,Pocahontas County,"1,653"
+51443,Glidden,Carroll County,"1,653"
+52306,Mechanicsville,Cedar County,"1,642"
+51035,Marcus,Cherokee County,"1,627"
+51450,Lake View,Sac County,"1,619"
+50468,Rockford,Floyd County,"1,617"
+52332,Shellsburg,Benton County,"1,612"
+51575,Treynor,Pottawattamie County,"1,609"
+52345,Urbana,Benton County,"1,609"
+51237,George,Lyon County,"1,605"
+52563,Hedrick,Keokuk County,"1,602"
+50621,Conrad,Grundy County,"1,601"
+52316,North English,Iowa County,"1,597"
+50604,Aplington,Butler County,"1,590"
+50229,Prole,Warren County,"1,585"
+51652,Sidney,Fremont County,"1,569"
+51005,Aurelia,Cherokee County,"1,561"
+51577,Walnut,Pottawattamie County,"1,561"
+50046,Cambridge,Story County,"1,554"
+52216,Clarence,Cedar County,"1,551"
+51248,Sanborn,O'Brien County,"1,534"
+52754,Letts,Muscatine County,"1,533"
+52161,Ossian,Winneshiek County,"1,532"
+50469,Rockwell,Cerro Gordo County,"1,527"
+52565,Keosauqua,Van Buren County,"1,518"
+51238,Hospers,Sioux County,"1,502"
+50002,Adair,Guthrie County,"1,496"
+50105,Gilbert,Story County,"1,487"
+50210,New Virginia,Warren County,"1,487"
+51347,Lake Park,Dickinson County,"1,470"
+50130,Jewell,Hamilton County,"1,468"
+50626,Dunkerton,Black Hawk County,"1,468"
+51030,Lawton,Woodbury County,"1,468"
+52041,Earlville,Delaware County,"1,468"
+52590,Seymour,Wayne County,"1,464"
+52157,McGregor,Clayton County,"1,451"
+51038,Merrill,Plymouth County,"1,449"
+50475,Sheffield,Franklin County,"1,446"
+51653,Tabor,Fremont County,"1,446"
+50424,Buffalo Center,Winnebago County,"1,441"
+50006,Alden,Hardin County,"1,437"
+52320,Olin,Jones County,"1,425"
+50628,Elma,Howard County,"1,423"
+50635,Gladbrook,Tama County,"1,423"
+50543,Gowrie,Webster County,"1,420"
+52218,Coggon,Linn County,"1,413"
+50233,Redfield,Dallas County,"1,406"
+52777,Wheatland,Clinton County,"1,389"
+52347,Victor,Iowa County,"1,386"
+51342,Graettinger,Palo Alto County,"1,385"
+50568,Newell,Buena Vista County,"1,384"
+51640,Hamburg,Fremont County,"1,381"
+52073,Sherrill,Dubuque County,"1,381"
+52341,Toddville,Linn County,"1,378"
+51245,Primghar,O'Brien County,"1,377"
+50630,Fredericksburg,Chickasaw County,"1,372"
+52049,Garnavillo,Clayton County,"1,370"
+50251,Sully,Jasper County,"1,365"
+52768,Princeton,Scott County,"1,352"
+51055,Sloan,Woodbury County,"1,346"
+50597,West Bend,Palo Alto County,"1,341"
+52315,Newhall,Benton County,"1,339"
+52035,Colesburg,Clayton County,"1,331"
+52351,Walford,Benton County,"1,329"
+52659,Winfield,Henry County,"1,329"
+51046,Paullina,O'Brien County,"1,326"
+52171,Waucoma,Fayette County,"1,314"
+50249,Stratford,Hamilton County,"1,312"
+52032,Bernard,Dubuque County,"1,305"
+50076,Exira,Audubon County,"1,301"
+50122,Hubbard,Hardin County,"1,297"
+51458,Odebolt,Sac County,"1,290"
+51006,Battle Creek,Ida County,"1,287"
+51027,Ireton,Sioux County,"1,280"
+50846,Fontanelle,Adair County,"1,276"
+52640,Morning Sun,Louisa County,"1,274"
+52202,Alburnett,Linn County,"1,269"
+50174,Murray,Clarke County,"1,259"
+52141,Elgin,Fayette County,"1,259"
+51638,Essex,Page County,"1,258"
+50602,Allison,Butler County,"1,254"
+51454,Manilla,Crawford County,"1,254"
+52746,Donahue,Scott County,"1,240"
+50070,Dexter,Madison County,"1,221"
+50668,Readlyn,Bremer County,"1,216"
+51358,Ruthven,Palo Alto County,"1,213"
+50073,Elkhart,Polk County,"1,208"
+50632,Garwin,Tama County,"1,201"
+52533,Batavia,Jefferson County,"1,201"
+52223,Delhi,Delaware County,"1,199"
+50535,Early,Sac County,"1,198"
+50020,Anita,Cass County,"1,197"
+50238,Russell,Lucas County,"1,195"
+50645,Ionia,Chickasaw County,"1,193"
+51234,Boyden,Sioux County,"1,172"
+52037,Delmar,Clinton County,"1,172"
+50162,Melbourne,Marshall County,"1,164"
+50106,Gilman,Marshall County,"1,163"
+52209,Blairstown,Benton County,"1,158"
+52053,Holy Cross,Dubuque County,"1,148"
+52201,Ainsworth,Washington County,"1,148"
+50230,Radcliffe,Hardin County,"1,145"
+50447,Kanawha,Hancock County,"1,145"
+50660,New Hartford,Butler County,"1,143"
+52570,Milton,Van Buren County,"1,130"
+51570,Shelby,Shelby County,"1,118"
+50514,Armstrong,Emmet County,"1,117"
+52346,Van Horne,Benton County,"1,113"
+52561,Fremont,Mahaska County,"1,112"
+52155,Lime Springs,Howard County,"1,110"
+50069,De Soto,Dallas County,"1,109"
+52626,Farmington,Lee County,"1,103"
+50055,Collins,Story County,"1,102"
+52318,Norway,Benton County,"1,099"
+52165,Ridgeway,Winneshiek County,"1,098"
+51461,Schleswig,Crawford County,"1,097"
+52620,Bonaparte,Van Buren County,"1,097"
+51058,Sutherland,O'Brien County,"1,096"
+50530,Dayton,Webster County,"1,090"
+52540,Brighton,Jefferson County,"1,088"
+50585,Sioux Rapids,Buena Vista County,"1,080"
+51016,Correctionville,Woodbury County,"1,080"
+52039,Durango,Dubuque County,"1,079"
+52554,Eldon,Wapello County,"1,078"
+52144,Fort Atkinson,Winneshiek County,"1,075"
+51063,Whiting,Monona County,"1,072"
+50541,Gilmore City,Pocahontas County,"1,067"
+51525,Carson,Pottawattamie County,"1,067"
+51430,Arcadia,Carroll County,"1,063"
+52249,Keystone,Benton County,"1,060"
+51052,Salix,Woodbury County,"1,050"
+51462,Scranton,Greene County,"1,049"
+52749,Fruitland,Muscatine County,"1,049"
+51355,Okoboji,Dickinson County,"1,048"
+51466,Wall Lake,Sac County,"1,043"
+50510,Albert City,Buena Vista County,"1,042"
+51561,Pacific Junction,Mills County,"1,039"
+51101,Sioux City,Woodbury County,"1,031"
+50680,Wellsburg,Grundy County,"1,027"
+50139,Lacona,Warren County,"1,025"
+51053,Schaller,Sac County,"1,016"
+51235,Doon,Lyon County,"1,007"
+52254,Lost Nation,Clinton County,"1,004"
+50056,Colo,Story County,"1,003"
+50540,Fonda,Pocahontas County,998
+51553,Minden,Pottawattamie County,998
+52079,Zwingle,Jackson County,995
+52760,Moscow,Muscatine County,992
+52070,Sabula,Jackson County,990
+52728,Buffalo,Scott County,984
+52255,Lowden,Cedar County,980
+51573,Stanton,Montgomery County,979
+52751,Grand Mound,Clinton County,976
+52235,Hills,Johnson County,974
+51354,Ocheyedan,Osceola County,965
+52720,Atalissa,Muscatine County,964
+51022,Granville,O'Brien County,960
+52215,Chelsea,Tama County,960
+50258,Union,Hardin County,958
+52210,Brandon,Buchanan County,958
+50452,Latimer,Franklin County,946
+52530,Agency,Wapello County,945
+52323,Oxford Junction,Jones County,942
+52330,Ryan,Delaware County,940
+52552,Drakesville,Davis County,940
+51331,Arnolds Park,Dickinson County,935
+50625,Dumont,Butler County,930
+52658,Wever,Lee County,927
+50118,Hartford,Warren County,920
+51639,Farragut,Fremont County,919
+50257,Truro,Madison County,914
+52305,Martelle,Jones County,913
+52649,Salem,Henry County,913
+52147,Hawkeye,Fayette County,911
+51026,Hornick,Woodbury County,910
+51357,Royal,Clay County,910
+50268,What Cheer,Keokuk County,908
+51571,Silver City,Mills County,902
+50044,Bussey,Marion County,901
+50667,Raymond,Black Hawk County,899
+50278,Zearing,Story County,891
+50153,Lynnville,Jasper County,890
+52635,Lockridge,Jefferson County,890
+51531,Elk Horn,Shelby County,889
+52729,Calamus,Clinton County,886
+50123,Humeston,Wayne County,883
+50149,Lorimor,Madison County,883
+52078,Worthington,Dubuque County,870
+52731,Charlotte,Clinton County,867
+50542,Goldfield,Wright County,859
+51004,Anthon,Woodbury County,858
+51338,Everly,Clay County,852
+50858,Orient,Adair County,848
+50071,Dows,Wright County,847
+51533,Emerson,Montgomery County,844
+52572,Moulton,Appanoose County,844
+52585,Richland,Keokuk County,838
+52135,Clermont,Fayette County,834
+50517,Bancroft,Kossuth County,833
+50845,Diagonal,Ringgold County,831
+51557,Mondamin,Harrison County,828
+50168,Mingo,Jasper County,826
+50598,Whittemore,Kossuth County,818
+51439,Charter Oak,Crawford County,818
+52160,New Albin,Allamakee County,818
+52362,Wyoming,Jones County,816
+51436,Breda,Carroll County,815
+52536,Blakesburg,Wapello County,814
+50005,Albion,Marshall County,812
+50480,Titonka,Kossuth County,809
+50581,Rolfe,Pocahontas County,809
+51530,Earling,Shelby County,809
+52721,Bennett,Cedar County,809
+50075,Ellsworth,Hamilton County,807
+50532,Duncombe,Webster County,804
+50557,Lehigh,Webster County,804
+50606,Arlington,Fayette County,803
+51364,Terril,Dickinson County,803
+51542,Honey Creek,Pottawattamie County,802
+52650,Sperry,Des Moines County,799
+52054,La Motte,Jackson County,794
+51544,Lewis,Cass County,793
+50062,Melcher Dallas,Marion County,789
+52739,Conesville,Louisa County,788
+50449,Klemme,Hancock County,785
+52551,Douds,Van Buren County,782
+50134,Kelley,Story County,770
+52156,Luana,Clayton County,769
+51646,New Market,Taylor County,767
+50519,Bode,Humboldt County,765
+50107,Grand Junction,Greene County,764
+50634,Gilbertville,Black Hawk County,761
+50666,Plainfield,Bremer County,753
+50529,Dakota City,Humboldt County,752
+52146,Harpers Ferry,Allamakee County,752
+50482,Ventura,Cerro Gordo County,748
+50471,Rudd,Floyd County,740
+50655,Maynard,Fayette County,739
+50478,Thompson,Winnebago County,737
+50150,Lovilia,Monroe County,736
+51243,Little Rock,Lyon County,735
+52624,Denmark,Lee County,734
+50560,Lu Verne,Kossuth County,732
+52337,Stanwood,Cedar County,729
+50151,Lucas,Lucas County,727
+52535,Birmingham,Van Buren County,725
+50008,Allerton,Wayne County,722
+50142,Le Grand,Marshall County,720
+50214,Otley,Marion County,719
+50590,Swea City,Kossuth County,718
+50853,Massena,Cass County,716
+50435,Floyd,Floyd County,713
+50050,Churdan,Greene County,712
+52580,Packwood,Jefferson County,711
+50032,Berwick,Polk County,707
+50476,Stacyville,Mitchell County,706
+51060,Ute,Monona County,706
+50173,Montour,Tama County,705
+50522,Burt,Kossuth County,705
+52769,Stockton,Scott County,698
+50575,Pomeroy,Calhoun County,696
+50464,Plymouth,Cerro Gordo County,694
+52326,Quasqueton,Buchanan County,694
+51047,Peterson,Clay County,693
+51007,Bronson,Woodbury County,691
+50163,Melcher Dallas,Marion County,689
+51465,Vail,Crawford County,689
+50460,Orchard,Mitchell County,688
+52064,Miles,Jackson County,685
+52557,Fairfield,Jefferson County,685
+50164,Menlo,Guthrie County,682
+50523,Callender,Webster County,682
+52229,Garrison,Benton County,678
+52766,Nichols,Muscatine County,677
+50859,Prescott,Adams County,676
+52594,Unionville,Appanoose County,676
+51528,Dow City,Crawford County,674
+52133,Castalia,Winneshiek County,673
+50483,Wesley,Kossuth County,672
+52065,New Vienna,Dubuque County,671
+52140,Dorchester,Allamakee County,671
+52329,Rowley,Buchanan County,671
+50538,Farnhamville,Calhoun County,661
+51232,Ashton,Osceola County,658
+50479,Thornton,Cerro Gordo County,655
+52750,Goose Lake,Clinton County,654
+50558,Livermore,Humboldt County,653
+50001,Ackworth,Warren County,650
+50650,Lamont,Buchanan County,648
+51532,Elliott,Montgomery County,644
+52335,South English,Keokuk County,644
+50256,Tracy,Marion County,643
+50578,Ringsted,Emmet County,633
+51020,Galva,Ida County,632
+52222,Deep River,Poweshiek County,631
+51563,Persia,Harrison County,629
+50448,Kensett,Worth County,620
+50246,Stanhope,Hamilton County,614
+51536,Hancock,Pottawattamie County,613
+51448,Kiron,Crawford County,612
+50672,Steamboat Rock,Hardin County,611
+52621,Crawfordsville,Washington County,604
+52212,Center Junction,Jones County,601
+52586,Rose Hill,Mahaska County,600
+51467,Westside,Crawford County,596
+50167,Minburn,Dallas County,592
+52154,Lawler,Chickasaw County,592
+52542,Cantril,Van Buren County,588
+50141,Laurel,Marshall County,587
+50516,Badger,Webster County,586
+50561,Lytton,Calhoun County,585
+50277,Yale,Guthrie County,582
+50271,Williams,Hamilton County,581
+50146,Linden,Dallas County,577
+50642,Holland,Grundy County,577
+52217,Clutier,Tama County,573
+50160,Martensdale,Warren County,569
+50232,Reasnor,Jasper County,569
+51433,Auburn,Sac County,567
+50544,Harcourt,Webster County,565
+52236,Homestead,Iowa County,564
+50048,Casey,Guthrie County,562
+51231,Archer,O'Brien County,562
+50217,Paton,Greene County,561
+50234,Rhodes,Marshall County,559
+50603,Alta Vista,Chickasaw County,555
+52170,Waterville,Allamakee County,555
+50840,Clearfield,Taylor County,552
+52550,Delta,Keokuk County,552
+50569,Otho,Webster County,551
+52569,Melrose,Monroe County,550
+51014,Cleghorn,Cherokee County,549
+51558,Moorhead,Monona County,549
+52595,University Park,Mahaska County,545
+52251,Ladora,Iowa County,544
+51018,Cushing,Ida County,542
+52543,Cedar,Mahaska County,541
+50843,Cumberland,Cass County,540
+52231,Harper,Keokuk County,539
+50143,Leighton,Mahaska County,538
+50453,Leland,Winnebago County,537
+50133,Kellerton,Ringgold County,528
+50029,Bayard,Guthrie County,523
+50430,Corwith,Hancock County,520
+51564,Pisgah,Harrison County,520
+50065,Davis City,Decatur County,517
+51565,Portsmouth,Shelby County,516
+52638,Middletown,Des Moines County,508
+50275,Woodburn,Clarke County,506
+51562,Panama,Shelby County,506
+52567,Libertyville,Jefferson County,506
+51062,Westfield,Plymouth County,503
+50264,Weldon,Clarke County,502
+51453,Lohrville,Calhoun County,500
+51446,Irwin,Shelby County,499
+52549,Cincinnati,Appanoose County,487
+50653,Marble Rock,Floyd County,486
+50026,Bagley,Guthrie County,481
+50681,Westgate,Fayette County,481
+52313,Mount Auburn,Benton County,480
+51230,Alvord,Lyon County,478
+51543,Kimballton,Audubon County,478
+52325,Parnell,Iowa County,477
+50446,Joice,Worth County,476
+50157,Malcom,Poweshiek County,473
+50420,Alexander,Franklin County,473
+51441,Deloit,Crawford County,468
+50147,Lineville,Wayne County,463
+50457,Meservey,Hancock County,463
+52038,Dundee,Delaware County,463
+52047,Farmersburg,Clayton County,462
+52560,Floris,Davis County,458
+51636,Coin,Page County,455
+50439,Goodell,Hancock County,454
+52072,Saint Olaf,Clayton County,454
+50103,Garden Grove,Decatur County,453
+51019,Danbury,Woodbury County,448
+51049,Quimby,Cherokee County,448
+51036,Maurice,Sioux County,445
+50007,Alleman,Polk County,444
+50539,Fenton,Kossuth County,444
+52309,Monmouth,Jackson County,443
+52745,Dixon,Scott County,443
+52619,Argyle,Lee County,441
+50524,Clare,Webster County,439
+51048,Pierson,Woodbury County,435
+50451,Lakota,Kossuth County,432
+50235,Rippey,Greene County,431
+51431,Arthur,Ida County,430
+50120,Haverhill,Marshall County,428
+50132,Kamrar,Hamilton County,427
+52765,New Liberty,Scott County,427
+51010,Castana,Monona County,425
+50633,Geneva,Franklin County,423
+52030,Andrew,Jackson County,423
+52050,Greeley,Delaware County,422
+51033,Linn Grove,Clay County,421
+52354,Watkins,Benton County,420
+52584,Pulaski,Davis County,420
+51645,Imogene,Fremont County,419
+51365,Wallingford,Emmet County,416
+51548,McClelland,Pottawattamie County,415
+52752,Grandview,Louisa County,413
+51463,Templeton,Carroll County,412
+50484,Woden,Hancock County,411
+50599,Woolstock,Wright County,410
+50148,Liscomb,Marshall County,406
+50591,Thor,Humboldt County,405
+50607,Aurora,Buchanan County,403
+52651,Stockport,Van Buren County,398
+52727,Bryant,Clinton County,398
+50434,Fertile,Worth County,396
+52321,Onslow,Jones County,395
+50154,McCallsburg,Story County,394
+50444,Hanlontown,Worth County,394
+52644,Mount Union,Henry County,394
+50119,Harvey,Marion County,392
+51061,Washta,Cherokee County,389
+52583,Promise City,Wayne County,389
+52225,Elberon,Tama County,387
+52767,Pleasant Valley,Scott County,386
+51350,Melvin,Osceola County,383
+50565,Marathon,Buena Vista County,380
+51242,Lester,Lyon County,379
+51523,Blencoe,Monona County,379
+50562,Mallard,Palo Alto County,377
+50609,Beaman,Grundy County,377
+52574,Mystic,Appanoose County,377
+50108,Grand River,Decatur County,376
+50136,Keswick,Keokuk County,376
+51333,Dickens,Clay County,374
+51540,Hastings,Mills County,372
+51572,Soldier,Monona County,371
+52576,Ollie,Keokuk County,371
+50612,Buckingham,Tama County,369
+52169,Wadena,Fayette County,367
+50528,Cylinder,Palo Alto County,366
+50518,Barnum,Webster County,365
+50611,Bristow,Butler County,364
+51549,Macedonia,Pottawattamie County,363
+51527,Defiance,Shelby County,362
+50243,Sheldahl,Polk County,361
+50440,Grafton,Worth County,361
+50546,Havelock,Pocahontas County,356
+52168,Spillville,Winneshiek County,356
+50067,Decatur,Decatur County,354
+50239,Saint Anthony,Marshall County,354
+50206,New Providence,Hardin County,349
+51345,Harris,Osceola County,347
+50218,Patterson,Madison County,346
+51056,Smithland,Woodbury County,346
+51649,Randolph,Fremont County,346
+50039,Bouton,Dallas County,344
+50577,Renwick,Humboldt County,341
+51440,Dedham,Carroll County,334
+52163,Protivin,Howard County,333
+52221,Guernsey,Poweshiek County,332
+50128,Jamaica,Guthrie County,330
+50034,Blairsburg,Hamilton County,328
+50222,Peru,Madison County,328
+50057,Columbia,Marion County,327
+51037,Meriden,Cherokee County,327
+50242,Searsboro,Poweshiek County,326
+50531,Dolliver,Emmet County,325
+50566,Moorland,Webster County,325
+51654,Thurman,Fremont County,325
+51631,Braddyville,Page County,324
+52737,Columbus City,Louisa County,323
+52534,Beacon,Mahaska County,321
+52077,Volga,Clayton County,313
+50861,Shannon City,Union County,311
+52359,West Chester,Washington County,308
+50836,Blockton,Taylor County,304
+52758,McCausland,Scott County,298
+52044,Elkport,Clayton County,297
+50254,Thayer,Union County,296
+51444,Halbur,Carroll County,290
+52158,Marquette,Clayton County,290
+50559,Lone Rock,Kossuth County,289
+50594,Vincent,Webster County,288
+50470,Rowan,Wright County,287
+50432,Crystal Lake,Hancock County,283
+52355,Webster,Keokuk County,283
+50837,Bridgewater,Adair County,282
+50567,Nemaha,Sac County,280
+52660,Yarmouth,Des Moines County,279
+50576,Rembrandt,Buena Vista County,277
+52232,Hartwick,Poweshiek County,277
+50654,Masonville,Buchanan County,275
+50571,Palmer,Pocahontas County,273
+51541,Henderson,Mills County,273
+50586,Somers,Calhoun County,272
+51545,Little Sioux,Harrison County,267
+51556,Modale,Harrison County,266
+52566,Kirkville,Wapello County,266
+50262,Van Wert,Decatur County,263
+50116,Hamilton,Marion County,261
+51029,Larrabee,Cherokee County,261
+51648,Percival,Fremont County,257
+50848,Gravity,Taylor County,256
+52207,Baldwin,Jackson County,256
+52646,Oakville,Des Moines County,255
+50515,Ayrshire,Palo Alto County,251
+50477,Swaledale,Cerro Gordo County,250
+50673,Stout,Grundy County,250
+51366,Webb,Clay County,245
+51520,Arion,Crawford County,243
+52757,Low Moor,Clinton County,242
+50223,Pilot Mound,Boone County,236
+50252,Swan,Marion County,236
+50038,Booneville,Dallas County,235
+52630,Hillsboro,Lee County,235
+50274,Wiota,Cass County,234
+50454,Little Cedar,Mitchell County,229
+52056,Luxemburg,Dubuque County,229
+50431,Coulter,Franklin County,228
+50042,Brayton,Audubon County,226
+50631,Frederika,Bremer County,225
+50051,Clemons,Marshall County,224
+52134,Chester,Howard County,223
+50473,Scarville,Winnebago County,219
+52257,Luzerne,Benton County,216
+50068,Derby,Lucas County,215
+50074,Ellston,Ringgold County,215
+51008,Brunsville,Plymouth County,210
+50570,Ottosen,Humboldt County,203
+50455,McIntire,Mitchell County,201
+52048,Garber,Clayton County,201
+52220,Conroy,Iowa County,199
+51650,Riverton,Fremont County,197
+50863,Tingley,Ringgold County,194
+51554,Mineola,Mills County,194
+52555,Exline,Appanoose County,193
+50066,Dawson,Dallas County,191
+50272,Williamson,Lucas County,190
+50465,Rake,Winnebago County,190
+50592,Truesdale,Buena Vista County,187
+52164,Randalia,Fayette County,187
+50671,Stanley,Fayette County,182
+52334,South Amana,Iowa County,181
+51452,Lidderdale,Carroll County,177
+51343,Greenville,Clay County,172
+51647,Northboro,Page County,172
+51637,College Springs,Page County,171
+50582,Rutland,Humboldt County,170
+51550,Magnolia,Harrison County,169
+51552,Marne,Cass County,169
+50040,Boxholm,Boone County,168
+52581,Plano,Appanoose County,168
+52759,Montpelier,Muscatine County,167
+51044,Oto,Woodbury County,165
+50269,Whitten,Hardin County,164
+51630,Blanchard,Page County,160
+50556,Ledyard,Kossuth County,159
+50433,Dougherty,Cerro Gordo County,157
+50857,Nodaway,Adams County,156
+50623,Dewar,Black Hawk County,153
+50027,Barnes City,Mahaska County,148
+52573,Mount Sterling,Van Buren County,148
+51244,Matlock,Sioux County,144
+52219,Prairieburg,Linn County,143
+50231,Randall,Hamilton County,142
+50145,Liberty Center,Warren County,139
+50545,Hardy,Humboldt County,139
+50152,Luther,Boone County,138
+50427,Chapin,Franklin County,137
+52166,Saint Lucas,Fayette County,137
+52036,Delaware,Delaware County,135
+52071,Saint Donatus,Jackson County,135
+52308,Millersburg,Iowa County,129
+50117,Hamlin,Audubon County,128
+52075,Springbrook,Jackson County,125
+52066,North Buena Vista,Clayton County,124
+52701,Andover,Clinton County,124
+50862,Sharpsburg,Taylor County,123
+52074,Spragueville,Jackson County,119
+52652,Swedesburg,Henry County,119
+51578,Westphalia,Shelby County,116
+50137,Killduff,Jasper County,114
+50520,Bradgate,Humboldt County,114
+50652,Lincoln,Tama County,113
+51009,Calumet,O'Brien County,113
+51447,Kirkman,Shelby County,113
+51363,Superior,Dickinson County,111
+50227,Popejoy,Franklin County,107
+50527,Curlew,Palo Alto County,106
+50104,Gibson,Keokuk County,103
+51651,Shambaugh,Page County,103
+52774,Welton,Clinton County,101
+50064,Dana,Greene County,100
+50842,Cromwell,Union County,99
+52593,Udell,Appanoose County,97
+50241,Saint Marys,Warren County,96
+50551,Jolley,Calhoun County,96
+50657,Morrison,Grundy County,96
+50155,Macksburg,Madison County,94
+50860,Redding,Ringgold County,94
+52588,Selma,Van Buren County,91
+50078,Ferguson,Marshall County,85
+52548,Chillicothe,Wapello County,83
+50426,Carpenter,Mitchell County,81
+50052,Clio,Wayne County,80
+52568,Martinsburg,Keokuk County,80
+50552,Knierim,Calhoun County,76
+51340,Fostoria,Clay County,75
+51451,Lanesboro,Carroll County,74
+52647,Olds,Henry County,72
+50835,Benton,Ringgold County,69
+52344,Troy Mills,Linn County,67
+51045,Oyens,Plymouth County,66
+52348,Vining,Tama County,66
+52631,Houghton,Lee County,65
+52657,Saint Paul,Lee County,65
+50467,Rock Falls,Cerro Gordo County,63
+50605,Aredale,Franklin County,63
+50664,Oran,Fayette County,63
+52307,Middle Amana,Iowa County,63
+51460,Ricketts,Crawford County,61
+50101,Galt,Wright County,57
+51656,Yorktown,Page County,57
+52771,Teeds Grove,Clinton County,56
+51011,Chatsworth,Sioux County,54
+51459,Ralston,Carroll County,54
+52562,Hayesville,Keokuk County,52
+50031,Beaver,Boone County,51
+50041,Bradford,Franklin County,51
+50255,Thornburg,Keokuk County,51
+50839,Carbon,Adams County,46
+52312,Morley,Jones County,46
+50521,Burnside,Webster County,45
+51015,Climbing Hill,Woodbury County,45
+51432,Aspinwall,Crawford County,45
+50165,Millerton,Wayne County,44
+51341,Gillett Grove,Clay County,40
+51051,Rodney,Monona County,39
+51111,Sioux City,Woodbury County,39
+50102,Garden City,Hardin County,36
+50620,Colwell,Floyd County,36
+50847,Grant,Montgomery County,35
+50573,Plover,Pocahontas County,31
+50110,Gray,Audubon County,29
+50593,Varina,Pocahontas County,29
+50608,Austinville,Butler County,24
+50831,Arispe,Union County,22
+52252,Langworthy,Jones County,13
+50033,Bevington,Madison County,12
+50649,Kesley,Butler County,12
+50127,Ira,Jasper County,10
+50319,Des Moines,Polk County,0

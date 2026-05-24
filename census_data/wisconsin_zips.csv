@@ -1,0 +1,784 @@
+ZIP,City,County,Population
+53215,Milwaukee,Milwaukee County,"58,146"
+53711,Madison,Dane County,"51,279"
+54115,De Pere,Brown County,"50,411"
+54601,La Crosse,La Crosse County,"50,397"
+53511,Beloit,Rock County,"48,701"
+53704,Madison,Dane County,"46,730"
+54956,Neenah,Winnebago County,"46,567"
+53590,Sun Prairie,Dane County,"45,602"
+53209,Milwaukee,Milwaukee County,"45,170"
+54915,Appleton,Calumet County,"44,367"
+54703,Eau Claire,Eau Claire County,"44,153"
+53081,Sheboygan,Sheboygan County,"43,381"
+54701,Eau Claire,Eau Claire County,"43,014"
+54935,Fond Du Lac,Fond du Lac County,"41,613"
+54313,Green Bay,Brown County,"41,422"
+53218,Milwaukee,Milwaukee County,"41,196"
+54220,Manitowoc,Manitowoc County,"40,949"
+53204,Milwaukee,Milwaukee County,"39,996"
+53051,Menomonee Falls,Waukesha County,"39,559"
+53221,Milwaukee,Milwaukee County,"38,044"
+54311,Green Bay,Brown County,"37,879"
+53703,Madison,Dane County,"37,659"
+53066,Oconomowoc,Waukesha County,"37,558"
+53154,Oak Creek,Milwaukee County,"37,325"
+54901,Oshkosh,Winnebago County,"37,294"
+53132,Franklin,Milwaukee County,"35,433"
+53188,Waukesha,Waukesha County,"34,892"
+53402,Racine,Racine County,"34,850"
+53219,Milwaukee,Milwaukee County,"34,764"
+53214,Milwaukee,Milwaukee County,"34,480"
+54729,Chippewa Falls,Chippewa County,"34,366"
+53207,Milwaukee,Milwaukee County,"34,313"
+53211,Milwaukee,Milwaukee County,"34,234"
+53142,Kenosha,Kenosha County,"34,144"
+53719,Madison,Dane County,"34,115"
+54016,Hudson,St. Croix County,"33,398"
+53186,Waukesha,Waukesha County,"33,374"
+53151,New Berlin,Waukesha County,"32,824"
+54914,Appleton,Outagamie County,"31,849"
+54401,Wausau,Marathon County,"31,692"
+53593,Verona,Dane County,"31,081"
+53216,Milwaukee,Milwaukee County,"30,345"
+54302,Green Bay,Brown County,"30,333"
+54880,Superior,Douglas County,"30,312"
+53140,Kenosha,Kenosha County,"30,238"
+53217,Milwaukee,Milwaukee County,"29,957"
+53546,Janesville,Rock County,"29,867"
+53562,Middleton,Dane County,"29,790"
+53212,Milwaukee,Milwaukee County,"28,938"
+53223,Milwaukee,Milwaukee County,"28,793"
+53105,Burlington,Racine County,"28,751"
+54304,Green Bay,Brown County,"28,502"
+54130,Kaukauna,Outagamie County,"28,380"
+54481,Stevens Point,Portage County,"28,242"
+54303,Green Bay,Brown County,"28,153"
+53095,West Bend,Washington County,"27,817"
+53220,Milwaukee,Milwaukee County,"27,782"
+54494,Wisconsin Rapids,Wood County,"27,696"
+54952,Menasha,Calumet County,"27,312"
+53208,Milwaukee,Milwaukee County,"27,201"
+53403,Racine,Racine County,"27,009"
+53213,Milwaukee,Milwaukee County,"26,905"
+53189,Waukesha,Waukesha County,"26,855"
+53405,Racine,Racine County,"26,793"
+53144,Kenosha,Kenosha County,"26,652"
+53150,Muskego,Waukesha County,"26,259"
+53072,Pewaukee,Waukesha County,"26,200"
+54751,Menomonie,Dunn County,"26,193"
+54449,Marshfield,Wood County,"26,183"
+53202,Milwaukee,Milwaukee County,"25,861"
+53406,Racine,Racine County,"25,778"
+54911,Appleton,Outagamie County,"25,308"
+54650,Onalaska,La Crosse County,"25,304"
+53225,Milwaukee,Milwaukee County,"25,187"
+54913,Appleton,Outagamie County,"25,147"
+53705,Madison,Dane County,"25,017"
+54403,Wausau,Marathon County,"24,950"
+54022,River Falls,Pierce County,"24,789"
+53545,Janesville,Rock County,"24,703"
+53222,Milwaukee,Milwaukee County,"24,663"
+53713,Madison,Dane County,"24,351"
+53210,Milwaukee,Milwaukee County,"23,922"
+53045,Brookfield,Waukesha County,"23,329"
+53027,Hartford,Washington County,"23,118"
+53227,Milwaukee,Milwaukee County,"22,885"
+53916,Beaver Dam,Dodge County,"22,808"
+54904,Oshkosh,Winnebago County,"22,273"
+54902,Oshkosh,Winnebago County,"22,243"
+53029,Hartland,Waukesha County,"21,778"
+54301,Green Bay,Brown County,"21,724"
+53913,Baraboo,Sauk County,"21,704"
+54937,Fond Du Lac,Fond du Lac County,"21,687"
+53005,Brookfield,Waukesha County,"21,675"
+53090,West Bend,Washington County,"21,625"
+53083,Sheboygan,Sheboygan County,"21,579"
+53597,Waunakee,Dane County,"21,426"
+54501,Rhinelander,Oneida County,"21,405"
+53224,Milwaukee,Milwaukee County,"21,223"
+53143,Kenosha,Kenosha County,"20,889"
+53092,Mequon,Ozaukee County,"20,886"
+53089,Sussex,Waukesha County,"20,588"
+53190,Whitewater,Walworth County,"20,499"
+53172,South Milwaukee,Milwaukee County,"20,442"
+54017,New Richmond,St. Croix County,"20,366"
+53022,Germantown,Washington County,"20,046"
+53548,Janesville,Rock County,"19,916"
+53206,Milwaukee,Milwaukee County,"19,887"
+53149,Mukwonago,Waukesha County,"19,614"
+53589,Stoughton,Dane County,"19,550"
+54476,Schofield,Marathon County,"19,377"
+53012,Cedarburg,Ozaukee County,"19,183"
+54455,Mosinee,Marathon County,"19,025"
+53718,Madison,Dane County,"18,989"
+53024,Grafton,Ozaukee County,"18,982"
+54452,Merrill,Lincoln County,"18,969"
+53226,Milwaukee,Milwaukee County,"18,908"
+53538,Fort Atkinson,Jefferson County,"18,813"
+53147,Lake Geneva,Walworth County,"18,638"
+53716,Madison,Dane County,"18,596"
+53185,Waterford,Racine County,"18,560"
+53121,Elkhorn,Walworth County,"18,551"
+53158,Pleasant Prairie,Kenosha County,"18,420"
+53575,Oregon,Dane County,"18,204"
+54656,Sparta,Monroe County,"18,160"
+53094,Watertown,Jefferson County,"17,998"
+53110,Cudahy,Milwaukee County,"17,853"
+54235,Sturgeon Bay,Door County,"17,749"
+54166,Shawano,Shawano County,"16,940"
+54636,Holmen,La Crosse County,"16,727"
+53532,Deforest,Dane County,"16,514"
+53115,Delavan,Walworth County,"16,381"
+54868,Rice Lake,Barron County,"16,323"
+53714,Madison,Dane County,"16,169"
+53073,Plymouth,Sheboygan County,"16,136"
+54660,Tomah,Monroe County,"16,124"
+53818,Platteville,Grant County,"16,024"
+53715,Madison,Dane County,"15,974"
+53228,Milwaukee,Milwaukee County,"15,121"
+54143,Marinette,Marinette County,"15,119"
+53566,Monroe,Green County,"14,901"
+54467,Plover,Portage County,"14,870"
+54981,Waupaca,Waupaca County,"14,870"
+53129,Greendale,Milwaukee County,"14,570"
+53233,Milwaukee,Milwaukee County,"14,497"
+54961,New London,Waupaca County,"14,485"
+53959,Reedsburg,Sauk County,"14,451"
+53901,Portage,Columbia County,"14,291"
+54241,Two Rivers,Manitowoc County,"14,120"
+53963,Waupun,Fond du Lac County,"13,952"
+54603,La Crosse,La Crosse County,"13,738"
+53404,Racine,Racine County,"13,703"
+53074,Port Washington,Ozaukee County,"13,682"
+54843,Hayward,Sawyer County,"13,416"
+53558,Mcfarland,Dane County,"13,164"
+53717,Madison,Dane County,"13,052"
+54409,Antigo,Langlade County,"12,639"
+53534,Edgerton,Rock County,"12,241"
+53527,Cottage Grove,Dane County,"11,924"
+54806,Ashland,Ashland County,"11,704"
+53085,Sheboygan Falls,Sheboygan County,"11,695"
+53098,Watertown,Dodge County,"11,353"
+54615,Black River Falls,Jackson County,"11,315"
+53563,Milton,Rock County,"11,280"
+54451,Medford,Taylor County,"11,198"
+54942,Greenville,Outagamie County,"11,020"
+54971,Ripon,Fond du Lac County,"10,907"
+53120,East Troy,Walworth County,"10,848"
+53965,Wisconsin Dells,Adams County,"10,818"
+53572,Mount Horeb,Dane County,"10,385"
+53037,Jackson,Washington County,"10,254"
+53581,Richland Center,Richland County,"10,176"
+53549,Jefferson,Jefferson County,"9,873"
+53182,Union Grove,Racine County,"9,821"
+53551,Lake Mills,Jefferson County,"9,731"
+54162,Pulaski,Shawano County,"9,596"
+54487,Tomahawk,Lincoln County,"9,562"
+53536,Evansville,Rock County,"9,547"
+53086,Slinger,Washington County,"9,426"
+54944,Hortonville,Outagamie County,"9,312"
+53205,Milwaukee,Milwaukee County,"9,265"
+53168,Salem,Kenosha County,"9,036"
+53128,Genoa City,Walworth County,"9,030"
+53235,Saint Francis,Milwaukee County,"9,004"
+54482,Stevens Point,Portage County,"8,963"
+54720,Altoona,Eau Claire County,"8,947"
+53555,Lodi,Columbia County,"8,933"
+54665,Viroqua,Vernon County,"8,863"
+54923,Berlin,Waushara County,"8,793"
+54929,Clintonville,Waupaca County,"8,776"
+53925,Columbus,Columbia County,"8,754"
+53040,Kewaskum,Washington County,"8,630"
+54521,Eagle River,Vilas County,"8,551"
+53177,Sturtevant,Racine County,"8,489"
+54669,West Salem,La Crosse County,"8,228"
+53018,Delafield,Waukesha County,"8,201"
+53948,Mauston,Juneau County,"8,195"
+54457,Nekoosa,Adams County,"8,183"
+54140,Little Chute,Outagamie County,"8,035"
+54217,Luxemburg,Kewaunee County,"8,022"
+53181,Twin Lakes,Kenosha County,"7,964"
+54001,Amery,Polk County,"7,906"
+53014,Chilton,Calumet County,"7,898"
+54495,Wisconsin Rapids,Wood County,"7,859"
+54165,Seymour,Outagamie County,"7,786"
+53821,Prairie Du Chien,Crawford County,"7,780"
+53130,Hales Corners,Milwaukee County,"7,712"
+54020,Osceola,Polk County,"7,687"
+53097,Mequon,Ozaukee County,"7,683"
+54025,Somerset,St. Croix County,"7,612"
+53118,Dousman,Waukesha County,"7,554"
+54153,Oconto,Oconto County,"7,551"
+54724,Bloomer,Chippewa County,"7,517"
+53010,Campbellsport,Fond du Lac County,"7,444"
+54155,Oneida,Brown County,"7,418"
+54755,Mondovi,Buffalo County,"7,389"
+54021,Prescott,Pierce County,"7,346"
+53146,New Berlin,Waukesha County,"7,285"
+53533,Dodgeville,Iowa County,"7,283"
+54963,Omro,Winnebago County,"7,271"
+53050,Mayville,Dodge County,"7,159"
+53126,Franksville,Racine County,"7,064"
+54011,Ellsworth,Pierce County,"7,054"
+54136,Kimberly,Outagamie County,"7,019"
+54982,Wautoma,Waushara County,"6,958"
+54002,Baldwin,St. Croix County,"6,872"
+53042,Kiel,Manitowoc County,"6,810"
+53520,Brodhead,Rock County,"6,687"
+53954,Pardeeville,Columbia County,"6,678"
+54768,Stanley,Chippewa County,"6,557"
+53122,Elm Grove,Waukesha County,"6,508"
+53578,Prairie Du Sac,Sauk County,"6,503"
+53179,Trevor,Kenosha County,"6,469"
+53949,Montello,Marquette County,"6,292"
+53033,Hubertus,Washington County,"6,286"
+54801,Spooner,Washburn County,"6,266"
+53528,Cross Plains,Dane County,"6,263"
+54208,Denmark,Brown County,"6,231"
+53813,Lancaster,Grant County,"6,222"
+53955,Poynette,Columbia County,"6,125"
+53559,Marshall,Dane County,"6,110"
+54216,Kewaunee,Kewaunee County,"6,075"
+54812,Barron,Barron County,"6,069"
+54157,Peshtigo,Marinette County,"5,951"
+53950,New Lisbon,Juneau County,"5,942"
+54114,Crivitz,Marinette County,"5,926"
+54612,Arcadia,Trempealeau County,"5,915"
+54456,Neillsville,Clark County,"5,890"
+54728,Chetek,Barron County,"5,835"
+54848,Ladysmith,Rusk County,"5,832"
+53104,Bristol,Kenosha County,"5,826"
+53583,Sauk City,Sauk County,"5,816"
+53119,Eagle,Waukesha County,"5,803"
+54154,Oconto Falls,Oconto County,"5,741"
+54548,Minocqua,Oneida County,"5,676"
+53508,Belleville,Dane County,"5,654"
+54110,Brillion,Calumet County,"5,591"
+54730,Colfax,Dunn County,"5,578"
+53805,Boscobel,Grant County,"5,554"
+54739,Elk Mound,Dunn County,"5,549"
+54484,Stratford,Marathon County,"5,529"
+53017,Colgate,Washington County,"5,458"
+54829,Cumberland,Barron County,"5,446"
+54986,Winneconne,Winnebago County,"5,394"
+54201,Algoma,Kewaunee County,"5,209"
+53594,Waterloo,Jefferson County,"5,199"
+53061,New Holstein,Calumet County,"5,144"
+54667,Westby,Vernon County,"5,100"
+53523,Cambridge,Dane County,"5,074"
+53080,Saukville,Ozaukee County,"5,059"
+53726,Madison,Dane County,"5,043"
+54024,Saint Croix Falls,Polk County,"5,035"
+54411,Athens,Marathon County,"5,028"
+54106,Black Creek,Outagamie County,"4,990"
+53070,Oostburg,Sheboygan County,"4,951"
+53032,Horicon,Dodge County,"4,898"
+54568,Woodruff,Vilas County,"4,854"
+54727,Cadott,Chippewa County,"4,806"
+53565,Mineral Point,Iowa County,"4,778"
+54840,Grantsburg,Burnett County,"4,775"
+53809,Fennimore,Grant County,"4,748"
+54555,Phillips,Price County,"4,728"
+53039,Juneau,Dodge County,"4,702"
+54822,Cameron,Barron County,"4,670"
+54023,Roberts,St. Croix County,"4,620"
+54474,Rothschild,Marathon County,"4,589"
+54758,Osseo,Trempealeau County,"4,577"
+53530,Darlington,Lafayette County,"4,569"
+53021,Fredonia,Ozaukee County,"4,537"
+54940,Fremont,Waushara County,"4,533"
+53934,Friendship,Adams County,"4,520"
+54634,Hillsboro,Vernon County,"4,484"
+53531,Deerfield,Dane County,"4,430"
+53946,Markesan,Green Lake County,"4,333"
+54229,New Franken,Brown County,"4,329"
+54552,Park Falls,Price County,"4,292"
+54448,Marathon,Marathon County,"4,280"
+54722,Augusta,Eau Claire County,"4,277"
+54426,Edgar,Marathon County,"4,275"
+54630,Galesville,Trempealeau County,"4,261"
+54742,Fall Creek,Eau Claire County,"4,255"
+54126,Greenleaf,Brown County,"4,233"
+53933,Fox Lake,Dodge County,"4,227"
+53807,Cuba City,Grant County,"4,209"
+54893,Webster,Burnett County,"4,207"
+53038,Johnson Creek,Jefferson County,"4,192"
+53598,Windsor,Dane County,"4,176"
+54771,Thorp,Clark County,"4,171"
+53184,Walworth,Walworth County,"4,169"
+54736,Durand,Pepin County,"4,169"
+54230,Reedsville,Manitowoc County,"4,158"
+54983,Weyauwega,Waupaca County,"4,144"
+54015,Hammond,St. Croix County,"4,086"
+53525,Clinton,Rock County,"4,066"
+54406,Amherst,Portage County,"4,040"
+53574,New Glarus,Green County,"4,033"
+54171,Sobieski,Oconto County,"4,024"
+53706,Madison,Dane County,"3,958"
+54170,Shiocton,Outagamie County,"3,898"
+54619,Cashton,Monroe County,"3,849"
+54970,Redgranite,Waushara County,"3,845"
+54661,Trempealeau,Trempealeau County,"3,806"
+54837,Frederic,Polk County,"3,803"
+54738,Eleva,Eau Claire County,"3,784"
+53588,Spring Green,Sauk County,"3,770"
+54646,Necedah,Juneau County,"3,770"
+54520,Crandon,Forest County,"3,764"
+53103,Big Bend,Waukesha County,"3,762"
+53036,Ixonia,Jefferson County,"3,730"
+53013,Cedar Grove,Sheboygan County,"3,717"
+54107,Bonduel,Shawano County,"3,713"
+54874,South Range,Douglas County,"3,690"
+53521,Brooklyn,Green County,"3,640"
+54479,Spencer,Clark County,"3,630"
+54113,Combined Locks,Outagamie County,"3,622"
+54757,New Auburn,Chippewa County,"3,584"
+54949,Manawa,Waupaca County,"3,565"
+54773,Whitehall,Trempealeau County,"3,542"
+54830,Danbury,Burnett County,"3,526"
+53952,Oxford,Marquette County,"3,524"
+53910,Adams,Adams County,"3,522"
+54853,Luck,Polk County,"3,506"
+54446,Loyal,Clark County,"3,500"
+53956,Randolph,Columbia County,"3,477"
+53004,Belgium,Ozaukee County,"3,475"
+54945,Iola,Waupaca County,"3,470"
+54421,Colby,Marathon County,"3,468"
+54013,Glenwood City,St. Croix County,"3,443"
+53020,Elkhart Lake,Sheboygan County,"3,431"
+53048,Lomira,Dodge County,"3,420"
+53560,Mazomanie,Dane County,"3,416"
+54124,Gillett,Oconto County,"3,414"
+54151,Niagara,Marinette County,"3,411"
+53058,Nashotah,Waukesha County,"3,405"
+54173,Suamico,Brown County,"3,403"
+53075,Random Lake,Sheboygan County,"3,402"
+53960,Rio,Columbia County,"3,396"
+54984,Wild Rose,Waushara County,"3,394"
+54180,Wrightstown,Brown County,"3,378"
+53964,Westfield,Marquette County,"3,371"
+54767,Spring Valley,Pierce County,"3,352"
+54891,Washburn,Bayfield County,"3,297"
+54871,Shell Lake,Washburn County,"3,270"
+54005,Clear Lake,Polk County,"3,264"
+53191,Williams Bay,Walworth County,"3,261"
+54121,Florence,Florence County,"3,257"
+54169,Sherwood,Calumet County,"3,252"
+54437,Greenwood,Clark County,"3,236"
+53156,Palmyra,Jefferson County,"3,232"
+54129,Hilbert,Calumet County,"3,222"
+54414,Birnamwood,Shawano County,"3,208"
+54174,Suring,Oconto County,"3,171"
+54139,Lena,Oconto County,"3,130"
+53183,Wales,Waukesha County,"3,111"
+53076,Richfield,Washington County,"3,109"
+53811,Hazel Green,Grant County,"3,093"
+53108,Caledonia,Racine County,"3,060"
+54873,Solon Springs,Douglas County,"3,056"
+54538,Lac Du Flambeau,Vilas County,"3,025"
+54135,Keshena,Menominee County,"3,018"
+54101,Abrams,Oconto County,"2,998"
+54960,Neshkoro,Marquette County,"2,997"
+54177,Wausaukee,Marinette County,"2,913"
+53573,Muscoda,Grant County,"2,906"
+54499,Wittenberg,Shawano County,"2,896"
+54141,Little Suamico,Oconto County,"2,861"
+54810,Balsam Lake,Polk County,"2,849"
+54725,Boyceville,Dunn County,"2,844"
+54732,Cornell,Chippewa County,"2,843"
+54889,Turtle Lake,Polk County,"2,837"
+53941,La Valle,Sauk County,"2,817"
+53929,Elroy,Juneau County,"2,808"
+54950,Marion,Waupaca County,"2,802"
+54614,Bangor,La Crosse County,"2,776"
+54405,Abbotsford,Marathon County,"2,770"
+54228,Mishicot,Manitowoc County,"2,762"
+54814,Bayfield,Bayfield County,"2,762"
+54968,Princeton,Green Lake County,"2,762"
+53015,Cleveland,Manitowoc County,"2,751"
+54009,Dresser,Polk County,"2,739"
+54112,Coleman,Marinette County,"2,716"
+54747,Independence,Trempealeau County,"2,690"
+53570,Monticello,Green County,"2,686"
+54440,Hatley,Marathon County,"2,662"
+53515,Black Earth,Dane County,"2,647"
+54666,Warrens,Monroe County,"2,635"
+54460,Owen,Clark County,"2,620"
+54819,Bruce,Rusk County,"2,612"
+53529,Dane,Dane County,"2,611"
+54410,Arpin,Wood County,"2,611"
+54847,Iron River,Bayfield County,"2,607"
+54161,Pound,Oconto County,"2,595"
+54629,Fountain City,Buffalo County,"2,595"
+53002,Allenton,Washington County,"2,584"
+54028,Woodville,St. Croix County,"2,574"
+54872,Siren,Burnett County,"2,569"
+54941,Green Lake,Green Lake County,"2,563"
+54247,Whitelaw,Manitowoc County,"2,558"
+54466,Pittsville,Wood County,"2,557"
+53153,North Prairie,Waukesha County,"2,548"
+53139,Kansasville,Racine County,"2,523"
+53035,Iron Ridge,Dodge County,"2,502"
+53178,Sullivan,Jefferson County,"2,497"
+53932,Fall River,Columbia County,"2,495"
+54473,Rosholt,Portage County,"2,472"
+53507,Barneveld,Iowa County,"2,467"
+53820,Potosi,Grant County,"2,467"
+53951,North Freedom,Sauk County,"2,452"
+54616,Blair,Trempealeau County,"2,443"
+54639,La Farge,Vernon County,"2,435"
+53968,Wonewoc,Juneau County,"2,429"
+53556,Lone Rock,Richland County,"2,428"
+54423,Custer,Portage County,"2,394"
+53502,Albany,Green County,"2,393"
+54534,Hurley,Iron County,"2,393"
+54498,Withee,Clark County,"2,362"
+54026,Star Prairie,Polk County,"2,361"
+53203,Milwaukee,Milwaukee County,"2,357"
+53065,Oakfield,Fond du Lac County,"2,351"
+54618,Camp Douglas,Juneau County,"2,333"
+53044,Kohler,Sheboygan County,"2,326"
+54658,Stoddard,Vernon County,"2,326"
+54947,Larsen,Winnebago County,"2,323"
+53049,Malone,Fond du Lac County,"2,298"
+53923,Cambria,Columbia County,"2,295"
+53919,Brandon,Fond du Lac County,"2,292"
+54745,Holcombe,Chippewa County,"2,282"
+53504,Argyle,Lafayette County,"2,281"
+53585,Sharon,Walworth County,"2,264"
+54817,Birchwood,Washburn County,"2,264"
+54558,Saint Germain,Vilas County,"2,262"
+54642,Melrose,Jackson County,"2,259"
+54943,Hancock,Waushara County,"2,250"
+54859,Minong,Washburn County,"2,242"
+53516,Blanchardville,Lafayette County,"2,238"
+54205,Casco,Kewaunee County,"2,229"
+53586,Shullsburg,Lafayette County,"2,211"
+53944,Lyndon Station,Juneau County,"2,207"
+54436,Granton,Clark County,"2,203"
+54966,Plainfield,Waushara County,"2,202"
+54004,Clayton,Barron County,"2,192"
+54082,Houlton,St. Croix County,"2,190"
+53011,Cascade,Sheboygan County,"2,176"
+54613,Arkdale,Adams County,"2,174"
+54486,Tigerton,Shawano County,"2,171"
+54234,Sister Bay,Door County,"2,158"
+54622,Cochrane,Buffalo County,"2,147"
+54443,Junction City,Portage County,"2,145"
+54204,Brussels,Door County,"2,139"
+53093,Waldo,Sheboygan County,"2,135"
+53170,Silver Lake,Kenosha County,"2,134"
+53576,Orfordville,Rock County,"2,131"
+53091,Theresa,Dodge County,"2,123"
+54412,Auburndale,Wood County,"2,122"
+54435,Gleason,Lincoln County,"2,122"
+54128,Gresham,Shawano County,"2,082"
+54245,Valders,Manitowoc County,"2,069"
+53503,Arena,Iowa County,"2,057"
+54670,Wilton,Monroe County,"2,048"
+54562,Three Lakes,Oneida County,"2,038"
+54979,Van Dyne,Fond du Lac County,"2,037"
+54770,Strum,Trempealeau County,"2,033"
+54014,Hager City,Pierce County,"2,026"
+54627,Ettrick,Trempealeau County,"2,020"
+54425,Dorchester,Clark County,"1,988"
+54909,Almond,Portage County,"1,982"
+53114,Darien,Walworth County,"1,979"
+54470,Rib Lake,Taylor County,"1,953"
+53926,Dalton,Green Lake County,"1,951"
+54111,Cecil,Shawano County,"1,951"
+54824,Centuria,Polk County,"1,950"
+54623,Coon Valley,La Crosse County,"1,928"
+53006,Brownsville,Dodge County,"1,905"
+53125,Fontana,Walworth County,"1,898"
+53057,Mount Calvary,Fond du Lac County,"1,882"
+53019,Eden,Fond du Lac County,"1,876"
+53561,Merrimac,Sauk County,"1,872"
+54726,Boyd,Chippewa County,"1,866"
+53007,Butler,Waukesha County,"1,859"
+54433,Gilman,Taylor County,"1,858"
+54849,Lake Nebagamon,Douglas County,"1,857"
+54930,Coloma,Waushara County,"1,840"
+54514,Butternut,Ashland County,"1,827"
+54469,Port Edwards,Wood County,"1,820"
+53517,Blue Mounds,Dane County,"1,799"
+54655,Soldiers Grove,Crawford County,"1,798"
+54635,Hixton,Jackson County,"1,793"
+53059,Neosho,Dodge County,"1,774"
+54202,Baileys Harbor,Door County,"1,772"
+53001,Adell,Sheboygan County,"1,766"
+54740,Elmwood,Pierce County,"1,760"
+53543,Highland,Iowa County,"1,758"
+54631,Gays Mills,Crawford County,"1,737"
+53078,Rubicon,Dodge County,"1,734"
+53579,Reeseville,Dodge County,"1,732"
+54876,Stone Lake,Sawyer County,"1,712"
+54870,Sarona,Washburn County,"1,698"
+54416,Bowler,Shawano County,"1,682"
+54766,Sheldon,Taylor County,"1,668"
+54741,Fairchild,Eau Claire County,"1,664"
+53034,Hustisford,Dodge County,"1,652"
+53137,Helenville,Jefferson County,"1,650"
+54471,Ringle,Marathon County,"1,636"
+54858,Milltown,Polk County,"1,636"
+54896,Winter,Sawyer County,"1,635"
+54856,Mason,Bayfield County,"1,628"
+54821,Cable,Bayfield County,"1,625"
+54227,Maribel,Manitowoc County,"1,621"
+54648,Norwalk,Monroe County,"1,608"
+54491,White Lake,Langlade County,"1,607"
+54977,Scandinavia,Waupaca County,"1,592"
+54864,Poplar,Douglas County,"1,590"
+53063,Newton,Manitowoc County,"1,578"
+54664,Viola,Richland County,"1,571"
+54424,Deerbrook,Langlade County,"1,565"
+54610,Alma,Buffalo County,"1,564"
+54541,Laona,Forest County,"1,561"
+54624,De Soto,Vernon County,"1,554"
+54422,Curtiss,Clark County,"1,553"
+54547,Mercer,Iron County,"1,549"
+54442,Irma,Lincoln County,"1,527"
+54805,Almena,Barron County,"1,520"
+53806,Cassville,Grant County,"1,514"
+54638,Kendall,Monroe County,"1,513"
+54156,Pembine,Marinette County,"1,502"
+53518,Blue River,Richland County,"1,489"
+54209,Egg Harbor,Door County,"1,485"
+53046,Lannon,Waukesha County,"1,482"
+54921,Bancroft,Portage County,"1,482"
+54512,Boulder Junction,Vilas County,"1,461"
+54566,Wabeno,Forest County,"1,453"
+53911,Arlington,Columbia County,"1,450"
+54475,Rudolph,Wood County,"1,447"
+53510,Belmont,Lafayette County,"1,435"
+54626,Eastman,Crawford County,"1,423"
+54748,Jim Falls,Chippewa County,"1,422"
+53079,Saint Cloud,Fond du Lac County,"1,420"
+54974,Rosendale,Fond du Lac County,"1,415"
+54749,Knapp,Dunn County,"1,410"
+54838,Gordon,Douglas County,"1,404"
+54213,Forestville,Door County,"1,395"
+54511,Argonne,Forest County,"1,393"
+54759,Pepin,Pepin County,"1,392"
+53803,Benton,Lafayette County,"1,386"
+54480,Stetsonville,Taylor County,"1,386"
+54531,Hazelhurst,Oneida County,"1,385"
+54651,Ontario,Vernon County,"1,384"
+54159,Porterfield,Marinette County,"1,381"
+54888,Trego,Washburn County,"1,381"
+54459,Ogema,Price County,"1,377"
+54611,Alma Center,Jackson County,"1,372"
+54721,Arkansaw,Pepin County,"1,367"
+53577,Plain,Sauk County,"1,363"
+54539,Lake Tomahawk,Oneida County,"1,356"
+54407,Amherst Junction,Portage County,"1,350"
+53924,Cazenovia,Richland County,"1,346"
+54489,Vesper,Wood County,"1,336"
+54653,Rockland,La Crosse County,"1,335"
+54875,Springbrook,Washburn County,"1,335"
+54733,Dallas,Barron County,"1,333"
+54546,Mellen,Ashland County,"1,332"
+54420,Chili,Clark County,"1,330"
+53826,Wauzeka,Crawford County,"1,323"
+54621,Chaseburg,Vernon County,"1,319"
+54519,Conover,Vilas County,"1,309"
+54754,Merrillan,Jackson County,"1,308"
+53023,Glenbeulah,Sheboygan County,"1,293"
+54632,Genoa,Vernon County,"1,288"
+53804,Bloomington,Grant County,"1,275"
+54488,Unity,Clark County,"1,275"
+54659,Taylor,Jackson County,"1,257"
+54408,Aniwa,Marathon County,"1,247"
+53943,Loganville,Sauk County,"1,245"
+54644,Mindoro,La Crosse County,"1,236"
+54762,Prairie Farm,Barron County,"1,232"
+53936,Grand Marsh,Adams County,"1,231"
+53550,Juda,Green County,"1,220"
+54529,Harshaw,Oneida County,"1,220"
+54932,Eldorado,Fond du Lac County,"1,218"
+54454,Milladore,Wood County,"1,215"
+54965,Pine River,Waushara County,"1,212"
+54149,Mountain,Oconto County,"1,210"
+53930,Endeavor,Marquette County,"1,192"
+53587,South Wayne,Lafayette County,"1,177"
+54007,Deer Park,St. Croix County,"1,175"
+54772,Wheeler,Dunn County,"1,164"
+54556,Prentice,Price County,"1,161"
+53937,Hillpoint,Sauk County,"1,157"
+54427,Eland,Marathon County,"1,156"
+54027,Wilson,St. Croix County,"1,154"
+54761,Plum City,Pierce County,"1,149"
+54554,Phelps,Vilas County,"1,148"
+54307,Green Bay,Brown County,"1,128"
+54763,Ridgeland,Dunn County,"1,120"
+54175,Townsend,Oconto County,"1,101"
+54922,Bear Creek,Outagamie County,"1,101"
+54137,Krakow,Shawano County,"1,087"
+54490,Westboro,Taylor County,"1,085"
+54418,Bryant,Langlade County,"1,084"
+53582,Ridgeway,Iowa County,"1,070"
+54003,Beldenville,Pierce County,"1,065"
+53922,Burnett,Dodge County,"1,057"
+54750,Maiden Rock,Pierce County,"1,047"
+54557,Presque Isle,Vilas County,"1,042"
+53554,Livingston,Grant County,"1,029"
+54104,Athelstane,Marinette County,"1,027"
+54962,Ogdensburg,Waupaca County,"1,025"
+54150,Neopit,Menominee County,"1,024"
+53506,Avoca,Iowa County,"1,011"
+53801,Bagley,Grant County,998
+54212,Fish Creek,Door County,980
+53569,Montfort,Grant County,978
+54428,Elcho,Langlade County,975
+54964,Pickett,Winnebago County,974
+54723,Bay City,Pierce County,973
+54540,Land O'Lakes,Vilas County,971
+54854,Maple,Douglas County,960
+54545,Manitowish Waters,Vilas County,947
+54652,Readstown,Vernon County,947
+54756,Nelson,Buffalo County,946
+53522,Browntown,Green County,943
+54210,Ellison Bay,Door County,942
+54835,Exeland,Sawyer County,933
+54527,Glidden,Ashland County,932
+54836,Foxboro,Douglas County,931
+54855,Marengo,Ashland County,924
+54826,Comstock,Polk County,922
+54628,Ferryville,Crawford County,912
+54232,Saint Nazianz,Manitowoc County,907
+53808,Dickeyville,Grant County,905
+53541,Gratiot,Lafayette County,904
+53816,Mount Hope,Grant County,856
+54006,Cushing,Polk County,852
+54559,Saxon,Iron County,837
+53961,Rock Springs,Sauk County,831
+53544,Hollandale,Iowa County,826
+54563,Tony,Rusk County,811
+54246,Washington Island,Door County,803
+54895,Weyerhaeuser,Rusk County,799
+54441,Hewitt,Wood County,791
+54138,Lakewood,Oconto County,787
+54734,Downing,Dunn County,772
+54550,Montreal,Iron County,768
+54102,Amberg,Marinette County,763
+54530,Hawkins,Rusk County,758
+53537,Footville,Rock County,752
+54463,Pelican Lake,Oneida County,746
+54465,Pickerel,Forest County,731
+54119,Dunbar,Marinette County,715
+54820,Brule,Douglas County,707
+54542,Long Lake,Forest County,702
+54746,Humbird,Clark County,693
+54813,Barronett,Burnett County,678
+54731,Conrath,Rusk County,672
+53069,Okauchee,Waukesha County,671
+54524,Fifield,Price County,663
+54846,High Bridge,Ashland County,650
+54526,Glen Flora,Rusk County,644
+54515,Catawba,Price County,639
+54493,Willard,Clark County,631
+53553,Linden,Iowa County,621
+54537,Kennan,Price County,601
+53920,Briggsville,Marquette County,599
+54737,Eau Galle,Dunn County,562
+54560,Sayner,Vilas County,561
+54447,Lublin,Taylor County,546
+54828,Couderay,Sawyer County,546
+54927,Butte Des Morts,Winnebago County,540
+54103,Armstrong Creek,Forest County,535
+54928,Caroline,Shawano County,524
+54865,Port Wing,Bayfield County,517
+54867,Radisson,Sawyer County,517
+54769,Stockholm,Pepin County,515
+54967,Poy Sippi,Waushara County,497
+53526,Cobb,Iowa County,471
+54450,Mattoon,Shawano County,457
+54832,Drummond,Bayfield County,453
+53557,Lowell,Dodge County,446
+53580,Rewey,Iowa County,442
+54214,Francis Creek,Manitowoc County,436
+54513,Brantwood,Price County,431
+54125,Goodman,Marinette County,430
+53827,Woodman,Grant County,429
+54462,Pearson,Langlade County,416
+54211,Ephraim,Door County,403
+54946,King,Waupaca County,401
+54485,Summit Lake,Langlade County,395
+54564,Tripoli,Oneida County,393
+53810,Glen Haven,Grant County,389
+53571,Morrisonville,Dane County,367
+54931,Dale,Outagamie County,364
+53016,Clyman,Dodge County,360
+53505,Avalon,Rock County,358
+53825,Stitzer,Grant County,358
+54657,Steuben,Crawford County,357
+53931,Fairwater,Fond du Lac County,350
+54839,Grand View,Bayfield County,342
+53969,Wyocena,Columbia County,329
+54850,La Pointe,Ashland County,321
+54525,Gile,Iron County,318
+54625,Dodge,Trempealeau County,317
+54862,Ojibwa,Sawyer County,307
+54827,Cornucopia,Bayfield County,300
+53935,Friesland,Columbia County,297
+54841,Haugen,Barron County,284
+54842,Hawthorne,Douglas County,267
+53812,Kieler,Grant County,254
+54152,Nichols,Outagamie County,253
+53192,Wilmot,Kenosha County,252
+53939,Kingston,Green Lake County,251
+54985,Winnebago,Winnebago County,249
+54844,Herbster,Bayfield County,243
+53942,Lime Ridge,Sauk County,235
+53817,Patch Grove,Grant County,227
+54948,Leopolis,Shawano County,225
+53947,Marquette,Green Lake County,223
+54160,Potter,Calumet County,221
+54413,Babcock,Wood County,219
+54980,Waukau,Winnebago County,218
+53953,Packwaukee,Marquette County,213
+54120,Fence,Florence County,213
+54123,Forest Junction,Calumet County,204
+53088,Stockbridge,Calumet County,203
+54760,Pigeon Falls,Trempealeau County,190
+54215,Kellnersville,Manitowoc County,186
+54207,Collins,Manitowoc County,176
+54654,Seneca,Crawford County,168
+54517,Clam Lake,Ashland County,167
+53501,Afton,Rock County,165
+53167,Rochester,Racine County,157
+54536,Iron Belt,Iron County,154
+53195,Zenda,Walworth County,133
+54458,Nelsonville,Portage County,133
+53802,Beetown,Grant County,132
+54637,Hustler,Juneau County,131
+53003,Ashippun,Dodge County,130
+54926,Big Falls,Waupaca County,125
+54861,Odanah,Ashland County,122
+53540,Gotham,Richland County,112
+54933,Embarrass,Waupaca County,106
+53031,Hingham,Sheboygan County,105
+54845,Hertel,Burnett County,103
+53176,Springfield,Walworth County,100
+54645,Mount Sterling,Crawford County,97
+54430,Elton,Langlade County,92
+53295,Milwaukee,Milwaukee County,90
+53047,Lebanon,Dodge County,85
+53127,Genesee Depot,Waukesha County,79
+53599,Woodford,Lafayette County,75
+54978,Tilleda,Shawano County,74
+54464,Phlox,Langlade County,70
+53928,Doylestown,Columbia County,63
+54561,Star Lake,Vilas County,55
+54565,Upson,Iron County,38
+54127,Green Valley,Shawano County,37
+54857,Mikana,Barron County,34
+53962,Union Center,Juneau County,27
+53099,Woodland,Dodge County,15
+53584,Sextonville,Richland County,7
+54417,Brokaw,Marathon County,4
+54643,Millston,Jackson County,2
+53157,Pell Lake,Walworth County,0
+53792,Madison,Dane County,0
+53940,Lake Delton,Sauk County,0

@@ -1,0 +1,540 @@
+ZIP,City,County,Population
+70726,Denham Springs,Livingston Parish,"63,575"
+70072,Marrero,Jefferson Parish,"55,693"
+70301,Thibodaux,Lafourche Parish,"50,095"
+70769,Prairieville,Ascension Parish,"49,278"
+70737,Gonzales,Ascension Parish,"49,084"
+70065,Kenner,Jefferson Parish,"48,936"
+70816,Baton Rouge,East Baton Rouge Parish,"45,718"
+71111,Bossier City,Bossier Parish,"43,925"
+70810,Baton Rouge,East Baton Rouge Parish,"42,659"
+70506,Lafayette,Lafayette Parish,"42,318"
+70433,Covington,St. Tammany Parish,"41,876"
+70508,Lafayette,Lafayette Parish,"40,592"
+70605,Lake Charles,Calcasieu Parish,"40,482"
+70056,Gretna,Jefferson Parish,"40,348"
+70058,Harvey,Jefferson Parish,"39,578"
+70003,Metairie,Jefferson Parish,"39,344"
+70458,Slidell,St. Tammany Parish,"39,034"
+70001,Metairie,Jefferson Parish,"38,950"
+71203,Monroe,Ouachita Parish,"38,354"
+70570,Opelousas,St. Landry Parish,"37,565"
+70119,New Orleans,Orleans Parish,"37,253"
+70560,New Iberia,Iberia Parish,"36,996"
+70118,New Orleans,Orleans Parish,"36,072"
+70808,Baton Rouge,East Baton Rouge Parish,"35,843"
+71291,West Monroe,Ouachita Parish,"35,269"
+70122,New Orleans,Orleans Parish,"35,253"
+70461,Slidell,St. Tammany Parish,"34,808"
+71360,Pineville,Rapides Parish,"34,653"
+70454,Ponchatoula,Tangipahoa Parish,"34,564"
+71106,Shreveport,Caddo Parish,"34,117"
+71112,Bossier City,Bossier Parish,"33,587"
+70817,Baton Rouge,East Baton Rouge Parish,"33,482"
+71270,Ruston,Lincoln Parish,"32,885"
+70068,La Place,St. John the Baptist Parish,"32,720"
+70592,Youngsville,Lafayette Parish,"32,167"
+70094,Westwego,Jefferson Parish,"32,130"
+71107,Shreveport,Caddo Parish,"31,734"
+70115,New Orleans,Orleans Parish,"31,183"
+70815,Baton Rouge,East Baton Rouge Parish,"31,024"
+70601,Lake Charles,Calcasieu Parish,"30,872"
+70791,Zachary,East Baton Rouge Parish,"30,385"
+70403,Hammond,Tangipahoa Parish,"30,173"
+70364,Houma,Terrebonne Parish,"28,716"
+70503,Lafayette,Lafayette Parish,"28,643"
+70360,Houma,Terrebonne Parish,"28,574"
+70806,Baton Rouge,East Baton Rouge Parish,"28,302"
+70663,Sulphur,Calcasieu Parish,"27,799"
+70123,New Orleans,Jefferson Parish,"27,386"
+70607,Lake Charles,Calcasieu Parish,"27,080"
+70126,New Orleans,Orleans Parish,"27,047"
+70501,Lafayette,Lafayette Parish,"26,465"
+70448,Mandeville,St. Tammany Parish,"26,338"
+70517,Breaux Bridge,St. Martin Parish,"26,024"
+70809,Baton Rouge,East Baton Rouge Parish,"25,732"
+70117,New Orleans,Orleans Parish,"25,652"
+71202,Monroe,Ouachita Parish,"25,444"
+70634,Deridder,Beauregard Parish,"25,194"
+70131,New Orleans,Orleans Parish,"25,151"
+71303,Alexandria,Rapides Parish,"25,138"
+70802,Baton Rouge,East Baton Rouge Parish,"25,118"
+71457,Natchitoches,Natchitoches Parish,"24,370"
+70471,Mandeville,St. Tammany Parish,"24,199"
+70363,Houma,Terrebonne Parish,"24,127"
+70510,Abbeville,Vermilion Parish,"24,107"
+70005,Metairie,Jefferson Parish,"24,088"
+70785,Walker,Livingston Parish,"23,921"
+70820,Baton Rouge,East Baton Rouge Parish,"23,377"
+70805,Baton Rouge,East Baton Rouge Parish,"23,288"
+71118,Shreveport,Caddo Parish,"23,219"
+70127,New Orleans,Orleans Parish,"23,107"
+70128,New Orleans,Orleans Parish,"22,986"
+71292,West Monroe,Ouachita Parish,"22,935"
+70114,New Orleans,Orleans Parish,"22,659"
+70043,Chalmette,St. Bernard Parish,"22,638"
+70435,Covington,St. Tammany Parish,"22,475"
+70611,Lake Charles,Calcasieu Parish,"22,124"
+70706,Denham Springs,Livingston Parish,"21,833"
+71201,Monroe,Ouachita Parish,"21,782"
+70124,New Orleans,Orleans Parish,"21,778"
+70460,Slidell,St. Tammany Parish,"21,669"
+71446,Leesville,Vernon Parish,"21,275"
+70401,Hammond,Tangipahoa Parish,"21,221"
+71037,Haughton,Bossier Parish,"21,192"
+70380,Morgan City,Assumption Parish,"20,529"
+71220,Bastrop,Morehouse Parish,"20,398"
+70520,Carencro,Lafayette Parish,"20,390"
+71105,Shreveport,Caddo Parish,"20,179"
+70563,New Iberia,Iberia Parish,"20,165"
+70507,Lafayette,Lafayette Parish,"20,096"
+70002,Metairie,Jefferson Parish,"19,426"
+70438,Franklinton,Washington Parish,"19,349"
+70586,Ville Platte,Evangeline Parish,"19,320"
+70582,Saint Martinville,St. Martin Parish,"19,209"
+70535,Eunice,Acadia Parish,"18,466"
+71108,Shreveport,Caddo Parish,"18,072"
+70447,Madisonville,St. Tammany Parish,"17,897"
+70125,New Orleans,Orleans Parish,"17,821"
+71055,Minden,Webster Parish,"17,772"
+70062,Kenner,Jefferson Parish,"17,771"
+70427,Bogalusa,Washington Parish,"17,596"
+70714,Baker,East Baton Rouge Parish,"17,433"
+71109,Shreveport,Caddo Parish,"17,412"
+70518,Broussard,Lafayette Parish,"17,263"
+71301,Alexandria,Rapides Parish,"17,035"
+70037,Belle Chasse,Plaquemines Parish,"16,639"
+70053,Gretna,Jefferson Parish,"16,621"
+70526,Crowley,Acadia Parish,"16,566"
+71006,Benton,Bossier Parish,"16,454"
+70578,Rayne,Acadia Parish,"16,432"
+70006,Metairie,Jefferson Parish,"16,170"
+70422,Amite,Tangipahoa Parish,"15,399"
+70807,Baton Rouge,East Baton Rouge Parish,"15,300"
+70546,Jennings,Jefferson Davis Parish,"15,242"
+70767,Port Allen,West Baton Rouge Parish,"14,900"
+70739,Greenwell Springs,East Baton Rouge Parish,"14,877"
+70764,Plaquemine,Iberville Parish,"14,757"
+70525,Church Point,Acadia Parish,"14,687"
+71115,Shreveport,Caddo Parish,"14,413"
+71295,Winnsboro,Franklin Parish,"13,992"
+70070,Luling,St. Charles Parish,"13,960"
+71302,Alexandria,Rapides Parish,"13,579"
+70394,Raceland,Lafourche Parish,"13,395"
+70665,Sulphur,Calcasieu Parish,"13,222"
+70047,Destrehan,St. Charles Parish,"13,220"
+70615,Lake Charles,Calcasieu Parish,"12,980"
+71104,Shreveport,Caddo Parish,"12,975"
+70529,Duson,Lafayette Parish,"12,949"
+71129,Shreveport,Caddo Parish,"12,845"
+70647,Iowa,Calcasieu Parish,"12,736"
+70452,Pearl River,St. Tammany Parish,"12,650"
+70130,New Orleans,Orleans Parish,"12,560"
+70538,Franklin,St. Mary Parish,"12,464"
+71269,Rayville,Richland Parish,"12,318"
+70811,Baton Rouge,East Baton Rouge Parish,"12,154"
+70814,Baton Rouge,East Baton Rouge Parish,"11,921"
+70754,Livingston,Livingston Parish,"11,641"
+71351,Marksville,Avoyelles Parish,"11,499"
+70812,Baton Rouge,East Baton Rouge Parish,"11,007"
+70512,Arnaudville,St. Landry Parish,"10,740"
+70121,New Orleans,Jefferson Parish,"10,558"
+70116,New Orleans,Orleans Parish,"10,404"
+71459,Fort Johnson,Vernon Parish,"10,270"
+70544,Jeanerette,Iberia Parish,"10,269"
+70466,Tickfaw,Tangipahoa Parish,"10,148"
+71047,Keithville,Caddo Parish,"10,069"
+70774,Saint Amant,Ascension Parish,"10,041"
+70359,Gray,Terrebonne Parish,"10,038"
+71119,Shreveport,Caddo Parish,"10,003"
+70775,Saint Francisville,West Feliciana Parish,"9,945"
+70346,Donaldsonville,Ascension Parish,"9,927"
+70129,New Orleans,Orleans Parish,"9,769"
+70669,Westlake,Calcasieu Parish,"9,552"
+70113,New Orleans,Orleans Parish,"9,387"
+70818,Baton Rouge,East Baton Rouge Parish,"9,370"
+70445,Lacombe,St. Tammany Parish,"9,288"
+71483,Winnfield,Winn Parish,"9,243"
+70734,Geismar,Ascension Parish,"9,213"
+71334,Ferriday,Concordia Parish,"9,156"
+71052,Mansfield,De Soto Parish,"9,102"
+71449,Many,Sabine Parish,"9,029"
+70443,Independence,Tangipahoa Parish,"9,006"
+71282,Tallulah,Madison Parish,"8,828"
+70548,Kaplan,Vermilion Parish,"8,780"
+70555,Maurice,Vermilion Parish,"8,759"
+70444,Kentwood,Tangipahoa Parish,"8,687"
+71463,Oakdale,Allen Parish,"8,559"
+70633,Dequincy,Calcasieu Parish,"8,486"
+71241,Farmerville,Union Parish,"8,485"
+70583,Scott,Lafayette Parish,"8,386"
+70345,Cut Off,Lafourche Parish,"8,344"
+71467,Pollock,Grant Parish,"8,228"
+70392,Patterson,St. Mary Parish,"8,173"
+70437,Folsom,St. Tammany Parish,"8,030"
+71251,Jonesboro,Jackson Parish,"8,026"
+70420,Abita Springs,St. Tammany Parish,"7,950"
+71040,Homer,Claiborne Parish,"7,767"
+71342,Jena,LaSalle Parish,"7,735"
+71078,Stonewall,De Soto Parish,"7,653"
+71328,Deville,Rapides Parish,"7,614"
+70584,Sunset,St. Landry Parish,"7,481"
+70087,Saint Rose,St. Charles Parish,"7,314"
+70710,Addis,West Baton Rouge Parish,"7,252"
+71019,Coushatta,Red River Parish,"7,207"
+70446,Loranger,Tangipahoa Parish,"7,173"
+70390,Napoleonville,Assumption Parish,"7,160"
+70648,Kinder,Allen Parish,"7,104"
+70776,Saint Gabriel,Iberville Parish,"7,100"
+70533,Erath,Vermilion Parish,"7,099"
+70092,Violet,St. Bernard Parish,"6,936"
+70748,Jackson,East Feliciana Parish,"6,909"
+71343,Jonesville,Catahoula Parish,"6,764"
+70090,Vacherie,St. James Parish,"6,447"
+71101,Shreveport,Caddo Parish,"6,415"
+71263,Oak Grove,West Carroll Parish,"6,410"
+71254,Lake Providence,East Carroll Parish,"6,397"
+71225,Calhoun,Ouachita Parish,"6,354"
+71103,Shreveport,Caddo Parish,"6,332"
+70760,New Roads,Pointe Coupee Parish,"6,314"
+70668,Vinton,Calcasieu Parish,"6,169"
+71409,Boyce,Rapides Parish,"6,135"
+70426,Angie,Washington Parish,"6,090"
+70744,Holden,Livingston Parish,"6,070"
+70591,Welsh,Jefferson Davis Parish,"5,983"
+71327,Cottonport,Avoyelles Parish,"5,941"
+70374,Lockport,Lafourche Parish,"5,872"
+70431,Bush,St. Tammany Parish,"5,769"
+71232,Delhi,Madison Parish,"5,768"
+70441,Greensburg,St. Helena Parish,"5,685"
+71373,Vidalia,Concordia Parish,"5,652"
+70084,Reserve,St. John the Baptist Parish,"5,629"
+70711,Albany,Livingston Parish,"5,612"
+70462,Springfield,Livingston Parish,"5,593"
+70373,Larose,Lafourche Parish,"5,539"
+71075,Springhill,Webster Parish,"5,412"
+71234,Downsville,Union Parish,"5,396"
+70075,Meraux,St. Bernard Parish,"5,392"
+71405,Ball,Rapides Parish,"5,361"
+71322,Bunkie,Avoyelles Parish,"5,356"
+70343,Bourg,Lafourche Parish,"5,280"
+71280,Sterlington,Union Parish,"5,269"
+70657,Ragley,Beauregard Parish,"5,254"
+71418,Columbia,Caldwell Parish,"5,233"
+71423,Dry Prong,Grant Parish,"4,962"
+71417,Colfax,Grant Parish,"4,940"
+70719,Brusly,West Baton Rouge Parish,"4,856"
+70339,Pierre Part,Assumption Parish,"4,848"
+70712,Angola,West Feliciana Parish,"4,802"
+71350,Mansura,Avoyelles Parish,"4,774"
+71486,Zwolle,Sabine Parish,"4,748"
+70085,Saint Bernard,St. Bernard Parish,"4,736"
+70554,Mamou,Evangeline Parish,"4,728"
+70344,Chauvin,Terrebonne Parish,"4,724"
+70032,Arabi,St. Bernard Parish,"4,625"
+70342,Berwick,St. Mary Parish,"4,607"
+71245,Grambling,Lincoln Parish,"4,439"
+70395,Schriever,Terrebonne Parish,"4,420"
+70777,Slaughter,East Feliciana Parish,"4,406"
+71064,Plain Dealing,Bossier Parish,"4,350"
+70819,Baton Rouge,East Baton Rouge Parish,"4,322"
+70030,Des Allemands,St. Charles Parish,"4,290"
+70763,Paulina,St. James Parish,"4,264"
+70722,Clinton,East Feliciana Parish,"4,233"
+70057,Hahnville,St. Charles Parish,"4,122"
+71433,Glenmora,Rapides Parish,"4,084"
+70543,Iota,Acadia Parish,"4,082"
+71235,Dubach,Lincoln Parish,"4,034"
+70656,Pitkin,Vernon Parish,"4,015"
+70730,Ethel,East Feliciana Parish,"3,990"
+70515,Basile,Acadia Parish,"3,978"
+71403,Anacoco,Vernon Parish,"3,962"
+70577,Port Barre,St. Landry Parish,"3,939"
+70549,Lake Arthur,Jefferson Davis Parish,"3,874"
+70788,White Castle,Iberville Parish,"3,830"
+71038,Haynesville,Claiborne Parish,"3,796"
+70770,Pride,East Baton Rouge Parish,"3,787"
+71227,Choudrant,Lincoln Parish,"3,783"
+71001,Arcadia,Bienville Parish,"3,747"
+70341,Belle Rose,Assumption Parish,"3,690"
+71082,Vivian,Caddo Parish,"3,666"
+70803,Baton Rouge,East Baton Rouge Parish,"3,562"
+71435,Grayson,Caldwell Parish,"3,499"
+70112,New Orleans,Orleans Parish,"3,490"
+71068,Ringgold,Bienville Parish,"3,482"
+70354,Galliano,Lafourche Parish,"3,404"
+71023,Doyline,Webster Parish,"3,381"
+71033,Greenwood,Caddo Parish,"3,297"
+70456,Roseland,Tangipahoa Parish,"3,193"
+70542,Gueydan,Vermilion Parish,"3,186"
+70653,Merryville,Beauregard Parish,"3,184"
+71049,Logansport,De Soto Parish,"3,175"
+70052,Gramercy,St. James Parish,"3,171"
+71260,Marion,Union Parish,"3,151"
+70449,Maurepas,Livingston Parish,"3,092"
+71465,Olla,LaSalle Parish,"3,086"
+70377,Montegut,Terrebonne Parish,"3,056"
+70655,Oberlin,Allen Parish,"3,047"
+71469,Robeline,Natchitoches Parish,"3,020"
+70071,Lutcher,St. James Parish,"3,018"
+71341,Hessmer,Avoyelles Parish,"2,943"
+70450,Mount Hermon,Washington Parish,"2,921"
+71485,Woodworth,Rapides Parish,"2,890"
+70589,Washington,St. Landry Parish,"2,875"
+71222,Bernice,Union Parish,"2,871"
+71429,Florien,Sabine Parish,"2,849"
+70783,Ventress,Pointe Coupee Parish,"2,804"
+70079,Norco,St. Charles Parish,"2,757"
+71430,Forest Hill,Rapides Parish,"2,757"
+70067,Lafitte,Jefferson Parish,"2,754"
+70528,Delcambre,Iberia Parish,"2,745"
+70778,Sorrento,Ascension Parish,"2,742"
+70559,Morse,Acadia Parish,"2,699"
+71073,Sibley,Webster Parish,"2,654"
+71110,Barksdale Afb,Bossier Parish,"2,626"
+71411,Campti,Natchitoches Parish,"2,604"
+71346,Lecompte,Rapides Parish,"2,555"
+71454,Montgomery,Grant Parish,"2,553"
+71369,Simmesport,Avoyelles Parish,"2,518"
+71268,Quitman,Jackson Parish,"2,437"
+70532,Elton,Jefferson Davis Parish,"2,434"
+71067,Princeton,Bossier Parish,"2,406"
+71060,Mooringsport,Caddo Parish,"2,400"
+71238,Eros,Jackson Parish,"2,374"
+71275,Simsboro,Lincoln Parish,"2,363"
+70757,Maringouin,Iberville Parish,"2,356"
+70357,Golden Meadow,Lafourche Parish,"2,351"
+71032,Grand Cane,De Soto Parish,"2,330"
+71051,Elm Grove,Bossier Parish,"2,321"
+70083,Port Sulphur,Plaquemines Parish,"2,317"
+71362,Plaucheville,Avoyelles Parish,"2,233"
+70455,Robert,Tangipahoa Parish,"2,181"
+71378,Wisner,Franklin Parish,"2,163"
+71071,Sarepta,Webster Parish,"2,159"
+70652,Longville,Beauregard Parish,"2,149"
+71497,Natchitoches,Natchitoches Parish,"2,074"
+71461,New Llano,Vernon Parish,"2,046"
+71371,Trout,LaSalle Parish,"2,033"
+71259,Mangham,Richland Parish,"2,010"
+70660,Singer,Beauregard Parish,"1,996"
+70039,Boutte,St. Charles Parish,"1,993"
+71061,Oil City,Caddo Parish,"1,977"
+71272,Ruston,Lincoln Parish,"1,969"
+70372,Labadieville,Assumption Parish,"1,968"
+71439,Hornbeck,Vernon Parish,"1,961"
+71419,Converse,Sabine Parish,"1,936"
+70514,Baldwin,St. Mary Parish,"1,914"
+70051,Garyville,St. John the Baptist Parish,"1,878"
+71030,Gloster,De Soto Parish,"1,878"
+71422,Dodson,Winn Parish,"1,868"
+70661,Starks,Calcasieu Parish,"1,861"
+71016,Castor,Bienville Parish,"1,852"
+70402,Hammond,Tangipahoa Parish,"1,850"
+70086,Saint James,St. James Parish,"1,793"
+71367,Saint Landry,Evangeline Parish,"1,776"
+71340,Harrisonburg,Catahoula Parish,"1,760"
+70041,Buras,Plaquemines Parish,"1,747"
+71070,Saline,Natchitoches Parish,"1,721"
+70733,French Settlement,Livingston Parish,"1,715"
+71355,Moreauville,Avoyelles Parish,"1,706"
+70749,Jarreau,Pointe Coupee Parish,"1,701"
+71266,Pioneer,West Carroll Parish,"1,673"
+70813,Baton Rouge,East Baton Rouge Parish,"1,668"
+71462,Noble,Sabine Parish,"1,637"
+70755,Livonia,Pointe Coupee Parish,"1,617"
+71226,Chatham,Jackson Parish,"1,559"
+70356,Gibson,Terrebonne Parish,"1,495"
+70031,Ama,St. Charles Parish,"1,483"
+70049,Edgard,St. John the Baptist Parish,"1,482"
+70630,Bell City,Cameron Parish,"1,478"
+70531,Egan,Acadia Parish,"1,477"
+71028,Gibsland,Bienville Parish,"1,472"
+71357,Newellton,Tensas Parish,"1,458"
+71424,Elmer,Rapides Parish,"1,439"
+71353,Melville,St. Landry Parish,"1,399"
+71354,Monterey,Concordia Parish,"1,394"
+71336,Gilbert,Franklin Parish,"1,391"
+70659,Rosepine,Vernon Parish,"1,387"
+71366,Saint Joseph,Tensas Parish,"1,369"
+71007,Bethany,Caddo Parish,"1,354"
+71072,Shongaloo,Webster Parish,"1,348"
+71229,Collinston,Morehouse Parish,"1,331"
+71039,Heflin,Webster Parish,"1,281"
+71325,Cheneyville,Rapides Parish,"1,273"
+70516,Branch,Acadia Parish,"1,267"
+71209,Monroe,Ouachita Parish,"1,264"
+71277,Spearsville,Union Parish,"1,263"
+71018,Cotton Valley,Webster Parish,"1,260"
+71368,Sicily Island,Catahoula Parish,"1,245"
+71480,Urania,LaSalle Parish,"1,240"
+71219,Baskin,Franklin Parish,"1,212"
+70552,Loreauville,Iberia Parish,"1,193"
+70723,Convent,St. James Parish,"1,189"
+71407,Bentley,Grant Parish,"1,178"
+71261,Mer Rouge,Morehouse Parish,"1,171"
+70453,Pine Grove,St. Helena Parish,"1,162"
+71247,Hodge,Jackson Parish,"1,133"
+71264,Oak Ridge,Morehouse Parish,"1,130"
+70750,Krotz Springs,St. Landry Parish,"1,117"
+71375,Waterproof,Tensas Parish,"1,108"
+71438,Hineston,Vernon Parish,"1,073"
+70040,Braithwaite,Plaquemines Parish,"1,056"
+70732,Fordoche,Pointe Coupee Parish,"1,035"
+71046,Keatchie,De Soto Parish,"1,033"
+71027,Frierson,De Soto Parish,"1,031"
+71237,Epps,West Carroll Parish,"1,028"
+71323,Center Point,Avoyelles Parish,"1,027"
+70772,Rosedale,Iberville Parish,"1,020"
+71447,Lena,Rapides Parish,"1,010"
+70729,Erwinville,West Baton Rouge Parish,"1,004"
+71065,Pleasant Hill,Sabine Parish,976
+70740,Grosse Tete,Iberville Parish,975
+70397,Theriot,Terrebonne Parish,971
+70581,Roanoke,Jefferson Davis Parish,958
+70355,Gheens,Lafourche Parish,957
+71456,Natchez,Natchitoches Parish,952
+70725,Darrow,Ascension Parish,943
+70759,Morganza,Pointe Coupee Parish,934
+70789,Wilson,East Feliciana Parish,917
+70658,Reeves,Allen Parish,914
+71024,Dubberly,Webster Parish,910
+70576,Pine Prairie,Evangeline Parish,908
+70645,Hackberry,Cameron Parish,899
+70762,Oscar,Pointe Coupee Parish,895
+70646,Hayes,Calcasieu Parish,877
+71358,Palmetto,St. Landry Parish,867
+70541,Grand Coteau,St. Landry Parish,858
+71326,Clayton,Catahoula Parish,852
+71450,Marthaville,Natchitoches Parish,842
+71044,Ida,Caddo Parish,826
+70637,Dry Creek,Allen Parish,825
+71031,Goldonna,Winn Parish,803
+70715,Batchelor,Pointe Coupee Parish,802
+70638,Elizabeth,Allen Parish,792
+71003,Athens,Claiborne Parish,792
+71441,Kelly,Caldwell Parish,784
+70756,Lottie,Pointe Coupee Parish,780
+71432,Georgetown,Grant Parish,768
+70761,Norwood,East Feliciana Parish,732
+71063,Pelican,De Soto Parish,724
+71331,Effie,Avoyelles Parish,714
+71256,Lillie,Union Parish,678
+70082,Pointe A La Hache,Plaquemines Parish,674
+70753,Lettsworth,Pointe Coupee Parish,671
+71404,Atlanta,Winn Parish,656
+70743,Hester,St. James Parish,654
+70556,Mermentau,Acadia Parish,627
+70358,Grand Isle,Jefferson Parish,623
+70534,Estherwood,Acadia Parish,622
+70747,Innis,Pointe Coupee Parish,599
+71356,Morrow,St. Landry Parish,596
+70080,Paradis,St. Charles Parish,586
+71473,Sikes,Winn Parish,573
+70551,Leonville,St. Landry Parish,570
+70036,Barataria,Jefferson Parish,544
+71416,Cloutierville,Natchitoches Parish,544
+70465,Tangipahoa,Tangipahoa Parish,522
+71021,Cullen,Webster Parish,511
+71479,Tullos,Winn Parish,510
+71045,Jamestown,Bienville Parish,503
+71286,Transylvania,East Carroll Parish,503
+70836,Baton Rouge,East Baton Rouge Parish,501
+71468,Provencal,Natchitoches Parish,501
+70522,Centerville,St. Mary Parish,495
+70662,Sugartown,Beauregard Parish,488
+70780,Sunshine,Iberville Parish,487
+70523,Charenton,St. Mary Parish,476
+71069,Rodessa,Caddo Parish,474
+71043,Hosston,Caddo Parish,470
+70721,Carville,Iberville Parish,447
+70353,Dulac,Terrebonne Parish,442
+70787,Weyanoke,West Feliciana Parish,440
+70752,Lakeland,Pointe Coupee Parish,437
+70537,Evangeline,Acadia Parish,381
+71333,Evergreen,Avoyelles Parish,381
+70736,Glynn,Pointe Coupee Parish,376
+71253,Kilbourne,West Carroll Parish,376
+70631,Cameron,Cameron Parish,370
+70639,Evans,Vernon Parish,367
+71415,Clarks,Caldwell Parish,366
+70609,Lake Charles,Calcasieu Parish,357
+71474,Simpson,Vernon Parish,348
+70580,Reddell,Evangeline Parish,340
+70091,Venice,Plaquemines Parish,337
+71004,Belcher,Caddo Parish,335
+70310,Thibodaux,Lafourche Parish,327
+71455,Mora,Natchitoches Parish,318
+71008,Bienville,Bienville Parish,315
+70651,Leblanc,Allen Parish,302
+71223,Bonita,Morehouse Parish,298
+70585,Turkey Creek,Evangeline Parish,293
+70148,New Orleans,Orleans Parish,281
+71079,Summerfield,Claiborne Parish,263
+70524,Chataignier,Evangeline Parish,243
+71034,Hall Summit,Red River Parish,222
+71359,Pineville,Rapides Parish,219
+70650,Lacassine,Jefferson Davis Parish,218
+71414,Clarence,Natchitoches Parish,211
+71466,Otis,Rapides Parish,209
+70442,Husser,Tangipahoa Parish,196
+70640,Fenton,Jefferson Davis Parish,196
+70801,Baton Rouge,East Baton Rouge Parish,192
+70644,Grant,Allen Parish,190
+70375,Mathews,Lafourche Parish,178
+71233,Delta,Madison Parish,174
+71427,Flatwoods,Rapides Parish,172
+70352,Donner,Terrebonne Parish,167
+71243,Fort Necessity,Franklin Parish,152
+71002,Ashland,Natchitoches Parish,151
+70457,Saint Benedict,St. Tammany Parish,143
+71029,Gilliam,Caddo Parish,142
+71426,Fisher,Sabine Parish,142
+71276,Sondheimer,East Carroll Parish,135
+71320,Bordelonville,Avoyelles Parish,134
+70632,Creole,Cameron Parish,131
+70038,Boothville,Plaquemines Parish,125
+70393,Plattenville,Assumption Parish,117
+71048,Lisbon,Claiborne Parish,114
+70464,Talisheek,St. Tammany Parish,109
+70782,Tunica,West Feliciana Parish,105
+70436,Fluker,Tangipahoa Parish,104
+70076,Mount Airy,St. John the Baptist Parish,100
+71242,Forest,West Carroll Parish,100
+70463,Sun,St. Tammany Parish,99
+70643,Grand Chenier,Cameron Parish,87
+71330,Echo,Rapides Parish,87
+71410,Calvin,Winn Parish,84
+71425,Enterprise,Catahoula Parish,78
+70575,Perry,Vermilion Parish,74
+71434,Gorum,Natchitoches Parish,74
+70519,Cade,St. Martin Parish,71
+71472,Sieper,Rapides Parish,71
+70513,Avery Island,Iberia Parish,69
+71452,Melrose,Natchitoches Parish,69
+70451,Natalbany,Tangipahoa Parish,65
+71250,Jones,Morehouse Parish,65
+70773,Rougon,Pointe Coupee Parish,57
+71279,Start,Richland Parish,50
+71009,Blanchard,Caddo Parish,47
+71316,Acme,Concordia Parish,44
+70550,Lawtell,St. Landry Parish,34
+71345,Lebeau,St. Landry Parish,34
+70558,Milton,Lafayette Parish,24
+71401,Aimwell,Catahoula Parish,18
+71406,Belmont,Sabine Parish,12
+70654,Mittie,Allen Parish,1
+70050,Empire,Plaquemines Parish,0
+70139,New Orleans,Orleans Parish,0
+70163,New Orleans,Orleans Parish,0
+70340,Amelia,St. Mary Parish,0
+70391,Paincourtville,Assumption Parish,0
+70629,Lake Charles,Calcasieu Parish,0
+70786,Watson,Livingston Parish,0
+70825,Baton Rouge,East Baton Rouge Parish,0
+71066,Powhatan,Natchitoches Parish,0
+71212,Monroe,Ouachita Parish,0
+71218,Archibald,Richland Parish,0
+71230,Crowville,Franklin Parish,0
+71339,Hamburg,Avoyelles Parish,0
+71428,Flora,Natchitoches Parish,0
+71475,Slagle,Vernon Parish,0

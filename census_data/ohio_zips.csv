@@ -1,0 +1,1234 @@
+ZIP,City,County,Population
+45011,Hamilton,Butler County,"75,864"
+43123,Grove City,Franklin County,"67,626"
+43026,Hilliard,Franklin County,"65,238"
+43081,Westerville,Franklin County,"65,020"
+44256,Medina,Medina County,"64,924"
+43055,Newark,Licking County,"63,281"
+43130,Lancaster,Fairfield County,"62,933"
+44035,Elyria,Lorain County,"62,179"
+43015,Delaware,Delaware County,"61,401"
+44060,Mentor,Lake County,"60,779"
+43068,Reynoldsburg,Franklin County,"60,148"
+45040,Mason,Warren County,"59,518"
+43228,Columbus,Franklin County,"59,077"
+43230,Columbus,Franklin County,"58,076"
+44077,Painesville,Lake County,"57,325"
+45140,Loveland,Clermont County,"57,211"
+43701,Zanesville,Muskingum County,"56,402"
+45044,Middletown,Butler County,"56,217"
+45069,West Chester,Butler County,"56,037"
+45601,Chillicothe,Ross County,"55,836"
+43229,Columbus,Franklin County,"55,020"
+45840,Findlay,Hancock County,"54,559"
+45013,Hamilton,Butler County,"53,998"
+43302,Marion,Marion County,"53,702"
+45424,Dayton,Montgomery County,"50,725"
+44107,Lakewood,Cuyahoga County,"50,018"
+44130,Cleveland,Cuyahoga County,"49,679"
+45238,Cincinnati,Hamilton County,"48,351"
+44646,Massillon,Stark County,"47,741"
+43232,Columbus,Franklin County,"47,364"
+43207,Columbus,Franklin County,"47,272"
+43147,Pickerington,Fairfield County,"46,963"
+43065,Powell,Delaware County,"46,679"
+43016,Dublin,Franklin County,"46,362"
+44212,Brunswick,Medina County,"45,889"
+45014,Fairfield,Butler County,"45,773"
+43235,Columbus,Franklin County,"44,589"
+44691,Wooster,Wayne County,"44,344"
+43224,Columbus,Franklin County,"44,319"
+43551,Perrysburg,Wood County,"43,770"
+43110,Canal Winchester,Fairfield County,"43,544"
+43204,Columbus,Franklin County,"42,962"
+45036,Lebanon,Warren County,"42,204"
+44111,Cleveland,Cuyahoga County,"42,021"
+43017,Dublin,Franklin County,"41,613"
+45324,Fairborn,Greene County,"41,194"
+44118,Cleveland,Cuyahoga County,"40,715"
+45385,Xenia,Greene County,"40,617"
+45231,Cincinnati,Hamilton County,"40,463"
+43615,Toledo,Lucas County,"40,146"
+44102,Cleveland,Cuyahoga County,"39,952"
+44870,Sandusky,Erie County,"39,883"
+44720,North Canton,Stark County,"39,851"
+44124,Cleveland,Cuyahoga County,"39,779"
+44109,Cleveland,Cuyahoga County,"39,428"
+44224,Stow,Summit County,"39,200"
+43040,Marysville,Union County,"38,990"
+45458,Dayton,Montgomery County,"38,712"
+44203,Barberton,Summit County,"38,701"
+45211,Cincinnati,Hamilton County,"38,049"
+44240,Kent,Portage County,"37,788"
+44134,Cleveland,Cuyahoga County,"37,774"
+45373,Troy,Miami County,"37,565"
+45103,Batavia,Clermont County,"36,938"
+44094,Willoughby,Lake County,"36,873"
+44039,North Ridgeville,Lorain County,"36,780"
+44122,Beachwood,Cuyahoga County,"36,678"
+43213,Columbus,Franklin County,"36,273"
+45342,Miamisburg,Montgomery County,"36,152"
+43035,Lewis Center,Delaware County,"36,012"
+43221,Columbus,Franklin County,"35,293"
+44281,Wadsworth,Medina County,"34,704"
+43082,Westerville,Delaware County,"34,563"
+43201,Columbus,Franklin County,"34,322"
+44145,Westlake,Cuyahoga County,"34,104"
+45150,Milford,Clermont County,"33,527"
+45701,Athens,Athens County,"33,329"
+43560,Sylvania,Lucas County,"33,286"
+44120,Cleveland,Cuyahoga County,"33,202"
+44601,Alliance,Stark County,"32,696"
+45503,Springfield,Clark County,"32,638"
+44266,Ravenna,Portage County,"32,612"
+44512,Youngstown,Mahoning County,"32,536"
+44095,Eastlake,Lake County,"32,363"
+43219,Columbus,Franklin County,"32,338"
+44121,Cleveland,Cuyahoga County,"32,312"
+45005,Franklin,Warren County,"32,251"
+44105,Cleveland,Cuyahoga County,"32,115"
+43062,Pataskala,Licking County,"32,037"
+44070,North Olmsted,Cuyahoga County,"31,924"
+43004,Blacklick,Franklin County,"31,477"
+43402,Bowling Green,Wood County,"31,393"
+44004,Ashtabula,Ashtabula County,"31,114"
+43050,Mount Vernon,Knox County,"31,074"
+44133,North Royalton,Cuyahoga County,"31,018"
+44805,Ashland,Ashland County,"30,805"
+43613,Toledo,Lucas County,"30,780"
+45215,Cincinnati,Hamilton County,"30,586"
+44312,Akron,Summit County,"30,280"
+43537,Maumee,Lucas County,"30,111"
+43119,Galloway,Franklin County,"29,660"
+45239,Cincinnati,Hamilton County,"29,607"
+45240,Cincinnati,Hamilton County,"29,600"
+43420,Fremont,Sandusky County,"29,520"
+44125,Cleveland,Cuyahoga County,"29,461"
+44146,Bedford,Cuyahoga County,"29,349"
+43614,Toledo,Lucas County,"29,075"
+45365,Sidney,Shelby County,"28,965"
+44129,Cleveland,Cuyahoga County,"28,800"
+44685,Uniontown,Summit County,"28,794"
+43220,Columbus,Franklin County,"28,792"
+45459,Dayton,Montgomery County,"28,553"
+44221,Cuyahoga Falls,Summit County,"28,546"
+45244,Cincinnati,Hamilton County,"28,511"
+43612,Toledo,Lucas County,"28,480"
+45039,Maineville,Warren County,"28,335"
+44052,Lorain,Lorain County,"28,282"
+43209,Columbus,Franklin County,"28,193"
+43223,Columbus,Franklin County,"28,187"
+45417,Dayton,Montgomery County,"28,186"
+44883,Tiffin,Seneca County,"28,102"
+43512,Defiance,Defiance County,"28,022"
+44135,Cleveland,Cuyahoga County,"28,022"
+45431,Dayton,Greene County,"27,951"
+44515,Youngstown,Mahoning County,"27,690"
+45042,Middletown,Butler County,"27,652"
+43054,New Albany,Franklin County,"27,594"
+45066,Springboro,Warren County,"27,545"
+45230,Cincinnati,Hamilton County,"27,501"
+45056,Oxford,Butler County,"27,376"
+44128,Cleveland,Cuyahoga County,"27,122"
+45662,Portsmouth,Scioto County,"26,909"
+43214,Columbus,Franklin County,"26,776"
+44313,Akron,Summit County,"26,631"
+43085,Columbus,Franklin County,"26,601"
+45750,Marietta,Washington County,"26,420"
+45429,Dayton,Montgomery County,"26,347"
+44236,Hudson,Summit County,"25,941"
+44483,Warren,Trumbull County,"25,805"
+44012,Avon Lake,Lorain County,"25,752"
+44903,Mansfield,Richland County,"25,642"
+44310,Akron,Summit County,"25,496"
+45102,Amelia,Clermont County,"25,448"
+43227,Columbus,Franklin County,"25,358"
+44011,Avon,Lorain County,"25,317"
+45356,Piqua,Miami County,"25,237"
+44106,Cleveland,Cuyahoga County,"25,120"
+44460,Salem,Columbiana County,"25,082"
+44136,Strongsville,Cuyahoga County,"24,946"
+43606,Toledo,Lucas County,"24,898"
+44139,Solon,Cuyahoga County,"24,706"
+44143,Cleveland,Cuyahoga County,"24,597"
+45236,Cincinnati,Hamilton County,"24,513"
+43113,Circleville,Pickaway County,"24,480"
+43605,Toledo,Lucas County,"24,441"
+45420,Dayton,Montgomery County,"24,411"
+45805,Lima,Allen County,"24,387"
+44663,New Philadelphia,Tuscarawas County,"24,356"
+44708,Canton,Stark County,"24,285"
+43140,London,Madison County,"24,237"
+44024,Chardon,Geauga County,"24,030"
+45241,Cincinnati,Hamilton County,"23,955"
+44514,Youngstown,Mahoning County,"23,917"
+45247,Cincinnati,Hamilton County,"23,617"
+45133,Hillsboro,Highland County,"23,443"
+43212,Columbus,Franklin County,"23,405"
+44857,Norwalk,Huron County,"23,288"
+44137,Maple Heights,Cuyahoga County,"23,285"
+44138,Olmsted Falls,Cuyahoga County,"23,162"
+44202,Aurora,Portage County,"23,084"
+43231,Columbus,Franklin County,"23,009"
+45177,Wilmington,Clinton County,"22,924"
+45371,Tipp City,Miami County,"22,865"
+45242,Cincinnati,Hamilton County,"22,623"
+45248,Cincinnati,Hamilton County,"22,576"
+44406,Canfield,Mahoning County,"22,451"
+45440,Dayton,Greene County,"22,358"
+45331,Greenville,Darke County,"22,356"
+43211,Columbus,Franklin County,"22,313"
+45255,Cincinnati,Hamilton County,"22,313"
+44087,Twinsburg,Summit County,"22,185"
+43160,Washington Court House,Fayette County,"22,105"
+43206,Columbus,Franklin County,"21,996"
+45224,Cincinnati,Hamilton County,"21,900"
+45801,Lima,Allen County,"21,739"
+45030,Harrison,Hamilton County,"21,640"
+44319,Akron,Summit County,"21,538"
+44116,Rocky River,Cuyahoga County,"21,532"
+45212,Cincinnati,Hamilton County,"21,526"
+44001,Amherst,Lorain County,"21,448"
+43609,Toledo,Lucas County,"21,404"
+44144,Cleveland,Cuyahoga County,"21,394"
+44654,Millersburg,Holmes County,"21,381"
+44484,Warren,Trumbull County,"21,358"
+45414,Dayton,Montgomery County,"21,167"
+43920,East Liverpool,Columbiana County,"21,103"
+44305,Akron,Summit County,"21,103"
+44149,Strongsville,Cuyahoga County,"21,098"
+44053,Lorain,Lorain County,"21,084"
+44306,Akron,Summit County,"20,905"
+45237,Cincinnati,Hamilton County,"20,903"
+45322,Englewood,Montgomery County,"20,884"
+43202,Columbus,Franklin County,"20,854"
+44131,Independence,Cuyahoga County,"20,577"
+43311,Bellefontaine,Logan County,"20,391"
+43616,Oregon,Lucas County,"20,309"
+43623,Toledo,Lucas County,"20,267"
+45251,Cincinnati,Hamilton County,"20,254"
+44113,Cleveland,Cuyahoga County,"20,250"
+44446,Niles,Trumbull County,"20,060"
+45245,Cincinnati,Clermont County,"20,045"
+44055,Lorain,Lorain County,"20,043"
+44641,Louisville,Stark County,"20,031"
+45219,Cincinnati,Hamilton County,"20,012"
+45406,Dayton,Montgomery County,"19,991"
+45638,Ironton,Lawrence County,"19,982"
+45822,Celina,Mercer County,"19,957"
+44067,Northfield,Summit County,"19,943"
+45505,Springfield,Clark County,"19,826"
+44147,Broadview Heights,Cuyahoga County,"19,771"
+43078,Urbana,Champaign County,"19,695"
+44333,Akron,Summit County,"19,620"
+43607,Toledo,Lucas County,"19,469"
+43725,Cambridge,Guernsey County,"19,453"
+44057,Madison,Lake County,"19,445"
+44108,Cleveland,Cuyahoga County,"19,381"
+45449,Dayton,Montgomery County,"19,066"
+44023,Chagrin Falls,Geauga County,"18,960"
+45405,Dayton,Montgomery County,"18,955"
+44511,Youngstown,Mahoning County,"18,909"
+43138,Logan,Hocking County,"18,906"
+44104,Cleveland,Cuyahoga County,"18,902"
+45227,Cincinnati,Hamilton County,"18,893"
+44830,Fostoria,Seneca County,"18,671"
+43611,Toledo,Lucas County,"18,664"
+44622,Dover,Tuscarawas County,"18,661"
+45205,Cincinnati,Hamilton County,"18,651"
+44709,Canton,Stark County,"18,614"
+44241,Streetsboro,Portage County,"18,548"
+43812,Coshocton,Coshocton County,"18,532"
+44223,Cuyahoga Falls,Summit County,"18,459"
+44278,Tallmadge,Summit County,"18,424"
+44142,Brookpark,Cuyahoga County,"18,284"
+44017,Berea,Cuyahoga County,"18,279"
+43064,Plain City,Madison County,"18,143"
+44647,Massillon,Stark County,"18,117"
+44123,Euclid,Cuyahoga County,"18,050"
+45895,Wapakoneta,Auglaize County,"17,998"
+45208,Cincinnati,Hamilton County,"17,943"
+44314,Akron,Summit County,"17,885"
+45202,Cincinnati,Hamilton County,"17,869"
+44112,Cleveland,Cuyahoga County,"17,848"
+43215,Columbus,Franklin County,"17,836"
+43952,Steubenville,Jefferson County,"17,836"
+45502,Springfield,Clark County,"17,692"
+44320,Akron,Summit County,"17,690"
+43056,Heath,Licking County,"17,637"
+44092,Wickliffe,Lake County,"17,587"
+44906,Mansfield,Richland County,"17,343"
+44820,Bucyrus,Crawford County,"17,291"
+44110,Cleveland,Cuyahoga County,"17,009"
+45419,Dayton,Montgomery County,"17,008"
+45344,New Carlisle,Clark County,"16,979"
+44126,Cleveland,Cuyahoga County,"16,976"
+44062,Middlefield,Geauga County,"16,908"
+43074,Sunbury,Delaware County,"16,873"
+44705,Canton,Stark County,"16,872"
+44505,Youngstown,Mahoning County,"16,764"
+44022,Chagrin Falls,Cuyahoga County,"16,617"
+44706,Canton,Stark County,"16,496"
+43950,Saint Clairsville,Belmont County,"16,404"
+45504,Springfield,Clark County,"16,363"
+44907,Mansfield,Richland County,"16,349"
+44905,Mansfield,Richland County,"16,245"
+43528,Holland,Lucas County,"16,207"
+44030,Conneaut,Ashtabula County,"16,191"
+45243,Cincinnati,Hamilton County,"16,103"
+44410,Cortland,Trumbull County,"15,992"
+44140,Bay Village,Cuyahoga County,"15,984"
+45233,Cincinnati,Hamilton County,"15,981"
+44833,Galion,Morrow County,"15,892"
+45640,Jackson,Jackson County,"15,882"
+44321,Akron,Summit County,"15,878"
+43023,Granville,Licking County,"15,688"
+44089,Vermilion,Erie County,"15,654"
+45891,Van Wert,Van Wert County,"15,584"
+45067,Trenton,Butler County,"15,471"
+45320,Eaton,Preble County,"15,454"
+45002,Cleves,Hamilton County,"15,413"
+44420,Girard,Trumbull County,"15,293"
+45409,Dayton,Montgomery County,"15,293"
+45432,Dayton,Greene County,"15,055"
+44485,Warren,Trumbull County,"14,930"
+45377,Vandalia,Montgomery County,"14,888"
+45152,Morrow,Warren County,"14,850"
+43125,Groveport,Franklin County,"14,803"
+43506,Bryan,Williams County,"14,734"
+44044,Grafton,Lorain County,"14,721"
+45410,Dayton,Montgomery County,"14,694"
+44132,Euclid,Cuyahoga County,"14,633"
+45249,Cincinnati,Hamilton County,"14,490"
+43545,Napoleon,Henry County,"14,404"
+43021,Galena,Delaware County,"14,403"
+44721,Canton,Stark County,"14,272"
+43452,Port Clinton,Ottawa County,"14,264"
+45223,Cincinnati,Hamilton County,"14,182"
+44875,Shelby,Richland County,"14,144"
+45426,Dayton,Montgomery County,"14,114"
+45220,Cincinnati,Hamilton County,"14,109"
+44041,Geneva,Ashtabula County,"14,003"
+45690,Waverly,Pike County,"13,988"
+44103,Cleveland,Cuyahoga County,"13,941"
+44141,Brecksville,Cuyahoga County,"13,892"
+43031,Johnstown,Licking County,"13,876"
+44301,Akron,Summit County,"13,668"
+45403,Dayton,Montgomery County,"13,608"
+45804,Lima,Allen County,"13,608"
+43608,Toledo,Lucas County,"13,593"
+44425,Hubbard,Trumbull County,"13,552"
+45229,Cincinnati,Hamilton County,"13,529"
+45246,Cincinnati,Hamilton County,"13,527"
+44904,Mansfield,Richland County,"13,450"
+45506,Springfield,Clark County,"13,435"
+43146,Orient,Pickaway County,"13,387"
+45631,Gallipolis,Gallia County,"13,386"
+44667,Orrville,Wayne County,"13,287"
+44119,Cleveland,Cuyahoga County,"13,243"
+44614,Canal Fulton,Stark County,"13,190"
+43103,Ashville,Pickaway County,"13,130"
+44054,Sheffield Lake,Lorain County,"12,806"
+44260,Mogadore,Portage County,"12,780"
+43567,Wauseon,Fulton County,"12,754"
+45885,Saint Marys,Auglaize County,"12,753"
+44811,Bellevue,Huron County,"12,690"
+43558,Swanton,Fulton County,"12,675"
+43205,Columbus,Franklin County,"12,618"
+43326,Kenton,Hardin County,"12,573"
+45434,Dayton,Greene County,"12,529"
+44718,Canton,Stark County,"12,508"
+45415,Dayton,Montgomery County,"12,465"
+44839,Huron,Erie County,"12,447"
+45050,Monroe,Butler County,"12,248"
+43210,Columbus,Franklin County,"12,164"
+44056,Macedonia,Summit County,"12,152"
+44432,Lisbon,Columbiana County,"12,030"
+45694,Wheelersburg,Scioto County,"11,978"
+45439,Dayton,Montgomery County,"11,914"
+45309,Brookville,Montgomery County,"11,876"
+45807,Lima,Allen County,"11,774"
+44074,Oberlin,Lorain County,"11,745"
+45106,Bethel,Clermont County,"11,699"
+45068,Waynesville,Warren County,"11,597"
+45680,South Point,Lawrence County,"11,548"
+45875,Ottawa,Putnam County,"11,547"
+45305,Bellbrook,Greene County,"11,498"
+45648,Lucasville,Scioto County,"11,330"
+43953,Steubenville,Jefferson County,"11,274"
+44408,Columbiana,Columbiana County,"11,159"
+45213,Cincinnati,Hamilton County,"11,139"
+45015,Hamilton,Butler County,"11,038"
+45122,Goshen,Clermont County,"10,977"
+45806,Lima,Allen County,"10,974"
+45833,Delphos,Allen County,"10,919"
+44632,Hartville,Stark County,"10,815"
+44026,Chesterland,Geauga County,"10,730"
+44090,Wellington,Lorain County,"10,670"
+43338,Mount Gilead,Morrow County,"10,599"
+45209,Cincinnati,Hamilton County,"10,570"
+44509,Youngstown,Mahoning County,"10,562"
+43351,Upper Sandusky,Wyandot County,"10,457"
+44890,Willard,Huron County,"10,382"
+44662,Navarre,Stark County,"10,345"
+45206,Cincinnati,Hamilton County,"10,299"
+44471,Struthers,Mahoning County,"10,295"
+45669,Proctorville,Lawrence County,"10,243"
+43410,Clyde,Sandusky County,"10,220"
+44714,Canton,Stark County,"10,210"
+44481,Warren,Trumbull County,"10,206"
+45176,Williamsburg,Clermont County,"10,072"
+44615,Carrollton,Carroll County,"10,041"
+44115,Cleveland,Cuyahoga County,"10,011"
+45404,Dayton,Montgomery County,"9,826"
+44028,Columbia Station,Lorain County,"9,671"
+44657,Minerva,Carroll County,"9,620"
+43604,Toledo,Lucas County,"9,594"
+44502,Youngstown,Mahoning County,"9,594"
+45225,Cincinnati,Hamilton County,"9,583"
+45216,Cincinnati,Hamilton County,"9,569"
+45714,Belpre,Washington County,"9,503"
+44216,Clinton,Summit County,"9,465"
+43076,Thornville,Perry County,"9,456"
+43019,Fredericktown,Knox County,"9,445"
+45157,New Richmond,Clermont County,"9,415"
+45402,Dayton,Montgomery County,"9,407"
+45327,Germantown,Montgomery County,"9,315"
+44444,Newton Falls,Trumbull County,"9,220"
+44681,Sugarcreek,Tuscarawas County,"9,219"
+45107,Blanchester,Clinton County,"9,190"
+44117,Euclid,Cuyahoga County,"9,172"
+43724,Caldwell,Noble County,"9,133"
+44710,Canton,Stark County,"9,067"
+44707,Canton,Stark County,"9,048"
+45121,Georgetown,Brown County,"9,030"
+44813,Bellville,Richland County,"8,994"
+43105,Baltimore,Fairfield County,"8,982"
+45154,Mount Orab,Brown County,"8,969"
+43964,Toronto,Jefferson County,"8,952"
+45123,Greenfield,Highland County,"8,740"
+45693,West Union,Adams County,"8,714"
+45214,Cincinnati,Hamilton County,"8,630"
+43203,Columbus,Franklin County,"8,618"
+43566,Waterville,Lucas County,"8,604"
+43617,Toledo,Lucas County,"8,534"
+45204,Cincinnati,Hamilton County,"8,412"
+43515,Delta,Fulton County,"8,401"
+44047,Jefferson,Ashtabula County,"8,365"
+44231,Garrettsville,Portage County,"8,215"
+44606,Apple Creek,Wayne County,"8,182"
+43764,New Lexington,Perry County,"8,168"
+44230,Doylestown,Wayne County,"8,107"
+44233,Hinckley,Medina County,"8,103"
+43935,Martins Ferry,Belmont County,"8,083"
+44270,Rittman,Wayne County,"8,071"
+44703,Canton,Stark County,"8,070"
+44683,Uhrichsville,Tuscarawas County,"8,050"
+45692,Wellston,Jackson County,"7,997"
+45660,Peebles,Adams County,"7,936"
+44287,West Salem,Wayne County,"7,935"
+44618,Dalton,Wayne County,"7,846"
+44405,Campbell,Mahoning County,"7,815"
+43028,Howard,Knox County,"7,799"
+43906,Bellaire,Belmont County,"7,779"
+45764,Nelsonville,Hocking County,"7,706"
+43240,Columbus,Delaware County,"7,679"
+45304,Arcanum,Darke County,"7,599"
+43449,Oak Harbor,Ottawa County,"7,572"
+44311,Akron,Summit County,"7,547"
+44889,Wakeman,Huron County,"7,500"
+44114,Cleveland,Cuyahoga County,"7,488"
+45810,Ada,Hardin County,"7,449"
+45619,Chesapeake,Lawrence County,"7,409"
+43543,Montpelier,Williams County,"7,401"
+44413,East Palestine,Columbiana County,"7,397"
+45430,Dayton,Greene County,"7,371"
+45335,Jamestown,Greene County,"7,359"
+44303,Akron,Summit County,"7,323"
+43571,Whitehouse,Lucas County,"7,322"
+44255,Mantua,Portage County,"7,318"
+43619,Northwood,Wood County,"7,173"
+44627,Fredericksburg,Holmes County,"7,086"
+44050,Lagrange,Lorain County,"7,059"
+45065,South Lebanon,Warren County,"7,053"
+45656,Oak Hill,Jackson County,"7,013"
+44827,Crestline,Crawford County,"6,993"
+45207,Cincinnati,Hamilton County,"6,983"
+44081,Perry,Lake County,"6,971"
+44273,Seville,Medina County,"6,952"
+43832,Newcomerstown,Tuscarawas County,"6,942"
+45383,West Milton,Miami County,"6,912"
+43162,West Jefferson,Madison County,"6,896"
+43502,Archbold,Fulton County,"6,890"
+43315,Cardington,Morrow County,"6,873"
+45661,Piketon,Pike County,"6,823"
+44201,Atwater,Portage County,"6,666"
+44307,Akron,Summit County,"6,653"
+43968,Wellsville,Columbiana County,"6,623"
+44624,Dundee,Holmes County,"6,601"
+43011,Centerburg,Knox County,"6,594"
+45663,West Portsmouth,Scioto County,"6,577"
+43830,Nashport,Muskingum County,"6,549"
+45314,Cedarville,Greene County,"6,536"
+43713,Barnesville,Belmont County,"6,516"
+43526,Hicksville,Defiance County,"6,464"
+45217,Cincinnati,Hamilton County,"6,454"
+45828,Coldwater,Mercer County,"6,404"
+45232,Cincinnati,Hamilton County,"6,363"
+43334,Marengo,Morrow County,"6,326"
+44286,Richfield,Summit County,"6,295"
+43460,Rossford,Wood County,"6,200"
+45879,Paulding,Paulding County,"6,194"
+43344,Richwood,Union County,"6,173"
+45345,New Lebanon,Montgomery County,"6,110"
+44272,Rootstown,Portage County,"6,048"
+44730,East Canton,Stark County,"6,040"
+45628,Frankfort,Ross County,"5,999"
+43316,Carey,Wyandot County,"5,968"
+45817,Bluffton,Allen County,"5,926"
+44021,Burton,Geauga County,"5,908"
+43143,Mount Sterling,Madison County,"5,803"
+45226,Cincinnati,Hamilton County,"5,796"
+45171,Sardinia,Brown County,"5,752"
+43912,Bridgeport,Belmont County,"5,738"
+45311,Camden,Preble County,"5,701"
+43938,Mingo Junction,Jefferson County,"5,660"
+45416,Dayton,Montgomery County,"5,640"
+45381,West Alexandria,Preble County,"5,626"
+43756,Mcconnelsville,Morgan County,"5,573"
+45865,Minster,Auglaize County,"5,522"
+45318,Covington,Miami County,"5,511"
+44280,Valley City,Medina County,"5,503"
+44302,Akron,Summit County,"5,474"
+43465,Walbridge,Wood County,"5,451"
+45614,Bidwell,Gallia County,"5,450"
+44072,Novelty,Geauga County,"5,405"
+45769,Pomeroy,Meigs County,"5,395"
+45380,Versailles,Darke County,"5,394"
+43025,Hebron,Licking County,"5,357"
+45651,McArthur,Vinton County,"5,340"
+44842,Loudonville,Ashland County,"5,326"
+43080,Utica,Licking County,"5,321"
+45135,Leesburg,Highland County,"5,291"
+45387,Yellow Springs,Greene County,"5,285"
+44612,Bolivar,Tuscarawas County,"5,261"
+43072,Saint Paris,Champaign County,"5,253"
+45697,Winchester,Adams County,"5,222"
+45830,Columbus Grove,Putnam County,"5,199"
+44504,Youngstown,Mahoning County,"5,191"
+43731,Crooksville,Perry County,"5,136"
+43822,Frazeysburg,Muskingum County,"5,095"
+44243,Kent,Portage County,"5,082"
+45710,Albany,Meigs County,"5,067"
+45856,Leipsic,Putnam County,"5,042"
+44851,New London,Huron County,"5,038"
+44262,Munroe Falls,Summit County,"5,000"
+43762,New Concord,Muskingum County,"4,988"
+43044,Mechanicsburg,Champaign County,"4,964"
+45323,Enon,Clark County,"4,961"
+43907,Cadiz,Harrison County,"4,960"
+44438,Masury,Trumbull County,"4,950"
+45612,Bainbridge,Ross County,"4,933"
+43061,Ostrander,Delaware County,"4,921"
+44676,Shreve,Wayne County,"4,914"
+43620,Toledo,Lucas County,"4,912"
+43430,Genoa,Ottawa County,"4,911"
+43112,Carroll,Fairfield County,"4,909"
+45315,Clayton,Montgomery County,"4,905"
+43357,West Liberty,Logan County,"4,899"
+43947,Shadyside,Belmont County,"4,893"
+44254,Lodi,Medina County,"4,880"
+43793,Woodsfield,Monroe County,"4,836"
+44430,Leavittsburg,Trumbull County,"4,827"
+43222,Columbus,Franklin County,"4,819"
+44431,Leetonia,Columbiana County,"4,788"
+43845,West Lafayette,Coshocton County,"4,787"
+45338,Lewisburg,Preble County,"4,761"
+44837,Greenwich,Huron County,"4,738"
+43783,Somerset,Perry County,"4,720"
+45252,Cincinnati,Hamilton County,"4,684"
+44076,Orwell,Ashtabula County,"4,678"
+45846,Fort Recovery,Mercer County,"4,644"
+44902,Mansfield,Richland County,"4,636"
+44672,Sebring,Mahoning County,"4,634"
+45644,Kingston,Ross County,"4,619"
+43431,Gibsonburg,Sandusky County,"4,609"
+44644,Malvern,Carroll County,"4,587"
+44003,Andover,Ashtabula County,"4,569"
+43824,Fresno,Coshocton County,"4,568"
+44621,Dennison,Tuscarawas County,"4,566"
+45872,North Baltimore,Wood County,"4,548"
+43723,Byesville,Guernsey County,"4,472"
+43403,Bowling Green,Wood County,"4,452"
+45887,Spencerville,Allen County,"4,422"
+44440,Mineral Ridge,Trumbull County,"4,418"
+45308,Bradford,Darke County,"4,385"
+43318,De Graff,Logan County,"4,352"
+45302,Anna,Shelby County,"4,338"
+45732,Glouster,Athens County,"4,287"
+43777,Roseville,Muskingum County,"4,253"
+44127,Cleveland,Cuyahoga County,"4,239"
+45052,North Bend,Hamilton County,"4,236"
+43440,Lakeside Marblehead,Ottawa County,"4,222"
+44473,Vienna,Trumbull County,"4,213"
+45130,Hamersville,Brown County,"4,206"
+45142,Lynchburg,Highland County,"4,187"
+43542,Monclova,Lucas County,"4,184"
+45843,Forest,Hardin County,"4,184"
+43412,Curtice,Lucas County,"4,175"
+45869,New Bremen,Auglaize County,"4,170"
+45883,Saint Henry,Mercer County,"4,144"
+44507,Youngstown,Mahoning County,"4,140"
+45369,South Vienna,Clark County,"4,120"
+45144,Manchester,Adams County,"4,119"
+43331,Lakeview,Logan County,"4,106"
+44470,Southington,Trumbull County,"4,104"
+45347,New Paris,Preble County,"4,095"
+43610,Toledo,Lucas County,"4,060"
+45169,Sabina,Clinton County,"4,050"
+44304,Akron,Summit County,"4,000"
+43821,Dresden,Muskingum County,"3,998"
+44822,Butler,Richland County,"3,995"
+43135,Laurelville,Hocking County,"3,937"
+44437,McDonald,Trumbull County,"3,913"
+44680,Strasburg,Tuscarawas County,"3,913"
+44643,Magnolia,Carroll County,"3,896"
+45368,South Charleston,Clark County,"3,889"
+45113,Clarksville,Clinton County,"3,877"
+44288,Windham,Portage County,"3,850"
+45760,Middleport,Meigs County,"3,844"
+44065,Newbury,Geauga County,"3,842"
+43342,Prospect,Marion County,"3,836"
+45218,Cincinnati,Hamilton County,"3,836"
+44217,Creston,Wayne County,"3,804"
+43107,Bremen,Fairfield County,"3,791"
+44609,Beloit,Mahoning County,"3,782"
+44084,Rock Creek,Ashtabula County,"3,765"
+44442,New Middletown,Mahoning County,"3,762"
+43844,Warsaw,Coshocton County,"3,760"
+43450,Pemberville,Wood County,"3,759"
+45742,Little Hocking,Washington County,"3,752"
+44403,Brookfield,Trumbull County,"3,743"
+43014,Danville,Knox County,"3,738"
+43003,Ashley,Morrow County,"3,723"
+45813,Antwerp,Paulding County,"3,719"
+45053,Okeana,Butler County,"3,718"
+43102,Amanda,Fairfield County,"3,711"
+45118,Fayetteville,Brown County,"3,703"
+45723,Coolville,Athens County,"3,682"
+44704,Canton,Stark County,"3,681"
+44840,Jeromesville,Ashland County,"3,660"
+44491,West Farmington,Trumbull County,"3,653"
+44824,Castalia,Erie County,"3,642"
+45341,Medway,Clark County,"3,639"
+43022,Gambier,Knox County,"3,635"
+44234,Hiram,Portage County,"3,617"
+45159,New Vienna,Clinton County,"3,588"
+45850,Harrod,Allen County,"3,559"
+44253,Litchfield,Medina County,"3,552"
+45653,Minford,Scioto County,"3,528"
+44847,Monroeville,Huron County,"3,514"
+44846,Milan,Erie County,"3,489"
+44085,Rome,Ashtabula County,"3,468"
+44264,Peninsula,Summit County,"3,462"
+43943,Rayland,Jefferson County,"3,457"
+43517,Edgerton,Williams County,"3,442"
+45390,Union City,Darke County,"3,432"
+45845,Fort Loramie,Shelby County,"3,429"
+45771,Racine,Meigs County,"3,426"
+43804,Baltic,Holmes County,"3,425"
+45064,Somerville,Butler County,"3,373"
+45686,Vinton,Gallia County,"3,372"
+43154,Stoutsville,Fairfield County,"3,367"
+45652,McDermott,Scioto County,"3,360"
+43447,Millbury,Wood County,"3,348"
+44864,Perrysville,Ashland County,"3,336"
+44865,Plymouth,Huron County,"3,287"
+45167,Ripley,Brown County,"3,285"
+43557,Stryker,Williams County,"3,284"
+44666,North Lawrence,Stark County,"3,247"
+45831,Continental,Putnam County,"3,233"
+45832,Convoy,Van Wert County,"3,230"
+45613,Beaver,Pike County,"3,228"
+45623,Crown City,Gallia County,"3,203"
+43532,Liberty Center,Henry County,"3,192"
+43910,Bloomingdale,Jefferson County,"3,191"
+45786,Waterford,Washington County,"3,187"
+44275,Spencer,Medina County,"3,186"
+43310,Belle Center,Hardin County,"3,177"
+44880,Sullivan,Ashland County,"3,143"
+44428,Kinsman,Trumbull County,"3,102"
+43522,Grand Rapids,Wood County,"3,098"
+44436,Lowellville,Mahoning County,"3,077"
+44040,Gates Mills,Cuyahoga County,"3,063"
+45844,Fort Jennings,Putnam County,"3,059"
+45629,Franklin Furnace,Scioto County,"3,055"
+45784,Vincent,Washington County,"3,002"
+43748,Junction City,Perry County,"2,980"
+44412,Diamond,Portage County,"2,976"
+43046,Millersport,Fairfield County,"2,946"
+43569,Weston,Wood County,"2,927"
+45882,Rockford,Mercer County,"2,919"
+44445,New Waterford,Columbiana County,"2,914"
+43945,Salineville,Columbiana County,"2,910"
+43469,Woodville,Sandusky County,"2,905"
+43518,Edon,Williams County,"2,897"
+43001,Alexandria,Licking County,"2,892"
+44451,North Jackson,Mahoning County,"2,892"
+43416,Elmore,Ottawa County,"2,868"
+43570,West Unity,Williams County,"2,867"
+45679,Seaman,Adams County,"2,841"
+45780,The Plains,Athens County,"2,828"
+44688,Waynesburg,Stark County,"2,808"
+45645,Kitts Hill,Lawrence County,"2,801"
+45858,McComb,Hancock County,"2,795"
+43516,Deshler,Henry County,"2,789"
+43749,Kimbolton,Guernsey County,"2,764"
+43977,Flushing,Belmont County,"2,757"
+45162,Pleasant Plain,Warren County,"2,754"
+43730,Corning,Perry County,"2,749"
+43758,Malta,Morgan County,"2,748"
+44677,Smithville,Wayne County,"2,734"
+43324,Huntsville,Logan County,"2,733"
+44637,Killbuck,Holmes County,"2,719"
+44878,Shiloh,Richland County,"2,712"
+43718,Belmont,Belmont County,"2,696"
+45054,Oregonia,Warren County,"2,693"
+44608,Beach City,Stark County,"2,692"
+43116,Commercial Point,Pickaway County,"2,684"
+44626,East Sparta,Stark County,"2,658"
+44215,Chippewa Lake,Medina County,"2,650"
+44629,Gnadenhutten,Tuscarawas County,"2,636"
+45659,Pedro,Lawrence County,"2,614"
+44402,Bristolville,Trumbull County,"2,613"
+44452,North Lima,Mahoning County,"2,602"
+43944,Richmond,Jefferson County,"2,593"
+44656,Mineral City,Tuscarawas County,"2,592"
+45877,Pandora,Putnam County,"2,562"
+45814,Arlington,Hancock County,"2,556"
+44645,Marshallville,Wayne County,"2,553"
+45120,Felicity,Clermont County,"2,548"
+43773,Quaker City,Guernsey County,"2,546"
+45658,Patriot,Gallia County,"2,539"
+44401,Berlin Center,Mahoning County,"2,526"
+43787,Stockport,Morgan County,"2,524"
+45370,Spring Valley,Greene County,"2,518"
+43780,Senecaville,Guernsey County,"2,515"
+43739,Glenford,Perry County,"2,508"
+44633,Holmesville,Holmes County,"2,496"
+44836,Green Springs,Seneca County,"2,496"
+43466,Wayne,Wood County,"2,492"
+43521,Fayette,Fulton County,"2,471"
+45325,Farmersville,Montgomery County,"2,470"
+45880,Payne,Paulding County,"2,470"
+43988,Scio,Harrison County,"2,457"
+44086,Thompson,Geauga County,"2,457"
+44214,Burbank,Wayne County,"2,450"
+44843,Lucas,Richland County,"2,445"
+43314,Caledonia,Marion County,"2,438"
+45203,Cincinnati,Hamilton County,"2,436"
+43008,Buckeye Lake,Licking County,"2,434"
+45767,New Matamoras,Washington County,"2,428"
+43137,Lockbourne,Pickaway County,"2,415"
+45873,Oakwood,Paulding County,"2,414"
+43071,Saint Louisville,Licking County,"2,371"
+44048,Kingsville,Ashtabula County,"2,369"
+44814,Berlin Heights,Erie County,"2,369"
+43155,Sugar Grove,Fairfield County,"2,361"
+43060,North Lewisburg,Champaign County,"2,359"
+44867,Republic,Seneca County,"2,345"
+45860,Maria Stein,Mercer County,"2,326"
+43719,Bethesda,Belmont County,"2,323"
+45174,Terrace Park,Hamilton County,"2,321"
+44429,Lake Milton,Mahoning County,"2,313"
+43150,Rushville,Fairfield County,"2,300"
+44411,Deerfield,Portage County,"2,294"
+43358,West Mansfield,Union County,"2,275"
+44611,Big Prairie,Holmes County,"2,259"
+44450,North Bloomfield,Trumbull County,"2,246"
+44807,Attica,Seneca County,"2,244"
+43901,Adena,Jefferson County,"2,232"
+43009,Cable,Champaign County,"2,229"
+45153,Moscow,Clermont County,"2,218"
+43136,Lithopolis,Fairfield County,"2,216"
+44675,Sherrodsville,Carroll County,"2,215"
+43917,Dillonvale,Jefferson County,"2,207"
+44849,Nevada,Wyandot County,"2,195"
+45303,Ansonia,Darke County,"2,188"
+45827,Cloverdale,Putnam County,"2,186"
+45744,Lowell,Washington County,"2,179"
+44423,Hanoverton,Columbiana County,"2,177"
+43164,Williamsport,Pickaway County,"2,176"
+43332,La Rue,Marion County,"2,173"
+45657,Otway,Scioto County,"2,173"
+45871,New Knoxville,Auglaize County,"2,167"
+45359,Pleasant Hill,Miami County,"2,160"
+43527,Holgate,Henry County,"2,151"
+43464,Vickery,Sandusky County,"2,138"
+44032,Dorset,Ashtabula County,"2,135"
+44882,Sycamore,Wyandot County,"2,133"
+43149,Rockbridge,Hocking County,"2,129"
+45306,Botkins,Shelby County,"2,124"
+45682,South Webster,Scioto County,"2,124"
+45729,Fleming,Washington County,"2,121"
+43903,Amsterdam,Carroll County,"2,116"
+44866,Polk,Ashland County,"2,106"
+43340,Mount Victory,Hardin County,"2,103"
+43771,Philo,Muskingum County,"2,103"
+44506,Youngstown,Mahoning County,"2,096"
+43217,Columbus,Franklin County,"2,091"
+43145,New Holland,Pickaway County,"2,070"
+43554,Pioneer,Williams County,"2,037"
+45101,Aberdeen,Brown County,"2,035"
+44510,Youngstown,Mahoning County,"2,027"
+45812,Alger,Hardin County,"2,027"
+43973,Freeport,Harrison County,"2,016"
+43942,Powhatan Point,Belmont County,"2,012"
+45715,Beverly,Morgan County,"2,006"
+43128,Jeffersonville,Fayette County,"2,002"
+44818,Bloomville,Seneca County,"1,989"
+44859,Nova,Ashland County,"1,989"
+44613,Brewster,Stark County,"1,985"
+43933,Jacobsburg,Belmont County,"1,984"
+44276,Sterling,Wayne County,"1,923"
+45384,Wilberforce,Greene County,"1,919"
+43716,Beallsville,Monroe County,"1,903"
+43148,Pleasantville,Fairfield County,"1,898"
+43348,Russells Point,Logan County,"1,897"
+43067,Raymond,Union County,"1,884"
+45334,Jackson Center,Shelby County,"1,882"
+45647,Londonderry,Vinton County,"1,869"
+45735,Guysville,Athens County,"1,868"
+45363,Russia,Shelby County,"1,862"
+44634,Homeworth,Columbiana County,"1,837"
+45896,Waynesfield,Auglaize County,"1,833"
+45333,Houston,Shelby County,"1,830"
+45874,Ohio City,Van Wert County,"1,820"
+43732,Cumberland,Guernsey County,"1,813"
+43115,Clarksburg,Ross County,"1,796"
+43533,Lyons,Fulton County,"1,770"
+44804,Arcadia,Hancock County,"1,763"
+44099,Windsor,Ashtabula County,"1,759"
+43013,Croton,Licking County,"1,754"
+44669,Paris,Stark County,"1,753"
+43755,Lore City,Guernsey County,"1,750"
+44250,Lakemore,Summit County,"1,745"
+43045,Milford Center,Union County,"1,739"
+44082,Pierpont,Ashtabula County,"1,704"
+45337,Laura,Miami County,"1,703"
+45889,Van Buren,Hancock County,"1,687"
+45881,Rawson,Hancock County,"1,683"
+45634,Hamden,Vinton County,"1,675"
+43556,Sherwood,Defiance County,"1,670"
+45168,Russellville,Brown County,"1,667"
+44404,Burghill,Trumbull County,"1,663"
+45346,New Madison,Darke County,"1,663"
+45775,Rutland,Meigs County,"1,650"
+44443,New Springfield,Mahoning County,"1,641"
+44854,New Washington,Crawford County,"1,630"
+43754,Lewisville,Monroe County,"1,623"
+43406,Bradner,Wood County,"1,619"
+43443,Luckey,Wood County,"1,613"
+44455,Rogers,Columbiana County,"1,597"
+45148,Midland,Clinton County,"1,592"
+43106,Bloomingburg,Fayette County,"1,587"
+43540,Metamora,Fulton County,"1,582"
+45836,Dunkirk,Hardin County,"1,573"
+44441,Negley,Columbiana County,"1,571"
+43734,Duncan Falls,Muskingum County,"1,568"
+44010,Austinburg,Ashtabula County,"1,554"
+44417,Farmdale,Trumbull County,"1,550"
+43772,Pleasant City,Noble County,"1,544"
+43360,Zanesfield,Logan County,"1,538"
+45761,Millfield,Athens County,"1,537"
+45853,Kalida,Putnam County,"1,526"
+43986,Jewett,Harrison County,"1,517"
+44418,Fowler,Trumbull County,"1,508"
+45433,Dayton,Greene County,"1,508"
+45684,Stout,Adams County,"1,507"
+44817,Bloomdale,Wood County,"1,505"
+45768,Newport,Washington County,"1,503"
+44046,Huntsburg,Geauga County,"1,500"
+43760,Mount Perry,Perry County,"1,493"
+43976,Hopedale,Harrison County,"1,485"
+45772,Reedsville,Meigs County,"1,480"
+43946,Sardis,Monroe County,"1,479"
+45743,Long Bottom,Meigs County,"1,470"
+44620,Dellroy,Carroll County,"1,461"
+44427,Kensington,Carroll County,"1,451"
+45681,South Salem,Ross County,"1,451"
+45326,Fletcher,Miami County,"1,446"
+43767,Norwich,Muskingum County,"1,443"
+43534,McClure,Henry County,"1,422"
+45862,Mendon,Mercer County,"1,417"
+43457,Risingsun,Wood County,"1,411"
+44638,Lakeville,Holmes County,"1,411"
+44853,New Riegel,Seneca County,"1,391"
+43747,Jerusalem,Monroe County,"1,386"
+43778,Salesville,Guernsey County,"1,378"
+43066,Radnor,Delaware County,"1,368"
+43435,Helena,Sandusky County,"1,368"
+43343,Quincy,Logan County,"1,366"
+44235,Homerville,Medina County,"1,365"
+45672,Ray,Vinton County,"1,361"
+43432,Graytown,Ottawa County,"1,357"
+43840,Stone Creek,Tuscarawas County,"1,350"
+45616,Blue Creek,Adams County,"1,350"
+43837,Port Washington,Tuscarawas County,"1,329"
+45146,Martinsville,Clinton County,"1,324"
+43549,Ney,Defiance County,"1,317"
+43802,Adamsville,Muskingum County,"1,313"
+43766,New Straitsville,Perry County,"1,310"
+43720,Blue Rock,Muskingum County,"1,308"
+44064,Montville,Geauga County,"1,300"
+45766,New Marshfield,Athens County,"1,298"
+44682,Tuscarawas,Tuscarawas County,"1,295"
+45699,Lucasville,Scioto County,"1,285"
+44695,Bowerston,Carroll County,"1,273"
+45321,Eldorado,Preble County,"1,272"
+44628,Glenmont,Holmes County,"1,270"
+44887,Tiro,Crawford County,"1,270"
+43963,Tiltonsville,Jefferson County,"1,262"
+43915,Clarington,Monroe County,"1,256"
+44093,Williamsfield,Ashtabula County,"1,256"
+45863,Middle Point,Van Wert County,"1,256"
+45711,Amesville,Athens County,"1,244"
+43525,Haskins,Wood County,"1,229"
+43728,Chesterhill,Morgan County,"1,223"
+45724,Cutler,Washington County,"1,218"
+43913,Brilliant,Jefferson County,"1,213"
+43002,Amlin,Franklin County,"1,205"
+44449,North Benton,Mahoning County,"1,205"
+43727,Chandlersville,Muskingum County,"1,202"
+43320,Edison,Morrow County,"1,189"
+45317,Conover,Champaign County,"1,187"
+43524,Hamler,Henry County,"1,170"
+43413,Cygnet,Wood County,"1,160"
+45382,West Manchester,Preble County,"1,154"
+43451,Portage,Wood County,"1,148"
+45778,Stewart,Athens County,"1,144"
+43356,Waldo,Marion County,"1,120"
+45776,Shade,Meigs County,"1,117"
+43347,Rushsylvania,Logan County,"1,113"
+43153,South Solon,Madison County,"1,112"
+44855,North Fairfield,Huron County,"1,096"
+45312,Casstown,Miami County,"1,086"
+43462,Rudolph,Wood County,"1,076"
+43908,Bergholz,Jefferson County,"1,073"
+45362,Rossburg,Darke County,"1,071"
+43504,Berkey,Lucas County,"1,061"
+45339,Ludlow Falls,Miami County,"1,057"
+44826,Collins,Huron County,"1,052"
+45685,Thurman,Jackson County,"1,050"
+45745,Lower Salem,Noble County,"1,049"
+45678,Scottown,Lawrence County,"1,034"
+44308,Akron,Summit County,"1,030"
+43930,Hammondsville,Jefferson County,"1,017"
+43535,Malinta,Henry County,"1,011"
+43932,Irondale,Jefferson County,"1,008"
+45849,Grover Hill,Paulding County,"1,002"
+43084,Woodstock,Champaign County,991
+45867,Mount Blanchard,Hancock County,978
+45034,Kings Mills,Warren County,968
+44251,Westfield Center,Medina County,963
+44702,Canton,Stark County,963
+44625,East Rochester,Columbiana County,962
+43341,New Bloomington,Marion County,953
+45727,Dexter City,Noble County,944
+43152,South Bloomingville,Hocking County,941
+43333,Lewistown,Logan County,941
+45741,Langsville,Meigs County,940
+44503,Youngstown,Mahoning County,938
+45841,Jenera,Hancock County,924
+43971,Yorkville,Jefferson County,923
+45898,Willshire,Van Wert County,917
+44454,Petersburg,Mahoning County,912
+44325,Akron,Summit County,911
+45001,Addyston,Hamilton County,904
+43319,East Liberty,Logan County,851
+45348,New Weston,Darke County,848
+45890,Vanlue,Hancock County,842
+45388,Yorkshire,Darke County,841
+45003,College Corner,Preble County,839
+45696,Willow Wood,Lawrence County,839
+44653,Midvale,Tuscarawas County,837
+43548,New Bavaria,Henry County,832
+45876,Ottoville,Putnam County,829
+43442,Lindsey,Sandusky County,824
+44651,Mechanicstown,Carroll County,820
+43445,Martin,Ottawa County,801
+45340,Maplewood,Shelby County,800
+45158,Newtonsville,Clermont County,787
+43511,Custar,Wood County,783
+45821,Cecil,Paulding County,759
+43359,Wharton,Wyandot County,748
+44802,Alvada,Seneca County,746
+45654,New Plymouth,Vinton County,746
+44844,McCutchenville,Seneca County,744
+45868,Mount Cory,Hancock County,737
+43788,Summerfield,Noble County,735
+44699,Tippecanoe,Harrison County,725
+45332,Hollansburg,Darke County,716
+43501,Alvordton,Williams County,715
+43746,Hopewell,Muskingum County,715
+44815,Bettsville,Seneca County,710
+45330,Gratis,Preble County,710
+45389,Christiansburg,Champaign County,708
+43006,Brinkhaven,Coshocton County,701
+43456,Put In Bay,Ottawa County,692
+45788,Whipple,Washington County,691
+45622,Creola,Vinton County,686
+45032,Harveysburg,Warren County,683
+45620,Cheshire,Gallia County,675
+43345,Ridgeway,Logan County,666
+44101,Cleveland,Cuyahoga County,666
+43547,Neapolis,Lucas County,663
+43983,Piedmont,Belmont County,657
+45719,Chauncey,Athens County,655
+43779,Sarahsville,Noble County,654
+45770,Portland,Meigs County,635
+43337,Morral,Marion County,625
+43948,Smithfield,Jefferson County,623
+43735,East Fultonham,Muskingum County,620
+43843,Walhonding,Coshocton County,618
+45674,Rio Grande,Gallia County,618
+43722,Buffalo,Guernsey County,617
+44652,Middlebranch,Stark County,615
+44045,Grand River,Lake County,611
+45894,Venedocia,Van Wert County,602
+45773,Reno,Washington County,600
+43323,Harpster,Wyandot County,598
+43157,Thurston,Fairfield County,597
+44490,Washingtonville,Columbiana County,597
+45820,Cairo,Allen County,581
+45695,Wilkesville,Vinton County,572
+45779,Syracuse,Meigs County,562
+45354,Phillipsburg,Montgomery County,553
+43029,Irwin,Madison County,544
+43782,Shawnee,Perry County,544
+45328,Gettysburg,Darke County,544
+45378,Verona,Preble County,539
+45851,Haviland,Paulding County,524
+45062,Seven Mile,Butler County,511
+45155,Mowrystown,Highland County,510
+45621,Coalton,Jackson County,509
+45160,Owensville,Clermont County,507
+44439,Mesopotamia,Trumbull County,499
+44841,Kansas,Seneca County,498
+43407,Burgoon,Sandusky County,484
+45673,Richmond Dale,Ross County,473
+43437,Jerry City,Wood County,465
+45782,Trimble,Athens County,464
+43468,Williston,Ottawa County,459
+43905,Barton,Belmont County,459
+45671,Rarden,Scioto County,457
+45835,Dola,Hardin County,449
+45870,New Hampshire,Auglaize County,445
+44661,Nashville,Holmes County,442
+43322,Green Camp,Marion County,437
+45716,Buchtel,Athens County,436
+45650,Lynx,Adams County,423
+44689,Wilmot,Holmes County,411
+45861,Melrose,Paulding County,404
+45826,Chickasaw,Mercer County,394
+43553,Pettisville,Fulton County,388
+43033,Kirkersville,Licking County,387
+43408,Clay Center,Ottawa County,386
+45698,Zaleski,Vinton County,386
+45859,McGuffey,Hardin County,384
+43529,Hoytville,Wood County,381
+43321,Fulton,Morrow County,378
+45033,Hooven,Hamilton County,377
+43463,Stony Ridge,Wood County,366
+45358,Pitsburg,Darke County,362
+43036,Magnetic Springs,Union County,359
+43811,Conesville,Coshocton County,354
+45816,Benton Ridge,Hancock County,351
+45808,Beaverdam,Allen County,350
+44415,Elkton,Columbiana County,345
+45886,Scott,Paulding County,342
+43939,Mount Pleasant,Jefferson County,341
+43005,Bladensburg,Knox County,339
+43536,Mark Center,Defiance County,338
+44687,Walnut Creek,Holmes County,337
+45051,Mount Saint Joseph,Hamilton County,334
+45636,Haverhill,Scioto County,330
+45746,Macksburg,Washington County,329
+45351,Osgood,Darke County,328
+43101,Adelphi,Ross County,316
+45734,Graysville,Monroe County,315
+43565,Tontogany,Wood County,311
+45740,Jacksonville,Athens County,311
+45172,Sinking Spring,Highland County,308
+45319,Donnelsville,Clark County,308
+43126,Harrisburg,Franklin County,306
+43010,Catawba,Clark County,305
+43940,Neffs,Belmont County,304
+43805,Blissfield,Coshocton County,302
+44619,Damascus,Mahoning County,299
+43144,Murray City,Hocking County,295
+43037,Martinsburg,Knox County,293
+45854,Lafayette,Allen County,293
+43018,Etna,Licking County,286
+43842,Trinway,Muskingum County,286
+43458,Rocky Ridge,Ottawa County,282
+45789,Wingett Run,Washington County,280
+45131,Higginsport,Brown County,278
+45360,Port Jefferson,Shelby County,278
+45428,Dayton,Montgomery County,272
+43077,Unionville Center,Union County,269
+44697,Zoar,Tuscarawas County,268
+45111,Camp Dennison,Hamilton County,265
+45372,Tremont City,Clark County,265
+44874,Savannah,Ashland County,264
+43740,Gratiot,Licking County,261
+43127,Haydenville,Hocking County,257
+43519,Evansport,Defiance County,257
+43928,Glencoe,Belmont County,255
+43555,Ridgeville Corners,Henry County,253
+45361,Potsdam,Miami County,253
+43926,Empire,Jefferson County,252
+43030,Jacksontown,Licking County,249
+43111,Carbon Hill,Hocking County,249
+44049,Kipton,Lorain County,246
+45353,Pemberton,Shelby County,242
+43759,Morristown,Belmont County,240
+43981,New Athens,Harrison County,239
+43346,Roundhead,Hardin County,238
+45783,Tuppers Plains,Meigs County,238
+43156,Tarlton,Pickaway County,237
+45349,North Hampton,Clark County,234
+43151,Sedalia,Madison County,233
+43985,Holloway,Belmont County,231
+44670,Robertsville,Stark County,229
+45310,Burkettsville,Mercer County,227
+45819,Buckland,Auglaize County,226
+45864,Miller City,Putnam County,225
+45301,Alpha,Greene County,224
+43961,Stratton,Jefferson County,221
+44838,Hayesville,Ashland County,217
+45119,Feesburg,Brown County,216
+45307,Bowersville,Greene County,216
+44610,Berlin,Holmes County,214
+43531,Kunkle,Williams County,212
+44639,Leesville,Carroll County,212
+43768,Old Washington,Guernsey County,211
+45688,Waterloo,Lawrence County,210
+45899,Wren,Van Wert County,206
+44881,Sulphur Springs,Crawford County,205
+45055,Overpeck,Butler County,198
+43721,Brownsville,Licking County,196
+45630,Friendship,Scioto County,188
+43027,Homer,Licking County,185
+43467,West Millgrove,Wood County,185
+43541,Milton Center,Wood County,183
+45855,Latty,Paulding County,182
+43931,Hannibal,Monroe County,178
+44678,Somerdale,Tuscarawas County,176
+45164,Port William,Clinton County,175
+43317,Chesterville,Morrow County,173
+45352,Palestine,Darke County,173
+43070,Rosewood,Champaign County,170
+44555,Youngstown,Mahoning County,169
+45469,Dayton,Montgomery County,168
+44068,North Kingsville,Ashtabula County,167
+43717,Belle Valley,Noble County,166
+45888,Uniopolis,Auglaize County,166
+43158,Union Furnace,Hocking County,160
+45893,Vaughnsville,Putnam County,160
+44850,New Haven,Huron County,155
+43109,Brice,Franklin County,152
+45115,Decatur,Brown County,151
+43350,Sparta,Morrow County,146
+43414,Dunbridge,Wood County,144
+45070,West Elkton,Preble County,142
+45316,Clifton,Clark County,141
+45884,Saint Johns,Auglaize County,141
+44828,Flat Rock,Seneca County,138
+43934,Lansing,Belmont County,135
+45435,Dayton,Greene County,134
+45646,Latham,Pike County,129
+43438,Kelleys Island,Erie County,128
+44825,Chatfield,Crawford County,126
+44671,Sandyville,Tuscarawas County,119
+45041,Miamitown,Hamilton County,118
+43902,Alledonia,Belmont County,117
+44659,Mount Eaton,Wayne County,117
+45866,Montezuma,Mercer County,117
+45897,Williamstown,Hancock County,115
+43836,Plainfield,Coshocton County,112
+43434,Harbor View,Lucas County,110
+43750,Kipling,Guernsey County,110
+44640,Limaville,Stark County,110
+43972,Bannock,Belmont County,109
+43142,Milledgeville,Fayette County,107
+43738,Fultonham,Muskingum County,106
+43974,Harrisville,Harrison County,106
+44665,North Georgetown,Columbiana County,104
+44809,Bascom,Seneca County,103
+43330,Kirby,Wyandot County,100
+44274,Sharon Center,Medina County,92
+45132,Highland,Highland County,87
+45336,Kettlersville,Shelby County,84
+44424,Hartford,Trumbull County,83
+45815,Belmore,Putnam County,81
+44285,Wayland,Portage County,76
+45848,Glandorf,Putnam County,76
+44693,Deersville,Harrison County,72
+45838,Elgin,Van Wert County,72
+43505,Blakeslee,Williams County,71
+43325,Iberia,Morrow County,70
+45350,North Star,Darke County,69
+43962,Summitville,Columbiana County,67
+43733,Derwent,Guernsey County,66
+43786,Stafford,Monroe County,66
+44856,North Robinson,Crawford County,65
+43007,Broadway,Union County,63
+45166,Reesville,Clinton County,60
+45147,Miamiville,Clermont County,57
+44690,Winesburg,Holmes County,52
+45156,Neville,Clermont County,52
+44493,Winona,Columbiana County,51
+44660,Mount Hope,Holmes County,48
+45739,Hockingport,Athens County,46
+43761,Moxahala,Perry County,45
+45809,Gomer,Allen County,45
+43523,Grelton,Henry County,44
+43951,Lafferty,Belmont County,42
+44080,Parkman,Geauga County,42
+43336,Middleburg,Logan County,41
+43925,East Springfield,Jefferson County,39
+45720,Chester,Meigs County,36
+43446,Middle Bass,Ottawa County,35
+43791,White Cottage,Muskingum County,33
+43909,Blaine,Belmont County,31
+43967,Warnock,Belmont County,31
+44861,Old Fort,Seneca County,31
+45677,Scioto Furnace,Scioto County,27
+45105,Bentonville,Adams County,23
+43047,Mingo,Champaign County,18
+44607,Augusta,Carroll County,15
+45721,Coal Run,Washington County,15
+43736,Fairview,Guernsey County,14
+43510,Colton,Henry County,12
+45112,Chilo,Clermont County,11
+43117,Derby,Pickaway County,7
+45267,Cincinnati,Hamilton County,2
+43032,Kilbourne,Delaware County,0
+43218,Columbus,Franklin County,0
+43433,Gypsum,Ottawa County,0
+43436,Isle Saint George,Ottawa County,0
+43439,Lacarne,Ottawa County,0
+43520,Farmer,Defiance County,0
+43530,Jewell,Defiance County,0
+43711,Ava,Noble County,0
+43914,Cameron,Monroe County,0
+44232,Green,Summit County,0
+44630,Greentown,Stark County,0
+44901,Mansfield,Richland County,0
+45423,Dayton,Montgomery County,0
+45501,Springfield,Clark County,0
+45617,Bourneville,Ross County,0
+45618,Cherry Fork,Adams County,0
+45624,Cynthiana,Pike County,0
+45642,Jasper,Pike County,0

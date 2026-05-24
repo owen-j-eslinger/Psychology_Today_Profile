@@ -1,0 +1,418 @@
+ZIP,City,County,Population
+85142,Queen Creek,Pinal County,"93,700"
+85326,Buckeye,Maricopa County,"75,359"
+85383,Peoria,Maricopa County,"74,390"
+85364,Yuma,Yuma County,"72,960"
+85281,Tempe,Maricopa County,"72,762"
+85225,Chandler,Maricopa County,"72,297"
+85032,Phoenix,Maricopa County,"70,839"
+85301,Glendale,Maricopa County,"68,178"
+85338,Goodyear,Maricopa County,"67,451"
+85204,Mesa,Maricopa County,"65,155"
+85308,Glendale,Maricopa County,"65,095"
+85041,Phoenix,Maricopa County,"63,862"
+85122,Casa Grande,Pinal County,"61,624"
+85345,Peoria,Maricopa County,"60,918"
+85008,Phoenix,Maricopa County,"59,716"
+85033,Phoenix,Maricopa County,"57,591"
+85295,Gilbert,Maricopa County,"56,744"
+85710,Tucson,Pima County,"56,125"
+85212,Mesa,Maricopa County,"55,283"
+85138,Maricopa,Pinal County,"55,260"
+85365,Yuma,Yuma County,"54,775"
+85705,Tucson,Pima County,"54,700"
+85339,Laveen,Maricopa County,"54,641"
+85037,Phoenix,Maricopa County,"54,608"
+85706,Tucson,Pima County,"54,236"
+85022,Phoenix,Maricopa County,"53,811"
+85282,Tempe,Maricopa County,"53,624"
+85035,Phoenix,Maricopa County,"53,424"
+85296,Gilbert,Maricopa County,"53,076"
+85009,Phoenix,Maricopa County,"52,064"
+85719,Tucson,Pima County,"51,833"
+85201,Mesa,Maricopa County,"51,400"
+85234,Gilbert,Maricopa County,"51,283"
+85140,San Tan Valley,Pinal County,"51,260"
+85207,Mesa,Maricopa County,"51,178"
+85379,Surprise,Maricopa County,"51,035"
+85286,Chandler,Maricopa County,"50,621"
+85029,Phoenix,Maricopa County,"49,683"
+85353,Tolleson,Maricopa County,"49,120"
+85249,Chandler,Maricopa County,"48,746"
+85224,Chandler,Maricopa County,"47,963"
+85283,Tempe,Maricopa County,"47,459"
+85323,Avondale,Maricopa County,"47,043"
+85713,Tucson,Pima County,"46,439"
+85017,Phoenix,Maricopa County,"46,129"
+85042,Phoenix,Maricopa County,"45,903"
+85051,Phoenix,Maricopa County,"45,768"
+85254,Scottsdale,Maricopa County,"45,558"
+85255,Scottsdale,Maricopa County,"45,346"
+85205,Mesa,Maricopa County,"45,116"
+85143,San Tan Valley,Pinal County,"44,444"
+85298,Gilbert,Maricopa County,"44,114"
+85382,Peoria,Maricopa County,"43,729"
+85086,Phoenix,Maricopa County,"43,270"
+85209,Mesa,Maricopa County,"43,150"
+85746,Tucson,Pima County,"42,835"
+85711,Tucson,Pima County,"42,558"
+85226,Chandler,Maricopa County,"42,294"
+85396,Buckeye,Maricopa County,"42,181"
+85015,Phoenix,Maricopa County,"41,490"
+85374,Surprise,Maricopa County,"41,420"
+85043,Phoenix,Maricopa County,"41,331"
+85340,Litchfield Park,Maricopa County,"40,919"
+85251,Scottsdale,Maricopa County,"40,780"
+85302,Glendale,Maricopa County,"40,612"
+85395,Goodyear,Maricopa County,"40,414"
+86314,Prescott Valley,Yavapai County,"40,317"
+85260,Scottsdale,Maricopa County,"39,896"
+85021,Phoenix,Maricopa County,"39,828"
+85027,Phoenix,Maricopa County,"39,487"
+85730,Tucson,Pima County,"39,399"
+85044,Phoenix,Maricopa County,"39,347"
+85392,Avondale,Maricopa County,"39,079"
+85233,Gilbert,Maricopa County,"39,077"
+85210,Mesa,Maricopa County,"39,015"
+85202,Mesa,Maricopa County,"38,750"
+85132,Florence,Pinal County,"38,671"
+85203,Mesa,Maricopa County,"38,035"
+85756,Tucson,Pima County,"37,700"
+85297,Gilbert,Maricopa County,"37,475"
+86001,Flagstaff,Coconino County,"37,312"
+85018,Phoenix,Maricopa County,"37,297"
+85206,Mesa,Maricopa County,"37,235"
+85208,Mesa,Maricopa County,"37,225"
+85248,Chandler,Maricopa County,"37,095"
+85016,Phoenix,Maricopa County,"37,074"
+85745,Tucson,Pima County,"36,999"
+85213,Mesa,Maricopa County,"36,836"
+86004,Flagstaff,Coconino County,"36,394"
+85335,El Mirage,Maricopa County,"36,088"
+85388,Surprise,Maricopa County,"35,369"
+85704,Tucson,Pima County,"35,210"
+85023,Phoenix,Maricopa County,"35,034"
+85020,Phoenix,Maricopa County,"34,916"
+85641,Vail,Pima County,"34,752"
+86442,Bullhead City,Mohave County,"34,735"
+85048,Phoenix,Maricopa County,"34,664"
+85635,Sierra Vista,Cochise County,"34,193"
+85040,Phoenix,Maricopa County,"34,117"
+85741,Tucson,Pima County,"33,679"
+85303,Glendale,Maricopa County,"33,663"
+85050,Phoenix,Maricopa County,"33,118"
+85716,Tucson,Pima County,"32,976"
+85331,Cave Creek,Maricopa County,"31,968"
+85629,Sahuarita,Pima County,"31,668"
+85742,Tucson,Pima County,"31,613"
+85712,Tucson,Pima County,"31,571"
+85085,Phoenix,Maricopa County,"31,458"
+85349,San Luis,Yuma County,"31,316"
+85743,Tucson,Pima County,"31,300"
+85031,Phoenix,Maricopa County,"31,191"
+85120,Apache Junction,Pinal County,"31,191"
+86409,Kingman,Mohave County,"30,365"
+86401,Kingman,Mohave County,"30,124"
+85304,Glendale,Maricopa County,"29,861"
+85257,Scottsdale,Maricopa County,"29,812"
+85053,Phoenix,Maricopa County,"29,773"
+85718,Tucson,Pima County,"28,125"
+85747,Tucson,Pima County,"27,753"
+85375,Sun City West,Maricopa County,"27,680"
+85381,Peoria,Maricopa County,"27,650"
+85351,Sun City,Maricopa County,"27,592"
+85019,Phoenix,Maricopa County,"27,429"
+86301,Prescott,Yavapai County,"27,076"
+85024,Phoenix,Maricopa County,"26,199"
+85014,Phoenix,Maricopa County,"25,911"
+85258,Scottsdale,Maricopa County,"25,545"
+85119,Apache Junction,Pinal County,"25,420"
+85614,Green Valley,Pima County,"25,381"
+86406,Lake Havasu City,Mohave County,"25,067"
+85306,Glendale,Maricopa County,"24,911"
+85750,Tucson,Pima County,"24,886"
+86326,Cottonwood,Yavapai County,"24,852"
+85268,Fountain Hills,Maricopa County,"23,849"
+85653,Marana,Pima County,"23,574"
+85541,Payson,Gila County,"23,382"
+85737,Tucson,Pima County,"22,785"
+85013,Phoenix,Maricopa County,"22,490"
+85387,Surprise,Maricopa County,"22,442"
+85648,Rio Rico,Santa Cruz County,"22,118"
+85367,Yuma,Yuma County,"22,074"
+85006,Phoenix,Maricopa County,"21,905"
+85259,Scottsdale,Maricopa County,"21,670"
+85621,Nogales,Santa Cruz County,"21,593"
+85757,Tucson,Pima County,"21,259"
+85083,Phoenix,Maricopa County,"21,022"
+85546,Safford,Graham County,"20,809"
+85139,Maricopa,Pinal County,"20,784"
+85373,Sun City,Maricopa County,"20,254"
+85748,Tucson,Pima County,"20,103"
+85310,Glendale,Maricopa County,"19,964"
+86305,Prescott,Yavapai County,"19,790"
+86323,Chino Valley,Yavapai County,"19,666"
+85901,Show Low,Navajo County,"19,533"
+85284,Tempe,Maricopa County,"19,492"
+85128,Coolidge,Pinal County,"19,487"
+86303,Prescott,Yavapai County,"19,446"
+86404,Lake Havasu City,Mohave County,"19,234"
+85715,Tucson,Pima County,"19,198"
+85350,Somerton,Yuma County,"19,011"
+85749,Tucson,Pima County,"18,843"
+85131,Eloy,Pinal County,"18,794"
+85028,Phoenix,Maricopa County,"18,752"
+85755,Tucson,Pima County,"18,560"
+85739,Tucson,Pinal County,"18,478"
+86403,Lake Havasu City,Mohave County,"18,295"
+85305,Glendale,Maricopa County,"18,043"
+86005,Flagstaff,Coconino County,"17,961"
+85253,Paradise Valley,Maricopa County,"17,904"
+85607,Douglas,Cochise County,"17,191"
+85215,Mesa,Maricopa County,"16,888"
+85658,Marana,Pinal County,"16,051"
+86426,Fort Mohave,Mohave County,"15,467"
+85250,Scottsdale,Maricopa County,"15,394"
+85118,Gold Canyon,Pinal County,"14,932"
+85650,Sierra Vista,Cochise County,"14,876"
+85714,Tucson,Pima County,"14,498"
+85355,Waddell,Maricopa County,"14,460"
+85262,Scottsdale,Maricopa County,"14,329"
+85307,Glendale,Maricopa County,"14,223"
+86047,Winslow,Navajo County,"13,899"
+85007,Phoenix,Maricopa County,"13,575"
+86413,Golden Valley,Mohave County,"13,143"
+86322,Camp Verde,Yavapai County,"13,020"
+85266,Scottsdale,Maricopa County,"12,516"
+85004,Phoenix,Maricopa County,"12,408"
+85501,Globe,Gila County,"12,395"
+86327,Dewey,Yavapai County,"12,154"
+86336,Sedona,Yavapai County,"11,381"
+85003,Phoenix,Maricopa County,"10,875"
+85735,Tucson,Pima County,"10,718"
+86315,Prescott Valley,Yavapai County,"10,684"
+86040,Page,Coconino County,"10,595"
+85941,Whiteriver,Gila County,"10,459"
+85054,Phoenix,Maricopa County,"10,346"
+86045,Tuba City,Coconino County,"10,319"
+85390,Wickenburg,Maricopa County,"10,298"
+85615,Hereford,Cochise County,"10,175"
+85087,New River,Maricopa County,"10,157"
+85602,Benson,Cochise County,"10,019"
+85123,Arizona City,Pinal County,"10,003"
+86503,Chinle,Apache County,"9,911"
+85378,Surprise,Maricopa County,"9,765"
+85937,Snowflake,Navajo County,"9,760"
+85344,Parker,La Paz County,"9,433"
+86440,Mohave Valley,Mohave County,"8,853"
+85012,Phoenix,Maricopa County,"8,704"
+86429,Bullhead City,Mohave County,"8,619"
+85354,Tonopah,Maricopa County,"8,531"
+85643,Willcox,Graham County,"8,476"
+85194,Casa Grande,Pinal County,"8,077"
+85361,Wittmann,Maricopa County,"7,991"
+85045,Phoenix,Maricopa County,"7,600"
+85929,Lakeside,Navajo County,"7,451"
+86033,Kayenta,Navajo County,"7,392"
+85363,Youngtown,Maricopa County,"7,015"
+85552,Thatcher,Graham County,"6,861"
+86333,Mayer,Yavapai County,"6,781"
+86505,Ganado,Apache County,"6,779"
+86351,Sedona,Yavapai County,"6,721"
+85603,Bisbee,Cochise County,"6,699"
+86046,Williams,Coconino County,"6,574"
+85622,Green Valley,Pima County,"6,518"
+85336,San Luis,Yuma County,"6,514"
+86504,Fort Defiance,Apache County,"5,760"
+85550,San Carlos,Gila County,"5,696"
+85623,Oracle,Pinal County,"5,558"
+85701,Tucson,Pima County,"5,498"
+86325,Cornville,Yavapai County,"5,363"
+86025,Holbrook,Navajo County,"5,226"
+85634,Sells,Pima County,"5,038"
+85613,Fort Huachuca,Cochise County,"4,983"
+86335,Rimrock,Yavapai County,"4,965"
+85616,Huachuca City,Cochise County,"4,941"
+85147,Sacaton,Pinal County,"4,911"
+85543,Pima,Graham County,"4,868"
+85034,Phoenix,Maricopa County,"4,854"
+86021,Colorado City,Mohave County,"4,842"
+85734,Tucson,Pima County,"4,797"
+86324,Clarkdale,Yavapai County,"4,776"
+85935,Pinetop,Navajo County,"4,534"
+85925,Eagar,Apache County,"4,401"
+85933,Overgaard,Navajo County,"4,388"
+85708,Tucson,Pima County,"4,312"
+85736,Tucson,Pima County,"4,219"
+86334,Paulden,Yavapai County,"4,159"
+85193,Casa Grande,Pinal County,"4,118"
+86510,Pinon,Navajo County,"4,074"
+86011,Flagstaff,Coconino County,"4,019"
+85540,Morenci,Greenlee County,"3,992"
+85936,Saint Johns,Apache County,"3,909"
+85939,Taylor,Navajo County,"3,849"
+85356,Wellton,Yuma County,"3,840"
+86511,Saint Michaels,Apache County,"3,583"
+85321,Ajo,Pima County,"3,555"
+85631,San Manuel,Pinal County,"3,508"
+85256,Scottsdale,Maricopa County,"3,504"
+85263,Rio Verde,Maricopa County,"3,472"
+85377,Carefree,Maricopa County,"3,437"
+86515,Window Rock,Apache County,"3,433"
+85539,Miami,Gila County,"3,386"
+85145,Red Rock,Pinal County,"3,277"
+86432,Littlefield,Mohave County,"3,073"
+86321,Bagdad,Yavapai County,"3,065"
+86044,Tonalea,Coconino County,"2,921"
+85542,Peridot,Graham County,"2,885"
+85544,Pine,Gila County,"2,834"
+85608,Douglas,Cochise County,"2,804"
+85121,Bapchule,Pinal County,"2,800"
+86556,Tsaile,Apache County,"2,795"
+85534,Duncan,Greenlee County,"2,672"
+85533,Clifton,Greenlee County,"2,607"
+85173,Superior,Pinal County,"2,600"
+86512,Sanders,Apache County,"2,557"
+86514,Teec Nos Pos,Apache County,"2,519"
+85346,Quartzsite,La Paz County,"2,458"
+85137,Kearny,Pinal County,"2,406"
+86320,Ash Fork,Coconino County,"2,351"
+86332,Kirkland,Yavapai County,"2,316"
+86520,Blue Gap,Apache County,"2,293"
+85911,Cibecue,Navajo County,"2,273"
+85924,Concho,Apache County,"2,269"
+85329,Cashion,Maricopa County,"2,252"
+85938,Springerville,Apache County,"2,236"
+86032,Joseph City,Navajo County,"2,209"
+86507,Lukachukai,Apache County,"2,207"
+85324,Black Canyon City,Yavapai County,"2,181"
+86053,Kaibeto,Coconino County,"2,170"
+85348,Salome,La Paz County,"2,112"
+85337,Gila Bend,Maricopa County,"2,041"
+86042,Polacca,Navajo County,"2,019"
+86034,Keams Canyon,Navajo County,"1,983"
+86023,Grand Canyon,Coconino County,"1,970"
+85530,Bylas,Graham County,"1,967"
+85630,Saint David,Cochise County,"1,939"
+85625,Pearce,Cochise County,"1,917"
+86043,Second Mesa,Navajo County,"1,916"
+86020,Cameron,Coconino County,"1,890"
+85192,Winkelman,Pinal County,"1,849"
+85342,Morristown,Yavapai County,"1,823"
+86031,Indian Wells,Navajo County,"1,818"
+85553,Tonto Basin,Gila County,"1,755"
+86538,Many Farms,Apache County,"1,714"
+86022,Fredonia,Coconino County,"1,712"
+86015,Bellemont,Coconino County,"1,701"
+85172,Stanfield,Pinal County,"1,688"
+86337,Seligman,Yavapai County,"1,669"
+86434,Peach Springs,Mohave County,"1,667"
+86035,Leupp,Coconino County,"1,612"
+85332,Congress,Yavapai County,"1,577"
+86436,Topock,Mohave County,"1,555"
+85618,Mammoth,Pinal County,"1,550"
+85624,Patagonia,Santa Cruz County,"1,546"
+86444,Meadview,Mohave County,"1,528"
+86544,Red Valley,Apache County,"1,472"
+86054,Shonto,Navajo County,"1,467"
+86441,Dolan Springs,Mohave County,"1,462"
+85611,Elgin,Santa Cruz County,"1,454"
+85638,Tombstone,Cochise County,"1,418"
+85930,Mcnary,Apache County,"1,374"
+85646,Tubac,Santa Cruz County,"1,345"
+85626,Pirtleville,Cochise County,"1,332"
+86329,Humboldt,Yavapai County,"1,328"
+85264,Fort Mcdowell,Maricopa County,"1,261"
+85645,Amado,Pima County,"1,249"
+86540,Nazlini,Apache County,"1,220"
+86506,Houck,Apache County,"1,218"
+85325,Bouse,La Paz County,"1,203"
+85940,Vernon,Apache County,"1,185"
+86535,Dennehotso,Apache County,"1,183"
+86018,Parks,Coconino County,"1,181"
+86039,Kykotsmovi Village,Navajo County,"1,177"
+85637,Sonoita,Santa Cruz County,"1,105"
+85617,McNeal,Cochise County,"1,094"
+85606,Cochise,Cochise County,"1,066"
+86024,Happy Jack,Coconino County,"1,015"
+85620,Naco,Cochise County,988
+85309,Luke Air Force Base,Maricopa County,960
+86547,Round Rock,Apache County,896
+85932,Nutrioso,Apache County,894
+85632,San Simon,Cochise County,861
+86502,Chambers,Apache County,836
+86438,Yucca,Mohave County,784
+86545,Rock Point,Apache County,780
+85926,Fort Apache,Navajo County,710
+85334,Ehrenberg,La Paz County,697
+85605,Bowie,Cochise County,683
+85934,Pinedale,Navajo County,661
+86030,Hotevilla,Coconino County,658
+85531,Central,Graham County,657
+85362,Yarnell,Yavapai County,638
+85920,Alpine,Apache County,613
+86017,Munds Park,Coconino County,608
+85545,Roosevelt,Maricopa County,604
+85707,Tucson,Pima County,581
+86411,Hackberry,Mohave County,579
+85610,Elfrida,Cochise County,576
+85347,Roll,Yuma County,575
+86338,Skull Valley,Yavapai County,542
+86508,Lupton,Apache County,516
+85322,Arlington,Maricopa County,476
+85320,Aguila,Maricopa County,458
+85333,Dateland,Maricopa County,442
+85923,Clay Springs,Navajo County,442
+85627,Pomerene,Cochise County,430
+85609,Dragoon,Cochise County,426
+85928,Heber,Navajo County,424
+85357,Wenden,La Paz County,405
+85141,Picacho,Pinal County,364
+85551,Solomon,Graham County,361
+85536,Fort Thomas,Graham County,355
+85135,Hayden,Gila County,331
+85532,Claypool,Gila County,331
+85927,Greer,Apache County,315
+85554,Young,Gila County,309
+86445,Willow Beach,Mohave County,286
+85352,Tacna,Yuma County,278
+86036,Marble Canyon,Coconino County,277
+85601,Arivaca,Pima County,268
+85328,Cibola,La Paz County,245
+85723,Tucson,Pima County,244
+86331,Jerome,Yavapai County,231
+85931,Forest Lakes,Coconino County,210
+85640,Tumacacori,Santa Cruz County,207
+86343,Crown King,Yavapai County,194
+86038,Mormon Lake,Coconino County,184
+85912,White Mountain Lake,Navajo County,170
+85639,Topawa,Pima County,166
+86052,North Rim,Coconino County,161
+86313,Prescott,Yavapai County,149
+85922,Blue,Greenlee County,141
+85360,Wikieup,Mohave County,130
+85371,Poston,La Paz County,111
+86003,Flagstaff,Coconino County,104
+86431,Chloride,Mohave County,86
+86029,Sun Valley,Navajo County,74
+86433,Oatman,Mohave County,74
+86437,Valentine,Mohave County,55
+85633,Sasabe,Pima County,48
+86028,Petrified Forest Natl Pk,Apache County,47
+86016,Gray Mountain,Coconino County,44
+85535,Eden,Graham County,42
+85341,Lukeville,Pima County,37
+85191,Valley Farms,Pinal County,32
+85343,Palo Verde,Maricopa County,18
+85902,Show Low,Navajo County,2
+85026,Phoenix,Maricopa County,0
+85236,Higley,Maricopa County,0
+85619,Mount Lemmon,Pima County,0
+85654,Rillito,Pima County,0
+85709,Tucson,Pima County,0
+85721,Tucson,Pima County,0
+85724,Tucson,Pima County,0
+85726,Tucson,Pima County,0
+85942,Woodruff,Navajo County,0
+86435,Supai,Coconino County,0
+86443,Temple Bar Marina,Mohave County,0

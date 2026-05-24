@@ -1,0 +1,280 @@
+ZIP,City,County,Population
+83646,Meridian,Ada County,"76,023"
+83301,Twin Falls,Twin Falls County,"63,592"
+83642,Meridian,Ada County,"62,279"
+83686,Nampa,Canyon County,"60,993"
+83709,Boise,Ada County,"58,928"
+83854,Post Falls,Kootenai County,"54,851"
+83440,Rexburg,Madison County,"51,421"
+83401,Idaho Falls,Bonneville County,"47,972"
+83687,Nampa,Canyon County,"43,135"
+83704,Boise,Ada County,"42,719"
+83815,Coeur D Alene,Kootenai County,"41,405"
+83605,Caldwell,Canyon County,"41,325"
+83201,Pocatello,Bannock County,"39,902"
+83651,Nampa,Canyon County,"38,121"
+83501,Lewiston,Nez Perce County,"37,520"
+83634,Kuna,Ada County,"36,286"
+83706,Boise,Ada County,"35,524"
+83607,Caldwell,Canyon County,"35,491"
+83616,Eagle,Ada County,"35,413"
+83713,Boise,Ada County,"31,549"
+83402,Idaho Falls,Bonneville County,"29,994"
+83221,Blackfoot,Bingham County,"29,081"
+83714,Garden City,Ada County,"27,564"
+83404,Idaho Falls,Bonneville County,"27,500"
+83705,Boise,Ada County,"26,830"
+83843,Moscow,Latah County,"26,591"
+83814,Coeur D Alene,Kootenai County,"26,059"
+83442,Rigby,Jefferson County,"25,609"
+83202,Pocatello,Bannock County,"24,513"
+83835,Hayden,Kootenai County,"24,238"
+83702,Boise,Ada County,"24,163"
+83647,Mountain Home,Elmore County,"22,952"
+83338,Jerome,Jerome County,"21,944"
+83716,Boise,Elmore County,"21,402"
+83864,Sandpoint,Bonner County,"20,514"
+83858,Rathdrum,Kootenai County,"20,137"
+83406,Idaho Falls,Bonneville County,"19,696"
+83318,Burley,Cassia County,"19,459"
+83617,Emmett,Gem County,"19,058"
+83204,Pocatello,Power County,"18,580"
+83703,Boise,Ada County,"17,583"
+83669,Star,Ada County,"16,827"
+83644,Middleton,Canyon County,"16,293"
+83333,Hailey,Blaine County,"12,682"
+83350,Rupert,Minidoka County,"12,671"
+83274,Shelley,Bingham County,"11,699"
+83661,Payette,Payette County,"11,105"
+83316,Buhl,Twin Falls County,"10,456"
+83263,Preston,Franklin County,"9,940"
+83341,Kimberly,Twin Falls County,"9,531"
+83672,Weiser,Washington County,"9,176"
+83805,Bonners Ferry,Boundary County,"9,174"
+83712,Boise,Ada County,"9,071"
+83619,Fruitland,Payette County,"8,823"
+83445,Saint Anthony,Fremont County,"7,975"
+83860,Sagle,Bonner County,"7,806"
+83638,Mccall,Valley County,"7,750"
+83801,Athol,Kootenai County,"7,553"
+83330,Gooding,Gooding County,"7,347"
+83861,Saint Maries,Benewah County,"7,275"
+83856,Priest River,Bonner County,"6,885"
+83544,Orofino,Clearwater County,"6,798"
+83211,American Falls,Power County,"6,743"
+83467,Salmon,Lemhi County,"6,590"
+83660,Parma,Canyon County,"6,434"
+83530,Grangeville,Idaho County,"6,406"
+83328,Filer,Twin Falls County,"6,320"
+83455,Victor,Teton County,"6,173"
+83336,Heyburn,Minidoka County,"6,075"
+83655,New Plymouth,Payette County,"5,748"
+83869,Spirit Lake,Kootenai County,"5,504"
+83355,Wendell,Gooding County,"5,469"
+83340,Ketchum,Blaine County,"5,325"
+83676,Wilder,Canyon County,"5,105"
+83628,Homedale,Owyhee County,"5,006"
+83252,Malad City,Oneida County,"4,707"
+83536,Kamiah,Idaho County,"4,444"
+83276,Soda Springs,Caribou County,"4,155"
+83641,Melba,Owyhee County,"4,061"
+83422,Driggs,Teton County,"3,847"
+83210,Aberdeen,Bingham County,"3,843"
+83254,Montpelier,Bear Lake County,"3,792"
+83313,Bellevue,Blaine County,"3,692"
+83347,Paul,Minidoka County,"3,465"
+83448,Sugar City,Madison County,"3,365"
+83611,Cascade,Valley County,"3,329"
+83352,Shoshone,Lincoln County,"3,317"
+83639,Marsing,Owyhee County,"3,311"
+83648,Mountain Home Afb,Elmore County,"3,219"
+83837,Kellogg,Shoshone County,"3,203"
+83844,Moscow,Latah County,"2,971"
+83427,Iona,Bonneville County,"2,931"
+83850,Pinehurst,Shoshone County,"2,704"
+83522,Cottonwood,Idaho County,"2,692"
+83420,Ashton,Fremont County,"2,580"
+83332,Hagerman,Twin Falls County,"2,569"
+83241,Grace,Caribou County,"2,488"
+83822,Oldtown,Bonner County,"2,442"
+83539,Kooskia,Idaho County,"2,427"
+83335,Hazelton,Jerome County,"2,335"
+83245,Inkom,Bannock County,"2,321"
+83855,Potlatch,Latah County,"2,260"
+83871,Troy,Latah County,"2,240"
+83452,Tetonia,Teton County,"2,237"
+83334,Hansen,Twin Falls County,"2,227"
+83845,Moyie Springs,Boundary County,"2,202"
+83250,Mccammon,Bannock County,"2,179"
+83622,Garden Valley,Boise County,"2,132"
+83851,Plummer,Benewah County,"2,113"
+83226,Challis,Custer County,"2,100"
+83540,Lapwai,Nez Perce County,"2,096"
+83804,Blanchard,Bonner County,"2,092"
+83849,Osburn,Shoshone County,"2,086"
+83612,Council,Adams County,"2,085"
+83811,Clark Fork,Bonner County,"1,997"
+83323,Declo,Cassia County,"1,984"
+83832,Genesee,Latah County,"1,961"
+83626,Greenleaf,Canyon County,"1,935"
+83631,Idaho City,Boise County,"1,916"
+83236,Firth,Bingham County,"1,840"
+83434,Menan,Jefferson County,"1,816"
+83654,New Meadows,Adams County,"1,763"
+83629,Horseshoe Bend,Boise County,"1,749"
+83847,Naples,Boundary County,"1,714"
+83286,Weston,Franklin County,"1,668"
+83320,Carey,Blaine County,"1,600"
+83873,Wallace,Shoshone County,"1,569"
+83237,Franklin,Franklin County,"1,567"
+83876,Worley,Kootenai County,"1,563"
+83823,Deary,Latah County,"1,559"
+83623,Glenns Ferry,Elmore County,"1,521"
+83852,Ponderay,Bonner County,"1,515"
+83615,Donnelly,Valley County,"1,452"
+83346,Oakley,Cassia County,"1,451"
+83353,Sun Valley,Blaine County,"1,450"
+83251,Mackay,Custer County,"1,443"
+83234,Downey,Bannock County,"1,417"
+83810,Cataldo,Kootenai County,"1,412"
+83833,Harrison,Kootenai County,"1,365"
+83443,Ririe,Bonneville County,"1,364"
+83213,Arco,Butte County,"1,349"
+83624,Grand View,Owyhee County,"1,349"
+83839,Kingston,Shoshone County,"1,287"
+83444,Roberts,Jefferson County,"1,261"
+83813,Cocolalla,Bonner County,"1,249"
+83344,Murtaugh,Cassia County,"1,234"
+83342,Malta,Cassia County,"1,231"
+83255,Moore,Butte County,"1,222"
+83349,Richfield,Lincoln County,"1,211"
+83450,Terreton,Jefferson County,"1,207"
+83535,Juliaetta,Nez Perce County,"1,143"
+83228,Clifton,Franklin County,"1,134"
+83537,Kendrick,Latah County,"1,125"
+83262,Pingree,Bingham County,"1,090"
+83857,Princeton,Latah County,"1,074"
+83524,Culdesac,Nez Perce County,"1,050"
+83431,Lewisville,Jefferson County,"1,045"
+83553,Weippe,Clearwater County,"1,038"
+83327,Fairfield,Camas County,"1,037"
+83451,Teton,Madison County,993
+83610,Cambridge,Washington County,992
+83836,Hope,Bonner County,980
+83645,Midvale,Washington County,970
+83325,Eden,Jerome County,944
+83541,Lenore,Nez Perce County,940
+83209,Pocatello,Bannock County,937
+83846,Mullan,Shoshone County,918
+83868,Smelterville,Shoshone County,906
+83311,Albion,Cassia County,903
+83239,Georgetown,Bear Lake County,887
+83324,Dietrich,Lincoln County,851
+83246,Lava Hot Springs,Bannock County,821
+83872,Viola,Latah County,818
+83552,Stites,Idaho County,806
+83523,Craigmont,Lewis County,797
+83436,Newdale,Madison County,778
+83670,Sweet,Gem County,752
+83543,Nezperce,Lewis County,739
+83423,Dubois,Clark County,729
+83217,Bancroft,Caribou County,712
+83632,Indian Valley,Adams County,704
+83314,Bliss,Gooding County,670
+83462,Carmen,Lemhi County,667
+83840,Kootenai,Bonner County,653
+83867,Silverton,Shoshone County,652
+83803,Bayview,Bonner County,650
+83429,Island Park,Fremont County,628
+83425,Hamer,Jefferson County,622
+83435,Monteview,Jefferson County,600
+83549,Riggins,Idaho County,587
+83214,Arimo,Bannock County,586
+83604,Bruneau,Owyhee County,583
+83428,Irwin,Bonneville County,576
+83627,Hammett,Owyhee County,575
+83218,Basalt,Bingham County,569
+83232,Dayton,Franklin County,562
+83261,Paris,Bear Lake County,562
+83656,Notus,Canyon County,560
+83633,King Hill,Elmore County,502
+83555,Winchester,Nez Perce County,493
+83841,Laclede,Bonner County,492
+83321,Castleford,Twin Falls County,482
+83650,Murphy,Owyhee County,464
+83545,Peck,Nez Perce County,458
+83278,Stanley,Custer County,454
+83824,Desmet,Benewah County,452
+83546,Pierce,Clearwater County,422
+83870,Tensed,Benewah County,421
+83271,Rockland,Power County,415
+83454,Ucon,Bonneville County,409
+83809,Careywood,Bonner County,393
+83212,Arbon,Power County,388
+83244,Howe,Butte County,386
+83866,Santa,Benewah County,352
+83554,White Bird,Idaho County,350
+83438,Parker,Fremont County,327
+83848,Nordman,Bonner County,315
+83464,Leadore,Lemhi County,296
+83525,Elk City,Idaho County,296
+83312,Almo,Cassia County,278
+83449,Swan Valley,Bonneville County,273
+83821,Coolin,Bonner County,259
+83223,Bloomington,Bear Lake County,255
+83287,Fish Haven,Bear Lake County,255
+83526,Ferdinand,Idaho County,242
+83547,Pollock,Idaho County,241
+83637,Lowman,Boise County,226
+83825,Dover,Bonner County,226
+83421,Chester,Fremont County,220
+83272,Saint Charles,Bear Lake County,219
+83227,Clayton,Custer County,200
+83466,North Fork,Lemhi County,197
+83468,Tendoy,Lemhi County,191
+83834,Harvard,Latah County,189
+83283,Thatcher,Franklin County,185
+83806,Bovill,Latah County,172
+83424,Felt,Teton County,168
+83643,Mesa,Adams County,166
+83277,Springfield,Bingham County,164
+83657,Ola,Gem County,156
+83827,Elk River,Clearwater County,154
+83281,Swanlake,Bannock County,148
+83233,Dingle,Bear Lake County,147
+83542,Lucile,Idaho County,147
+83548,Reubens,Nez Perce County,145
+83520,Ahsahka,Clearwater County,144
+83842,Medimont,Kootenai County,141
+83220,Bern,Bear Lake County,138
+83808,Calder,Shoshone County,132
+83238,Geneva,Bear Lake County,129
+83348,Picabo,Blaine County,124
+83802,Avery,Shoshone County,124
+83533,Greencreek,Idaho County,121
+83253,May,Lemhi County,112
+83636,Letha,Gem County,109
+83465,Lemhi,Lemhi County,104
+83285,Wayan,Bonneville County,80
+83874,Murray,Shoshone County,76
+83463,Gibbonsville,Lemhi County,66
+83826,Eastport,Boundary County,63
+83460,Rexburg,Madison County,56
+83243,Holbrook,Oneida County,49
+83830,Fernwood,Benewah County,45
+83203,Fort Hall,Bingham County,38
+83433,Macks Inn,Fremont County,36
+83302,Rogerson,Twin Falls County,35
+83666,Placerville,Boise County,30
+83337,Hill City,Elmore County,29
+83469,Shoup,Lemhi County,25
+83446,Spencer,Clark County,24
+83677,Yellow Pine,Valley County,17
+83322,Corral,Camas County,16
+83215,Atomic City,Bingham County,15
+83812,Clarkia,Shoshone County,11
+83354,Sun Valley,Blaine County,10
+83235,Ellis,Custer County,1
+83602,Banks,Boise County,0
+83720,Boise,Ada County,0
+83725,Boise,Ada County,0

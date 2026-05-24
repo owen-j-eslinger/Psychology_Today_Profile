@@ -1,0 +1,587 @@
+ZIP,City,County,Population
+68516,Lincoln,Lancaster County,"48,903"
+68521,Lincoln,Lancaster County,"37,050"
+68104,Omaha,Douglas County,"36,673"
+68022,Elkhorn,Douglas County,"36,538"
+68046,Papillion,Sarpy County,"35,085"
+68116,Omaha,Douglas County,"34,501"
+68123,Bellevue,Sarpy County,"33,804"
+68025,Fremont,Dodge County,"31,658"
+68107,Omaha,Douglas County,"31,540"
+68701,Norfolk,Madison County,"31,417"
+68601,Columbus,Platte County,"30,944"
+68801,Grand Island,Hall County,"30,824"
+68135,Omaha,Douglas County,"30,523"
+68134,Omaha,Douglas County,"28,823"
+68164,Omaha,Douglas County,"28,564"
+68506,Lincoln,Lancaster County,"27,531"
+69101,North Platte,Lincoln County,"27,198"
+68901,Hastings,Adams County,"26,264"
+68502,Lincoln,Lancaster County,"25,846"
+68144,Omaha,Douglas County,"25,732"
+68803,Grand Island,Hall County,"25,534"
+68137,Omaha,Douglas County,"24,277"
+68111,Omaha,Douglas County,"24,210"
+68154,Omaha,Douglas County,"24,060"
+68105,Omaha,Douglas County,"22,807"
+68136,Omaha,Sarpy County,"22,163"
+68005,Bellevue,Sarpy County,"21,984"
+68130,Omaha,Douglas County,"21,722"
+68106,Omaha,Douglas County,"21,224"
+68845,Kearney,Buffalo County,"20,536"
+68127,Omaha,Douglas County,"20,484"
+68007,Bennington,Douglas County,"19,536"
+68510,Lincoln,Lancaster County,"19,391"
+68128,La Vista,Sarpy County,"18,924"
+68505,Lincoln,Lancaster County,"18,834"
+68847,Kearney,Buffalo County,"18,354"
+68508,Lincoln,Lancaster County,"18,163"
+68114,Omaha,Douglas County,"17,596"
+68028,Gretna,Sarpy County,"17,529"
+68504,Lincoln,Lancaster County,"17,278"
+69361,Scottsbluff,Sioux County,"17,187"
+68507,Lincoln,Lancaster County,"16,029"
+68503,Lincoln,Lancaster County,"15,867"
+68124,Omaha,Douglas County,"15,482"
+68776,South Sioux City,Dakota County,"15,373"
+68522,Lincoln,Lancaster County,"14,836"
+68131,Omaha,Douglas County,"14,809"
+68133,Papillion,Sarpy County,"14,729"
+68108,Omaha,Douglas County,"14,578"
+68310,Beatrice,Gage County,"14,093"
+68132,Omaha,Douglas County,"13,960"
+68512,Lincoln,Lancaster County,"13,802"
+68048,Plattsmouth,Cass County,"13,435"
+68122,Omaha,Douglas County,"13,352"
+68008,Blair,Washington County,"12,823"
+68147,Bellevue,Sarpy County,"12,430"
+68850,Lexington,Dawson County,"12,428"
+68112,Omaha,Douglas County,"12,071"
+68138,Omaha,Sarpy County,"11,713"
+69341,Gering,Scotts Bluff County,"10,482"
+68102,Omaha,Douglas County,"9,767"
+68467,York,York County,"9,718"
+69301,Alliance,Box Butte County,"9,524"
+68333,Crete,Saline County,"9,286"
+68110,Omaha,Douglas County,"9,229"
+68118,Omaha,Douglas County,"9,169"
+68434,Seward,Seward County,"9,099"
+69001,McCook,Red Willow County,"9,054"
+68410,Nebraska City,Otoe County,"8,980"
+68117,Omaha,Douglas County,"8,224"
+68526,Lincoln,Lancaster County,"7,944"
+68661,Schuyler,Colfax County,"7,459"
+69162,Sidney,Cheyenne County,"7,274"
+68528,Lincoln,Lancaster County,"7,273"
+68152,Omaha,Douglas County,"6,791"
+68787,Wayne,Wayne County,"6,791"
+68949,Holdrege,Phelps County,"6,662"
+69337,Chadron,Dawes County,"6,466"
+68524,Lincoln,Lancaster County,"6,139"
+68066,Wahoo,Saunders County,"5,941"
+69153,Ogallala,Keith County,"5,812"
+68818,Aurora,Hamilton County,"5,680"
+68157,Omaha,Sarpy County,"5,252"
+68003,Ashland,Saunders County,"5,139"
+69130,Cozad,Dawson County,"5,004"
+68352,Fairbury,Jefferson County,"4,938"
+68462,Waverly,Lancaster County,"4,928"
+68355,Falls City,Richardson County,"4,860"
+68788,West Point,Cuming County,"4,588"
+68763,Oneill,Holt County,"4,572"
+68142,Omaha,Douglas County,"4,505"
+68305,Auburn,Nemaha County,"4,351"
+68822,Broken Bow,Custer County,"4,335"
+69138,Gothenburg,Dawson County,"4,316"
+68372,Hickman,Lancaster County,"4,135"
+68959,Minden,Kearney County,"4,048"
+68064,Valley,Douglas County,"4,046"
+69201,Valentine,Cherry County,"4,012"
+68826,Central City,Merrick County,"3,944"
+68632,David City,Butler County,"3,942"
+68873,Saint Paul,Howard County,"3,785"
+69357,Mitchell,Sioux County,"3,677"
+68405,Milford,Seward County,"3,575"
+68731,Dakota City,Dakota County,"3,469"
+68767,Pierce,Pierce County,"3,401"
+68059,Springfield,Sarpy County,"3,373"
+68069,Waterloo,Douglas County,"3,207"
+68450,Tecumseh,Johnson County,"3,124"
+68073,Yutan,Saunders County,"2,993"
+68620,Albion,Boone County,"2,986"
+68862,Ord,Valley County,"2,977"
+68739,Hartington,Cedar County,"2,799"
+68446,Syracuse,Otoe County,"2,792"
+68520,Lincoln,Lancaster County,"2,762"
+68748,Madison,Madison County,"2,706"
+68023,Fort Calhoun,Washington County,"2,687"
+68840,Gibbon,Buffalo County,"2,624"
+69033,Imperial,Chase County,"2,610"
+68002,Arlington,Washington County,"2,602"
+69343,Gordon,Cherry County,"2,544"
+68465,Wilber,Saline County,"2,543"
+68037,Louisville,Cass County,"2,524"
+69145,Kimball,Kimball County,"2,511"
+68347,Eagle,Cass County,"2,508"
+68883,Wood River,Hall County,"2,483"
+69334,Bayard,Morrill County,"2,418"
+68361,Geneva,Fillmore County,"2,338"
+68527,Lincoln,Lancaster County,"2,318"
+68713,Atkinson,Holt County,"2,285"
+68978,Superior,Nuckolls County,"2,284"
+68061,Tekamah,Burt County,"2,268"
+68779,Stanton,Stanton County,"2,259"
+68955,Juniata,Adams County,"2,242"
+68178,Omaha,Douglas County,"2,191"
+69210,Ainsworth,Brown County,"2,191"
+68869,Ravenna,Buffalo County,"2,165"
+68071,Winnebago,Thurston County,"2,159"
+68730,Crofton,Knox County,"2,156"
+68832,Doniphan,Hall County,"2,126"
+69356,Minatare,Scotts Bluff County,"2,114"
+68047,Pender,Thurston County,"2,094"
+69358,Morrill,Sioux County,"2,062"
+68791,Wisner,Cuming County,"2,044"
+68523,Lincoln,Lancaster County,"2,031"
+68045,Oakland,Burt County,"2,028"
+68430,Roca,Lancaster County,"1,989"
+68317,Bennet,Lancaster County,"1,984"
+68017,Ceresco,Saunders County,"1,979"
+68370,Hebron,Thayer County,"1,938"
+68823,Burwell,Garfield County,"1,936"
+68876,Shelton,Buffalo County,"1,910"
+68836,Elm Creek,Buffalo County,"1,908"
+69336,Bridgeport,Morrill County,"1,893"
+68715,Battle Creek,Madison County,"1,885"
+68463,Weeping Water,Cass County,"1,831"
+68937,Elwood,Gosper County,"1,831"
+68031,Hooper,Dodge County,"1,823"
+68756,Neligh,Antelope County,"1,811"
+69143,Hershey,Lincoln County,"1,789"
+69140,Grant,Perkins County,"1,762"
+69165,Sutherland,Lincoln County,"1,760"
+68649,North Bend,Dodge County,"1,748"
+68784,Wakefield,Dixon County,"1,740"
+68745,Laurel,Cedar County,"1,737"
+68729,Creighton,Knox County,"1,735"
+68769,Plainview,Pierce County,"1,722"
+68358,Firth,Lancaster County,"1,701"
+68466,Wymore,Gage County,"1,697"
+68638,Fullerton,Nance County,"1,664"
+68642,Humphrey,Platte County,"1,628"
+68718,Bloomfield,Knox County,"1,603"
+69022,Cambridge,Frontier County,"1,575"
+68979,Sutton,Clay County,"1,572"
+68824,Cairo,Hall County,"1,562"
+68301,Adams,Gage County,"1,549"
+68359,Friend,Saline County,"1,546"
+68666,Stromsburg,Polk County,"1,514"
+69339,Crawford,Dawes County,"1,474"
+68402,Malcolm,Lancaster County,"1,459"
+68920,Alma,Harlan County,"1,452"
+68065,Valparaiso,Saunders County,"1,449"
+68770,Ponca,Dixon County,"1,432"
+68771,Randolph,Cedar County,"1,412"
+68863,Overton,Dawson County,"1,410"
+68038,Lyons,Burt County,"1,398"
+68849,Kearney,Buffalo County,"1,385"
+68057,Scribner,Dodge County,"1,379"
+68651,Osceola,Polk County,"1,364"
+68924,Axtell,Kearney County,"1,348"
+68629,Clarkson,Colfax County,"1,336"
+69348,Hemingford,Box Butte County,"1,334"
+68853,Loup City,Sherman County,"1,333"
+68428,Raymond,Lancaster County,"1,332"
+68781,Tilden,Antelope County,"1,324"
+69347,Hay Springs,Sheridan County,"1,324"
+68371,Henderson,York County,"1,314"
+68922,Arapahoe,Furnas County,"1,299"
+69129,Chappell,Deuel County,"1,292"
+68420,Pawnee City,Pawnee County,"1,255"
+68944,Harvard,Clay County,"1,252"
+68970,Red Cloud,Webster County,"1,248"
+68376,Humboldt,Richardson County,"1,239"
+68015,Cedar Bluffs,Saunders County,"1,236"
+68349,Elmwood,Cass County,"1,224"
+68636,Elgin,Antelope County,"1,224"
+69021,Benkelman,Dundy County,"1,224"
+68456,Utica,Seward County,"1,215"
+68640,Genoa,Nance County,"1,212"
+69120,Arnold,Custer County,"1,208"
+68443,Sterling,Johnson County,"1,200"
+68758,Newman Grove,Madison County,"1,199"
+68866,Pleasanton,Buffalo County,"1,168"
+68339,Denton,Lancaster County,"1,154"
+68930,Blue Hill,Webster County,"1,143"
+68956,Kenesaw,Adams County,"1,140"
+68714,Bassett,Rock County,"1,139"
+68927,Bertrand,Phelps County,"1,130"
+68760,Niobrara,Knox County,"1,126"
+68765,Osmond,Pierce County,"1,123"
+68401,McCool Junction,York County,"1,122"
+68418,Palmyra,Otoe County,"1,109"
+68939,Franklin,Franklin County,"1,107"
+68733,Emerson,Thurston County,"1,101"
+69154,Oshkosh,Garden County,"1,095"
+68662,Shelby,Polk County,"1,088"
+68786,Wausa,Knox County,"1,080"
+69360,Rushville,Sheridan County,"1,078"
+68067,Walthill,Thurston County,"1,068"
+68404,Martell,Lancaster County,"1,039"
+68843,Hampton,Hamilton County,"1,032"
+68643,Leigh,Platte County,"1,019"
+69024,Culbertson,Hitchcock County,"1,017"
+68624,Bellwood,Butler County,"1,009"
+68343,Dorchester,Saline County,"1,008"
+68041,Mead,Saunders County,"1,005"
+68331,Cortland,Gage County,"1,002"
+68825,Callaway,Custer County,995
+68872,Saint Libory,Howard County,992
+68780,Stuart,Holt County,991
+68340,Deshler,Thayer County,989
+68421,Peru,Nemaha County,987
+68814,Ansley,Custer County,984
+69123,Brady,Lincoln County,972
+68783,Verdigre,Knox County,964
+68864,Palmer,Merrick County,958
+68366,Greenwood,Cass County,957
+69025,Curtis,Frontier County,951
+68716,Beemer,Cuming County,942
+68865,Phillips,Hamilton County,941
+68641,Howells,Colfax County,939
+69155,Paxton,Keith County,936
+68790,Winside,Wayne County,931
+68633,Dodge,Dodge County,930
+68740,Hoskins,Wayne County,925
+68004,Bancroft,Cuming County,922
+68029,Herman,Washington County,918
+69127,Brule,Keith County,906
+68967,Oxford,Furnas County,899
+69034,Indianola,Red Willow County,895
+68660,Saint Edward,Boone County,893
+68113,Offutt Afb,Sarpy County,892
+68407,Murdock,Cass County,878
+68354,Fairmont,Fillmore County,863
+68810,Alda,Hall County,862
+68455,Union,Cass County,852
+68933,Clay Center,Clay County,851
+68628,Clarks,Merrick County,848
+69163,Stapleton,Logan County,847
+68351,Exeter,Fillmore County,834
+69151,Maxwell,Lincoln County,831
+68735,Ewing,Holt County,828
+68341,De Witt,Gage County,821
+68874,Sargent,Custer County,821
+69028,Eustis,Frontier County,820
+68764,Orchard,Antelope County,819
+68422,Pickrell,Gage County,818
+68743,Jackson,Dakota County,814
+68010,Boys Town,Douglas County,809
+68627,Cedar Rapids,Boone County,802
+69045,Wauneta,Chase County,801
+68039,Macy,Thurston County,793
+68532,Lincoln,Lancaster County,785
+68757,Newcastle,Dixon County,783
+68663,Silver Creek,Merrick County,782
+68454,Unadilla,Otoe County,778
+68644,Lindsay,Platte County,762
+68827,Chapman,Merrick County,761
+68313,Beaver Crossing,Seward County,758
+68710,Allen,Dixon County,754
+68182,Omaha,Douglas County,749
+68653,Platte Center,Platte County,748
+69152,Mullen,Hooker County,743
+68768,Pilger,Stanton County,731
+69131,Dalton,Cheyenne County,729
+68935,Edgar,Clay County,726
+68726,Clearwater,Antelope County,724
+69149,Lodgepole,Cheyenne County,722
+68875,Scotia,Greeley County,716
+68044,Nickerson,Dodge County,715
+68856,Merna,Custer County,715
+68854,Marquette,Hamilton County,708
+68424,Plymouth,Jefferson County,707
+69147,Lewellen,Garden County,706
+68831,Dannebrog,Howard County,705
+68647,Monroe,Platte County,702
+68439,Staplehurst,Seward County,691
+68423,Pleasant Dale,Seward County,688
+68727,Coleridge,Cedar County,685
+68926,Beaver City,Furnas County,684
+68941,Glenvil,Clay County,683
+68723,Carroll,Wayne County,678
+68378,Johnson,Nemaha County,677
+68030,Homer,Dakota County,671
+68070,Weston,Saunders County,670
+69156,Potter,Cheyenne County,668
+68947,Hildreth,Franklin County,664
+69020,Bartley,Red Willow County,655
+69122,Big Springs,Deuel County,654
+68815,Arcadia,Valley County,652
+68841,Giltner,Hamilton County,649
+68725,Chambers,Holt County,647
+68020,Decatur,Burt County,644
+68812,Amherst,Buffalo County,642
+68665,Spalding,Greeley County,638
+68634,Duncan,Platte County,635
+68961,Nelson,Nuckolls County,633
+68319,Bradshaw,York County,632
+68652,Petersburg,Boone County,630
+68034,Kennard,Washington County,627
+68409,Murray,Cass County,625
+69044,Trenton,Hitchcock County,623
+68777,Spencer,Boyd County,614
+68958,Loomis,Phelps County,613
+68658,Rising City,Butler County,604
+69166,Thedford,Thomas County,603
+68460,Waco,York County,601
+68982,Wilcox,Franklin County,591
+68741,Hubbard,Dakota County,585
+68329,Cook,Johnson County,579
+68318,Blue Springs,Gage County,572
+68852,Litchfield,Sherman County,572
+68778,Springview,Keya Paha County,571
+68654,Polk,Polk County,569
+69040,Palisade,Hayes County,566
+68942,Guide Rock,Webster County,565
+68626,Brainard,Butler County,563
+68980,Trumbull,Clay County,561
+68413,Nehawka,Cass County,558
+68957,Lawrence,Nuckolls County,555
+69352,Lyman,Scotts Bluff County,552
+69043,Stratton,Hitchcock County,546
+68344,Douglas,Otoe County,544
+68346,Dunbar,Otoe County,544
+68752,Meadow Grove,Madison County,543
+69217,Long Pine,Brown County,543
+69345,Harrisburg,Banner County,541
+68842,Greeley,Greeley County,538
+68938,Fairfield,Clay County,532
+68050,Prague,Saunders County,527
+68436,Shickley,Fillmore County,527
+69032,Hayes Center,Hayes County,526
+68736,Fordyce,Cedar County,525
+68447,Table Rock,Pawnee County,520
+68973,Roseland,Adams County,520
+68813,Anselmo,Custer County,518
+68940,Funk,Phelps County,518
+68322,Bruning,Thayer County,513
+68018,Colon,Saunders County,508
+68415,Odell,Gage County,508
+68870,Riverdale,Buffalo County,506
+68360,Garland,Seward County,504
+68461,Walton,Lancaster County,503
+68342,Diller,Jefferson County,497
+68336,Davey,Lancaster County,496
+68328,Clatonia,Gage County,493
+68669,Ulysses,Butler County,493
+68321,Brownville,Nemaha County,480
+69346,Harrison,Sioux County,480
+68368,Hallam,Lancaster County,477
+68406,Milligan,Fillmore County,468
+68878,Sumner,Dawson County,463
+69169,Wallace,Lincoln County,461
+68457,Verdon,Richardson County,460
+68835,Elba,Howard County,459
+68635,Dwight,Butler County,456
+68761,Oakdale,Antelope County,442
+69218,Merriman,Cherry County,429
+68016,Cedar Creek,Cass County,427
+68622,Bartlett,Wheeler County,427
+68966,Orleans,Harlan County,426
+68514,Lincoln,Lancaster County,420
+69038,Maywood,Frontier County,418
+68517,Lincoln,Lancaster County,415
+68304,Alvo,Cass County,414
+68316,Benedict,York County,414
+68377,Jansen,Jefferson County,412
+69128,Bushnell,Kimball County,404
+69167,Tryon,McPherson County,403
+68882,Wolbach,Greeley County,401
+68855,Mason City,Custer County,400
+68755,Naper,Boyd County,397
+68335,Davenport,Thayer County,395
+68925,Ayr,Adams County,393
+68464,Western,Saline County,392
+68019,Craig,Burt County,386
+68722,Butte,Boyd County,384
+68327,Chester,Thayer County,383
+68058,South Bend,Cass County,378
+68879,Taylor,Loup County,377
+68742,Inman,Holt County,376
+69350,Hyannis,Grant County,375
+69121,Arthur,Arthur County,365
+68314,Bee,Seward County,361
+69029,Farnam,Frontier County,361
+68859,North Loup,Valley County,357
+68623,Belgrade,Nance County,356
+68932,Campbell,Franklin County,355
+68648,Morse Bluff,Saunders County,349
+68759,Newport,Rock County,349
+68320,Brock,Nemaha County,348
+68357,Filley,Gage County,347
+68036,Linwood,Butler County,346
+69150,Madrid,Perkins County,344
+68820,Boelus,Howard County,343
+68367,Gresham,Polk County,342
+68348,Elk Creek,Johnson County,341
+68792,Wynot,Cedar County,340
+68817,Ashton,Sherman County,340
+69133,Dix,Kimball County,340
+68326,Carleton,Thayer County,339
+68631,Creston,Platte County,337
+68307,Avoca,Cass County,336
+68948,Holbrook,Furnas County,335
+69125,Broadwater,Morrill County,332
+68844,Hazard,Sherman County,328
+68858,Miller,Buffalo County,328
+68928,Bladen,Webster County,327
+69134,Elsie,Perkins County,327
+69141,Gurley,Cheyenne County,327
+68337,Dawson,Richardson County,326
+69170,Wellfleet,Lincoln County,326
+68040,Malmo,Saunders County,325
+68637,Ericson,Wheeler County,317
+68055,Rosalie,Thurston County,315
+69023,Champion,Chase County,315
+69212,Crookston,Cherry County,315
+68364,Goehner,Seward County,309
+68766,Page,Holt County,308
+68971,Republican City,Harlan County,306
+68860,Oconto,Custer County,301
+69333,Ashby,Grant County,296
+68664,Snyder,Dodge County,293
+68950,Holstein,Adams County,290
+69366,Whitman,Cherry County,290
+68365,Grafton,Fillmore County,288
+69168,Venango,Perkins County,288
+68033,Ithaca,Saunders County,287
+68014,Bruno,Butler County,283
+68773,Royal,Antelope County,283
+68846,Hordville,Hamilton County,283
+68453,Tobias,Saline County,280
+69030,Haigler,Dundy County,280
+68724,Center,Knox County,276
+68417,Otoe,Otoe County,273
+68431,Rulo,Richardson County,269
+68871,Rockville,Sherman County,268
+68062,Thurston,Thurston County,267
+68974,Ruskin,Nuckolls County,262
+68720,Brunswick,Antelope County,250
+68437,Shubert,Richardson County,247
+68728,Concord,Dixon County,247
+68345,Du Bois,Pawnee County,245
+68063,Uehling,Dodge County,244
+68323,Burchard,Pawnee County,244
+68419,Panama,Lancaster County,242
+68943,Hardy,Nuckolls County,241
+68774,Saint Helena,Cedar County,238
+68785,Waterbury,Dixon County,234
+68976,Smithfield,Gosper County,234
+68303,Alexandria,Thayer County,233
+69146,Lemoyne,Keith County,230
+68834,Eddyville,Dawson County,227
+68458,Virginia,Gage County,226
+68977,Stamford,Harlan County,226
+68448,Talmage,Otoe County,225
+69216,Kilgore,Cherry County,221
+68659,Rogers,Colfax County,220
+68338,Daykin,Jefferson County,217
+68442,Stella,Richardson County,211
+68403,Manley,Cass County,206
+68621,Ames,Dodge County,204
+68828,Comstock,Custer County,204
+68972,Riverton,Franklin County,203
+68746,Lynch,Boyd County,201
+69211,Cody,Cherry County,201
+68068,Washington,Washington County,198
+68747,Mclean,Pierce County,198
+68433,Salem,Richardson County,196
+69046,Wilsonville,Furnas County,194
+69351,Lakeside,Sheridan County,193
+68531,Lincoln,Lancaster County,186
+68717,Belden,Cedar County,184
+68936,Edison,Furnas County,183
+68960,Naponee,Franklin County,178
+69214,Johnstown,Brown County,177
+68438,Sprague,Lancaster County,176
+68416,Ohiowa,Fillmore County,175
+68350,Endicott,Jefferson County,173
+69340,Ellsworth,Sheridan County,169
+68929,Bloomington,Franklin County,167
+68981,Upland,Franklin County,166
+68324,Burr,Otoe County,162
+68445,Swanton,Saline County,161
+68381,Liberty,Gage County,159
+68945,Heartwell,Kearney County,156
+68719,Bristow,Boyd County,154
+68732,Dixon,Dixon County,153
+68838,Farwell,Howard County,150
+68833,Dunning,Blaine County,148
+69026,Danbury,Red Willow County,148
+69355,Melbeta,Scotts Bluff County,146
+69144,Keystone,Keith County,145
+68964,Oak,Nuckolls County,139
+68861,Odessa,Buffalo County,138
+68816,Archer,Merrick County,137
+68441,Steinauer,Pawnee County,133
+68923,Atlanta,Phelps County,133
+68325,Byron,Thayer County,131
+68042,Memphis,Saunders County,130
+68734,Emmet,Holt County,130
+68789,Winnetoon,Knox County,127
+69039,Moorefield,Lincoln County,122
+68309,Barneston,Gage County,117
+68655,Primrose,Boone County,112
+68667,Surprise,Butler County,110
+69354,Marsland,Sioux County,110
+68440,Steele City,Jefferson County,109
+68837,Elyria,Valley County,109
+68952,Inavale,Webster County,103
+68414,Nemaha,Nemaha County,102
+69157,Purdum,Blaine County,99
+68332,Crab Orchard,Johnson County,93
+68821,Brewster,Blaine County,89
+69367,Whitney,Dawes County,89
+68975,Saronville,Clay County,88
+69041,Parks,Dundy County,88
+69132,Dickens,Lincoln County,88
+68934,Deweese,Nuckolls County,84
+68751,Maskell,Dixon County,76
+68382,Lorton,Otoe County,72
+68330,Cordova,Seward County,71
+68315,Belvidere,Thayer County,70
+68072,Winslow,Dodge County,69
+68375,Hubbell,Thayer County,69
+68452,Ong,Clay County,67
+69221,Wood Lake,Cherry County,64
+69037,Max,Dundy County,62
+68749,Magnet,Cedar County,61
+68711,Amelia,Holt County,60
+68001,Abie,Butler County,59
+68429,Reynolds,Jefferson County,59
+69027,Enders,Chase County,57
+69148,Lisco,Garden County,54
+69220,Sparks,Keya Paha County,54
+69142,Halsey,Thomas County,53
+69161,Seneca,Cherry County,53
+68380,Lewiston,Pawnee County,46
+69353,Mcgrew,Scotts Bluff County,46
+68444,Strang,Fillmore County,44
+68954,Inland,Clay County,43
+68379,Julian,Otoe County,42
+69219,Nenzel,Cherry County,40
+68753,Mills,Keya Paha County,39
+68946,Hendley,Furnas County,36
+69036,Lebanon,Red Willow County,35
+69335,Bingham,Sheridan County,33
+68362,Gilead,Thayer County,30
+69135,Elsmere,Cherry County,29
+68881,Westerville,Custer County,26
+69331,Angora,Morrill County,25
+69365,Whiteclay,Sheridan County,17
+69042,Stockville,Frontier County,13
+68056,St Columbans,Sarpy County,0
+68183,Omaha,Douglas County,0
+68588,Lincoln,Lancaster County,0
+69171,Willow Island,Dawson County,0

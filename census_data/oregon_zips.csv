@@ -1,0 +1,428 @@
+ZIP,City,County,Population
+97229,Portland,Washington County,"76,106"
+97301,Salem,Marion County,"57,574"
+97045,Oregon City,Clackamas County,"57,526"
+97702,Bend,Deschutes County,"54,657"
+97124,Hillsboro,Washington County,"54,357"
+97402,Eugene,Lane County,"53,823"
+97504,Medford,Jackson County,"51,089"
+97223,Portland,Washington County,"50,527"
+97206,Portland,Multnomah County,"49,890"
+97401,Eugene,Lane County,"49,437"
+97080,Gresham,Multnomah County,"48,411"
+97123,Hillsboro,Washington County,"48,410"
+97007,Beaverton,Washington County,"47,895"
+97405,Eugene,Lane County,"46,933"
+97006,Beaverton,Washington County,"46,463"
+97305,Salem,Marion County,"45,083"
+97756,Redmond,Deschutes County,"44,914"
+97501,Medford,Jackson County,"44,670"
+97330,Corvallis,Benton County,"43,878"
+97230,Portland,Multnomah County,"43,553"
+97202,Portland,Multnomah County,"43,533"
+97701,Bend,Deschutes County,"43,293"
+97219,Portland,Multnomah County,"42,430"
+97302,Salem,Marion County,"40,799"
+97303,Salem,Marion County,"40,659"
+97478,Springfield,Lane County,"39,373"
+97128,Mcminnville,Yamhill County,"38,664"
+97030,Gresham,Multnomah County,"37,708"
+97236,Portland,Multnomah County,"37,558"
+97477,Springfield,Lane County,"37,534"
+97527,Grants Pass,Josephine County,"37,330"
+97224,Portland,Washington County,"36,569"
+97322,Albany,Linn County,"36,408"
+97222,Portland,Clackamas County,"36,398"
+97233,Portland,Multnomah County,"36,236"
+97526,Grants Pass,Josephine County,"36,036"
+97266,Portland,Multnomah County,"35,423"
+97217,Portland,Multnomah County,"35,169"
+97304,Salem,Polk County,"34,879"
+97086,Happy Valley,Clackamas County,"34,567"
+97306,Salem,Marion County,"34,383"
+97355,Lebanon,Linn County,"34,292"
+97404,Eugene,Lane County,"34,244"
+97703,Bend,Deschutes County,"34,108"
+97211,Portland,Multnomah County,"33,769"
+97603,Klamath Falls,Klamath County,"33,222"
+97071,Woodburn,Marion County,"33,123"
+97203,Portland,Multnomah County,"33,116"
+97132,Newberg,Yamhill County,"32,486"
+97471,Roseburg,Douglas County,"32,334"
+97213,Portland,Multnomah County,"31,408"
+97267,Portland,Clackamas County,"31,311"
+97321,Albany,Linn County,"30,672"
+97068,West Linn,Clackamas County,"30,161"
+97116,Forest Grove,Washington County,"29,800"
+97502,Central Point,Jackson County,"29,067"
+97062,Tualatin,Washington County,"28,930"
+97008,Beaverton,Washington County,"28,611"
+97838,Hermiston,Umatilla County,"28,512"
+97005,Beaverton,Washington County,"28,311"
+97212,Portland,Multnomah County,"28,042"
+97140,Sherwood,Washington County,"27,933"
+97003,Beaverton,Washington County,"27,811"
+97214,Portland,Multnomah County,"27,714"
+97420,Coos Bay,Coos County,"27,621"
+97220,Portland,Multnomah County,"27,202"
+97070,Wilsonville,Clackamas County,"26,902"
+97520,Ashland,Jackson County,"26,512"
+97317,Salem,Marion County,"25,966"
+97035,Lake Oswego,Clackamas County,"25,911"
+97225,Portland,Washington County,"25,869"
+97078,Beaverton,Washington County,"25,662"
+97015,Clackamas,Clackamas County,"24,433"
+97013,Canby,Clackamas County,"24,293"
+97333,Corvallis,Benton County,"23,934"
+97338,Dallas,Polk County,"23,419"
+97601,Klamath Falls,Klamath County,"22,964"
+97754,Prineville,Crook County,"22,960"
+97209,Portland,Multnomah County,"22,296"
+97060,Troutdale,Multnomah County,"21,649"
+97801,Pendleton,Umatilla County,"21,575"
+97034,Lake Oswego,Clackamas County,"21,331"
+97058,The Dalles,Wasco County,"20,360"
+97055,Sandy,Clackamas County,"19,786"
+97914,Ontario,Malheur County,"19,713"
+97470,Roseburg,Douglas County,"19,711"
+97031,Hood River,Hood River County,"19,138"
+97424,Cottage Grove,Lane County,"18,357"
+97103,Astoria,Clatsop County,"17,993"
+97239,Portland,Multnomah County,"17,804"
+97051,Saint Helens,Columbia County,"17,347"
+97215,Portland,Multnomah County,"17,296"
+97850,La Grande,Union County,"16,903"
+97201,Portland,Multnomah County,"16,887"
+97216,Portland,Multnomah County,"16,638"
+97038,Molalla,Clackamas County,"16,440"
+97113,Cornelius,Washington County,"16,268"
+97439,Florence,Lane County,"16,025"
+97232,Portland,Multnomah County,"15,615"
+97218,Portland,Multnomah County,"15,428"
+97408,Eugene,Lane County,"15,420"
+97381,Silverton,Marion County,"15,405"
+97403,Eugene,Lane County,"15,355"
+97386,Sweet Home,Linn County,"15,225"
+97089,Damascus,Clackamas County,"15,101"
+97524,Eagle Point,Jackson County,"15,078"
+97459,North Bend,Coos County,"14,835"
+97415,Brookings,Curry County,"14,586"
+97361,Monmouth,Polk County,"14,488"
+97448,Junction City,Lane County,"14,323"
+97503,White City,Jackson County,"13,938"
+97741,Madras,Jefferson County,"13,663"
+97739,La Pine,Deschutes County,"13,183"
+97141,Tillamook,Tillamook County,"13,086"
+97221,Portland,Multnomah County,"12,915"
+97056,Scappoose,Columbia County,"12,795"
+97814,Baker City,Baker County,"12,590"
+97027,Gladstone,Clackamas County,"12,347"
+97862,Milton Freewater,Umatilla County,"12,313"
+97023,Estacada,Clackamas County,"12,111"
+97024,Fairview,Multnomah County,"12,007"
+97351,Independence,Polk County,"11,454"
+97210,Portland,Multnomah County,"11,324"
+97367,Lincoln City,Lincoln County,"11,158"
+97365,Newport,Lincoln County,"11,066"
+97138,Seaside,Clatsop County,"11,035"
+97479,Sutherlin,Douglas County,"10,447"
+97457,Myrtle Creek,Douglas County,"10,360"
+97383,Stayton,Marion County,"10,310"
+97426,Creswell,Lane County,"10,186"
+97370,Philomath,Benton County,"9,521"
+97378,Sheridan,Yamhill County,"9,178"
+97205,Portland,Multnomah County,"9,121"
+97530,Jacksonville,Jackson County,"8,860"
+97760,Terrebonne,Deschutes County,"8,702"
+97487,Veneta,Lane County,"8,498"
+97009,Boring,Clackamas County,"8,336"
+97540,Talent,Jackson County,"8,323"
+97146,Warrenton,Clatsop County,"8,099"
+97882,Umatilla,Umatilla County,"7,976"
+97496,Winston,Douglas County,"7,768"
+97759,Sisters,Linn County,"7,737"
+97411,Bandon,Coos County,"7,699"
+97325,Aumsville,Marion County,"7,252"
+97523,Cave Junction,Josephine County,"7,172"
+97048,Rainier,Columbia County,"7,099"
+97537,Rogue River,Jackson County,"7,018"
+97392,Turner,Marion County,"6,770"
+97707,Bend,Deschutes County,"6,661"
+97016,Clatskanie,Columbia County,"6,573"
+97352,Jefferson,Marion County,"6,497"
+97002,Aurora,Marion County,"6,358"
+97423,Coquille,Coos County,"6,056"
+97227,Portland,Multnomah County,"5,665"
+97818,Boardman,Morrow County,"5,610"
+97391,Toledo,Lincoln County,"5,536"
+97913,Nyssa,Malheur County,"5,520"
+97630,Lakeview,Lake County,"5,509"
+97446,Harrisburg,Linn County,"5,449"
+97467,Reedsport,Douglas County,"5,423"
+97133,North Plains,Washington County,"5,416"
+97444,Gold Beach,Curry County,"5,416"
+97394,Waldport,Lincoln County,"5,363"
+97119,Gaston,Washington County,"5,233"
+97458,Myrtle Point,Coos County,"5,164"
+97525,Gold Hill,Jackson County,"5,129"
+97032,Hubbard,Marion County,"5,044"
+97114,Dayton,Yamhill County,"5,013"
+97111,Carlton,Yamhill County,"4,890"
+97374,Scio,Linn County,"4,859"
+97106,Banks,Washington County,"4,855"
+97535,Phoenix,Jackson County,"4,804"
+97918,Vale,Malheur County,"4,567"
+97004,Beavercreek,Clackamas County,"4,496"
+97720,Burns,Harney County,"4,397"
+97127,Lafayette,Yamhill County,"4,396"
+97231,Portland,Multnomah County,"4,308"
+97362,Mount Angel,Marion County,"4,110"
+97462,Oakland,Douglas County,"4,044"
+97026,Gervais,Marion County,"3,959"
+97115,Dundee,Yamhill County,"3,951"
+97101,Amity,Yamhill County,"3,914"
+97064,Vernonia,Columbia County,"3,855"
+97385,Sublimity,Marion County,"3,823"
+97844,Irrigon,Morrow County,"3,701"
+97331,Corvallis,Benton County,"3,693"
+97463,Oakridge,Lane County,"3,652"
+97624,Chiloquin,Klamath County,"3,643"
+97053,Warren,Columbia County,"3,634"
+97734,Culver,Jefferson County,"3,618"
+97828,Enterprise,Wallowa County,"3,522"
+97396,Willamina,Yamhill County,"3,446"
+97017,Colton,Clackamas County,"3,427"
+97456,Monroe,Benton County,"3,422"
+97041,Mount Hood Parkdale,Hood River County,"3,389"
+97539,Shady Cove,Jackson County,"3,369"
+97042,Mulino,Clackamas County,"3,361"
+97022,Eagle Creek,Clackamas County,"3,319"
+97019,Corbett,Multnomah County,"3,233"
+97443,Glide,Douglas County,"3,116"
+97327,Brownsville,Linn County,"3,079"
+97753,Powell Butte,Crook County,"3,067"
+97341,Depoe Bay,Lincoln County,"2,972"
+97761,Warm Springs,Wasco County,"2,955"
+97623,Bonanza,Klamath County,"2,813"
+97368,Otis,Lincoln County,"2,803"
+97148,Yamhill,Yamhill County,"2,738"
+97437,Elmira,Lane County,"2,632"
+97532,Merlin,Josephine County,"2,578"
+97883,Union,Union County,"2,489"
+97455,Pleasant Hill,Lane County,"2,461"
+97435,Drain,Douglas County,"2,412"
+97875,Stanfield,Umatilla County,"2,410"
+97827,Elgin,Union County,"2,384"
+97431,Dexter,Lane County,"2,366"
+97380,Siletz,Lincoln County,"2,360"
+97131,Nehalem,Tillamook County,"2,359"
+97358,Lyons,Marion County,"2,356"
+97366,South Beach,Lincoln County,"2,356"
+97417,Canyonville,Douglas County,"2,330"
+97136,Rockaway Beach,Tillamook County,"2,302"
+97112,Cloverdale,Tillamook County,"2,296"
+97845,John Day,Grant County,"2,265"
+97738,Hines,Harney County,"2,236"
+97449,Lakeside,Coos County,"2,208"
+97469,Riddle,Douglas County,"2,207"
+97107,Bay City,Tillamook County,"2,166"
+97067,Welches,Clackamas County,"2,125"
+97824,Cove,Union County,"2,117"
+97348,Halsey,Linn County,"2,100"
+97846,Joseph,Wallowa County,"2,067"
+97498,Yachats,Lane County,"2,055"
+97360,Mill City,Linn County,"2,040"
+97018,Columbia City,Columbia County,"2,006"
+97836,Heppner,Morrow County,"1,998"
+97049,Rhododendron,Clackamas County,"1,896"
+97538,Selma,Josephine County,"1,865"
+97544,Williams,Josephine County,"1,860"
+97040,Mosier,Wasco County,"1,842"
+97499,Yoncalla,Douglas County,"1,828"
+97465,Port Orford,Curry County,"1,811"
+97389,Tangent,Linn County,"1,755"
+97442,Glendale,Douglas County,"1,742"
+97452,Lowell,Lane County,"1,703"
+97495,Winchester,Douglas County,"1,694"
+97021,Dufur,Wasco County,"1,608"
+97632,Malin,Klamath County,"1,600"
+97868,Pilot Rock,Umatilla County,"1,598"
+97347,Grand Ronde,Yamhill County,"1,577"
+97820,Canyon City,Grant County,"1,568"
+97344,Falls City,Polk County,"1,534"
+97541,Trail,Jackson County,"1,523"
+97813,Athena,Umatilla County,"1,508"
+97054,Deer Island,Columbia County,"1,494"
+97324,Alsea,Benton County,"1,470"
+97014,Cascade Locks,Hood River County,"1,459"
+97121,Hammond,Clatsop County,"1,444"
+97834,Halfway,Baker County,"1,395"
+97310,Salem,Marion County,"1,379"
+97885,Wallowa,Wallowa County,"1,365"
+97375,Scotts Mills,Marion County,"1,346"
+97641,Christmas Valley,Lake County,"1,319"
+97438,Fall Creek,Lane County,"1,311"
+97536,Prospect,Jackson County,"1,309"
+97376,Seal Rock,Lincoln County,"1,301"
+97633,Merrill,Klamath County,"1,246"
+97886,Weston,Umatilla County,"1,221"
+97135,Pacific City,Tillamook County,"1,190"
+97826,Echo,Umatilla County,"1,178"
+97497,Wolf Creek,Josephine County,"1,174"
+97454,Marcola,Lane County,"1,168"
+97110,Cannon Beach,Clatsop County,"1,135"
+97020,Donald,Marion County,"1,133"
+97419,Cheshire,Lane County,"1,123"
+97063,Tygh Valley,Wasco County,"1,081"
+97346,Gates,Marion County,"1,017"
+97823,Condon,Gilliam County,"1,014"
+97876,Summerville,Union County,995
+97137,Saint Paul,Marion County,989
+97429,Days Creek,Douglas County,985
+97117,Gales Creek,Washington County,982
+97416,Camas Valley,Douglas County,981
+97492,Westfir,Lane County,981
+97453,Mapleton,Lane County,965
+97901,Adrian,Malheur County,954
+97867,North Powder,Union County,947
+97812,Arlington,Gilliam County,932
+97037,Maupin,Wasco County,931
+97865,Mount Vernon,Grant County,921
+97388,Gleneden Beach,Lincoln County,911
+97534,O'Brien,Josephine County,892
+97434,Dorena,Lane County,890
+97204,Portland,Multnomah County,885
+97436,Elkton,Douglas County,865
+97833,Haines,Baker County,863
+97130,Manzanita,Tillamook County,845
+97450,Langlois,Curry County,845
+97466,Powers,Coos County,842
+97869,Prairie City,Grant County,838
+97489,Walterville,Lane County,821
+97907,Huntington,Baker County,821
+97413,Blue River,Lane County,818
+97390,Tidewater,Lincoln County,816
+97843,Ione,Morrow County,805
+97830,Fossil,Wheeler County,800
+97118,Garibaldi,Tillamook County,796
+97065,Wasco,Sherman County,760
+97326,Blodgett,Lincoln County,759
+97810,Adams,Umatilla County,759
+97364,Neotsu,Lincoln County,746
+97412,Blachly,Lane County,744
+97109,Buxton,Washington County,730
+97149,Neskowin,Tillamook County,699
+97371,Rickreall,Polk County,694
+97910,Jordan Valley,Malheur County,645
+97733,Crescent,Klamath County,639
+97011,Brightwood,Clackamas County,620
+97122,Hebo,Tillamook County,615
+97447,Idleyld Park,Douglas County,610
+97835,Helix,Umatilla County,608
+97461,Noti,Lane County,604
+97488,Vida,Lane County,604
+97543,Wilderville,Josephine County,598
+97486,Umpqua,Douglas County,595
+97481,Tenmile,Douglas County,592
+97870,Richland,Baker County,585
+97377,Shedd,Linn County,581
+97410,Azalea,Douglas County,561
+97737,Gilchrist,Klamath County,557
+97451,Lorane,Lane County,531
+97493,Westlake,Lane County,491
+97856,Long Creek,Grant County,485
+97343,Eddyville,Lincoln County,484
+97857,Lostine,Wallowa County,483
+97490,Walton,Lane County,460
+97108,Beaver,Tillamook County,451
+97147,Wheeler,Tillamook County,448
+97522,Butte Falls,Jackson County,443
+97029,Grass Valley,Sherman County,442
+97750,Mitchell,Wheeler County,416
+97414,Broadbent,Coos County,415
+97039,Moro,Sherman County,413
+97432,Dillard,Douglas County,411
+97636,Paisley,Lake County,406
+97406,Agness,Curry County,393
+97638,Silver Lake,Lake County,373
+97841,Imbler,Union County,370
+97622,Bly,Klamath County,369
+97145,Tolovana Park,Clatsop County,367
+97430,Deadwood,Lane County,367
+97906,Harper,Malheur County,360
+97001,Antelope,Wasco County,353
+97473,Scottsburg,Douglas County,347
+97825,Dayville,Grant County,347
+97476,Sixes,Curry County,338
+97369,Otter Rock,Lincoln County,334
+97345,Foster,Linn County,330
+97102,Arch Cape,Clatsop County,324
+97730,Camp Sherman,Jefferson County,319
+97864,Monument,Grant County,316
+97877,Sumpter,Grant County,314
+97480,Swisshome,Lane County,295
+97634,Midland,Klamath County,277
+97484,Tiller,Douglas County,271
+97874,Spray,Wheeler County,262
+97621,Beatty,Klamath County,257
+97626,Fort Klamath,Klamath County,251
+97125,Manning,Washington County,248
+97880,Ukiah,Umatilla County,248
+97028,Government Camp,Clackamas County,230
+97627,Keno,Klamath County,229
+97335,Crabtree,Linn County,228
+97350,Idanha,Linn County,219
+97848,Kimberly,Grant County,217
+97050,Rufus,Sherman County,212
+97441,Gardiner,Douglas County,199
+97531,Kerby,Josephine County,187
+97735,Fort Rock,Lake County,175
+97342,Detroit,Marion County,173
+97134,Oceanside,Tillamook County,169
+97732,Crane,Harney County,167
+97640,Summer Lake,Lake County,159
+97904,Drewsey,Harney County,155
+97357,Logsden,Lincoln County,154
+97721,Princeton,Harney County,141
+97373,Saint Benedict,Marion County,139
+97625,Dairy,Klamath County,134
+97637,Plush,Lake County,117
+97731,Chemult,Klamath County,117
+97839,Lexington,Morrow County,116
+97842,Imnaha,Wallowa County,116
+97033,Kent,Sherman County,111
+97873,Seneca,Grant County,109
+97840,Oxbow,Baker County,107
+97722,Diamond,Harney County,99
+97336,Crawfordsville,Linn County,95
+97859,Meacham,Umatilla County,95
+97736,Frenchglen,Harney County,93
+97758,Riley,Harney County,91
+97620,Adel,Lake County,84
+97884,Unity,Baker County,84
+97710,Fields,Harney County,80
+97837,Hereford,Baker County,78
+97751,Paulina,Crook County,71
+97144,Timber,Washington County,66
+97905,Durkee,Baker County,63
+97712,Brothers,Deschutes County,60
+97329,Cascadia,Linn County,55
+97917,Riverside,Malheur County,50
+97903,Brogan,Malheur County,48
+97911,Juntura,Malheur County,42
+97920,Westfall,Malheur County,34
+97908,Ironside,Malheur County,30
+97711,Ashwood,Jefferson County,29
+97909,Jamieson,Malheur County,24
+97819,Bridgeport,Baker County,17
+97902,Arock,Malheur County,17
+97639,Sprague River,Klamath County,15
+97057,Shaniko,Wasco County,14
+97817,Bates,Grant County,13
+97208,Portland,Multnomah County,0
+97258,Portland,Multnomah County,0
+97384,Mehama,Marion County,0
+97494,Wilbur,Douglas County,0
+97604,Crater Lake,Klamath County,0
+97709,Bend,Deschutes County,0
+97752,Post,Crook County,0

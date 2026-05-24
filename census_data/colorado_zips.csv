@@ -1,0 +1,528 @@
+ZIP,City,County,Population
+80134,Parker,Douglas County,"80,302"
+80013,Aurora,Arapahoe County,"73,248"
+80015,Aurora,Arapahoe County,"72,316"
+80016,Aurora,Arapahoe County,"68,268"
+80634,Greeley,Weld County,"65,622"
+80504,Longmont,Weld County,"63,451"
+80022,Commerce City,Adams County,"61,452"
+80219,Denver,Denver County,"59,523"
+80229,Denver,Adams County,"55,092"
+80525,Fort Collins,Larimer County,"54,211"
+80020,Broomfield,Broomfield County,"54,201"
+80631,Greeley,Weld County,"53,722"
+80011,Aurora,Adams County,"53,695"
+80012,Aurora,Arapahoe County,"51,052"
+80538,Loveland,Larimer County,"50,110"
+80918,Colorado Springs,El Paso County,"50,005"
+80233,Denver,Adams County,"48,441"
+80550,Windsor,Weld County,"46,456"
+80239,Denver,Denver County,"44,956"
+80126,Littleton,Douglas County,"44,882"
+80602,Brighton,Adams County,"44,783"
+80123,Littleton,Jefferson County,"44,549"
+80537,Loveland,Larimer County,"44,425"
+80526,Fort Collins,Larimer County,"44,326"
+80501,Longmont,Boulder County,"44,147"
+80401,Golden,Jefferson County,"43,811"
+80127,Littleton,Jefferson County,"43,494"
+80010,Aurora,Arapahoe County,"42,439"
+80601,Brighton,Adams County,"42,127"
+80249,Denver,Denver County,"41,590"
+80916,Colorado Springs,El Paso County,"41,104"
+80017,Aurora,Arapahoe County,"40,584"
+80524,Fort Collins,Larimer County,"40,030"
+80221,Denver,Adams County,"39,718"
+80014,Aurora,Arapahoe County,"39,496"
+80210,Denver,Denver County,"39,113"
+80516,Erie,Weld County,"39,048"
+80521,Fort Collins,Larimer County,"38,776"
+80104,Castle Rock,Douglas County,"38,479"
+80211,Denver,Denver County,"38,177"
+80906,Colorado Springs,El Paso County,"37,502"
+80220,Denver,Denver County,"37,203"
+80920,Colorado Springs,El Paso County,"36,923"
+80138,Parker,Douglas County,"36,895"
+80112,Englewood,Arapahoe County,"36,816"
+80108,Castle Rock,Douglas County,"36,730"
+80128,Littleton,Jefferson County,"36,712"
+80021,Broomfield,Jefferson County,"36,555"
+80003,Arvada,Jefferson County,"35,976"
+80231,Denver,Denver County,"35,883"
+80503,Longmont,Boulder County,"35,846"
+81007,Pueblo,Pueblo County,"35,690"
+80031,Westminster,Adams County,"35,584"
+80909,Colorado Springs,El Paso County,"35,486"
+80204,Denver,Denver County,"35,318"
+80228,Denver,Jefferson County,"34,942"
+80227,Denver,Jefferson County,"34,907"
+80260,Denver,Adams County,"34,677"
+80205,Denver,Denver County,"34,571"
+80027,Louisville,Boulder County,"34,127"
+80241,Thornton,Adams County,"34,082"
+80831,Peyton,El Paso County,"33,912"
+80004,Arvada,Jefferson County,"33,700"
+80911,Colorado Springs,El Paso County,"33,027"
+80026,Lafayette,Boulder County,"32,701"
+81005,Pueblo,Pueblo County,"32,441"
+81504,Grand Junction,Mesa County,"32,376"
+81212,Canon City,Fremont County,"32,292"
+80122,Littleton,Arapahoe County,"32,195"
+80923,Colorado Springs,El Paso County,"31,772"
+80226,Denver,Jefferson County,"31,573"
+80111,Englewood,Arapahoe County,"31,561"
+80910,Colorado Springs,El Paso County,"31,368"
+80817,Fountain,El Paso County,"31,241"
+81001,Pueblo,Pueblo County,"31,197"
+80238,Denver,Denver County,"30,575"
+80922,Colorado Springs,El Paso County,"30,453"
+80917,Colorado Springs,El Paso County,"30,398"
+80129,Littleton,Douglas County,"30,223"
+80132,Monument,El Paso County,"30,073"
+81301,Durango,La Plata County,"29,774"
+80247,Denver,Denver County,"29,760"
+80120,Littleton,Arapahoe County,"29,725"
+80302,Boulder,Boulder County,"29,569"
+80234,Denver,Adams County,"29,356"
+80005,Arvada,Jefferson County,"28,459"
+80109,Castle Rock,Douglas County,"28,400"
+80907,Colorado Springs,El Paso County,"27,815"
+80919,Colorado Springs,El Paso County,"27,787"
+80209,Denver,Denver County,"27,564"
+80023,Broomfield,Broomfield County,"27,143"
+80214,Denver,Jefferson County,"27,022"
+80921,Colorado Springs,El Paso County,"26,551"
+80033,Wheat Ridge,Jefferson County,"26,485"
+81004,Pueblo,Pueblo County,"25,757"
+80908,Colorado Springs,El Paso County,"25,486"
+80304,Boulder,Boulder County,"25,383"
+80301,Boulder,Boulder County,"25,007"
+80303,Boulder,Boulder County,"24,996"
+80528,Fort Collins,Larimer County,"24,960"
+80130,Littleton,Douglas County,"24,719"
+80439,Evergreen,Clear Creek County,"24,610"
+80206,Denver,Denver County,"24,383"
+81401,Montrose,Montrose County,"24,228"
+81501,Grand Junction,Mesa County,"24,011"
+80915,Colorado Springs,El Paso County,"23,884"
+80222,Denver,Denver County,"23,838"
+80110,Englewood,Arapahoe County,"23,825"
+80237,Denver,Denver County,"23,384"
+80232,Denver,Jefferson County,"23,050"
+80113,Englewood,Arapahoe County,"22,976"
+80124,Lone Tree,Douglas County,"22,555"
+80203,Denver,Denver County,"22,441"
+80207,Denver,Denver County,"21,542"
+80002,Arvada,Jefferson County,"21,270"
+80904,Colorado Springs,El Paso County,"21,158"
+80620,Evans,Weld County,"20,798"
+80212,Denver,Denver County,"20,746"
+80403,Golden,Jefferson County,"20,732"
+80534,Johnstown,Weld County,"20,502"
+80215,Denver,Jefferson County,"19,839"
+80924,Colorado Springs,El Paso County,"19,619"
+80224,Denver,Denver County,"19,352"
+80223,Denver,Denver County,"19,246"
+80218,Denver,Denver County,"19,149"
+80007,Arvada,Jefferson County,"19,078"
+80018,Aurora,Arapahoe County,"19,072"
+80202,Denver,Denver County,"18,589"
+80487,Steamboat Springs,Routt County,"18,525"
+80513,Berthoud,Larimer County,"18,271"
+80121,Littleton,Arapahoe County,"18,029"
+80216,Denver,Denver County,"17,330"
+80925,Colorado Springs,El Paso County,"17,273"
+80751,Sterling,Logan County,"16,936"
+80236,Denver,Denver County,"16,863"
+81601,Glenwood Springs,Garfield County,"16,844"
+80603,Brighton,Adams County,"16,811"
+80905,Colorado Springs,El Paso County,"16,672"
+81521,Fruita,Mesa County,"16,613"
+80465,Morrison,Jefferson County,"16,582"
+81503,Grand Junction,Mesa County,"16,558"
+80903,Colorado Springs,El Paso County,"16,491"
+80305,Boulder,Boulder County,"16,291"
+80701,Fort Morgan,Morgan County,"16,226"
+81507,Grand Junction,Mesa County,"15,947"
+80125,Littleton,Douglas County,"15,630"
+81101,Alamosa,Alamosa County,"15,550"
+80030,Westminster,Adams County,"15,427"
+81003,Pueblo,Pueblo County,"15,194"
+80107,Elizabeth,Elbert County,"15,102"
+81623,Carbondale,Pitkin County,"15,067"
+80621,Fort Lupton,Weld County,"15,060"
+80549,Wellington,Larimer County,"14,325"
+81416,Delta,Delta County,"14,256"
+81321,Cortez,Montezuma County,"14,236"
+81650,Rifle,Rio Blanco County,"14,083"
+80640,Henderson,Adams County,"13,818"
+81505,Grand Junction,Mesa County,"13,279"
+80246,Denver,Denver County,"13,097"
+81147,Pagosa Springs,Archuleta County,"13,091"
+81520,Clifton,Mesa County,"12,892"
+80863,Woodland Park,Teller County,"12,329"
+81625,Craig,Moffat County,"12,307"
+81403,Montrose,Montrose County,"12,138"
+80902,Colorado Springs,El Paso County,"11,951"
+81082,Trinidad,Las Animas County,"11,842"
+81008,Pueblo,Pueblo County,"11,608"
+81506,Grand Junction,Mesa County,"11,412"
+81006,Pueblo,Pueblo County,"11,029"
+81230,Gunnison,Gunnison County,"10,971"
+81632,Edwards,Eagle County,"10,965"
+81620,Avon,Eagle County,"10,870"
+81637,Gypsum,Garfield County,"10,744"
+80230,Denver,Denver County,"10,449"
+81303,Durango,La Plata County,"10,236"
+81050,La Junta,Otero County,"9,894"
+80543,Milliken,Weld County,"9,774"
+80424,Breckenridge,Summit County,"9,764"
+80517,Estes Park,Larimer County,"9,657"
+81201,Salida,Chaffee County,"9,294"
+81611,Aspen,Pitkin County,"9,068"
+80615,Eaton,Weld County,"9,060"
+81052,Lamar,Prowers County,"9,045"
+81631,Eagle,Eagle County,"8,958"
+80498,Silverthorne,Summit County,"8,881"
+81122,Bayfield,La Plata County,"8,838"
+80547,Timnath,Larimer County,"8,821"
+80435,Dillon,Summit County,"8,715"
+80421,Bailey,Park County,"8,536"
+80235,Denver,Jefferson County,"8,373"
+81211,Buena Vista,Chaffee County,"8,302"
+80433,Conifer,Jefferson County,"8,292"
+80927,Colorado Springs,El Paso County,"8,036"
+80019,Aurora,Adams County,"7,900"
+80310,Boulder,Boulder County,"7,692"
+81635,Parachute,Garfield County,"7,486"
+81226,Florence,Fremont County,"7,459"
+80461,Leadville,Lake County,"6,957"
+80723,Brush,Morgan County,"6,892"
+81647,New Castle,Garfield County,"6,882"
+80840,Usaf Academy,El Paso County,"6,727"
+80514,Dacono,Weld County,"6,721"
+80102,Bennett,Adams County,"6,690"
+80913,Colorado Springs,El Paso County,"6,586"
+81621,Basalt,Eagle County,"6,550"
+81144,Monte Vista,Rio Grande County,"6,543"
+80808,Calhan,El Paso County,"6,521"
+81652,Silt,Garfield County,"6,271"
+80816,Florissant,Teller County,"6,251"
+80530,Frederick,Weld County,"6,242"
+80136,Strasburg,Adams County,"6,144"
+81435,Telluride,San Miguel County,"5,876"
+80118,Larkspur,Douglas County,"5,632"
+81137,Ignacio,La Plata County,"5,571"
+81526,Palisade,Mesa County,"5,559"
+81067,Rocky Ford,Otero County,"5,523"
+80829,Manitou Springs,El Paso County,"5,312"
+80951,Colorado Springs,El Paso County,"5,219"
+81323,Dolores,Dolores County,"5,191"
+80542,Mead,Weld County,"5,155"
+81413,Cedaredge,Delta County,"5,149"
+80116,Franktown,Douglas County,"5,132"
+80643,Keenesburg,Weld County,"5,119"
+81425,Olathe,Montrose County,"5,005"
+80759,Yuma,Yuma County,"4,931"
+80645,La Salle,Weld County,"4,917"
+81089,Walsenburg,Huerfano County,"4,890"
+80651,Platteville,Weld County,"4,837"
+81657,Vail,Eagle County,"4,835"
+81240,Penrose,Fremont County,"4,800"
+81252,Westcliffe,Custer County,"4,763"
+81054,Las Animas,Bent County,"4,729"
+80540,Lyons,Boulder County,"4,642"
+80814,Divide,Teller County,"4,599"
+81328,Mancos,Montezuma County,"4,487"
+80642,Hudson,Weld County,"4,466"
+80106,Elbert,Elbert County,"4,455"
+80422,Black Hawk,Gilpin County,"4,363"
+80807,Burlington,Kit Carson County,"4,211"
+80135,Sedalia,Douglas County,"4,141"
+80610,Ault,Weld County,"4,132"
+80446,Granby,Grand County,"4,017"
+80443,Frisco,Summit County,"3,992"
+81428,Paonia,Delta County,"3,788"
+80654,Wiggins,Morgan County,"3,657"
+81419,Hotchkiss,Delta County,"3,646"
+81641,Meeker,Rio Blanco County,"3,621"
+80470,Pine,Jefferson County,"3,608"
+80466,Nederland,Boulder County,"3,599"
+80440,Fairplay,Park County,"3,502"
+80758,Wray,Yuma County,"3,394"
+81125,Center,Saguache County,"3,362"
+81132,Del Norte,Rio Grande County,"3,252"
+81432,Ridgway,Ouray County,"3,219"
+80103,Byers,Adams County,"3,215"
+80452,Idaho Springs,Clear Creek County,"3,135"
+81224,Crested Butte,Gunnison County,"3,101"
+80734,Holyoke,Phillips County,"2,999"
+81615,Snowmass Village,Pitkin County,"2,972"
+81648,Rangely,Rio Blanco County,"2,796"
+81063,Ordway,Crowley County,"2,783"
+81524,Loma,Mesa County,"2,760"
+80117,Kiowa,Elbert County,"2,756"
+81326,Hesperus,La Plata County,"2,621"
+81639,Hayden,Routt County,"2,618"
+80442,Fraser,Grand County,"2,614"
+80459,Kremmling,Grand County,"2,569"
+81223,Cotopaxi,Fremont County,"2,457"
+80828,Limon,Lincoln County,"2,427"
+80133,Palmer Lake,El Paso County,"2,425"
+80536,Livermore,Larimer County,"2,383"
+80467,Oak Creek,Routt County,"2,260"
+80720,Akron,Washington County,"2,247"
+80650,Pierce,Weld County,"2,192"
+80105,Deer Trail,Arapahoe County,"2,182"
+80644,Kersey,Weld County,"2,124"
+81062,Olney Springs,Crowley County,"2,000"
+81415,Crawford,Montrose County,"1,955"
+81418,Eckert,Delta County,"1,945"
+80512,Bellvue,Larimer County,"1,903"
+80535,Laporte,Larimer County,"1,896"
+81140,La Jara,Conejos County,"1,893"
+80930,Colorado Springs,El Paso County,"1,882"
+81073,Springfield,Baca County,"1,865"
+80447,Grand Lake,Grand County,"1,857"
+81120,Antonito,Conejos County,"1,832"
+80813,Cripple Creek,Teller County,"1,817"
+81324,Dove Creek,Dolores County,"1,815"
+81236,Nathrop,Chaffee County,"1,748"
+81151,Sanford,Costilla County,"1,716"
+80137,Watkins,Arapahoe County,"1,689"
+81069,Rye,Huerfano County,"1,678"
+80045,Aurora,Adams County,"1,676"
+80938,Colorado Springs,El Paso County,"1,664"
+81039,Fowler,Pueblo County,"1,597"
+81047,Holly,Prowers County,"1,586"
+80926,Colorado Springs,El Paso County,"1,561"
+81055,La Veta,Huerfano County,"1,559"
+80864,Yoder,El Paso County,"1,505"
+81624,Collbran,Mesa County,"1,492"
+80731,Haxtun,Phillips County,"1,486"
+81527,Whitewater,Mesa County,"1,462"
+80482,Winter Park,Grand County,"1,447"
+81654,Snowmass,Pitkin County,"1,431"
+80737,Julesburg,Sedgwick County,"1,420"
+81023,Beulah,Pueblo County,"1,417"
+81141,Manassa,Conejos County,"1,406"
+80478,Tabernash,Grand County,"1,396"
+81334,Towaoc,Montezuma County,"1,389"
+81410,Austin,Delta County,"1,372"
+81154,South Fork,Rio Grande County,"1,363"
+80821,Hugo,Lincoln County,"1,336"
+80743,Otis,Washington County,"1,333"
+81019,Colorado City,Pueblo County,"1,280"
+80451,Hot Sulphur Springs,Grand County,"1,265"
+80420,Alma,Park County,"1,246"
+81152,San Luis,Costilla County,"1,244"
+80833,Rush,Lincoln County,"1,240"
+81427,Ouray,Ouray County,"1,218"
+81149,Saguache,Saguache County,"1,183"
+81423,Norwood,San Miguel County,"1,176"
+80810,Cheyenne Wells,Cheyenne County,"1,145"
+81022,Avondale,Pueblo County,"1,143"
+80520,Firestone,Weld County,"1,140"
+80809,Cascade,El Paso County,"1,138"
+81643,Mesa,Mesa County,"1,133"
+80480,Walden,Jackson County,"1,130"
+81525,Mack,Mesa County,"1,127"
+81091,Weston,Las Animas County,"1,120"
+80705,Log Lane Village,Morgan County,"1,102"
+80836,Stratton,Kit Carson County,"1,085"
+81133,Fort Garland,Costilla County,"1,085"
+81424,Nucla,Montrose County,"1,079"
+81630,De Beque,Garfield County,"1,058"
+80444,Georgetown,Clear Creek County,"1,053"
+81131,Crestone,Saguache County,"1,051"
+80728,Fleming,Logan County,"1,029"
+81645,Minturn,Eagle County,"1,028"
+80623,Gilcrest,Weld County,"1,026"
+80832,Ramah,Elbert County,"1,019"
+81036,Eads,Kiowa County,"1,017"
+80454,Indian Hills,Jefferson County,986
+81523,Glade Park,Mesa County,983
+80438,Empire,Clear Creek County,970
+81233,Howard,Fremont County,966
+80826,Limon,Lincoln County,945
+80653,Weldona,Morgan County,939
+80545,Red Feather Lakes,Larimer County,937
+80741,Merino,Logan County,936
+80515,Drake,Larimer County,934
+80815,Flagler,Kit Carson County,923
+80449,Hartsel,Park County,916
+81235,Lake City,Hinsdale County,912
+80648,Nunn,Weld County,902
+81058,Manzanola,Otero County,871
+81090,Walsh,Baca County,829
+81225,Crested Butte,Gunnison County,823
+81025,Boone,Pueblo County,814
+80827,Lake George,Park County,808
+81242,Poncha Springs,Chaffee County,807
+80928,Colorado Springs,El Paso County,798
+81143,Moffat,Saguache County,796
+81020,Aguilar,Las Animas County,763
+81092,Wiley,Bent County,761
+81431,Redvale,San Miguel County,745
+81130,Creede,Mineral County,727
+80428,Clark,Routt County,720
+81430,Placerville,San Miguel County,708
+80624,Gill,Weld County,685
+81041,Granada,Prowers County,679
+81210,Almont,Gunnison County,664
+80510,Allenspark,Boulder County,663
+81244,Rockvale,Fremont County,660
+80860,Victor,Teller County,654
+81433,Silverton,San Juan County,651
+80819,Green Mountain Falls,El Paso County,650
+80835,Simla,Elbert County,643
+81146,Mosca,Alamosa County,637
+81610,Dinosaur,Moffat County,635
+80733,Hillrose,Morgan County,625
+80736,Iliff,Logan County,625
+80744,Ovid,Sedgwick County,615
+81123,Blanca,Costilla County,606
+81076,Sugar City,Crowley County,602
+81422,Naturita,Montrose County,589
+81077,Swink,Otero County,568
+80427,Central City,Gilpin County,567
+80611,Briggsdale,Weld County,557
+81222,Coaldale,Fremont County,538
+81253,Wetmore,Custer County,524
+80456,Jefferson,Park County,507
+81126,Chama,Costilla County,506
+80914,Colorado Springs,El Paso County,504
+80455,Jamestown,Boulder County,501
+80747,Peetz,Logan County,499
+80612,Carr,Weld County,494
+81327,Lewis,Montezuma County,486
+80481,Ward,Boulder County,484
+80290,Denver,Denver County,474
+81656,Woody Creek,Pitkin County,459
+80483,Yampa,Routt County,455
+80726,Crook,Logan County,453
+81057,McClave,Bent County,450
+80804,Arriba,Lincoln County,432
+81331,Pleasant View,Montezuma County,432
+80820,Guffey,Park County,427
+80101,Agate,Elbert County,423
+81251,Twin Lakes,Lake County,423
+81332,Rico,Dolores County,414
+80469,Phippsburg,Routt County,402
+80825,Kit Carson,Cheyenne County,401
+81148,Romeo,Conejos County,387
+80468,Parshall,Grand County,382
+81121,Arboles,Archuleta County,376
+80722,Atwood,Logan County,374
+80727,Eckley,Yuma County,369
+80805,Bethune,Kit Carson County,369
+81040,Gardner,Huerfano County,360
+80729,Grover,Weld County,350
+80436,Dumont,Clear Creek County,348
+81649,Red Cliff,Eagle County,345
+80818,Genoa,Lincoln County,337
+80735,Idalia,Yuma County,324
+81221,Coal Creek,Fremont County,324
+80755,Vernon,Yuma County,323
+81136,Hooper,Alamosa County,305
+80652,Roggen,Weld County,299
+80812,Cope,Washington County,298
+81064,Pritchett,Baca County,298
+81071,Sheridan Lake,Kiowa County,298
+80453,Idledale,Jefferson County,297
+80432,Como,Park County,293
+80824,Kirk,Yuma County,293
+80834,Seibert,Kit Carson County,287
+80457,Kittredge,Jefferson County,283
+80861,Vona,Kit Carson County,283
+80622,Galeton,Weld County,282
+80131,Louviers,Douglas County,276
+80546,Severance,Weld County,271
+80474,Rollinsville,Gilpin County,264
+80749,Sedgwick,Sedgwick County,264
+81248,Sargents,Saguache County,264
+80649,Orchard,Weld County,263
+81124,Capulin,Conejos County,259
+80721,Amherst,Phillips County,257
+81220,Cimarron,Gunnison County,251
+80425,Buffalo Creek,Jefferson County,243
+81320,Cahone,Dolores County,242
+81241,Pitkin,Gunnison County,238
+81155,Villa Grove,Saguache County,228
+81655,Wolcott,Eagle County,227
+80822,Joes,Yuma County,224
+81033,Crowley,Crowley County,219
+80750,Snyder,Morgan County,217
+80757,Woodrow,Washington County,216
+81029,Campo,Baca County,212
+81640,Maybell,Moffat County,209
+80742,New Raymer,Weld County,204
+80823,Karval,Lincoln County,197
+81087,Vilas,Baca County,197
+81049,Kim,Las Animas County,194
+80532,Glen Haven,Larimer County,185
+80830,Matheson,Elbert County,176
+81243,Powderhorn,Gunnison County,174
+81237,Ohio City,Gunnison County,169
+81044,Hasty,Bent County,160
+80476,Silver Plume,Clear Creek County,159
+81027,Branson,Las Animas County,158
+80929,Colorado Springs,El Paso County,155
+81024,Boncarbo,Las Animas County,149
+80430,Coalmont,Jackson County,148
+81030,Cheraw,Otero County,148
+80802,Arapahoe,Cheyenne County,146
+80754,Stoneham,Weld County,141
+80025,Eldorado Springs,Boulder County,138
+81330,Mesa Verde National Park,Montezuma County,138
+81429,Paradox,Montrose County,129
+81434,Somerset,Gunnison County,127
+81426,Ophir,San Miguel County,120
+81129,Conejos,Conejos County,118
+81646,Molina,Mesa County,115
+80426,Burns,Eagle County,102
+80463,McCoy,Routt County,100
+80801,Anton,Washington County,100
+81325,Egnar,Dolores County,95
+80740,Lindon,Washington County,94
+81227,Monarch,Chaffee County,93
+81081,Trinchera,Las Animas County,89
+80423,Bond,Eagle County,83
+81335,Yellow Jacket,Montezuma County,76
+81638,Hamilton,Moffat County,69
+80473,Rand,Jackson County,62
+80939,Colorado Springs,El Paso County,62
+81059,Model,Las Animas County,61
+81045,Haswell,Kiowa County,59
+80862,Wild Horse,Cheyenne County,47
+80732,Hereford,Weld County,42
+80475,Shawnee,Park County,39
+81084,Two Buttes,Baca County,39
+80746,Paoli,Phillips County,37
+81128,Chromo,Archuleta County,34
+80024,Dupont,Adams County,33
+80434,Cowdrey,Jackson County,32
+80479,Toponas,Routt County,32
+80745,Padroni,Logan County,32
+81043,Hartman,Prowers County,30
+81411,Bedrock,Montrose County,24
+81138,Jaroso,Costilla County,17
+81642,Meredith,Pitkin County,15
+81021,Arlington,Kiowa County,12
+81239,Parlin,Gunnison County,9
+81046,Hoehne,Las Animas County,3
+80264,Denver,Denver County,0
+80266,Denver,Denver County,0
+80293,Denver,Denver County,0
+80294,Denver,Denver County,0
+80419,Golden,Jefferson County,0
+80448,Grant,Park County,0
+80471,Pinecliffe,Boulder County,0
+80544,Niwot,Boulder County,0
+80646,Lucerne,Weld County,0
+81228,Granite,Chaffee County,0
+81232,Hillside,Fremont County,0
+81522,Gateway,Mesa County,0
+81612,Aspen,Pitkin County,0
+81633,Dinosaur,Moffat County,0
+81653,Slater,Routt County,0

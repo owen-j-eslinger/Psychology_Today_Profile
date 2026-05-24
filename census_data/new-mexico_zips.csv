@@ -1,0 +1,372 @@
+ZIP,City,County,Population
+87121,Albuquerque,Bernalillo County,"75,510"
+87114,Albuquerque,Bernalillo County,"70,117"
+87120,Albuquerque,Bernalillo County,"66,097"
+87124,Rio Rancho,Sandoval County,"58,499"
+87111,Albuquerque,Bernalillo County,"57,085"
+87105,Albuquerque,Bernalillo County,"54,367"
+87144,Rio Rancho,Sandoval County,"51,837"
+87507,Santa Fe,Santa Fe County,"51,386"
+87031,Los Lunas,Valencia County,"47,514"
+87401,Farmington,San Juan County,"45,229"
+88101,Clovis,Curry County,"44,846"
+87112,Albuquerque,Bernalillo County,"44,250"
+87123,Albuquerque,Bernalillo County,"42,252"
+88240,Hobbs,Lea County,"41,557"
+88220,Carlsbad,Eddy County,"39,828"
+87110,Albuquerque,Bernalillo County,"39,685"
+87109,Albuquerque,Bernalillo County,"39,324"
+88001,Las Cruces,DoÃ±a Ana County,"37,690"
+88310,Alamogordo,Otero County,"36,983"
+87108,Albuquerque,Bernalillo County,"36,331"
+88012,Las Cruces,DoÃ±a Ana County,"33,158"
+88011,Las Cruces,DoÃ±a Ana County,"33,064"
+87505,Santa Fe,Santa Fe County,"32,092"
+88203,Roswell,Chaves County,"28,753"
+87107,Albuquerque,Bernalillo County,"27,566"
+88201,Roswell,Chaves County,"27,524"
+88005,Las Cruces,DoÃ±a Ana County,"27,509"
+87106,Albuquerque,Bernalillo County,"26,953"
+88007,Las Cruces,DoÃ±a Ana County,"26,254"
+88030,Deming,Luna County,"24,413"
+87301,Gallup,McKinley County,"21,755"
+87002,Belen,Valencia County,"21,265"
+87102,Albuquerque,Bernalillo County,"20,123"
+88081,Chaparral,Otero County,"19,663"
+87532,Espanola,Rio Arriba County,"18,948"
+87122,Albuquerque,Bernalillo County,"18,578"
+88210,Artesia,Eddy County,"18,542"
+87508,Santa Fe,Santa Fe County,"18,518"
+88130,Portales,Roosevelt County,"17,842"
+88061,Silver City,Grant County,"17,464"
+87701,Las Vegas,San Miguel County,"17,339"
+87506,Santa Fe,Santa Fe County,"16,372"
+88021,Anthony,DoÃ±a Ana County,"16,298"
+87113,Albuquerque,Bernalillo County,"16,074"
+87501,Santa Fe,Santa Fe County,"16,007"
+88260,Lovington,Lea County,"15,160"
+87410,Aztec,San Juan County,"15,012"
+87015,Edgewood,Santa Fe County,"14,443"
+87413,Bloomfield,San Juan County,"14,296"
+87544,Los Alamos,Sandoval County,"13,598"
+87104,Albuquerque,Bernalillo County,"12,853"
+88008,Santa Teresa,DoÃ±a Ana County,"12,623"
+87020,Grants,Cibola County,"11,966"
+87571,Taos,Taos County,"11,531"
+87402,Farmington,San Juan County,"11,418"
+87004,Bernalillo,Sandoval County,"11,237"
+88063,Sunland Park,DoÃ±a Ana County,"10,881"
+87420,Shiprock,San Juan County,"10,586"
+87059,Tijeras,Bernalillo County,"10,241"
+87801,Socorro,Socorro County,"9,291"
+87048,Corrales,Sandoval County,"9,069"
+88242,Hobbs,Lea County,"8,472"
+88345,Ruidoso,Lincoln County,"7,835"
+87035,Moriarty,Torrance County,"7,539"
+87327,Zuni,McKinley County,"7,144"
+87740,Raton,Colfax County,"7,078"
+88401,Tucumcari,Quay County,"6,818"
+87417,Kirtland,San Juan County,"6,624"
+87901,Truth Or Consequences,Sierra County,"6,378"
+87547,White Rock,Los Alamos County,"5,837"
+87068,Bosque Farms,Bernalillo County,"5,432"
+87047,Sandia Park,Sandoval County,"5,402"
+87013,Cuba,Sandoval County,"5,251"
+87313,Crownpoint,McKinley County,"4,971"
+87557,Ranchos De Taos,Taos County,"4,904"
+87311,Church Rock,McKinley County,"4,659"
+87416,Fruitland,San Juan County,"4,546"
+87529,El Prado,Taos County,"4,538"
+87375,Yatahey,McKinley County,"4,481"
+88330,Holloman Air Force Base,Otero County,"4,433"
+88230,Dexter,Chaves County,"4,336"
+87323,Thoreau,McKinley County,"4,245"
+87043,Placitas,Sandoval County,"4,223"
+88352,Tularosa,Otero County,"4,124"
+87116,Albuquerque,Bernalillo County,"3,865"
+87528,Dulce,Rio Arriba County,"3,756"
+88340,Mescalero,Otero County,"3,590"
+87001,Algodones,Sandoval County,"3,560"
+87034,Pueblo Of Acoma,Cibola County,"3,507"
+87052,Santo Domingo Pueblo,Sandoval County,"3,465"
+87042,Peralta,Valencia County,"3,410"
+88435,Santa Rosa,Guadalupe County,"3,343"
+88045,Lordsburg,Hidalgo County,"3,303"
+88312,Alto,Lincoln County,"3,287"
+88231,Eunice,Lea County,"3,255"
+88048,Mesquite,DoÃ±a Ana County,"3,247"
+88346,Ruidoso Downs,Lincoln County,"3,191"
+88415,Clayton,Union County,"3,178"
+87511,Alcalde,Rio Arriba County,"3,108"
+87328,Navajo,McKinley County,"3,043"
+87556,Questa,Taos County,"3,008"
+87937,Hatch,DoÃ±a Ana County,"2,990"
+87021,Milan,Cibola County,"2,871"
+88232,Hagerman,Chaves County,"2,838"
+87024,Jemez Pueblo,Sandoval County,"2,692"
+87566,Ohkay Owingeh,Rio Arriba County,"2,684"
+88044,La Mesa,DoÃ±a Ana County,"2,618"
+87045,Prewitt,McKinley County,"2,608"
+88072,Vado,DoÃ±a Ana County,"2,608"
+87522,Chimayo,Santa Fe County,"2,595"
+87008,Cedar Crest,Bernalillo County,"2,520"
+87319,Mentmore,McKinley County,"2,496"
+87326,Vanderwagen,McKinley County,"2,489"
+87016,Estancia,Torrance County,"2,421"
+87552,Pecos,San Miguel County,"2,377"
+88252,Jal,Lea County,"2,364"
+87415,Flora Vista,San Juan County,"2,273"
+88316,Capitan,Lincoln County,"2,194"
+87325,Tohatchi,McKinley County,"2,178"
+87321,Ramah,Cibola County,"2,115"
+87935,Elephant Butte,Sierra County,"2,094"
+88317,Cloudcroft,Otero County,"2,077"
+88023,Bayard,Grant County,"2,057"
+87537,Hernandez,Rio Arriba County,"2,038"
+87567,Santa Cruz,Santa Fe County,"2,003"
+87316,Fort Wingate,McKinley County,"1,979"
+87305,Gallup,McKinley County,"1,952"
+88256,Loving,Eddy County,"1,935"
+87036,Mountainair,Torrance County,"1,927"
+87062,Veguita,Socorro County,"1,922"
+87007,Casa Blanca,Cibola County,"1,871"
+88337,La Luz,Otero County,"1,859"
+87357,Pinehill,Cibola County,"1,818"
+87317,Gamerco,McKinley County,"1,753"
+87747,Springer,Colfax County,"1,723"
+87560,Ribera,San Miguel County,"1,694"
+88047,Mesilla Park,DoÃ±a Ana County,"1,660"
+87364,Sheep Springs,San Juan County,"1,632"
+88002,White Sands Missile Range,DoÃ±a Ana County,"1,609"
+88026,Santa Clara,Grant County,"1,604"
+87514,Arroyo Seco,Taos County,"1,589"
+87026,Laguna,Cibola County,"1,567"
+87745,Sapello,San Miguel County,"1,553"
+87527,Dixon,Rio Arriba County,"1,534"
+87710,Angel Fire,Colfax County,"1,519"
+87732,Mora,Mora County,"1,505"
+88135,Texico,Curry County,"1,500"
+87825,Magdalena,Socorro County,"1,489"
+87037,Nageezi,San Juan County,"1,481"
+87455,Newcomb,San Juan County,"1,480"
+87421,Waterflow,San Juan County,"1,468"
+87535,Glorieta,Santa Fe County,"1,467"
+88119,Fort Sumner,De Baca County,"1,444"
+88325,High Rolls Mountain Park,Otero County,"1,370"
+88267,Tatum,Lea County,"1,347"
+88022,Arenas Valley,Grant County,"1,326"
+87006,Bosque,Socorro County,"1,313"
+87461,Sanostee,San Juan County,"1,307"
+87025,Jemez Springs,Sandoval County,"1,299"
+87151,Albuquerque,Bernalillo County,"1,261"
+87521,Chamisal,Rio Arriba County,"1,261"
+87553,Penasco,Taos County,"1,260"
+88043,Hurley,Grant County,"1,210"
+88029,Columbus,Luna County,"1,198"
+88301,Carrizozo,Lincoln County,"1,197"
+87579,Vadito,Taos County,"1,184"
+87520,Chama,Rio Arriba County,"1,148"
+87010,Cerrillos,Santa Fe County,"1,135"
+87540,Lamy,Santa Fe County,"1,117"
+88244,Hobbs,Lea County,"1,105"
+87530,El Rito,Rio Arriba County,"1,102"
+87056,Stanley,Santa Fe County,"1,084"
+88004,Las Cruces,DoÃ±a Ana County,"1,080"
+87828,Polvadera,Socorro County,"1,068"
+87558,Red River,Taos County,"1,064"
+87711,Anton Chico,San Miguel County,"1,033"
+87821,Datil,Catron County,"1,030"
+87548,Medanales,Rio Arriba County,"1,024"
+87942,Williamsburg,Sierra County,"1,005"
+87941,Salem,DoÃ±a Ana County,988
+87510,Abiquiu,Rio Arriba County,979
+87310,Brimhall,McKinley County,977
+87575,Tierra Amarilla,Rio Arriba County,938
+87549,Ojo Caliente,Rio Arriba County,933
+88041,Hanover,Grant County,925
+87053,San Ysidro,Sandoval County,916
+87499,Farmington,San Juan County,903
+88253,Lake Arthur,Chaves County,901
+87582,Velarde,Rio Arriba County,899
+88124,Melrose,Curry County,891
+88039,Glenwood,Catron County,859
+88426,Logan,Harding County,837
+87022,Isleta,Bernalillo County,818
+87830,Reserve,Catron County,818
+88065,Tyrone,Grant County,814
+87513,Arroyo Hondo,Taos County,811
+88049,Mimbres,Grant County,807
+87519,Cerro,Taos County,798
+87072,Cochiti Pueblo,Sandoval County,789
+87714,Cimarron,Colfax County,784
+87412,Blanco,Rio Arriba County,779
+88020,Animas,Hidalgo County,743
+87722,Guadalupita,Mora County,742
+87930,Arrey,Sierra County,718
+87577,Tres Piedras,Rio Arriba County,711
+87931,Caballo,Sierra County,703
+87041,Pena Blanca,Sandoval County,691
+87418,La Plata,San Juan County,686
+88046,Mesilla,DoÃ±a Ana County,656
+87312,Continental Divide,McKinley County,654
+88341,Nogal,Lincoln County,653
+87752,Wagon Mound,Mora County,642
+88339,Mayhill,Chaves County,603
+87829,Quemado,Catron County,602
+87320,Mexican Springs,McKinley County,597
+88027,Chamberino,DoÃ±a Ana County,580
+88038,Gila,Grant County,580
+87562,Rowe,San Miguel County,569
+87018,Counselor,Sandoval County,561
+87322,Rehoboth,McKinley County,545
+87718,Eagle Nest,Colfax County,542
+88418,Des Moines,Union County,536
+88353,Vaughn,Guadalupe County,529
+87578,Truchas,Rio Arriba County,528
+87014,Cubero,Cibola County,517
+88311,Alamogordo,Otero County,493
+88350,Timberon,Otero County,479
+87083,Cochiti Lake,Sandoval County,476
+87743,Roy,Harding County,475
+87538,Ilfeld,San Miguel County,467
+87419,Navajo Dam,San Juan County,458
+87524,Costilla,Taos County,450
+87347,Jamestown,McKinley County,448
+87823,Lemitar,Socorro County,441
+88265,Monument,Lea County,432
+88024,Berino,DoÃ±a Ana County,431
+87831,San Acacia,Socorro County,423
+88336,Hondo,Lincoln County,421
+87728,Maxwell,Colfax County,414
+88003,Las Cruces,DoÃ±a Ana County,404
+87712,Buena Vista,Mora County,397
+88116,Elida,Roosevelt County,394
+87940,Rincon,DoÃ±a Ana County,393
+87523,Cordova,Rio Arriba County,389
+87569,Serafina,San Miguel County,389
+87517,Carson,Taos County,388
+87051,San Rafael,Cibola County,374
+88321,Encino,Torrance County,373
+87512,Amalia,Taos County,372
+88051,Mule Creek,Grant County,360
+87731,Montezuma,San Miguel County,355
+87017,Gallina,Rio Arriba County,350
+87515,Canjilon,Rio Arriba County,333
+88118,Floyd,Roosevelt County,329
+87012,Coyote,Rio Arriba County,321
+87742,Rociada,San Miguel County,321
+88318,Corona,Lincoln County,321
+88263,Malaga,Eddy County,309
+87583,Villanueva,San Miguel County,308
+87023,Jarales,Valencia County,306
+88355,Ruidoso,Lincoln County,293
+87061,Torreon,Torrance County,291
+87044,Ponderosa,Sandoval County,289
+87543,Llano,Taos County,288
+88416,Conchas Dam,San Miguel County,282
+88348,San Patricio,Lincoln County,279
+88112,Broadview,Curry County,272
+88120,Grady,Quay County,267
+87063,Willard,Torrance County,265
+87832,San Antonio,Socorro County,265
+87539,La Madera,Rio Arriba County,250
+88430,Nara Visa,Quay County,250
+88338,Lincoln,Lincoln County,246
+88347,Sacramento,Otero County,246
+87580,Valdez,Taos County,245
+87027,La Jara,Sandoval County,237
+87029,Lindrith,Rio Arriba County,237
+87040,Paguate,Cibola County,226
+87064,Youngsville,Rio Arriba County,224
+87723,Holman,Mora County,224
+88132,Rogers,Roosevelt County,221
+87551,Los Ojos,Rio Arriba County,219
+88028,Cliff,Grant County,219
+88434,San Jon,Quay County,218
+87936,Garfield,DoÃ±a Ana County,214
+87939,Monticello,Sierra County,206
+88042,Hillsboro,Sierra County,205
+87564,San Cristobal,Taos County,203
+87943,Winston,Sierra County,191
+88121,House,Quay County,165
+88431,Newkirk,Guadalupe County,164
+87028,La Joya,Socorro County,159
+88351,Tinnie,Lincoln County,159
+87713,Chacon,Mora County,158
+88250,Hope,Chaves County,153
+87824,Luna,Catron County,152
+88052,Organ,DoÃ±a Ana County,152
+87565,San Jose,San Miguel County,147
+87827,Pie Town,Catron County,147
+87531,Embudo,Taos County,144
+88056,Rodeo,Hidalgo County,141
+88427,Mcalister,Quay County,139
+88414,Capulin,Colfax County,137
+87820,Aragon,Catron County,135
+87746,Solano,San Miguel County,134
+87005,Bluewater,Cibola County,133
+87315,Fence Lake,Cibola County,130
+87038,New Laguna,Cibola County,127
+88343,Picacho,Lincoln County,125
+88136,Yeso,De Baca County,118
+88422,Gladstone,Union County,117
+88417,Cuervo,Guadalupe County,116
+87734,Ocate,Mora County,115
+88053,Pinos Altos,Grant County,113
+88113,Causey,Roosevelt County,110
+87729,Miami,Colfax County,96
+87046,Regina,Rio Arriba County,94
+88025,Buckhorn,Grant County,92
+87736,Rainsville,Mora County,91
+88424,Grenville,Union County,89
+87735,Ojo Feliz,Mora County,83
+87049,San Fidel,Cibola County,79
+88411,Bard,Quay County,76
+87032,Mcintosh,Torrance County,73
+88255,Loco Hills,Eddy County,72
+87733,Mosquero,Harding County,70
+87516,Canones,Rio Arriba County,68
+87525,Taos Ski Valley,Taos County,65
+87715,Cleveland,Mora County,63
+88419,Folsom,Union County,61
+87730,Mills,Harding County,60
+88134,Taiban,De Baca County,57
+88410,Amistad,Union County,45
+88344,Pinon,Otero County,44
+87753,Watrous,Mora County,42
+88354,Weed,Otero County,29
+88034,Faywood,Grant County,28
+87117,Kirtland Afb,Bernalillo County,26
+88436,Sedan,Union County,25
+88262,Mcdonald,Lea County,20
+87573,Tererro,San Miguel County,18
+88324,Glencoe,Lincoln County,18
+87011,Claunch,Socorro County,16
+88009,Playas,Hidalgo County,16
+88103,Cannon Afb,Curry County,16
+88040,Hachita,Hidalgo County,14
+88114,Crossroads,Lea County,12
+87060,Tome,Valencia County,10
+88115,Dora,Roosevelt County,10
+88314,Bent,Otero County,10
+87365,Smith Lake,McKinley County,9
+87724,La Loma,Guadalupe County,9
+88264,Maljamar,Lea County,9
+88342,Orogrande,Otero County,9
+88126,Pep,Roosevelt County,7
+88125,Milnesand,Roosevelt County,5
+87070,Clines Corners,Torrance County,0
+87101,Albuquerque,Bernalillo County,0
+87518,Cebolla,Rio Arriba County,0
+87554,Petaca,Rio Arriba County,0
+87581,Vallecitos,Rio Arriba County,0
+87749,Ute Park,Colfax County,0
+87750,Valmora,Mora County,0
+87933,Derry,Sierra County,0
+88055,Redrock,Grant County,0
+88254,Lakewood,Eddy County,0
+88268,Whites City,Eddy County,0
+88323,Fort Stanton,Lincoln County,0
+88349,Sunspot,Otero County,0
+88421,Garita,San Miguel County,0
+88439,Trementina,San Miguel County,0

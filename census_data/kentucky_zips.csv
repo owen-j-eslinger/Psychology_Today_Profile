@@ -1,0 +1,781 @@
+ZIP,City,County,Population
+40475,Richmond,Madison County,"65,961"
+42101,Bowling Green,Warren County,"65,421"
+41042,Florence,Boone County,"57,634"
+42701,Elizabethtown,Hardin County,"53,987"
+40324,Georgetown,Scott County,"53,406"
+40601,Frankfort,Franklin County,"51,893"
+40509,Lexington,Fayette County,"47,036"
+40356,Nicholasville,Jessamine County,"45,849"
+42301,Owensboro,Daviess County,"45,445"
+40214,Louisville,Jefferson County,"45,405"
+40216,Louisville,Jefferson County,"44,047"
+40299,Louisville,Jefferson County,"42,207"
+42303,Owensboro,Daviess County,"42,119"
+42104,Bowling Green,Warren County,"42,076"
+42240,Hopkinsville,Christian County,"41,415"
+40229,Louisville,Jefferson County,"41,299"
+40291,Louisville,Jefferson County,"41,222"
+41017,Ft Mitchell,Kenton County,"40,719"
+40219,Louisville,Jefferson County,"39,909"
+40245,Louisville,Jefferson County,"39,835"
+40165,Shepherdsville,Bullitt County,"38,403"
+40272,Louisville,Jefferson County,"38,289"
+40511,Lexington,Fayette County,"38,176"
+42420,Henderson,Henderson County,"38,133"
+40515,Lexington,Fayette County,"37,384"
+40391,Winchester,Clark County,"36,796"
+40517,Lexington,Fayette County,"35,656"
+40220,Louisville,Jefferson County,"35,078"
+40218,Louisville,Jefferson County,"33,736"
+41051,Independence,Kenton County,"33,054"
+40065,Shelbyville,Shelby County,"32,160"
+42141,Glasgow,Barren County,"31,506"
+42071,Murray,Calloway County,"30,981"
+42001,Paducah,McCracken County,"30,856"
+40241,Louisville,Jefferson County,"30,696"
+40004,Bardstown,Nelson County,"30,601"
+40701,Corbin,Whitley County,"30,526"
+42003,Paducah,McCracken County,"29,672"
+41018,Erlanger,Kenton County,"28,940"
+40207,Louisville,Jefferson County,"28,903"
+40403,Berea,Madison County,"27,607"
+40503,Lexington,Fayette County,"27,451"
+42431,Madisonville,Hopkins County,"27,207"
+41011,Covington,Kenton County,"26,981"
+40258,Louisville,Jefferson County,"26,841"
+42718,Campbellsville,Taylor County,"26,768"
+40031,La Grange,Oldham County,"26,259"
+40502,Lexington,Fayette County,"26,122"
+40422,Danville,Boyle County,"25,950"
+40504,Lexington,Fayette County,"25,816"
+41005,Burlington,Boone County,"25,718"
+40505,Lexington,Fayette County,"25,594"
+42503,Somerset,Pulaski County,"25,321"
+41091,Union,Boone County,"25,244"
+40383,Versailles,Woodford County,"24,793"
+40205,Louisville,Jefferson County,"24,664"
+40342,Lawrenceburg,Anderson County,"23,963"
+42066,Mayfield,Graves County,"23,917"
+40508,Lexington,Fayette County,"23,756"
+41501,Pikeville,Pike County,"23,754"
+40047,Mount Washington,Bullitt County,"23,662"
+40160,Radcliff,Hardin County,"23,624"
+40741,London,Laurel County,"23,397"
+40014,Crestwood,Oldham County,"23,101"
+40223,Louisville,Jefferson County,"22,798"
+40353,Mount Sterling,Montgomery County,"22,725"
+40351,Morehead,Rowan County,"22,322"
+42103,Bowling Green,Warren County,"21,911"
+40222,Louisville,Jefferson County,"21,470"
+40330,Harrodsburg,Mercer County,"21,250"
+40059,Prospect,Oldham County,"20,892"
+41015,Latonia,Kenton County,"20,823"
+41102,Ashland,Boyd County,"20,621"
+40215,Louisville,Jefferson County,"20,532"
+40211,Louisville,Jefferson County,"20,407"
+40206,Louisville,Jefferson County,"20,161"
+40744,London,Laurel County,"20,137"
+42025,Benton,Marshall County,"19,941"
+41071,Newport,Campbell County,"19,680"
+42134,Franklin,Simpson County,"19,380"
+41001,Alexandria,Campbell County,"19,323"
+41101,Ashland,Boyd County,"19,189"
+42223,Fort Campbell,Montgomery County,"19,006"
+42633,Monticello,Wayne County,"18,606"
+40361,Paris,Bourbon County,"18,361"
+40769,Williamsburg,Whitley County,"18,218"
+42501,Somerset,Pulaski County,"18,214"
+40228,Louisville,Jefferson County,"18,085"
+40203,Louisville,Jefferson County,"17,742"
+42164,Scottsville,Allen County,"17,673"
+41701,Hazard,Perry County,"17,453"
+40962,Manchester,Clay County,"17,310"
+41075,Fort Thomas,Campbell County,"17,240"
+40071,Taylorsville,Spencer County,"17,239"
+41076,Newport,Campbell County,"17,158"
+40514,Lexington,Fayette County,"16,961"
+42754,Leitchfield,Grayson County,"16,918"
+41031,Cynthiana,Harrison County,"16,624"
+42728,Columbia,Adair County,"16,412"
+41048,Hebron,Boone County,"16,211"
+40213,Louisville,Jefferson County,"16,054"
+42276,Russellville,Logan County,"16,044"
+40175,Vine Grove,Meade County,"15,718"
+40208,Louisville,Jefferson County,"15,605"
+40212,Louisville,Jefferson County,"14,661"
+41094,Walton,Boone County,"14,486"
+40444,Lancaster,Garrard County,"14,276"
+40204,Louisville,Jefferson County,"14,034"
+40210,Louisville,Jefferson County,"13,518"
+42211,Cadiz,Trigg County,"13,475"
+42642,Russell Springs,Russell County,"13,459"
+41056,Maysville,Mason County,"13,445"
+41143,Grayson,Carter County,"13,242"
+40108,Brandenburg,Meade County,"12,821"
+40336,Irvine,Estill County,"12,718"
+41230,Louisa,Lawrence County,"12,638"
+41164,Olive Hill,Carter County,"12,574"
+40484,Stanford,Lincoln County,"12,331"
+40243,Louisville,Jefferson County,"12,002"
+40033,Lebanon,Marion County,"11,923"
+40217,Louisville,Jefferson County,"11,663"
+40965,Middlesboro,Bell County,"11,561"
+42345,Greenville,Muhlenberg County,"11,440"
+41035,Dry Ridge,Grant County,"11,415"
+40242,Louisville,Jefferson County,"11,168"
+41653,Prestonsburg,Floyd County,"11,103"
+40513,Lexington,Fayette County,"11,032"
+40906,Barbourville,Knox County,"10,813"
+41472,West Liberty,Morgan County,"10,792"
+40118,Fairdale,Jefferson County,"10,697"
+41339,Jackson,Breathitt County,"10,590"
+42445,Princeton,Caldwell County,"10,533"
+41465,Salyersville,Magoffin County,"10,048"
+42262,Oak Grove,Christian County,"9,665"
+42261,Morgantown,Butler County,"9,641"
+42330,Central City,Muhlenberg County,"9,367"
+42748,Hodgenville,Larue County,"9,365"
+42743,Greensburg,Green County,"9,342"
+42539,Liberty,Casey County,"9,249"
+42320,Beaver Dam,Ohio County,"9,128"
+41144,Greenup,Greenup County,"9,064"
+41129,Catlettsburg,Boyd County,"9,010"
+42602,Albany,Clinton County,"8,948"
+40121,Fort Knox,Hardin County,"8,836"
+40456,Mount Vernon,Rockcastle County,"8,370"
+40977,Pineville,Bell County,"8,367"
+42167,Tompkinsville,Monroe County,"8,172"
+42064,Marion,Crittenden County,"8,098"
+41139,Flatwoods,Greenup County,"8,085"
+40069,Springfield,Washington County,"8,015"
+40447,McKee,Jackson County,"8,014"
+41097,Williamstown,Grant County,"7,801"
+41041,Flemingsburg,Fleming County,"7,750"
+41008,Carrollton,Carroll County,"7,698"
+40311,Carlisle,Nicholas County,"7,672"
+40360,Owingsville,Bath County,"7,595"
+40390,Wilmore,Jessamine County,"7,429"
+41014,Covington,Kenton County,"7,392"
+42129,Edmonton,Metcalfe County,"7,302"
+40202,Louisville,Jefferson County,"7,261"
+42765,Munfordville,Hart County,"7,149"
+40380,Stanton,Powell County,"7,100"
+42437,Morganfield,Union County,"7,064"
+41040,Falmouth,Pendleton County,"7,040"
+41858,Whitesburg,Letcher County,"7,031"
+42127,Cave City,Barren County,"7,030"
+40359,Owenton,Owen County,"6,989"
+41179,Vanceburg,Lewis County,"6,908"
+42376,Utica,Daviess County,"6,886"
+40023,Fisherville,Jefferson County,"6,870"
+42171,Smiths Grove,Warren County,"6,723"
+40013,Coxs Creek,Nelson County,"6,670"
+41240,Paintsville,Johnson County,"6,408"
+40067,Simpsonville,Shelby County,"6,365"
+41311,Beattyville,Lee County,"6,331"
+42038,Eddyville,Lyon County,"6,282"
+40162,Rineyville,Hardin County,"6,180"
+41030,Crittenden,Grant County,"6,162"
+40312,Clay City,Powell County,"5,994"
+40026,Goshen,Oldham County,"5,975"
+42717,Burkesville,Cumberland County,"5,969"
+41301,Campton,Wolfe County,"5,953"
+42220,Elkton,Todd County,"5,947"
+42206,Auburn,Logan County,"5,897"
+42408,Dawson Springs,Hopkins County,"5,888"
+42366,Philpot,Daviess County,"5,851"
+42347,Hartford,Ohio County,"5,829"
+40729,East Bernstadt,Laurel County,"5,799"
+41016,Covington,Kenton County,"5,795"
+40143,Hardinsburg,Breckinridge County,"5,756"
+41074,Dayton,Campbell County,"5,756"
+42553,Science Hill,Pulaski County,"5,649"
+41073,Bellevue,Campbell County,"5,636"
+41169,Russell,Greenup County,"5,560"
+42029,Calvert City,Marshall County,"5,552"
+41175,South Shore,Greenup County,"5,542"
+42544,Nancy,Pulaski County,"5,520"
+42122,Alvaton,Warren County,"5,513"
+42567,Eubank,Pulaski County,"5,390"
+42724,Cecilia,Hardin County,"5,345"
+42053,Kevil,Ballard County,"5,307"
+40419,Crab Orchard,Lincoln County,"5,250"
+40337,Jeffersonville,Montgomery County,"5,244"
+42629,Jamestown,Russell County,"5,152"
+42256,Lewisburg,Logan County,"5,124"
+40006,Bedford,Trimble County,"5,068"
+40150,Lebanon Junction,Bullitt County,"4,950"
+40831,Harlan,Harlan County,"4,789"
+41224,Inez,Martin County,"4,783"
+42726,Clarkson,Grayson County,"4,758"
+42635,Pine Knot,McCreary County,"4,736"
+41006,Butler,Pendleton County,"4,715"
+42348,Hawesville,Hancock County,"4,713"
+40051,New Haven,Nelson County,"4,658"
+41171,Sandy Hook,Elliott County,"4,611"
+42351,Lewisport,Hancock County,"4,587"
+40489,Waynesburg,Lincoln County,"4,538"
+40437,Hustonville,Casey County,"4,488"
+41007,California,Campbell County,"4,445"
+42749,Horse Cave,Hart County,"4,423"
+42041,Fulton,Fulton County,"4,406"
+42721,Caneyville,Grayson County,"4,353"
+41522,Elkhorn City,Pike County,"4,341"
+42653,Whitley City,McCreary County,"4,300"
+40828,Evarts,Harlan County,"4,280"
+40019,Eminence,Henry County,"4,238"
+42210,Brownsville,Edmonson County,"4,231"
+42327,Calhoun,McLean County,"4,206"
+41095,Warsaw,Gallatin County,"4,106"
+40057,Pleasureville,Henry County,"4,065"
+41314,Booneville,Owsley County,"4,049"
+41004,Brooksville,Bracken County,"4,025"
+40008,Bloomfield,Nelson County,"4,020"
+40347,Midway,Woodford County,"3,960"
+42459,Sturgis,Union County,"3,903"
+42044,Gilbertsville,Marshall County,"3,894"
+40740,Lily,Laurel County,"3,880"
+42450,Providence,Webster County,"3,859"
+42217,Crofton,Christian County,"3,799"
+40379,Stamping Ground,Scott County,"3,788"
+42086,West Paducah,McCracken County,"3,775"
+42455,Sebree,Webster County,"3,758"
+40823,Cumberland,Harlan County,"3,742"
+41168,Rush,Boyd County,"3,673"
+40146,Irvington,Breckinridge County,"3,650"
+40734,Gray,Knox County,"3,602"
+42378,Whitesville,Ohio County,"3,513"
+41537,Jenkins,Letcher County,"3,447"
+40409,Brodhead,Rockcastle County,"3,445"
+40056,Pewee Valley,Oldham County,"3,441"
+42031,Clinton,Hickman County,"3,411"
+42647,Stearns,McCreary County,"3,349"
+40045,Milton,Trimble County,"3,251"
+41572,Virgie,Pike County,"3,249"
+41010,Corinth,Grant County,"3,239"
+40322,Frenchburg,Menifee County,"3,238"
+41635,Harold,Floyd County,"3,166"
+41003,Berry,Harrison County,"3,138"
+41092,Verona,Boone County,"3,135"
+40759,Rockholds,Whitley County,"3,122"
+42784,Upton,Hart County,"3,089"
+42518,Bronston,Wayne County,"3,031"
+42050,Hickman,Fulton County,"3,015"
+42442,Nortonville,Hopkins County,"2,991"
+41039,Ewing,Fleming County,"2,974"
+42266,Pembroke,Christian County,"2,956"
+40516,Lexington,Fayette County,"2,926"
+40076,Waddy,Shelby County,"2,898"
+41063,Morning View,Kenton County,"2,863"
+40370,Sadieville,Scott County,"2,836"
+40313,Clearfield,Rowan County,"2,832"
+42160,Park City,Edmonson County,"2,822"
+41514,Belfry,Pike County,"2,806"
+40037,Loretto,Marion County,"2,793"
+42519,Burnside,Pulaski County,"2,756"
+42120,Adolphus,Allen County,"2,745"
+41059,Melbourne,Campbell County,"2,713"
+42166,Summer Shade,Metcalfe County,"2,691"
+40078,Willisburg,Washington County,"2,661"
+42413,Hanson,Hopkins County,"2,597"
+40068,Smithfield,Henry County,"2,570"
+40374,Sharpsburg,Bath County,"2,562"
+42757,Magnolia,Hart County,"2,547"
+41002,Augusta,Bracken County,"2,543"
+41222,Hagerhill,Johnson County,"2,530"
+42023,Bardwell,Carlisle County,"2,529"
+40461,Paint Lick,Garrard County,"2,527"
+40371,Salt Lick,Bath County,"2,525"
+40402,Annville,Jackson County,"2,509"
+42088,Wingo,Graves County,"2,497"
+42234,Guthrie,Todd County,"2,487"
+42020,Almo,Calloway County,"2,476"
+41141,Garrison,Lewis County,"2,438"
+40440,Junction City,Boyle County,"2,428"
+41749,Hyden,Leslie County,"2,411"
+41093,Wallingford,Fleming County,"2,387"
+40526,Lexington,Fayette County,"2,383"
+40011,Campbellsburg,Henry County,"2,379"
+40109,Brooks,Bullitt County,"2,376"
+40486,Tyner,Jackson County,"2,375"
+42406,Corydon,Henderson County,"2,345"
+42409,Dixon,Webster County,"2,293"
+41189,Tollesboro,Lewis County,"2,281"
+41219,Flatgap,Johnson County,"2,274"
+41553,Phelps,Pike County,"2,269"
+40142,Guston,Meade County,"2,253"
+41049,Hillsboro,Fleming County,"2,238"
+41086,Sparta,Gallatin County,"2,237"
+40385,Waco,Madison County,"2,233"
+42058,Ledbetter,Livingston County,"2,224"
+42055,Kuttawa,Lyon County,"2,201"
+40107,Boston,Nelson County,"2,187"
+40873,Wallins Creek,Harlan County,"2,167"
+42286,Trenton,Todd County,"2,163"
+41064,Mount Olivet,Robertson County,"2,161"
+42081,Smithland,Livingston County,"2,161"
+40507,Lexington,Fayette County,"2,159"
+42274,Rockfield,Warren County,"2,157"
+42729,Cub Run,Hart County,"2,142"
+42528,Dunnville,Casey County,"2,126"
+41557,Raccoon,Pike County,"2,117"
+41649,Martin,Floyd County,"2,114"
+42051,Hickory,Graves County,"2,114"
+42404,Clay,Webster County,"2,109"
+41822,Hindman,Knott County,"2,106"
+42746,Hardyville,Hart County,"2,101"
+40372,Salvisa,Mercer County,"2,090"
+42087,Wickliffe,Ballard County,"2,089"
+40468,Perryville,Boyle County,"2,084"
+42048,Hardin,Marshall County,"2,083"
+42776,Sonora,Hardin County,"2,082"
+41033,De Mossville,Pendleton County,"2,052"
+40117,Ekron,Meade County,"2,050"
+40050,New Castle,Henry County,"2,045"
+42325,Bremen,Muhlenberg County,"2,045"
+41256,Staffordsville,Johnson County,"2,043"
+41774,Viper,Perry County,"2,010"
+42649,Strunk,McCreary County,"2,003"
+42411,Fredonia,Caldwell County,"2,002"
+40119,Falls Of Rough,Breckinridge County,"1,976"
+42349,Horse Branch,Ohio County,"1,962"
+42202,Adairville,Logan County,"1,958"
+42352,Livermore,McLean County,"1,955"
+40387,Wellington,Menifee County,"1,948"
+42452,Robards,Henderson County,"1,943"
+40055,Pendleton,Trimble County,"1,942"
+42170,Woodburn,Warren County,"1,938"
+42045,Grand Rivers,Livingston County,"1,931"
+40144,Harned,Breckinridge County,"1,930"
+40771,Woodbine,Knox County,"1,915"
+40510,Lexington,Fayette County,"1,904"
+40111,Cloverport,Breckinridge County,"1,903"
+41055,Mayslick,Mason County,"1,897"
+41603,Banner,Floyd County,"1,878"
+42027,Boaz,Graves County,"1,875"
+42740,Glendale,Hardin County,"1,873"
+40009,Bradfordsville,Marion County,"1,851"
+41080,Petersburg,Boone County,"1,819"
+42464,White Plains,Hopkins County,"1,810"
+40003,Bagdad,Shelby County,"1,807"
+42082,Symsonia,Graves County,"1,803"
+40737,Keavy,Laurel County,"1,782"
+42713,Bonnieville,Hart County,"1,781"
+41183,Worthington,Greenup County,"1,759"
+40935,Flat Lick,Knox County,"1,748"
+40806,Baxter,Harlan County,"1,732"
+42712,Big Clifty,Hardin County,"1,714"
+42078,Salem,Livingston County,"1,702"
+42159,Oakland,Warren County,"1,699"
+41043,Foster,Bracken County,"1,694"
+42039,Fancy Farm,Graves County,"1,694"
+42337,Drakesboro,Muhlenberg County,"1,683"
+41083,Sanders,Carroll County,"1,663"
+42716,Buffalo,Larue County,"1,659"
+42634,Parkers Lake,McCreary County,"1,646"
+42733,Elk Horn,Taylor County,"1,610"
+41539,Kimper,Pike County,"1,585"
+42462,Waverly,Union County,"1,546"
+41562,Shelbiana,Pike County,"1,541"
+42732,Eastview,Hardin County,"1,541"
+42436,Manitou,Hopkins County,"1,539"
+42456,Slaughters,Webster County,"1,533"
+40177,West Point,Bullitt County,"1,523"
+42441,Nebo,Hopkins County,"1,487"
+42355,Maceo,Daviess County,"1,465"
+42133,Fountain Run,Monroe County,"1,456"
+42056,La Center,Ballard County,"1,450"
+40868,Stinnett,Leslie County,"1,417"
+41727,Chavies,Perry County,"1,390"
+42372,Sacramento,McLean County,"1,389"
+41121,Argillite,Greenup County,"1,382"
+42140,Gamaliel,Monroe County,"1,367"
+41098,Worthville,Owen County,"1,360"
+40460,Orlando,Rockcastle County,"1,358"
+41267,Warfield,Martin County,"1,343"
+42350,Island,McLean County,"1,342"
+40810,Bledsoe,Harlan County,"1,323"
+42215,Cerulean,Christian County,"1,319"
+42079,Sedalia,Graves County,"1,315"
+41046,Glencoe,Owen County,"1,312"
+42049,Hazel,Calloway County,"1,311"
+41231,Lovely,Martin County,"1,305"
+41166,Quincy,Lewis County,"1,286"
+42461,Uniontown,Union County,"1,285"
+40472,Ravenna,Estill County,"1,276"
+42343,Fordsville,Ohio County,"1,267"
+41044,Germantown,Mason County,"1,263"
+41844,Pippa Passes,Knott County,"1,261"
+40972,Oneida,Clay County,"1,255"
+41034,Dover,Mason County,"1,254"
+41425,Ezel,Morgan County,"1,247"
+41840,Neon,Letcher County,"1,245"
+41777,Yeaddiss,Leslie County,"1,229"
+42324,Belton,Muhlenberg County,"1,228"
+42069,Melber,Graves County,"1,214"
+42024,Barlow,Ballard County,"1,205"
+41045,Ghent,Carroll County,"1,203"
+41804,Blackey,Letcher County,"1,201"
+42036,Dexter,Calloway County,"1,194"
+41348,Lost Creek,Breathitt County,"1,190"
+40145,Hudson,Breckinridge County,"1,175"
+42328,Centertown,Ohio County,"1,158"
+41554,Phyllis,Pike County,"1,156"
+40075,Turners Station,Henry County,"1,151"
+42123,Austin,Barren County,"1,149"
+40104,Battletown,Meade County,"1,143"
+41124,Blaine,Lawrence County,"1,131"
+40155,Muldraugh,Meade County,"1,127"
+40046,Mount Eden,Spencer County,"1,122"
+40943,Girdler,Knox County,"1,117"
+40060,Raywick,Marion County,"1,114"
+40404,Berea,Madison County,"1,114"
+41265,Van Lear,Johnson County,"1,107"
+41645,Langley,Floyd County,"1,106"
+42021,Arlington,Carlisle County,"1,090"
+42259,Mammoth Cave,Edmonson County,"1,090"
+41250,Pilgrim,Martin County,"1,089"
+41773,Vicco,Knott County,"1,087"
+42410,Earlington,Hopkins County,"1,084"
+41723,Busy,Perry County,"1,066"
+41631,Grethel,Floyd County,"1,059"
+41555,Pinsonfork,Pike County,"1,039"
+41669,Wheelwright,Floyd County,"1,036"
+41862,Topmost,Knott County,"1,036"
+40115,Custer,Breckinridge County,"1,012"
+40358,Olympia,Bath County,"1,012"
+41262,Tomahawk,Martin County,993
+42076,New Concord,Calloway County,992
+42368,Reynolds Station,Hancock County,989
+41216,East Point,Floyd County,986
+41659,Stanville,Pike County,979
+42458,Spottsville,Henderson County,979
+41558,Ransom,Pike County,978
+40824,Dayhoit,Harlan County,977
+41642,Ivel,Floyd County,972
+40328,Gravel Switch,Marion County,963
+42367,Powderly,Muhlenberg County,949
+41647,McDowell,Floyd County,945
+41837,Mayking,Letcher County,945
+41268,West Van Lear,Johnson County,944
+40827,Essie,Leslie County,943
+41655,Printer,Floyd County,940
+40464,Parksville,Boyle County,936
+42236,Herndon,Christian County,931
+41640,Hueysville,Knott County,927
+41731,Cornettsville,Perry County,927
+42207,Bee Spring,Edmonson County,927
+41722,Bulan,Knott County,918
+42085,Water Valley,Graves County,914
+41260,Thelma,Johnson County,910
+40022,Finchville,Shelby County,903
+41531,Hardy,Pike County,902
+41519,Canada,Pike County,901
+40176,Webster,Breckinridge County,898
+42533,Ferguson,Pulaski County,897
+41831,Leburn,Knott County,888
+41615,Dana,Floyd County,881
+40140,Garfield,Breckinridge County,866
+41836,Mallie,Knott County,863
+42275,Roundhill,Butler County,855
+40157,Payneville,Meade County,854
+42323,Beechmont,Muhlenberg County,852
+41759,Sassafras,Knott County,841
+42339,Dunmor,Muhlenberg County,840
+42054,Kirksey,Calloway County,837
+41630,Garrett,Floyd County,836
+41740,Emmalena,Knott County,824
+40914,Big Creek,Clay County,820
+40346,Means,Menifee County,819
+41719,Bonnyman,Perry County,817
+42035,Cunningham,Carlisle County,816
+41238,Oil Springs,Johnson County,814
+40815,Cawood,Harlan County,811
+41332,Hazel Green,Morgan County,811
+40826,Eolia,Letcher County,809
+40819,Coldiron,Harlan County,808
+41174,South Portsmouth,Greenup County,803
+41754,Krypton,Perry County,800
+41815,Ermine,Letcher County,796
+41203,Beauty,Martin County,790
+40442,Kings Mountain,Lincoln County,781
+40040,Mackville,Washington County,779
+41763,Slemp,Perry County,778
+41548,Mouthcard,Pike County,776
+41264,Ulysses,Lawrence County,771
+41745,Gays Creek,Perry County,767
+42344,Graham,Muhlenberg County,763
+42565,Windsor,Casey County,758
+40445,Livingston,Rockcastle County,755
+41254,River,Johnson County,753
+42214,Center,Metcalfe County,749
+40856,Miracle,Bell County,745
+40855,Lynch,Harlan County,744
+41255,Sitka,Johnson County,736
+40152,McDaniels,Breckinridge County,728
+42204,Allensville,Todd County,725
+41365,Rogers,Wolfe County,718
+41746,Happy,Perry County,718
+41257,Stambaugh,Johnson County,715
+40012,Chaplin,Nelson County,712
+41776,Wooton,Leslie County,712
+41855,Thornton,Letcher County,711
+42232,Gracey,Christian County,711
+40863,Pathfork,Harlan County,706
+42782,Summersville,Green County,702
+41838,Millstone,Letcher County,701
+42603,Alpha,Wayne County,694
+42040,Farmington,Graves County,692
+41824,Isom,Letcher County,685
+40923,Cannon,Knox County,679
+40010,Buckner,Oldham County,678
+40077,Westport,Oldham County,678
+40854,Loyall,Harlan County,675
+41826,Jeremiah,Letcher County,668
+41602,Auxier,Floyd County,667
+42753,Knifley,Adair County,657
+40052,New Hope,Nelson County,655
+41666,Wayland,Floyd County,654
+42440,Mortons Gap,Hopkins County,650
+41632,Gunlock,Magoffin County,647
+41636,Hi Hat,Floyd County,646
+42333,Cromwell,Ohio County,644
+41180,Webbville,Lawrence County,642
+42265,Olmstead,Logan County,641
+40209,Louisville,Jefferson County,639
+42154,Knob Lick,Metcalfe County,629
+40348,Millersburg,Bourbon County,625
+41828,Kite,Knott County,624
+40807,Benham,Harlan County,619
+41535,Huddy,Pike County,615
+41839,Mousie,Knott County,608
+41352,Mize,Morgan County,606
+41605,Betsy Layne,Floyd County,603
+41085,Silver Grove,Campbell County,601
+42451,Reed,Henderson County,600
+42722,Canmer,Hart County,596
+41764,Smilax,Leslie County,591
+41650,Melvin,Floyd County,590
+40927,Closplint,Harlan County,584
+41568,Stopover,Pike County,583
+40845,Hulen,Bell County,580
+41274,Wittensville,Johnson County,576
+41601,Allen,Floyd County,574
+41527,Forest Hills,Pike County,569
+41835,McRoberts,Letcher County,567
+40025,Glenview,Jefferson County,565
+40041,Masonic Home,Jefferson County,564
+40870,Totz,Harlan County,564
+40915,Bimble,Knox County,564
+41464,Royalton,Magoffin County,560
+40902,Arjay,Bell County,558
+40903,Artemus,Knox County,558
+41766,Thousandsticks,Leslie County,555
+42321,Beech Creek,Muhlenberg County,553
+40958,Kettle Island,Bell County,547
+41616,David,Floyd County,544
+42566,Yosemite,Casey County,541
+42516,Bethelridge,Casey County,540
+41564,Sidney,Pike County,539
+42764,Mount Sherman,Green County,536
+42285,Sweeden,Edmonson County,531
+40862,Partridge,Letcher County,525
+40178,Westview,Breckinridge County,522
+40988,Stoney Fork,Bell County,519
+42273,Rochester,Butler County,519
+41146,Hitchins,Carter County,517
+40355,New Liberty,Owen County,514
+41159,Martha,Lawrence County,514
+42157,Mount Hermon,Monroe County,507
+41660,Teaberry,Floyd County,501
+41651,Minnie,Floyd County,499
+42541,Middleburg,Casey County,498
+41540,Lick Creek,Pike County,494
+41204,Boons Camp,Johnson County,480
+41149,Isonville,Elliott County,473
+41503,South Williamson,Pike County,472
+42371,Rumsey,McLean County,472
+40310,Burgin,Mercer County,471
+41132,Denton,Carter County,469
+40949,Heidrick,Knox County,468
+40953,Hinkle,Knox County,454
+41408,Cannel City,Morgan County,454
+41714,Bear Branch,Leslie County,454
+41563,Shelby Gap,Pike County,453
+42453,Saint Charles,Hopkins County,452
+41571,Varney,Pike County,449
+41712,Ary,Perry County,446
+40110,Clermont,Bullitt County,440
+41604,Beaver,Floyd County,428
+41667,Weeksbury,Floyd County,428
+40865,Putney,Harlan County,426
+42361,Olaton,Ohio County,425
+42083,Tiline,Livingston County,422
+42741,Glens Fork,Adair County,420
+42715,Breeding,Adair County,417
+41544,McCarr,Pike County,415
+40763,Siler,Whitley County,411
+40997,Walker,Knox County,404
+42028,Burna,Livingston County,403
+41271,Williamsport,Johnson County,399
+41226,Keaton,Johnson County,398
+40170,Stephensport,Breckinridge County,396
+41512,Ashcamp,Pike County,391
+41721,Buckhorn,Perry County,390
+40316,Denniston,Menifee County,389
+41263,Tutor Key,Johnson County,386
+41832,Letcher,Letcher County,383
+41817,Garner,Knott County,377
+41317,Clayhole,Breathitt County,371
+41543,McAndrews,Pike County,370
+41560,Robinson Creek,Pike County,368
+40940,Frakes,Bell County,367
+41421,Elkfork,Morgan County,366
+41821,Hallie,Letcher County,363
+40070,Sulphur,Henry County,360
+40840,Helton,Leslie County,355
+40813,Calvin,Bell County,354
+41385,Vancleve,Breathitt County,354
+41760,Scuddy,Perry County,351
+41810,Cromona,Letcher County,350
+40339,Keene,Jessamine County,346
+41619,Drift,Floyd County,345
+42280,Sharon Grove,Todd County,338
+41735,Delphia,Perry County,333
+41528,Freeburn,Pike County,331
+41538,Jonancy,Pike County,327
+40063,Saint Mary,Marion County,326
+41135,Emerson,Lewis County,322
+42047,Hampton,Livingston County,321
+40830,Gulston,Harlan County,312
+41052,Jonesville,Grant County,311
+41725,Carrie,Knott County,307
+41825,Jackhorn,Letcher County,306
+41214,Debord,Martin County,305
+41524,Fedscreek,Pike County,303
+41819,Gordon,Letcher County,289
+42326,Browder,Muhlenberg County,283
+42354,McHenry,Ohio County,283
+40062,Saint Francis,Marion County,280
+40913,Beverly,Bell County,276
+41775,Wendover,Leslie County,276
+40171,Union Star,Breckinridge County,272
+40941,Garrard,Clay County,269
+41751,Jeff,Perry County,261
+41547,Majestic,Pike County,246
+41847,Redfox,Knott County,246
+40983,Sextons Creek,Owsley County,241
+41859,Dema,Knott County,240
+42156,Lucas,Barren County,235
+42638,Revelo,McCreary County,235
+41559,Regina,Pike County,234
+41607,Blue River,Floyd County,229
+42762,Millwood,Grayson County,229
+41360,Pine Ridge,Wolfe County,228
+42254,La Fayette,Christian County,227
+41390,Whick,Breathitt County,225
+42032,Columbus,Hickman County,223
+42369,Rockport,Ohio County,223
+41772,Vest,Knott County,218
+40858,Mozelle,Leslie County,211
+40481,Sandgap,Jackson County,209
+41834,Littcarr,Knott County,208
+41622,Eastern,Floyd County,206
+41663,Tram,Floyd County,205
+41513,Belcher,Pike County,204
+41566,Steele,Pike County,203
+41232,Lowmansville,Lawrence County,202
+42151,Hestand,Monroe County,201
+40020,Fairfield,Nelson County,199
+42022,Bandana,Ballard County,198
+42788,White Mills,Hardin County,192
+41534,Hellier,Pike County,184
+40161,Rhodelia,Meade County,182
+40280,Louisville,Jefferson County,182
+41812,Deane,Letcher County,177
+41234,Meally,Johnson County,175
+41845,Premium,Letcher County,174
+41397,Zoe,Lee County,172
+41843,Pine Top,Knott County,172
+41621,Dwale,Floyd County,170
+41861,Raven,Knott County,169
+40061,Saint Catharine,Washington County,168
+40982,Scalf,Knox County,168
+40939,Fourmile,Bell County,165
+40036,Lockport,Henry County,164
+41364,Ricetown,Owsley County,160
+41367,Rowdy,Perry County,159
+40818,Coalgood,Harlan County,148
+40921,Bryants Store,Knox County,147
+41833,Linefork,Letcher County,144
+41201,Adams,Lawrence County,136
+41643,Lackey,Knott County,134
+42356,Maple Mount,Daviess County,132
+41606,Bevinsville,Floyd County,128
+42130,Eighty Eight,Barren County,124
+42374,South Carrollton,Muhlenberg County,124
+40820,Cranks,Harlan County,121
+40995,Trosper,Knox County,120
+41517,Burdine,Letcher County,120
+40434,Gray Hawk,Jackson County,112
+41739,Dwarf,Perry County,112
+40049,Nerinx,Marion County,108
+40964,Mary Alice,Harlan County,101
+41762,Sizerock,Leslie County,101
+41142,Grahn,Carter County,89
+42463,Wheatcroft,Webster County,84
+40357,North Middletown,Bourbon County,81
+41567,Stone,Pike County,78
+41849,Seco,Letcher County,75
+40350,Moorefield,Nicholas County,73
+41386,Vincent,Owsley County,72
+42131,Etoile,Barren County,72
+42742,Gradyville,Adair County,72
+41612,Bypro,Floyd County,71
+42631,Marshes Siding,McCreary County,66
+41729,Combs,Perry County,64
+40829,Grays Knob,Harlan County,62
+42061,Lowes,Graves County,59
+40874,Warbranch,Leslie County,57
+42252,Jetson,Butler County,53
+42322,Beech Grove,McLean County,53
+40843,Holmes Mill,Harlan County,48
+42163,Rocky Hill,Edmonson County,48
+40007,Bethlehem,Henry County,47
+41181,Willard,Carter County,45
+40847,Kenvir,Harlan County,41
+41778,Yerkes,Perry County,40
+40058,Port Royal,Henry County,37
+40849,Lejunior,Harlan County,34
+41351,Mistletoe,Owsley County,29
+40946,Green Road,Knox County,28
+41848,Roxana,Letcher County,28
+42060,Lovelaceville,Ballard County,28
+42124,Beaumont,Metcalfe County,28
+40844,Hoskinston,Leslie County,25
+42332,Cleaton,Muhlenberg County,20
+40376,Slade,Powell County,18
+42153,Holland,Allen County,18
+40803,Asher,Leslie County,17
+42037,Dycusburg,Crittenden County,16
+42370,Rosine,Ohio County,16
+42759,Marrowbone,Cumberland County,15
+42338,Dundee,Ohio County,12
+40363,Perry Park,Owen County,9
+40808,Big Laurel,Leslie County,8
+40221,Louisville,Jefferson County,0
+40231,Louisville,Jefferson County,0
+40334,Hope,Bath County,0
+40448,McKinney,Lincoln County,0
+40536,Lexington,Fayette County,0
+40801,Ages Brookside,Harlan County,0
+40816,Chappell,Leslie County,0
+40979,Roark,Leslie County,0
+40981,Saul,Perry County,0
+41310,Bays,Breathitt County,0
+41366,Rousseau,Breathitt County,0
+41526,Fords Branch,Pike County,0
+41713,Avawam,Perry County,0
+42444,Poole,Webster County,0
+42758,Mannsville,Taylor County,0

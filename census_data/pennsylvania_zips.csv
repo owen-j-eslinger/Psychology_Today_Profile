@@ -1,0 +1,1834 @@
+ZIP,City,County,Population
+19124,Philadelphia,Philadelphia County,"71,004"
+17603,Lancaster,Lancaster County,"67,571"
+19120,Philadelphia,Philadelphia County,"66,469"
+19111,Philadelphia,Philadelphia County,"66,283"
+19143,Philadelphia,Philadelphia County,"62,572"
+19446,Lansdale,Montgomery County,"61,848"
+19149,Philadelphia,Philadelphia County,"56,914"
+19020,Bensalem,Bucks County,"56,809"
+17331,Hanover,York County,"56,443"
+15601,Greensburg,Westmoreland County,"56,425"
+17601,Lancaster,Lancaster County,"56,382"
+19320,Coatesville,Chester County,"55,941"
+19104,Philadelphia,Philadelphia County,"55,172"
+19382,West Chester,Chester County,"54,127"
+19067,Morrisville,Bucks County,"53,885"
+19335,Downingtown,Chester County,"53,629"
+19134,Philadelphia,Philadelphia County,"53,594"
+19140,Philadelphia,Philadelphia County,"53,385"
+17602,Lancaster,Lancaster County,"52,217"
+18102,Allentown,Lehigh County,"51,001"
+19144,Philadelphia,Philadelphia County,"50,580"
+19148,Philadelphia,Philadelphia County,"50,400"
+15301,Washington,Washington County,"50,348"
+19380,West Chester,Chester County,"49,856"
+19464,Pottstown,Montgomery County,"49,101"
+18103,Allentown,Lehigh County,"48,746"
+18104,Allentown,Lehigh County,"48,683"
+15642,Irwin,Westmoreland County,"46,325"
+17543,Lititz,Lancaster County,"45,912"
+18042,Easton,Northampton County,"45,532"
+19460,Phoenixville,Chester County,"45,423"
+19403,Norristown,Montgomery County,"44,017"
+15317,Canonsburg,Washington County,"43,871"
+19131,Philadelphia,Philadelphia County,"43,776"
+15237,Pittsburgh,Allegheny County,"43,588"
+17050,Mechanicsburg,Cumberland County,"43,571"
+19426,Collegeville,Montgomery County,"43,460"
+19145,Philadelphia,Philadelphia County,"43,440"
+19401,Norristown,Montgomery County,"43,359"
+18974,Warminster,Bucks County,"43,122"
+17701,Williamsport,Lycoming County,"43,104"
+19139,Philadelphia,Philadelphia County,"43,090"
+15108,Coraopolis,Allegheny County,"42,799"
+17055,Mechanicsburg,Cumberland County,"42,006"
+18702,Wilkes Barre,Luzerne County,"41,970"
+19121,Philadelphia,Philadelphia County,"41,574"
+19082,Upper Darby,Delaware County,"41,541"
+19146,Philadelphia,Philadelphia County,"41,058"
+16801,State College,Centre County,"40,774"
+18017,Bethlehem,Northampton County,"40,640"
+17403,York,York County,"40,287"
+17042,Lebanon,Lebanon County,"40,161"
+19147,Philadelphia,Philadelphia County,"39,704"
+17011,Camp Hill,Cumberland County,"39,664"
+17404,York,York County,"39,374"
+16001,Butler,Butler County,"39,234"
+17013,Carlisle,Cumberland County,"38,513"
+17112,Harrisburg,Dauphin County,"38,502"
+19063,Media,Delaware County,"38,172"
+19128,Philadelphia,Philadelphia County,"38,039"
+19083,Havertown,Delaware County,"37,590"
+17402,York,York County,"37,466"
+17111,Harrisburg,Dauphin County,"36,744"
+18951,Quakertown,Bucks County,"36,568"
+19601,Reading,Berks County,"36,479"
+18966,Southampton,Bucks County,"36,370"
+19136,Philadelphia,Philadelphia County,"36,262"
+15068,New Kensington,Westmoreland County,"36,203"
+19152,Philadelphia,Philadelphia County,"35,955"
+19606,Reading,Berks County,"35,853"
+19115,Philadelphia,Philadelphia County,"35,279"
+19013,Chester,Delaware County,"35,064"
+18015,Bethlehem,Northampton County,"34,852"
+19047,Langhorne,Bucks County,"34,563"
+15235,Pittsburgh,Allegheny County,"33,951"
+16066,Cranberry Township,Butler County,"33,873"
+17522,Ephrata,Lancaster County,"33,852"
+19135,Philadelphia,Philadelphia County,"33,803"
+19154,Philadelphia,Philadelphia County,"33,796"
+19116,Philadelphia,Philadelphia County,"33,654"
+17202,Chambersburg,Franklin County,"33,566"
+19087,Wayne,Chester County,"33,528"
+16601,Altoona,Blair County,"33,515"
+19151,Philadelphia,Philadelphia County,"33,267"
+19132,Philadelphia,Philadelphia County,"33,006"
+18018,Bethlehem,Lehigh County,"32,965"
+19026,Drexel Hill,Delaware County,"32,725"
+19141,Philadelphia,Philadelphia County,"32,385"
+19038,Glenside,Montgomery County,"32,296"
+19002,Ambler,Montgomery County,"32,128"
+18201,Hazleton,Luzerne County,"32,067"
+15001,Aliquippa,Beaver County,"31,976"
+17022,Elizabethtown,Lancaster County,"31,908"
+17046,Lebanon,Lebanon County,"31,835"
+15236,Pittsburgh,Allegheny County,"31,313"
+15701,Indiana,Indiana County,"31,269"
+18704,Kingston,Luzerne County,"31,149"
+19138,Philadelphia,Philadelphia County,"30,821"
+16101,New Castle,Lawrence County,"30,767"
+15213,Pittsburgh,Allegheny County,"30,466"
+18045,Easton,Northampton County,"30,429"
+19114,Philadelphia,Philadelphia County,"30,411"
+17325,Gettysburg,Adams County,"30,373"
+19406,King Of Prussia,Montgomery County,"30,362"
+15102,Bethel Park,Allegheny County,"30,344"
+19604,Reading,Berks County,"30,124"
+19130,Philadelphia,Philadelphia County,"30,116"
+18360,Stroudsburg,Monroe County,"30,080"
+15401,Uniontown,Fayette County,"29,942"
+17815,Bloomsburg,Columbia County,"29,790"
+18940,Newtown,Bucks County,"29,626"
+18052,Whitehall,Lehigh County,"29,451"
+19355,Malvern,Chester County,"29,425"
+15221,Pittsburgh,Allegheny County,"29,374"
+19050,Lansdowne,Delaware County,"29,373"
+17268,Waynesboro,Franklin County,"29,362"
+17257,Shippensburg,Cumberland County,"29,204"
+16823,Bellefonte,Centre County,"29,126"
+15206,Pittsburgh,Allegheny County,"29,056"
+18301,East Stroudsburg,Monroe County,"28,977"
+19142,Philadelphia,Philadelphia County,"28,829"
+16509,Erie,Erie County,"28,595"
+15010,Beaver Falls,Beaver County,"28,542"
+18901,Doylestown,Bucks County,"28,509"
+19053,Feasterville Trevose,Bucks County,"28,509"
+15227,Pittsburgh,Allegheny County,"28,460"
+19119,Philadelphia,Philadelphia County,"28,356"
+15146,Monroeville,Allegheny County,"28,332"
+19468,Royersford,Montgomery County,"28,194"
+19454,North Wales,Montgomery County,"27,755"
+15212,Pittsburgh,Allegheny County,"27,652"
+18944,Perkasie,Bucks County,"27,570"
+17201,Chambersburg,Franklin County,"27,554"
+17109,Harrisburg,Dauphin County,"27,466"
+15044,Gibsonia,Allegheny County,"27,370"
+17110,Harrisburg,Dauphin County,"27,364"
+16335,Meadville,Crawford County,"27,175"
+18062,Macungie,Lehigh County,"27,110"
+18064,Nazareth,Northampton County,"26,970"
+16602,Altoona,Blair County,"26,352"
+15650,Latrobe,Westmoreland County,"26,312"
+15101,Allison Park,Allegheny County,"26,036"
+19103,Philadelphia,Philadelphia County,"25,900"
+15217,Pittsburgh,Allegheny County,"25,795"
+15090,Wexford,Allegheny County,"25,763"
+17315,Dover,York County,"25,760"
+19122,Philadelphia,Philadelphia County,"25,439"
+19438,Harleysville,Montgomery County,"25,438"
+17408,York,York County,"25,431"
+19064,Springfield,Delaware County,"25,277"
+15210,Pittsburgh,Allegheny County,"25,227"
+19125,Philadelphia,Philadelphia County,"25,140"
+19133,Philadelphia,Philadelphia County,"24,864"
+17015,Carlisle,Cumberland County,"24,385"
+19150,Philadelphia,Philadelphia County,"24,304"
+16510,Erie,Erie County,"24,198"
+19608,Reading,Berks County,"24,178"
+16506,Erie,Erie County,"24,070"
+15205,Pittsburgh,Allegheny County,"24,060"
+19607,Reading,Berks County,"24,045"
+16803,State College,Centre County,"23,977"
+17078,Palmyra,Lebanon County,"23,840"
+17406,York,York County,"23,636"
+19348,Kennett Square,Chester County,"23,621"
+17057,Middletown,Dauphin County,"23,560"
+17545,Manheim,Lancaster County,"23,556"
+17036,Hummelstown,Dauphin County,"23,520"
+19018,Clifton Heights,Delaware County,"23,505"
+19006,Huntingdon Valley,Montgomery County,"23,443"
+18902,Doylestown,Bucks County,"22,898"
+17356,Red Lion,York County,"22,869"
+18411,Clarks Summit,Lackawanna County,"22,820"
+15136,McKees Rocks,Allegheny County,"22,623"
+17901,Pottsville,Schuylkill County,"22,371"
+15241,Pittsburgh,Allegheny County,"22,294"
+19023,Darby,Delaware County,"22,247"
+18976,Warrington,Bucks County,"22,202"
+19040,Hatboro,Montgomery County,"22,078"
+19073,Newtown Square,Delaware County,"21,915"
+15143,Sewickley,Allegheny County,"21,851"
+19010,Bryn Mawr,Delaware County,"21,827"
+19007,Bristol,Bucks County,"21,800"
+19341,Exton,Chester County,"21,709"
+18914,Chalfont,Bucks County,"21,598"
+15216,Pittsburgh,Allegheny County,"21,471"
+19014,Aston,Delaware County,"21,427"
+19605,Reading,Berks County,"21,419"
+15239,Pittsburgh,Allegheny County,"21,410"
+18020,Bethlehem,Northampton County,"21,204"
+18504,Scranton,Lackawanna County,"21,069"
+18505,Scranton,Lackawanna County,"20,797"
+19342,Glen Mills,Delaware County,"20,770"
+19008,Broomall,Delaware County,"20,697"
+19027,Elkins Park,Montgomery County,"20,420"
+19422,Blue Bell,Montgomery County,"20,412"
+19428,Conshohocken,Montgomery County,"20,411"
+17225,Greencastle,Franklin County,"20,347"
+17044,Lewistown,Mifflin County,"20,234"
+15801,Du Bois,Clearfield County,"20,160"
+19061,Marcus Hook,Delaware County,"19,896"
+17552,Mount Joy,Lancaster County,"19,761"
+16046,Mars,Butler County,"19,757"
+19123,Philadelphia,Philadelphia County,"19,681"
+19090,Willow Grove,Montgomery County,"19,662"
+19046,Jenkintown,Montgomery County,"19,640"
+17019,Dillsburg,York County,"19,594"
+18067,Northampton,Northampton County,"19,590"
+15202,Pittsburgh,Allegheny County,"19,564"
+19440,Hatfield,Montgomery County,"19,431"
+15905,Johnstown,Cambria County,"19,329"
+15106,Carnegie,Allegheny County,"19,244"
+18235,Lehighton,Carbon County,"19,158"
+18049,Emmaus,Lehigh County,"18,941"
+15132,Mckeesport,Allegheny County,"18,898"
+18603,Berwick,Columbia County,"18,827"
+15122,West Mifflin,Allegheny County,"18,816"
+17821,Danville,Montour County,"18,613"
+17401,York,York County,"18,570"
+19465,Pottstown,Chester County,"18,564"
+17104,Harrisburg,Dauphin County,"18,541"
+15644,Jeannette,Westmoreland County,"18,512"
+19602,Reading,Berks County,"18,495"
+18109,Allentown,Lehigh County,"18,446"
+17837,Lewisburg,Union County,"18,403"
+15228,Pittsburgh,Allegheny County,"18,236"
+19363,Oxford,Chester County,"18,231"
+17512,Columbia,Lancaster County,"18,148"
+15120,Homestead,Allegheny County,"18,029"
+19057,Levittown,Bucks County,"17,925"
+19001,Abington,Montgomery County,"17,867"
+18466,Tobyhanna,Monroe County,"17,794"
+15017,Bridgeville,Allegheny County,"17,782"
+18612,Dallas,Luzerne County,"17,739"
+18302,East Stroudsburg,Monroe County,"17,733"
+19525,Gilbertsville,Montgomery County,"17,725"
+17745,Lock Haven,Clinton County,"17,718"
+17025,Enola,Cumberland County,"17,648"
+15220,Pittsburgh,Allegheny County,"17,644"
+18013,Bangor,Northampton County,"17,597"
+15425,Connellsville,Fayette County,"17,545"
+19054,Levittown,Bucks County,"17,518"
+19126,Philadelphia,Philadelphia County,"17,483"
+16365,Warren,Warren County,"17,292"
+19044,Horsham,Montgomery County,"17,279"
+19473,Schwenksville,Montgomery County,"17,259"
+18040,Easton,Northampton County,"17,256"
+19425,Chester Springs,Chester County,"17,219"
+16125,Greenville,Mercer County,"17,178"
+16201,Kittanning,Armstrong County,"17,040"
+15025,Clairton,Allegheny County,"16,939"
+17070,New Cumberland,York County,"16,830"
+19518,Douglassville,Berks County,"16,805"
+18707,Mountain Top,Luzerne County,"16,689"
+15057,McDonald,Washington County,"16,583"
+18640,Pittston,Luzerne County,"16,581"
+19610,Reading,Berks County,"16,581"
+16701,Bradford,McKean County,"16,556"
+16148,Hermitage,Mercer County,"16,545"
+17033,Hershey,Dauphin County,"16,481"
+19015,Brookhaven,Delaware County,"16,464"
+17801,Sunbury,Northumberland County,"16,429"
+18706,Wilkes Barre,Luzerne County,"16,387"
+19462,Plymouth Meeting,Montgomery County,"16,331"
+15501,Somerset,Somerset County,"16,240"
+15904,Johnstown,Cambria County,"16,026"
+16502,Erie,Erie County,"15,995"
+15666,Mount Pleasant,Westmoreland County,"15,980"
+19056,Levittown,Bucks County,"15,960"
+16504,Erie,Erie County,"15,931"
+16652,Huntingdon,Huntingdon County,"15,866"
+17067,Myerstown,Lebanon County,"15,815"
+18337,Milford,Pike County,"15,799"
+15147,Verona,Allegheny County,"15,798"
+19512,Boyertown,Berks County,"15,794"
+16117,Ellwood City,Lawrence County,"15,786"
+16503,Erie,Erie County,"15,753"
+16057,Slippery Rock,Butler County,"15,718"
+18705,Wilkes Barre,Luzerne County,"15,624"
+16002,Butler,Butler County,"15,587"
+18036,Coopersburg,Lehigh County,"15,581"
+19530,Kutztown,Berks County,"15,573"
+15009,Beaver,Beaver County,"15,565"
+16105,New Castle,Lawrence County,"15,418"
+15012,Belle Vernon,Westmoreland County,"15,412"
+16505,Erie,Erie County,"15,270"
+19096,Wynnewood,Montgomery County,"15,249"
+18969,Telford,Montgomery County,"15,245"
+16301,Oil City,Venango County,"15,233"
+15229,Pittsburgh,Allegheny County,"15,188"
+16127,Grove City,Mercer County,"15,117"
+17557,New Holland,Lancaster County,"15,055"
+16508,Erie,Erie County,"14,958"
+16648,Hollidaysburg,Blair County,"14,904"
+19508,Birdsboro,Berks County,"14,871"
+19107,Philadelphia,Philadelphia County,"14,825"
+16802,University Park,Centre County,"14,793"
+17362,Spring Grove,York County,"14,730"
+17517,Denver,Lancaster County,"14,686"
+19106,Philadelphia,Philadelphia County,"14,597"
+15668,Murrysville,Westmoreland County,"14,584"
+18964,Souderton,Montgomery County,"14,546"
+17870,Selinsgrove,Snyder County,"14,490"
+15116,Glenshaw,Allegheny County,"14,461"
+18407,Carbondale,Lackawanna County,"14,445"
+16323,Franklin,Venango County,"14,353"
+18510,Scranton,Lackawanna County,"14,332"
+19003,Ardmore,Delaware County,"14,255"
+19522,Fleetwood,Berks County,"14,127"
+15214,Pittsburgh,Allegheny County,"14,048"
+15234,Pittsburgh,Allegheny County,"14,014"
+15226,Pittsburgh,Allegheny County,"13,999"
+15767,Punxsutawney,Jefferson County,"13,918"
+19055,Levittown,Bucks County,"13,833"
+18634,Nanticoke,Luzerne County,"13,785"
+18202,Hazleton,Luzerne County,"13,755"
+19036,Glenolden,Delaware County,"13,668"
+18938,New Hope,Bucks County,"13,649"
+18444,Moscow,Lackawanna County,"13,604"
+18960,Sellersville,Bucks County,"13,597"
+18436,Lake Ariel,Wayne County,"13,569"
+16830,Clearfield,Clearfield County,"13,526"
+15370,Waynesburg,Greene County,"13,462"
+15243,Pittsburgh,Allegheny County,"13,456"
+16686,Tyrone,Blair County,"13,427"
+15218,Pittsburgh,Allegheny County,"13,379"
+15201,Pittsburgh,Allegheny County,"13,333"
+17350,New Oxford,Adams County,"13,169"
+17103,Harrisburg,Dauphin County,"13,115"
+18509,Scranton,Lackawanna County,"13,055"
+19153,Philadelphia,Philadelphia County,"13,018"
+18512,Scranton,Lackawanna County,"12,986"
+16146,Sharon,Mercer County,"12,936"
+19086,Wallingford,Delaware County,"12,930"
+15238,Pittsburgh,Allegheny County,"12,868"
+17756,Muncy,Lycoming County,"12,856"
+15613,Apollo,Westmoreland County,"12,854"
+18643,Pittston,Luzerne County,"12,848"
+19344,Honey Brook,Chester County,"12,827"
+18431,Honesdale,Wayne County,"12,775"
+15857,Saint Marys,Elk County,"12,736"
+15071,Oakdale,Allegheny County,"12,663"
+18428,Hawley,Pike County,"12,634"
+17566,Quarryville,Lancaster County,"12,603"
+16428,North East,Erie County,"12,595"
+19390,West Grove,Chester County,"12,546"
+17003,Annville,Lebanon County,"12,534"
+16137,Mercer,Mercer County,"12,490"
+15061,Monaca,Beaver County,"12,413"
+15209,Pittsburgh,Allegheny County,"12,328"
+19030,Fairless Hills,Bucks County,"12,305"
+19475,Spring City,Chester County,"12,298"
+19312,Berwyn,Chester County,"12,283"
+18055,Hellertown,Northampton County,"12,117"
+18014,Bath,Northampton County,"12,097"
+17754,Montoursville,Lycoming County,"12,061"
+15066,New Brighton,Beaver County,"12,048"
+17740,Jersey Shore,Lycoming County,"12,017"
+16635,Duncansville,Blair County,"12,003"
+19540,Mohnton,Berks County,"11,957"
+19129,Philadelphia,Philadelphia County,"11,937"
+15215,Pittsburgh,Allegheny County,"11,907"
+17972,Schuylkill Haven,Schuylkill County,"11,826"
+16511,Erie,Erie County,"11,776"
+18073,Pennsburg,Montgomery County,"11,755"
+17551,Millersville,Lancaster County,"11,753"
+17113,Harrisburg,Dauphin County,"11,724"
+19311,Avondale,Chester County,"11,692"
+19078,Ridley Park,Delaware County,"11,683"
+17584,Willow Street,Lancaster County,"11,646"
+19526,Hamburg,Berks County,"11,581"
+18031,Breinigsville,Lehigh County,"11,570"
+18508,Scranton,Lackawanna County,"11,565"
+19060,Garnet Valley,Delaware County,"11,524"
+19352,Lincoln University,Chester County,"11,484"
+15902,Johnstown,Cambria County,"11,462"
+17313,Dallastown,York County,"11,428"
+17340,Littlestown,Adams County,"11,405"
+15003,Ambridge,Beaver County,"11,387"
+15219,Pittsburgh,Allegheny County,"11,376"
+15232,Pittsburgh,Allegheny County,"11,349"
+18071,Palmerton,Carbon County,"11,313"
+17319,Etters,York County,"11,292"
+17847,Milton,Northumberland County,"11,260"
+19004,Bala Cynwyd,Montgomery County,"11,230"
+19085,Villanova,Delaware County,"11,230"
+18080,Slatington,Lehigh County,"11,226"
+17241,Newville,Cumberland County,"11,181"
+15522,Bedford,Bedford County,"11,111"
+19444,Lafayette Hill,Montgomery County,"11,065"
+18252,Tamaqua,Schuylkill County,"11,024"
+19611,Reading,Berks County,"10,986"
+18840,Sayre,Bradford County,"10,968"
+15207,Pittsburgh,Allegheny County,"10,961"
+18353,Saylorsburg,Monroe County,"10,953"
+19350,Landenberg,Chester County,"10,945"
+15065,Natrona Heights,Allegheny County,"10,894"
+18657,Tunkhannock,Wyoming County,"10,866"
+19317,Chadds Ford,Chester County,"10,864"
+15129,South Park,Allegheny County,"10,789"
+15211,Pittsburgh,Allegheny County,"10,728"
+17540,Leola,Lancaster County,"10,728"
+15224,Pittsburgh,Allegheny County,"10,665"
+17222,Fayetteville,Franklin County,"10,550"
+15063,Monongahela,Washington County,"10,525"
+16407,Corry,Erie County,"10,525"
+17702,Williamsport,Lycoming County,"10,488"
+15037,Elizabeth,Allegheny County,"10,417"
+18954,Richboro,Bucks County,"10,380"
+15203,Pittsburgh,Allegheny County,"10,370"
+17844,Mifflinburg,Union County,"10,291"
+16901,Wellsboro,Tioga County,"10,242"
+15963,Windber,Somerset County,"10,132"
+19072,Narberth,Montgomery County,"10,129"
+16415,Fairview,Erie County,"10,104"
+15208,Pittsburgh,Allegheny County,"10,094"
+19081,Swarthmore,Delaware County,"10,089"
+16059,Valencia,Butler County,"10,062"
+15137,North Versailles,Allegheny County,"10,043"
+16354,Titusville,Venango County,"9,989"
+19118,Philadelphia,Philadelphia County,"9,978"
+15022,Charleroi,Washington County,"9,959"
+18324,Bushkill,Pike County,"9,935"
+15367,Venetia,Washington County,"9,906"
+19609,Reading,Berks County,"9,874"
+18222,Drums,Luzerne County,"9,789"
+17866,Coal Township,Northumberland County,"9,769"
+18929,Jamison,Bucks County,"9,748"
+15084,Tarentum,Allegheny County,"9,743"
+18058,Kunkletown,Monroe County,"9,674"
+19021,Croydon,Bucks County,"9,638"
+16412,Edinboro,Erie County,"9,612"
+15005,Baden,Beaver County,"9,570"
+18032,Catasauqua,Lehigh County,"9,555"
+15656,Leechburg,Westmoreland County,"9,506"
+15906,Johnstown,Cambria County,"9,504"
+18447,Olyphant,Lackawanna County,"9,470"
+15825,Brookville,Jefferson County,"9,426"
+15024,Cheswick,Allegheny County,"9,325"
+17963,Pine Grove,Schuylkill County,"9,323"
+19565,Wernersville,Berks County,"9,302"
+18229,Jim Thorpe,Carbon County,"9,248"
+17547,Marietta,Lancaster County,"9,210"
+18034,Center Valley,Lehigh County,"9,209"
+15717,Blairsville,Indiana County,"9,206"
+16866,Philipsburg,Centre County,"9,152"
+19560,Temple,Berks County,"9,137"
+16441,Waterford,Erie County,"9,134"
+16055,Sarver,Butler County,"8,993"
+15690,Vandergrift,Armstrong County,"8,985"
+15931,Ebensburg,Cambria County,"8,919"
+17931,Frackville,Schuylkill County,"8,899"
+17872,Shamokin,Northumberland County,"8,894"
+18708,Shavertown,Luzerne County,"8,867"
+17236,Mercersburg,Franklin County,"8,845"
+17020,Duncannon,Perry County,"8,826"
+19079,Sharon Hill,Delaware County,"8,745"
+18651,Plymouth,Luzerne County,"8,703"
+19533,Leesport,Berks County,"8,648"
+16417,Girard,Erie County,"8,599"
+16507,Erie,Erie County,"8,597"
+18518,Old Forge,Lackawanna County,"8,573"
+17363,Stewartstown,York County,"8,553"
+15074,Rochester,Beaver County,"8,550"
+18069,Orefield,Lehigh County,"8,515"
+17316,East Berlin,Adams County,"8,497"
+16214,Clarion,Clarion County,"8,494"
+18088,Walnutport,Northampton County,"8,488"
+15204,Pittsburgh,Allegheny County,"8,467"
+19343,Glenmoore,Chester County,"8,450"
+17038,Jonestown,Lebanon County,"8,394"
+15632,Export,Westmoreland County,"8,377"
+17842,Middleburg,Snyder County,"8,266"
+19033,Folsom,Delaware County,"8,261"
+16063,Zelienople,Butler County,"8,256"
+17349,New Freedom,York County,"8,254"
+18330,Effort,Monroe County,"8,219"
+15131,Mckeesport,Allegheny County,"8,209"
+18848,Towanda,Bradford County,"8,199"
+16033,Evans City,Butler County,"8,185"
+18328,Dingmans Ferry,Pike County,"8,185"
+17320,Fairfield,Adams County,"8,124"
+17102,Harrisburg,Dauphin County,"8,118"
+15658,Ligonier,Westmoreland County,"8,115"
+18801,Montrose,Susquehanna County,"8,102"
+15537,Everett,Bedford County,"8,083"
+15085,Trafford,Westmoreland County,"8,062"
+15104,Braddock,Allegheny County,"8,034"
+19095,Wyncote,Montgomery County,"8,030"
+19137,Philadelphia,Philadelphia County,"8,026"
+17059,Mifflintown,Juniata County,"8,013"
+19510,Blandon,Berks County,"8,010"
+19365,Parkesburg,Chester County,"8,006"
+18078,Schnecksville,Lehigh County,"7,857"
+17327,Glen Rock,York County,"7,828"
+19301,Paoli,Chester County,"7,814"
+15042,Freedom,Beaver County,"7,733"
+17345,Manchester,York County,"7,715"
+16226,Ford City,Armstrong County,"7,689"
+15332,Finleyville,Washington County,"7,678"
+17857,Northumberland,Northumberland County,"7,671"
+15683,Scottdale,Westmoreland County,"7,643"
+18210,Albrightsville,Carbon County,"7,587"
+18433,Jermyn,Lackawanna County,"7,564"
+18644,Wyoming,Luzerne County,"7,552"
+17032,Halifax,Dauphin County,"7,551"
+17578,Stevens,Lancaster County,"7,504"
+16870,Port Matilda,Centre County,"7,499"
+19034,Fort Washington,Montgomery County,"7,488"
+18037,Coplay,Lehigh County,"7,472"
+19333,Devon,Chester County,"7,471"
+17554,Mountville,Lancaster County,"7,453"
+17751,Mill Hall,Clinton County,"7,431"
+19025,Dresher,Montgomery County,"7,423"
+16438,Union City,Erie County,"7,421"
+19075,Oreland,Montgomery County,"7,384"
+15417,Brownsville,Washington County,"7,363"
+15748,Homer City,Indiana County,"7,343"
+17569,Reinholds,Lancaster County,"7,323"
+17538,Landisville,Lancaster County,"7,314"
+17074,Newport,Perry County,"7,304"
+15126,Imperial,Allegheny County,"7,276"
+17555,Narvon,Lancaster County,"7,251"
+17851,Mount Carmel,Northumberland County,"7,234"
+17519,East Earl,Lancaster County,"7,127"
+15021,Burgettstown,Washington County,"7,110"
+19506,Bernville,Berks County,"7,108"
+17370,York Haven,York County,"7,090"
+15851,Reynoldsville,Jefferson County,"7,059"
+17777,Watsontown,Northumberland County,"7,030"
+17368,Wrightsville,York County,"7,005"
+16403,Cambridge Springs,Crawford County,"6,959"
+18072,Pen Argyl,Northampton County,"6,938"
+17921,Ashland,Schuylkill County,"6,931"
+19012,Cheltenham,Montgomery County,"6,910"
+17579,Strasburg,Lancaster County,"6,875"
+16150,Sharpsville,Mercer County,"6,856"
+18403,Archbald,Lackawanna County,"6,851"
+17061,Millersburg,Dauphin County,"6,842"
+15089,West Newton,Westmoreland County,"6,789"
+15062,Monessen,Westmoreland County,"6,780"
+19032,Folcroft,Delaware County,"6,772"
+17961,Orwigsburg,Schuylkill County,"6,740"
+15139,Oakmont,Allegheny County,"6,702"
+15145,Turtle Creek,Allegheny County,"6,695"
+17314,Delta,York County,"6,640"
+16933,Mansfield,Tioga County,"6,610"
+18472,Waymart,Wayne County,"6,601"
+15946,Portage,Cambria County,"6,561"
+18091,Wind Gap,Northampton County,"6,547"
+19383,West Chester,Chester County,"6,537"
+16841,Howard,Centre County,"6,477"
+18947,Pipersville,Bucks County,"6,477"
+17322,Felton,York County,"6,473"
+19076,Prospect Park,Delaware County,"6,441"
+15853,Ridgway,Elk County,"6,420"
+19543,Morgantown,Berks County,"6,401"
+17347,Mount Wolf,York County,"6,393"
+17366,Windsor,York County,"6,392"
+19070,Morton,Delaware County,"6,359"
+17073,Newmanstown,Lebanon County,"6,314"
+19041,Haverford,Delaware County,"6,308"
+18641,Pittston,Luzerne County,"6,305"
+17339,Lewisberry,York County,"6,281"
+19520,Elverson,Chester County,"6,277"
+15223,Pittsburgh,Allegheny County,"6,255"
+18925,Furlong,Bucks County,"6,250"
+18106,Allentown,Lehigh County,"6,226"
+19102,Philadelphia,Philadelphia County,"6,195"
+15627,Derry,Westmoreland County,"6,167"
+17361,Shrewsbury,York County,"6,156"
+16735,Kane,McKean County,"6,149"
+18101,Allentown,Lehigh County,"6,120"
+15133,Mckeesport,Allegheny County,"6,112"
+18066,New Tripoli,Lehigh County,"6,102"
+17527,Gap,Lancaster County,"6,094"
+19362,Nottingham,Chester County,"6,092"
+16662,Martinsburg,Blair County,"6,069"
+19567,Womelsdorf,Berks County,"6,057"
+18224,Freeland,Luzerne County,"6,031"
+15330,Eighty Four,Washington County,"6,023"
+18655,Shickshinny,Luzerne County,"6,018"
+17737,Hughesville,Lycoming County,"5,970"
+19330,Cochranville,Chester County,"5,957"
+19074,Norwood,Delaware County,"5,934"
+17976,Shenandoah,Schuylkill County,"5,916"
+17007,Boiling Springs,Cumberland County,"5,865"
+17043,Lemoyne,Cumberland County,"5,852"
+19066,Merion Station,Montgomery County,"5,839"
+18810,Athens,Bradford County,"5,774"
+15282,Pittsburgh,Allegheny County,"5,772"
+18041,East Greenville,Montgomery County,"5,768"
+18661,White Haven,Luzerne County,"5,759"
+17360,Seven Valleys,York County,"5,735"
+15222,Pittsburgh,Allegheny County,"5,725"
+15552,Meyersdale,Somerset County,"5,685"
+19127,Philadelphia,Philadelphia County,"5,664"
+16915,Coudersport,Potter County,"5,600"
+18074,Perkiomenville,Montgomery County,"5,590"
+15478,Smithfield,Fayette County,"5,560"
+17004,Belleville,Mifflin County,"5,551"
+16142,New Wilmington,Mercer County,"5,522"
+17820,Catawissa,Columbia County,"5,499"
+16651,Houtzdale,Clearfield County,"5,484"
+17307,Biglerville,Adams County,"5,467"
+17560,New Providence,Lancaster County,"5,460"
+18414,Dalton,Lackawanna County,"5,444"
+18507,Moosic,Lackawanna County,"5,443"
+18011,Alburtis,Berks County,"5,338"
+19504,Barto,Berks County,"5,335"
+17810,Allenwood,Lycoming County,"5,309"
+18517,Taylor,Lackawanna County,"5,303"
+15530,Berlin,Somerset County,"5,299"
+16037,Harmony,Butler County,"5,291"
+18519,Scranton,Lackawanna County,"5,266"
+18424,Gouldsboro,Lackawanna County,"5,213"
+17090,Shermans Dale,Perry County,"5,206"
+15714,Northern Cambria,Cambria County,"5,205"
+16673,Roaring Spring,Blair County,"5,204"
+18452,Peckville,Lackawanna County,"5,203"
+16314,Cochranton,Crawford County,"5,188"
+17516,Conestoga,Lancaster County,"5,180"
+15110,Duquesne,Allegheny County,"5,149"
+19405,Bridgeport,Montgomery County,"5,145"
+17509,Christiana,Lancaster County,"5,135"
+15626,Delmont,Westmoreland County,"5,129"
+16827,Boalsburg,Centre County,"5,123"
+15824,Brockway,Jefferson County,"5,115"
+18847,Susquehanna,Susquehanna County,"5,104"
+17066,Mount Union,Huntingdon County,"5,102"
+15342,Houston,Washington County,"5,097"
+18610,Blakeslee,Monroe County,"5,079"
+17053,Marysville,Perry County,"5,067"
+17520,East Petersburg,Lancaster County,"5,040"
+16833,Curwensville,Clearfield County,"5,021"
+16828,Centre Hall,Centre County,"5,000"
+17752,Montgomery,Lycoming County,"4,975"
+17233,McConnellsburg,Fulton County,"4,961"
+18054,Green Lane,Montgomery County,"4,932"
+16102,New Castle,Lawrence County,"4,929"
+19031,Flourtown,Montgomery County,"4,929"
+17841,McClure,Mifflin County,"4,896"
+15135,Mckeesport,Allegheny County,"4,859"
+17529,Gordonville,Lancaster County,"4,826"
+17922,Auburn,Schuylkill County,"4,803"
+16229,Freeport,Armstrong County,"4,798"
+16947,Troy,Bradford County,"4,797"
+16025,Chicora,Butler County,"4,793"
+19551,Robesonia,Berks County,"4,778"
+18621,Hunlock Creek,Luzerne County,"4,744"
+18419,Factoryville,Wyoming County,"4,734"
+16630,Cresson,Cambria County,"4,726"
+15681,Saltsburg,Indiana County,"4,698"
+16433,Saegertown,Crawford County,"4,694"
+17724,Canton,Bradford County,"4,693"
+17084,Reedsville,Mifflin County,"4,683"
+17728,Cogan Station,Lycoming County,"4,675"
+17814,Benton,Columbia County,"4,669"
+15431,Dunbar,Fayette County,"4,661"
+17954,Minersville,Schuylkill County,"4,623"
+17501,Akron,Lancaster County,"4,614"
+18421,Forest City,Susquehanna County,"4,603"
+19547,Oley,Berks County,"4,579"
+15033,Donora,Washington County,"4,572"
+15909,Johnstown,Cambria County,"4,571"
+18977,Washington Crossing,Bucks County,"4,569"
+16316,Conneaut Lake,Crawford County,"4,562"
+15320,Carmichaels,Greene County,"4,558"
+18334,Long Pond,Monroe County,"4,539"
+18642,Duryea,Luzerne County,"4,530"
+16242,New Bethlehem,Clarion County,"4,513"
+16424,Linesville,Crawford County,"4,503"
+19022,Crum Lynne,Delaware County,"4,482"
+16159,West Middlesex,Mercer County,"4,455"
+17324,Gardners,Cumberland County,"4,433"
+17065,Mount Holly Springs,Cumberland County,"4,389"
+17562,Paradise,Lancaster County,"4,373"
+15045,Glassport,Allegheny County,"4,368"
+19541,Mohrsville,Berks County,"4,367"
+17051,McVeytown,Mifflin County,"4,352"
+18701,Wilkes Barre,Luzerne County,"4,294"
+17960,New Ringgold,Schuylkill County,"4,264"
+17068,New Bloomfield,Perry County,"4,235"
+16056,Saxonburg,Butler County,"4,232"
+18255,Weatherly,Carbon County,"4,223"
+17364,Thomasville,York County,"4,209"
+16121,Farrell,Mercer County,"4,199"
+18249,Sugarloaf,Luzerne County,"4,191"
+17948,Mahanoy City,Schuylkill County,"4,188"
+15026,Clinton,Beaver County,"4,175"
+18232,Lansford,Carbon County,"4,156"
+17301,Abbottstown,Adams County,"4,133"
+18336,Matamoras,Pike County,"4,114"
+16023,Cabot,Butler County,"4,082"
+15059,Midland,Beaver County,"4,070"
+16743,Port Allegany,McKean County,"4,061"
+17372,York Springs,Adams County,"4,045"
+17252,Saint Thomas,Franklin County,"4,038"
+18434,Jessup,Lackawanna County,"4,031"
+18853,Wyalusing,Bradford County,"4,028"
+16232,Knox,Clarion County,"4,025"
+15834,Emporium,Cameron County,"4,015"
+16134,Jamestown,Crawford County,"3,992"
+15610,Acme,Westmoreland County,"3,988"
+19029,Essington,Delaware County,"3,980"
+17563,Peach Bottom,Lancaster County,"3,952"
+16239,Marienville,Forest County,"3,951"
+17824,Elysburg,Columbia County,"3,949"
+16858,Morrisdale,Clearfield County,"3,945"
+19035,Gladwyne,Montgomery County,"3,937"
+19094,Woodlyn,Delaware County,"3,929"
+15943,Nanty Glo,Cambria County,"3,925"
+17062,Millerstown,Perry County,"3,917"
+18240,Nesquehoning,Carbon County,"3,913"
+17018,Dauphin,Dauphin County,"3,902"
+17048,Lykens,Dauphin County,"3,870"
+15323,Claysville,Washington County,"3,860"
+16423,Lake City,Erie County,"3,857"
+15940,Loretto,Cambria County,"3,841"
+19539,Mertztown,Berks County,"3,823"
+17045,Liverpool,Perry County,"3,811"
+16693,Williamsburg,Blair County,"3,795"
+15461,Masontown,Fayette County,"3,792"
+18458,Shohola,Pike County,"3,792"
+16749,Smethport,McKean County,"3,777"
+15144,Springdale,Allegheny County,"3,771"
+16401,Albion,Erie County,"3,744"
+18635,Nescopeck,Luzerne County,"3,734"
+18347,Pocono Lake,Monroe County,"3,733"
+17344,McSherrystown,Adams County,"3,719"
+18237,Mcadoo,Schuylkill County,"3,712"
+16875,Spring Mills,Centre County,"3,708"
+18426,Greentown,Pike County,"3,705"
+15670,New Alexandria,Westmoreland County,"3,675"
+15112,East Pittsburgh,Allegheny County,"3,655"
+17572,Ronks,Lancaster County,"3,643"
+18343,Mount Bethel,Northampton County,"3,637"
+18051,Fogelsville,Lehigh County,"3,624"
+17846,Millville,Columbia County,"3,621"
+15312,Avella,Washington County,"3,603"
+15531,Boswell,Somerset County,"3,603"
+19555,Shoemakersville,Berks County,"3,577"
+18618,Harveys Lake,Luzerne County,"3,570"
+17028,Grantville,Lebanon County,"3,563"
+19507,Bethel,Berks County,"3,563"
+15636,Harrison City,Westmoreland County,"3,560"
+18326,Cresco,Monroe County,"3,559"
+18038,Danielsville,Northampton County,"3,549"
+15314,Bentleyville,Washington County,"3,545"
+16254,Shippenville,Clarion County,"3,516"
+15728,Clymer,Indiana County,"3,510"
+18332,Henryville,Monroe County,"3,508"
+16668,Patton,Cambria County,"3,507"
+17023,Elizabethville,Dauphin County,"3,489"
+17834,Kulpmont,Northumberland County,"3,480"
+16115,Darlington,Beaver County,"3,467"
+17536,Kirkwood,Lancaster County,"3,452"
+16404,Centerville,Crawford County,"3,446"
+16345,Russell,Warren County,"3,436"
+16156,Volant,Lawrence County,"3,431"
+16053,Renfrew,Butler County,"3,429"
+15473,Perryopolis,Fayette County,"3,422"
+15419,California,Washington County,"3,421"
+17747,Loganton,Clinton County,"3,421"
+15846,Kersey,Elk County,"3,408"
+15901,Johnstown,Cambria County,"3,397"
+16406,Conneautville,Crawford County,"3,388"
+18344,Mount Pocono,Monroe County,"3,385"
+17980,Tower City,Dauphin County,"3,342"
+17532,Holtwood,Lancaster County,"3,328"
+16950,Westfield,Tioga County,"3,327"
+15557,Rockwood,Somerset County,"3,323"
+15672,New Stanton,Westmoreland County,"3,321"
+19043,Holmes,Delaware County,"3,317"
+16222,Dayton,Armstrong County,"3,306"
+16038,Harrisville,Butler County,"3,292"
+16426,McKean,Erie County,"3,273"
+16925,Gillett,Bradford County,"3,268"
+16373,Emlenton,Venango County,"3,254"
+18834,New Milford,Susquehanna County,"3,245"
+17240,Newburg,Cumberland County,"3,241"
+18092,Zionsville,Lehigh County,"3,230"
+17047,Loysville,Perry County,"3,228"
+16248,Rimersburg,Clarion County,"3,216"
+16371,Youngsville,Warren County,"3,211"
+18446,Nicholson,Susquehanna County,"3,209"
+16346,Seneca,Venango County,"3,201"
+17063,Milroy,Mifflin County,"3,177"
+17304,Aspers,Adams County,"3,171"
+17970,Saint Clair,Schuylkill County,"3,171"
+17856,New Columbia,Union County,"3,167"
+16625,Claysburg,Blair County,"3,147"
+17026,Fredericksburg,Lebanon County,"3,137"
+18250,Summit Hill,Carbon County,"3,137"
+18660,Wapwallopen,Luzerne County,"3,137"
+19505,Bechtelsville,Berks County,"3,135"
+15845,Johnsonburg,Elk County,"3,121"
+16434,Spartansburg,Crawford County,"3,120"
+16051,Portersville,Butler County,"3,119"
+15541,Friedens,Somerset County,"3,112"
+19529,Kempton,Berks County,"3,109"
+18972,Upper Black Eddy,Bucks County,"3,104"
+15705,Indiana,Indiana County,"3,101"
+15014,Brackenridge,Allegheny County,"3,095"
+18822,Hallstead,Susquehanna County,"3,084"
+17034,Highspire,Dauphin County,"3,071"
+15944,New Florence,Westmoreland County,"3,063"
+16442,Wattsburg,Erie County,"3,050"
+17049,McAlisterville,Juniata County,"3,046"
+17082,Port Royal,Juniata County,"3,046"
+17535,Kinzers,Lancaster County,"3,042"
+17889,Winfield,Snyder County,"3,039"
+15140,Pitcairn,Allegheny County,"3,032"
+16666,Osceola Mills,Clearfield County,"2,999"
+17329,Glenville,York County,"2,999"
+17853,Mount Pleasant Mills,Snyder County,"2,993"
+16049,Parker,Clarion County,"2,965"
+19310,Atglen,Chester County,"2,950"
+19562,Topton,Berks County,"2,947"
+18837,Rome,Bradford County,"2,936"
+17771,Trout Run,Lycoming County,"2,929"
+18630,Meshoppen,Susquehanna County,"2,923"
+17267,Warfordsburg,Fulton County,"2,916"
+18709,Luzerne,Luzerne County,"2,910"
+16748,Shinglehouse,Potter County,"2,908"
+17365,Wellsville,York County,"2,897"
+15697,Youngwood,Westmoreland County,"2,877"
+15052,Industry,Beaver County,"2,873"
+16157,Wampum,Lawrence County,"2,840"
+17302,Airville,York County,"2,834"
+18076,Red Hill,Montgomery County,"2,833"
+17353,Orrtanna,Adams County,"2,825"
+15563,Stoystown,Somerset County,"2,824"
+17744,Linden,Lycoming County,"2,808"
+17027,Grantham,Cumberland County,"2,801"
+15679,Ruffs Dale,Westmoreland County,"2,781"
+16262,Worthington,Armstrong County,"2,772"
+16116,Edinburg,Lawrence County,"2,727"
+15554,New Paris,Bedford County,"2,726"
+18322,Brodheadsville,Monroe County,"2,724"
+17101,Harrisburg,Dauphin County,"2,722"
+17859,Orangeville,Columbia County,"2,701"
+18325,Canadensis,Monroe County,"2,700"
+17772,Turbotville,Montour County,"2,693"
+17407,York,York County,"2,673"
+16929,Lawrenceville,Tioga County,"2,666"
+16611,Alexandria,Huntingdon County,"2,665"
+16145,Sandy Lake,Mercer County,"2,660"
+17040,Landisburg,Perry County,"2,631"
+15458,McClellandtown,Fayette County,"2,620"
+17098,Williamstown,Dauphin County,"2,618"
+16844,Julian,Centre County,"2,606"
+15774,Shelocta,Armstrong County,"2,602"
+15926,Central City,Somerset County,"2,602"
+18372,Tannersville,Monroe County,"2,599"
+15233,Pittsburgh,Allegheny County,"2,596"
+15442,Grindstone,Fayette County,"2,596"
+16061,West Sunbury,Butler County,"2,564"
+15545,Hyndman,Bedford County,"2,562"
+16327,Guys Mills,Crawford County,"2,553"
+15759,Marion Center,Indiana County,"2,550"
+16154,Transfer,Mercer County,"2,539"
+15456,Lemont Furnace,Fayette County,"2,534"
+17565,Pequea,Lancaster County,"2,523"
+18214,Barnesville,Schuylkill County,"2,522"
+15437,Farmington,Fayette County,"2,518"
+15935,Hollsopple,Somerset County,"2,514"
+18218,Coaldale,Schuylkill County,"2,514"
+16912,Blossburg,Tioga County,"2,507"
+17864,Port Trevorton,Snyder County,"2,495"
+17502,Bainbridge,Lancaster County,"2,485"
+17938,Hegins,Schuylkill County,"2,479"
+16350,Sugar Grove,Warren County,"2,477"
+16353,Tionesta,Forest County,"2,473"
+17981,Tremont,Schuylkill County,"2,468"
+15474,Point Marion,Fayette County,"2,456"
+16946,Tioga,Tioga County,"2,455"
+16678,Saxton,Bedford County,"2,452"
+17094,Thompsontown,Juniata County,"2,424"
+17321,Fawn Grove,York County,"2,419"
+18405,Beach Lake,Wayne County,"2,412"
+16731,Eldred,McKean County,"2,407"
+15955,Sidman,Cambria County,"2,399"
+16617,Bellwood,Blair County,"2,392"
+15618,Avonmore,Armstrong County,"2,386"
+15469,Normalville,Fayette County,"2,377"
+18942,Ottsville,Bucks County,"2,377"
+17087,Richland,Berks County,"2,370"
+17764,Renovo,Clinton County,"2,361"
+15722,Carrolltown,Cambria County,"2,358"
+17505,Bird In Hand,Lancaster County,"2,358"
+19373,Thornton,Delaware County,"2,357"
+16914,Columbia Cross Roads,Bradford County,"2,354"
+15148,Wilmerding,Allegheny County,"2,351"
+16641,Gallitzin,Cambria County,"2,348"
+16637,East Freedom,Blair County,"2,345"
+18053,Germansville,Lehigh County,"2,344"
+18445,Newfoundland,Wayne County,"2,342"
+16123,Fombell,Beaver County,"2,335"
+17860,Paxinos,Northumberland County,"2,332"
+15445,Hopwood,Fayette County,"2,314"
+15938,Lilly,Cambria County,"2,312"
+18623,Laceyville,Bradford County,"2,298"
+17264,Three Springs,Huntingdon County,"2,292"
+16421,Harborcreek,Erie County,"2,289"
+15954,Seward,Indiana County,"2,279"
+15956,South Fork,Cambria County,"2,274"
+17244,Orrstown,Franklin County,"2,263"
+15958,Summerhill,Cambria County,"2,260"
+15027,Conway,Beaver County,"2,258"
+15043,Georgetown,Beaver County,"2,253"
+15450,La Belle,Fayette County,"2,252"
+16881,Woodland,Clearfield County,"2,245"
+16153,Stoneboro,Mercer County,"2,234"
+16120,Enon Valley,Lawrence County,"2,221"
+18917,Dublin,Bucks County,"2,216"
+16052,Prospect,Butler County,"2,215"
+15468,New Salem,Fayette County,"2,211"
+18077,Riegelsville,Bucks County,"2,203"
+17967,Ringtown,Schuylkill County,"2,202"
+16664,New Enterprise,Bedford County,"2,195"
+16475,Albion,Erie County,"2,194"
+15942,Mineral Point,Cambria County,"2,185"
+16646,Hastings,Cambria County,"2,185"
+15928,Davidsville,Somerset County,"2,171"
+16256,Smicksburg,Indiana County,"2,162"
+15639,Hunker,Westmoreland County,"2,160"
+15050,Hookstown,Beaver County,"2,155"
+15067,New Eagle,Washington County,"2,142"
+15046,Crescent,Allegheny County,"2,141"
+18470,Union Dale,Susquehanna County,"2,139"
+18346,Pocono Summit,Monroe County,"2,128"
+16342,Polk,Venango County,"2,126"
+15510,Somerset,Somerset County,"2,118"
+16738,Lewis Run,McKean County,"2,118"
+16143,Pulaski,Lawrence County,"2,100"
+16669,Petersburg,Huntingdon County,"2,099"
+18833,New Albany,Bradford County,"2,089"
+15559,Schellsburg,Bedford County,"2,084"
+18850,Ulster,Bradford County,"2,070"
+18656,Sweet Valley,Luzerne County,"2,066"
+17845,Millmont,Union County,"2,058"
+15724,Cherry Tree,Indiana County,"2,049"
+16141,New Galilee,Lawrence County,"2,033"
+17813,Beavertown,Snyder County,"2,028"
+15486,Vanderbilt,Fayette County,"2,027"
+15321,Cecil,Washington County,"2,025"
+16501,Erie,Erie County,"2,022"
+15424,Confluence,Somerset County,"2,011"
+15479,Smithton,Westmoreland County,"2,010"
+15035,East McKeesport,Allegheny County,"2,002"
+15535,Clearville,Bedford County,"1,994"
+18614,Dushore,Sullivan County,"1,986"
+17086,Richfield,Snyder County,"1,982"
+16028,East Brady,Armstrong County,"1,981"
+16255,Sligo,Clarion County,"1,981"
+19534,Lenhartsville,Berks County,"1,970"
+15558,Salisbury,Somerset County,"1,960"
+16936,Millerton,Tioga County,"1,940"
+17830,Herndon,Northumberland County,"1,938"
+16410,Cranesville,Erie County,"1,931"
+15840,Falls Creek,Jefferson County,"1,928"
+16627,Coalport,Clearfield County,"1,927"
+17965,Port Carbon,Schuylkill County,"1,927"
+18464,Tafton,Pike County,"1,927"
+18832,Monroeton,Bradford County,"1,924"
+15438,Fayette City,Fayette County,"1,915"
+16259,Templeton,Armstrong County,"1,911"
+16654,Huntingdon,Huntingdon County,"1,906"
+15322,Clarksville,Greene County,"1,892"
+18930,Kintnersville,Bucks County,"1,892"
+15333,Fredericktown,Washington County,"1,883"
+15459,Markleysburg,Fayette County,"1,861"
+19372,Thorndale,Chester County,"1,854"
+15423,Coal Center,Washington County,"1,846"
+18321,Bartonsville,Monroe County,"1,844"
+16258,Strattanville,Clarion County,"1,837"
+17876,Shamokin Dam,Snyder County,"1,827"
+15637,Herminie,Westmoreland County,"1,821"
+16838,Grampian,Clearfield County,"1,821"
+16865,Pennsylvania Furnace,Centre County,"1,820"
+16130,Hadley,Mercer County,"1,810"
+16650,Hopewell,Bedford County,"1,796"
+16249,Rural Valley,Armstrong County,"1,791"
+18617,Glen Lyon,Luzerne County,"1,791"
+15864,Summerville,Jefferson County,"1,789"
+16822,Beech Creek,Clinton County,"1,784"
+16878,West Decatur,Clearfield County,"1,783"
+17238,Needmore,Fulton County,"1,782"
+15480,Smock,Fayette County,"1,766"
+17009,Burnham,Mifflin County,"1,765"
+15428,Dawson,Fayette County,"1,763"
+16340,Pittsfield,Warren County,"1,763"
+16341,Pleasantville,Venango County,"1,761"
+16920,Elkland,Tioga County,"1,760"
+18629,Mehoopany,Wyoming County,"1,760"
+17237,Mont Alto,Franklin County,"1,759"
+16034,Fenelton,Butler County,"1,752"
+15436,Fairchance,Fayette County,"1,750"
+16041,Karns City,Butler County,"1,747"
+17024,Elliottsburg,Perry County,"1,734"
+15521,Alum Bank,Bedford County,"1,712"
+17582,Washington Boro,Lancaster County,"1,702"
+15360,Scenery Hill,Washington County,"1,690"
+16435,Springboro,Crawford County,"1,677"
+16374,Kennerdell,Venango County,"1,672"
+15550,Manns Choice,Bedford County,"1,658"
+16313,Clarendon,Warren County,"1,653"
+18915,Colmar,Montgomery County,"1,648"
+16613,Ashville,Cambria County,"1,647"
+18615,Falls,Wyoming County,"1,646"
+15034,Dravosburg,Allegheny County,"1,643"
+15747,Home,Indiana County,"1,641"
+18503,Scranton,Lackawanna County,"1,629"
+18355,Scotrun,Monroe County,"1,615"
+18636,Noxen,Wyoming County,"1,610"
+16563,Erie,Erie County,"1,607"
+15732,Creekside,Indiana County,"1,606"
+17224,Fort Loudon,Franklin County,"1,603"
+16347,Sheffield,Warren County,"1,596"
+18854,Wysox,Bradford County,"1,595"
+15923,Bolivar,Westmoreland County,"1,585"
+17058,Mifflin,Juniata County,"1,578"
+16351,Tidioute,Warren County,"1,576"
+16922,Galeton,Potter County,"1,575"
+15357,Rices Landing,Greene County,"1,572"
+16948,Ulysses,Potter County,"1,570"
+15464,Mill Run,Fayette County,"1,564"
+15772,Rossiter,Indiana County,"1,556"
+15345,Marianna,Washington County,"1,547"
+15344,Jefferson,Greene County,"1,541"
+17983,Valley View,Schuylkill County,"1,541"
+18812,Brackney,Susquehanna County,"1,537"
+15340,Hickory,Washington County,"1,524"
+16877,Warriors Mark,Centre County,"1,524"
+15142,Presto,Allegheny County,"1,513"
+18955,Richlandtown,Bucks County,"1,511"
+17017,Dalmatia,Northumberland County,"1,509"
+15349,Mount Morris,Greene County,"1,498"
+18056,Hereford,Berks County,"1,489"
+17878,Stillwater,Columbia County,"1,488"
+17881,Trevorton,Northumberland County,"1,479"
+16928,Knoxville,Tioga County,"1,476"
+17052,Mapleton Depot,Huntingdon County,"1,474"
+15765,Penn Run,Indiana County,"1,469"
+18826,Kingsley,Susquehanna County,"1,466"
+15936,Hooversville,Somerset County,"1,463"
+16124,Fredonia,Mercer County,"1,462"
+16820,Aaronsburg,Centre County,"1,457"
+16923,Genesee,Potter County,"1,457"
+17959,New Philadelphia,Schuylkill County,"1,445"
+15376,West Alexander,Washington County,"1,441"
+15868,Weedville,Elk County,"1,435"
+17929,Cressona,Schuylkill County,"1,432"
+16872,Rebersburg,Centre County,"1,430"
+16655,Imler,Bedford County,"1,427"
+16133,Jackson Center,Mercer County,"1,425"
+17721,Avis,Clinton County,"1,419"
+18824,Hop Bottom,Susquehanna County,"1,408"
+15055,Lawrence,Washington County,"1,403"
+17309,Brogue,York County,"1,393"
+15329,Prosperity,Washington County,"1,390"
+16639,Fallentimber,Cambria County,"1,390"
+17812,Beaver Springs,Snyder County,"1,378"
+16667,Osterburg,Bedford County,"1,371"
+17935,Girardville,Schuylkill County,"1,371"
+18818,Friendsville,Susquehanna County,"1,371"
+15849,Penfield,Clearfield County,"1,369"
+16360,Townville,Crawford County,"1,363"
+17518,Drumore,Lancaster County,"1,360"
+15338,Greensboro,Greene County,"1,356"
+16235,Lucinda,Clarion County,"1,356"
+15665,Manor,Westmoreland County,"1,339"
+18844,Springville,Susquehanna County,"1,335"
+16240,Mayport,Jefferson County,"1,327"
+16411,East Springfield,Erie County,"1,325"
+18465,Thompson,Susquehanna County,"1,324"
+16112,Bessemer,Lawrence County,"1,322"
+15351,Nemacolin,Greene County,"1,306"
+16364,Venus,Venango County,"1,306"
+18417,Equinunk,Wayne County,"1,298"
+16917,Covington,Tioga County,"1,293"
+15015,Bradfordwoods,Allegheny County,"1,291"
+15675,Penn,Westmoreland County,"1,290"
+17352,New Park,York County,"1,288"
+18453,Pleasant Mount,Wayne County,"1,286"
+16111,Atlantic,Crawford County,"1,282"
+17765,Roaring Branch,Tioga County,"1,279"
+15757,Mahaffey,Clearfield County,"1,272"
+15823,Brockport,Elk County,"1,266"
+17243,Orbisonia,Huntingdon County,"1,264"
+16720,Austin,Potter County,"1,261"
+19453,Mont Clare,Montgomery County,"1,259"
+17823,Dornsife,Northumberland County,"1,258"
+17229,Hustontown,Fulton County,"1,253"
+17060,Mill Creek,Huntingdon County,"1,248"
+18354,Sciota,Monroe County,"1,243"
+15687,Stahlstown,Westmoreland County,"1,241"
+17985,Zion Grove,Schuylkill County,"1,237"
+15829,Corsica,Jefferson County,"1,233"
+15533,Breezewood,Bedford County,"1,222"
+16317,Cooperstown,Venango County,"1,220"
+16874,Snow Shoe,Centre County,"1,220"
+18211,Andreas,Schuylkill County,"1,207"
+16443,West Springfield,Erie County,"1,196"
+16233,Leeper,Clarion County,"1,195"
+16444,Edinboro,Erie County,"1,190"
+17099,Yeagertown,Mifflin County,"1,187"
+16935,Middlebury Center,Tioga County,"1,181"
+17037,Ickesburg,Perry County,"1,176"
+18085,Tatamy,Northampton County,"1,175"
+16657,James Creek,Huntingdon County,"1,170"
+16020,Boyers,Butler County,"1,169"
+15860,Sigel,Jefferson County,"1,160"
+15673,North Apollo,Armstrong County,"1,156"
+19503,Bally,Berks County,"1,149"
+16656,Irvona,Clearfield County,"1,148"
+17214,Blue Ridge Summit,Franklin County,"1,143"
+18438,Lakeville,Wayne County,"1,139"
+16045,Lyndora,Butler County,"1,136"
+15623,Claridge,Westmoreland County,"1,135"
+17508,Brownstown,Lancaster County,"1,125"
+19009,Bryn Athyn,Montgomery County,"1,124"
+16930,Liberty,Tioga County,"1,119"
+15870,Wilcox,Elk County,"1,109"
+15686,Spring Church,Armstrong County,"1,102"
+17006,Blain,Perry County,"1,102"
+18631,Mifflinville,Columbia County,"1,100"
+16050,Petrolia,Butler County,"1,097"
+15327,Dilliner,Greene County,"1,092"
+17260,Shirleysburg,Huntingdon County,"1,090"
+15542,Garrett,Somerset County,"1,088"
+15225,Pittsburgh,Allegheny County,"1,085"
+15848,Luthersburg,Clearfield County,"1,085"
+18831,Milan,Bradford County,"1,081"
+15315,Bobtown,Greene County,"1,078"
+16640,Flinton,Cambria County,"1,077"
+15444,Hiller,Fayette County,"1,066"
+16362,Utica,Venango County,"1,066"
+16836,Frenchville,Clearfield County,"1,057"
+15019,Bulger,Washington County,"1,056"
+16868,Pine Grove Mills,Centre County,"1,050"
+17262,Spring Run,Franklin County,"1,048"
+18219,Conyngham,Luzerne County,"1,047"
+16746,Roulette,Potter County,"1,046"
+18821,Great Bend,Susquehanna County,"1,044"
+15056,Leetsdale,Allegheny County,"1,041"
+15358,Richeyville,Washington County,"1,025"
+15030,Creighton,Allegheny County,"1,018"
+15952,Salix,Cambria County,"1,015"
+17855,New Berlin,Union County,"1,014"
+16040,Hilliards,Butler County,"1,013"
+15076,Russellton,Allegheny County,"1,010"
+16845,Karthaus,Centre County,"1,010"
+16218,Cowansville,Armstrong County,"1,000"
+17228,Harrisonville,Fulton County,"1,000"
+15692,Westmoreland City,Westmoreland County,992
+17255,Shade Gap,Huntingdon County,992
+18923,Fountainville,Bucks County,984
+16172,New Wilmington,Lawrence County,983
+15725,Clarksburg,Indiana County,979
+15049,Harwick,Allegheny County,974
+16851,Lemont,Centre County,974
+18335,Marshalls Creek,Monroe County,974
+15729,Commodore,Indiana County,970
+15662,Luxor,Westmoreland County,969
+18415,Damascus,Wayne County,966
+17774,Unityville,Lycoming County,962
+16319,Cranberry,Venango County,961
+17936,Gordon,Schuylkill County,959
+18216,Beaver Meadows,Carbon County,957
+17964,Pitman,Schuylkill County,952
+18425,Greeley,Pike County,946
+15475,Republic,Fayette County,944
+16661,Madera,Clearfield County,944
+17758,Muncy Valley,Sullivan County,943
+16695,Woodbury,Bedford County,941
+15742,Glen Campbell,Indiana County,929
+16546,Erie,Erie County,929
+16926,Granville Summit,Bradford County,926
+15865,Sykesville,Jefferson County,923
+16692,Westover,Clearfield County,923
+16029,East Butler,Butler County,916
+15083,Sutersville,Westmoreland County,913
+17021,East Waterford,Juniata County,912
+16160,West Pittsburg,Lawrence County,909
+17016,Cornwall,Lebanon County,909
+18435,Lackawaxen,Pike County,907
+15771,Rochester Mills,Indiana County,903
+18350,Pocono Pines,Monroe County,902
+17263,State Line,Franklin County,896
+16942,Osceola,Tioga County,892
+15331,Ellsworth,Washington County,891
+15762,Nicktown,Cambria County,887
+15534,Buffalo Mills,Bedford County,884
+16854,Millheim,Centre County,883
+16740,Mount Jewett,McKean County,878
+17827,Freeburg,Snyder County,877
+15961,Vintondale,Indiana County,875
+19545,New Berlinville,Berks County,868
+15538,Fairhope,Somerset County,867
+16647,Hesston,Huntingdon County,864
+17035,Honey Grove,Juniata County,864
+15547,Jennerstown,Somerset County,862
+15661,Loyalhanna,Westmoreland County,858
+15060,Midway,Washington County,853
+15927,Colver,Cambria County,846
+15311,Amity,Washington County,843
+17064,Mount Gretna,Lebanon County,839
+16938,Morris,Tioga County,837
+19501,Adamstown,Lancaster County,823
+16161,Wheatland,Mercer County,819
+16136,Koppel,Beaver County,811
+19492,Zieglerville,Montgomery County,811
+16636,Dysart,Cambria County,808
+17886,West Milton,Union County,804
+15620,Bradenville,Westmoreland County,801
+15484,Uledi,Fayette County,792
+19319,Cheyney,Delaware County,792
+15427,Daisytown,Washington County,789
+15698,Yukon,Westmoreland County,789
+15086,Warrendale,Allegheny County,788
+16440,Venango,Crawford County,787
+16131,Hartstown,Crawford County,777
+15856,Rockton,Clearfield County,776
+18846,Sugar Run,Bradford County,770
+19345,Immaculata,Chester County,768
+16224,Fairmount City,Clarion County,763
+16829,Clarence,Centre County,762
+18829,Le Raysville,Bradford County,754
+17212,Big Cove Tannery,Fulton County,750
+18059,Laurys Station,Lehigh County,744
+15924,Cairnbrook,Somerset County,740
+18371,Tamiment,Pike County,737
+18616,Forksville,Sullivan County,734
+15477,Roscoe,Washington County,733
+16834,Drifting,Clearfield County,733
+17941,Klingerstown,Schuylkill County,733
+15380,Wind Ridge,Greene County,730
+15410,Adah,Fayette County,728
+18327,Delaware Water Gap,Monroe County,723
+17097,Wiconisco,Dauphin County,721
+17868,Riverside,Northumberland County,719
+15949,Robinson,Indiana County,716
+15078,Slovan,Washington County,714
+15018,Buena Vista,Allegheny County,712
+18254,Tresckow,Carbon County,696
+15411,Addison,Somerset County,695
+15920,Armagh,Indiana County,695
+18946,Pineville,Bucks County,689
+17978,Spring Glen,Dauphin County,688
+16729,Duke Center,McKean County,684
+17093,Summerdale,Cumberland County,684
+15622,Champion,Fayette County,682
+15633,Forbes Road,Westmoreland County,682
+15451,Lake Lynn,Fayette County,675
+15631,Everson,Fayette County,672
+15671,New Derry,Westmoreland County,671
+18370,Swiftwater,Monroe County,671
+16343,Reno,Venango County,670
+18471,Waverly,Lackawanna County,667
+16726,Cyclone,McKean County,665
+15341,Holbrook,Greene County,664
+15324,Cokeburg,Washington County,662
+15490,White,Fayette County,659
+16679,Six Mile Run,Bedford County,656
+18331,Gilbert,Monroe County,655
+16436,Spring Creek,Warren County,639
+15352,New Freeport,Greene County,635
+15951,Saint Michael,Cambria County,633
+15449,Keisterville,Fayette County,632
+15629,East Vandergrift,Westmoreland County,631
+19052,Lenni,Delaware County,631
+17247,Quincy,Franklin County,629
+18469,Tyler Hill,Wayne County,629
+15364,Sycamore,Greene County,628
+18602,Bear Creek,Luzerne County,628
+16402,Bear Lake,Warren County,624
+16921,Gaines,Tioga County,622
+17235,Marion,Franklin County,622
+18234,Lattimer Mines,Luzerne County,616
+18851,Warren Center,Bradford County,615
+15377,West Finley,Washington County,614
+16927,Harrison Valley,Potter County,614
+15688,Tarrs,Westmoreland County,612
+15551,Markleton,Somerset County,609
+18063,Martins Creek,Northampton County,606
+15363,Strabane,Washington County,605
+16621,Broad Top,Huntingdon County,604
+15470,Ohiopyle,Fayette County,601
+18248,Sheppton,Schuylkill County,599
+18830,Little Meadows,Susquehanna County,593
+16745,Rixford,McKean County,592
+17887,White Deer,Union County,591
+18087,Trexlertown,Lehigh County,590
+16863,Olanta,Clearfield County,586
+16114,Clarks Mills,Mercer County,579
+17832,Marion Heights,Northumberland County,578
+18065,Neffs,Lehigh County,577
+17850,Montandon,Northumberland County,576
+16210,Adrian,Armstrong County,574
+17760,North Bend,Clinton County,572
+17342,Loganville,York County,563
+17762,Picture Rocks,Lycoming County,557
+18970,Trumbauersville,Bucks County,553
+15429,Denbo,Washington County,551
+15362,Spraggs,Greene County,550
+15366,Van Voorhis,Washington County,550
+15433,East Millsboro,Fayette County,550
+16674,Robertsdale,Huntingdon County,548
+16932,Mainesburg,Tioga County,546
+18351,Portland,Northampton County,546
+15676,Pleasant Unity,Westmoreland County,544
+15937,Jerome,Somerset County,543
+18462,Starrucca,Wayne County,543
+17246,Pleasant Hall,Franklin County,542
+17030,Gratz,Dauphin County,541
+17306,Bendersville,Adams County,537
+15416,Brownfield,Fayette County,531
+18962,Silverdale,Bucks County,531
+19437,Gwynedd Valley,Montgomery County,531
+17862,Penns Creek,Snyder County,530
+17271,Willow Hill,Franklin County,527
+15413,Allison,Fayette County,526
+15779,Torrance,Westmoreland County,526
+17213,Blairs Mills,Huntingdon County,525
+16372,Clintonville,Venango County,517
+15677,Rector,Westmoreland County,516
+16420,Grand Valley,Warren County,515
+16405,Columbus,Warren County,514
+15775,Spangler,Cambria County,513
+18473,White Mills,Wayne County,511
+15346,Mather,Greene County,509
+15465,Mount Braddock,Fayette County,508
+19490,Worcester,Montgomery County,507
+15715,Big Run,Jefferson County,505
+18626,Laporte,Sullivan County,505
+18342,Mountainhome,Monroe County,503
+16230,Hawthorn,Clarion County,501
+16859,Moshannon,Centre County,500
+16623,Cassville,Huntingdon County,492
+18083,Stockertown,Northampton County,489
+18845,Stevensville,Bradford County,489
+15619,Bovard,Westmoreland County,488
+19550,Rehrersburg,Berks County,488
+18624,Lake Harmony,Carbon County,487
+17219,Doylesburg,Franklin County,484
+18030,Bowmanstown,Carbon County,483
+15020,Bunola,Allegheny County,481
+17957,Muir,Schuylkill County,481
+16840,Hawk Run,Clearfield County,476
+15337,Graysville,Greene County,474
+15678,Rillton,Westmoreland County,472
+17506,Blue Ball,Lancaster County,469
+17317,East Prospect,York County,466
+19536,Lyon Station,Berks County,466
+15641,Hyde Park,Westmoreland County,464
+16750,Turtlepoint,McKean County,464
+15753,La Jose,Clearfield County,463
+16344,Rouseville,Venango County,460
+17088,Schaefferstown,Lebanon County,459
+15628,Donegal,Westmoreland County,458
+17221,Fannettsburg,Franklin County,458
+15482,Star Junction,Fayette County,456
+16334,Marble,Clarion County,453
+17982,Tuscarora,Schuylkill County,452
+17002,Allensville,Huntingdon County,451
+15773,Saint Benedict,Cambria County,448
+17888,Wilburton,Columbia County,446
+17266,Walnut Bottom,Cumberland County,445
+15612,Alverton,Westmoreland County,443
+16329,Irvine,Warren County,441
+16826,Blanchard,Centre County,439
+15546,Jenners,Somerset County,437
+18221,Drifton,Luzerne County,436
+18932,Line Lexington,Bucks County,436
+19436,Gwynedd,Montgomery County,435
+19374,Toughkenamon,Chester County,434
+17253,Saltillo,Huntingdon County,433
+18632,Mildred,Sullivan County,430
+16882,Woodward,Centre County,429
+17953,Middleport,Schuylkill County,426
+16027,Connoquenessing,Butler County,423
+15313,Beallsville,Washington County,422
+15634,Grapeville,Westmoreland County,421
+16311,Carlton,Mercer County,421
+15540,Fort Hill,Somerset County,418
+16943,Sabinsville,Potter County,417
+17934,Gilberton,Schuylkill County,417
+15466,Newell,Fayette County,413
+15930,Dunlo,Cambria County,413
+18231,Kelayres,Schuylkill County,413
+18451,Paupack,Pike County,413
+16671,Ramey,Clearfield County,411
+16228,Ford Cliff,Armstrong County,409
+16879,Winburne,Clearfield County,406
+16236,McGrann,Armstrong County,405
+18441,Lenoxville,Susquehanna County,405
+15081,South Heights,Beaver County,404
+17606,Lancaster,Lancaster County,404
+16238,Manorville,Armstrong County,402
+16682,Sproul,Blair County,402
+15536,Crystal Spring,Fulton County,397
+17303,Arendtsville,Adams County,395
+16619,Blandburg,Cambria County,393
+18920,Erwinna,Bucks County,393
+16839,Grassflat,Clearfield County,392
+15948,Revloc,Cambria County,391
+15962,Wilmore,Cambria County,391
+18439,Lakewood,Wayne County,390
+16689,Waterfall,Fulton County,389
+19316,Brandamore,Chester County,389
+15736,Elderton,Armstrong County,386
+17249,Rockhill Furnace,Huntingdon County,386
+17923,Branchdale,Schuylkill County,385
+15031,Cuddy,Allegheny County,382
+15720,Brush Valley,Indiana County,382
+17029,Granville,Mifflin County,382
+15663,Madison,Westmoreland County,377
+17371,York New Salem,York County,375
+15350,Muse,Washington County,373
+18242,Oneida,Schuylkill County,371
+15716,Black Lick,Indiana County,369
+15778,Timblin,Jefferson County,367
+17768,Shunk,Sullivan County,367
+15739,Ernest,Indiana County,366
+18244,Parryville,Carbon County,365
+15616,Armbrust,Westmoreland County,363
+17254,Scotland,Franklin County,362
+15064,Morgan,Allegheny County,360
+16680,Smithmill,Clearfield County,359
+16113,Clark,Mercer County,358
+16860,Munson,Clearfield County,358
+15655,Laughlintown,Westmoreland County,357
+15640,Hutchinson,Westmoreland County,355
+16694,Wood,Huntingdon County,355
+19017,Chester Heights,Delaware County,355
+17211,Artemas,Bedford County,354
+15368,Vestaburg,Washington County,353
+16683,Spruce Creek,Huntingdon County,353
+15054,Langeloth,Washington County,352
+15347,Meadow Lands,Washington County,350
+15750,Josephine,Indiana County,347
+17220,Dry Run,Franklin County,347
+18843,South Montrose,Susquehanna County,345
+15088,West Elizabeth,Allegheny County,344
+15562,Springs,Somerset County,344
+16244,Nu Mine,Armstrong County,342
+15334,Garards Fort,Greene County,339
+19554,Shartlesville,Berks County,338
+16054,Saint Petersburg,Clarion County,333
+15455,Leisenring,Fayette County,332
+15359,Rogersville,Greene County,330
+15051,Indianola,Allegheny County,329
+16132,Hillsville,Lawrence County,327
+16861,New Millport,Clearfield County,327
+18443,Milanville,Wayne County,327
+15432,Dunlevy,Washington County,326
+16620,Brisbin,Clearfield County,326
+17223,Fort Littleton,Fulton County,326
+16691,Wells Tannery,Fulton County,325
+15711,Anita,Jefferson County,322
+17355,Railroad,York County,322
+17968,Sacramento,Schuylkill County,321
+18456,Prompton,Wayne County,319
+15454,Leckrone,Fayette County,313
+16633,Defiance,Bedford County,313
+17550,Maytown,Lancaster County,313
+17974,Seltzer,Schuylkill County,312
+18980,Wycombe,Bucks County,308
+16036,Foxburg,Clarion County,305
+17925,Brockton,Schuylkill County,305
+16685,Todd,Huntingdon County,303
+18079,Slatedale,Lehigh County,303
+15422,Chestnut Ridge,Fayette County,302
+15691,Wendel,Westmoreland County,302
+19559,Strausstown,Berks County,302
+15520,Acosta,Somerset County,301
+15827,Byrnedale,Elk County,301
+17265,Upperstrasburg,Franklin County,300
+15660,Lowber,Westmoreland County,299
+15440,Gibbon Glade,Fayette County,297
+15310,Aleppo,Greene County,296
+18936,Montgomeryville,Montgomery County,296
+16110,Adamsville,Crawford County,295
+16140,New Bedford,Lawrence County,293
+16260,Vowinckel,Clarion County,293
+15483,Stockdale,Washington County,291
+15832,Driftwood,Cameron County,289
+17005,Berrysburg,Dauphin County,289
+17054,Mattawana,Mifflin County,286
+19456,Oaks,Montgomery County,286
+15828,Clarington,Forest County,285
+16876,Wallaceton,Clearfield County,285
+16326,Fryburg,Clarion County,283
+17951,Mar Lin,Schuylkill County,281
+15434,Elco,Washington County,280
+15038,Elrama,Washington County,279
+15693,Whitney,Westmoreland County,277
+15082,Sturgeon,Allegheny County,275
+15544,Gray,Somerset County,274
+18935,Milford Square,Bucks County,273
+16030,Eau Claire,Butler County,272
+19549,Port Clinton,Schuylkill County,271
+15325,Crucible,Greene County,269
+15921,Beaverdale,Cambria County,269
+18463,Sterling,Wayne County,268
+15754,Lucernemines,Indiana County,266
+17944,Llewellyn,Schuylkill County,265
+19564,Virginville,Berks County,265
+17080,Pillow,Dauphin County,264
+16352,Tiona,Warren County,263
+17884,Washingtonville,Montour County,263
+15617,Arona,Westmoreland County,262
+15957,Strongstown,Indiana County,262
+16634,Dudley,Huntingdon County,262
+18950,Point Pleasant,Bucks County,262
+16212,Cadogan,Armstrong County,261
+16263,Yatesboro,Armstrong County,259
+16911,Arnot,Tioga County,259
+17930,Cumbola,Schuylkill County,258
+15007,Bakerstown,Allegheny County,256
+16659,Loysburg,Bedford County,255
+16624,Chest Springs,Cambria County,253
+16665,Newry,Blair County,253
+16035,Forestville,Butler County,252
+18622,Huntington Mills,Luzerne County,252
+17720,Antes Fort,Lycoming County,250
+18241,Nuremberg,Luzerne County,249
+16333,Ludlow,McKean County,248
+17081,Plainfield,Cumberland County,248
+17920,Aristes,Columbia County,246
+18913,Carversville,Bucks County,243
+16853,Milesburg,Centre County,242
+17210,Amberson,Franklin County,242
+15611,Adamsburg,Westmoreland County,241
+16732,Gifford,McKean County,241
+17763,Ralston,Lycoming County,241
+16250,Sagamore,Armstrong County,240
+17949,Mahanoy Plane,Schuylkill County,240
+15745,Heilwood,Indiana County,239
+16677,Sandy Ridge,Centre County,239
+17867,Rebuck,Northumberland County,239
+18927,Hilltown,Bucks County,239
+15682,Schenley,Armstrong County,234
+17749,McEwensville,Northumberland County,234
+19375,Unionville,Chester County,234
+15316,Brave,Greene County,231
+16328,Hydetown,Crawford County,231
+16825,Bigler,Clearfield County,231
+15680,Salina,Westmoreland County,230
+17318,Emigsville,York County,230
+18086,Treichlers,Northampton County,229
+15635,Hannastown,Westmoreland County,228
+15841,Force,Elk County,226
+16733,Hazel Hurst,McKean County,226
+16048,North Washington,Butler County,225
+15430,Dickerson Run,Fayette County,224
+16832,Coburn,Centre County,224
+18070,Palm,Montgomery County,223
+18323,Buck Hill Falls,Monroe County,222
+19474,Skippack,Montgomery County,222
+16847,Kylertown,Clearfield County,221
+16022,Bruin,Butler County,219
+15624,Crabtree,Westmoreland County,218
+15696,Youngstown,Westmoreland County,218
+16211,Beyer,Indiana County,218
+15004,Atlasburg,Washington County,217
+18245,Quakake,Schuylkill County,216
+16370,West Hickory,Forest County,215
+16848,Lamar,Clinton County,215
+18912,Buckingham,Bucks County,213
+17829,Hartleton,Union County,212
+16024,Callery,Butler County,210
+17239,Neelyton,Huntingdon County,209
+15412,Allenport,Washington County,208
+15421,Chalk Hill,Fayette County,207
+16427,Mill Village,Erie County,204
+16645,Glen Hope,Clearfield County,204
+15047,Greenock,Allegheny County,203
+16852,Madisonburg,Centre County,203
+18461,Starlight,Wayne County,202
+15684,Slickville,Westmoreland County,201
+15866,Troutville,Clearfield County,201
+18046,East Texas,Lehigh County,201
+15731,Coral,Indiana County,200
+18814,Burlington,Bradford County,200
+16835,Fleming,Centre County,199
+19544,Mount Aetna,Berks County,199
+15756,McIntyre,Indiana County,196
+16245,Oak Ridge,Armstrong County,196
+15727,Clune,Indiana County,195
+17069,New Buffalo,Perry County,192
+19358,Modena,Chester County,191
+17041,Lawn,Lebanon County,190
+17836,Leck Kill,Northumberland County,190
+15710,Alverda,Indiana County,188
+15770,Ringgold,Jefferson County,188
+17731,Eagles Mere,Sullivan County,188
+17840,Locust Gap,Northumberland County,188
+16744,Rew,McKean County,187
+15738,Emeigh,Cambria County,186
+17946,Lost Creek,Schuylkill County,185
+18256,Weston,Luzerne County,185
+18628,Lopez,Sullivan County,185
+17748,McElhattan,Clinton County,184
+17215,Burnt Cabins,Huntingdon County,182
+17217,Concord,Franklin County,182
+15695,Wyano,Westmoreland County,181
+17885,Weikert,Union County,181
+15006,Bairdford,Allegheny County,180
+17581,Terre Hill,Lancaster County,180
+15561,Sipesville,Somerset County,179
+17779,Woolrich,Clinton County,179
+15764,Oliveburg,Jefferson County,178
+16672,Riddlesburg,Bedford County,177
+17750,Mackeyville,Clinton County,177
+18340,Millrift,Pike County,177
+15734,Dixonville,Indiana County,176
+17570,Rheems,Lancaster County,176
+19516,Centerport,Berks County,176
+16734,James City,Elk County,174
+17014,Cocolamus,Juniata County,174
+15492,Wickhaven,Fayette County,173
+15945,Parkhill,Cambria County,173
+16855,Mineral Springs,Clearfield County,172
+16939,Morris Run,Tioga County,172
+17952,Mary D,Schuylkill County,172
+18220,Delano,Schuylkill County,170
+16937,Mills,Potter County,167
+15472,Oliver,Fayette County,166
+16843,Hyde,Clearfield County,165
+15960,Twin Rocks,Cambria County,163
+18619,Hillsgrove,Sullivan County,162
+15646,Jones Mills,Westmoreland County,161
+15721,Burnside,Clearfield County,161
+16856,Mingoville,Centre County,160
+17010,Campbelltown,Lebanon County,160
+18921,Ferndale,Bucks County,160
+15863,Stump Creek,Jefferson County,159
+16322,Endeavor,Forest County,159
+15539,Fishertown,Bedford County,158
+15674,Norvelt,Westmoreland County,158
+17729,Cross Fork,Potter County,156
+15077,Shippingport,Beaver County,154
+19108,Philadelphia,Philadelphia County,154
+16246,Plumville,Indiana County,152
+17861,Paxtonville,Snyder County,152
+18230,Junedale,Carbon County,152
+15448,Jacobs Creek,Westmoreland County,150
+16849,Lanse,Clearfield County,149
+15615,Ardara,Westmoreland County,148
+16430,North Springfield,Erie County,148
+18455,Preston Park,Wayne County,148
+19457,Parker Ford,Chester County,148
+16725,Custer City,McKean County,147
+18357,Skytop,Monroe County,147
+15489,West Leisenring,Fayette County,146
+18828,Lawton,Susquehanna County,146
+15365,Taylorstown,Washington County,145
+17776,Waterville,Lycoming County,145
+15761,Mentcle,Indiana County,144
+15752,Kent,Indiana County,143
+15560,Shanksville,Somerset County,142
+15730,Coolspring,Jefferson County,142
+18437,Lake Como,Wayne County,137
+18825,Jackson,Susquehanna County,137
+19477,Spring House,Montgomery County,136
+17945,Locustdale,Columbia County,133
+18816,Dimock,Susquehanna County,132
+18823,Harford,Susquehanna County,132
+15713,Aultman,Indiana County,131
+17979,Summit Station,Schuylkill County,130
+15420,Cardale,Fayette County,129
+15028,Coulters,Allegheny County,128
+15053,Joffre,Washington County,127
+15760,Marsteller,Cambria County,127
+17311,Codorus,York County,127
+17075,Newton Hamilton,Mifflin County,125
+15737,Elmora,Cambria County,123
+16331,Kossuth,Clarion County,123
+17933,Friedensburg,Schuylkill County,123
+19369,Sadsburyville,Chester County,122
+16332,Lickingville,Clarion County,121
+18842,South Gibson,Susquehanna County,121
+15780,Valier,Jefferson County,120
+18460,South Sterling,Wayne County,118
+17071,New Germantown,Perry County,116
+18333,Kresgeville,Monroe County,115
+17835,Laurelton,Union County,114
+18625,Lake Winola,Wyoming County,114
+15502,Hidden Valley,Somerset County,113
+15783,West Lebanon,Indiana County,113
+16416,Garland,Warren County,113
+15929,Dilltown,Indiana County,112
+17858,Numidia,Columbia County,111
+16684,Tipton,Blair County,108
+17077,Ono,Lebanon County,108
+15361,Southview,Washington County,107
+15532,Boynton,Somerset County,107
+16213,Callensburg,Clarion County,107
+15746,Hillsdale,Indiana County,105
+17504,Bausman,Lancaster County,105
+18933,Lumberville,Bucks County,105
+15638,Hostetter,Westmoreland County,104
+16616,Beccaria,Clearfield County,103
+17576,Smoketown,Lancaster County,103
+15925,Cassandra,Cambria County,101
+16155,Villa Maria,Lawrence County,98
+18454,Poyntelle,Wayne County,97
+15953,Seanor,Somerset County,96
+16422,Harmonsburg,Crawford County,95
+16941,Genesee,Potter County,94
+16821,Allport,Clearfield County,93
+15689,United,Westmoreland County,92
+15443,Hibbs,Fayette County,89
+15460,Martin,Fayette County,89
+15781,Walston,Jefferson County,89
+16670,Queen,Bedford County,89
+16675,Saint Boniface,Cambria County,88
+16253,Seminole,Armstrong County,87
+15275,Pittsburgh,Allegheny County,86
+15564,Wellersburg,Somerset County,86
+15087,Webster,Westmoreland County,85
+15435,Fairbank,Fayette County,85
+18081,Springtown,Bucks County,85
+18349,Pocono Manor,Monroe County,85
+15861,Sinnamahoning,Cameron County,84
+18246,Rock Glen,Luzerne County,84
+17323,Franklintown,York County,83
+15922,Belsano,Cambria County,82
+16622,Calvin,Huntingdon County,82
+16837,Glen Richey,Clearfield County,81
+18413,Clifford,Susquehanna County,81
+15462,Melcroft,Fayette County,80
+16217,Cooksburg,Forest County,77
+19435,Frederick,Montgomery County,75
+15488,Waltersburg,Fayette County,74
+15821,Benezett,Elk County,74
+17778,Westport,Clinton County,74
+18817,East Smithfield,Bradford County,74
+15447,Isabella,Fayette County,73
+15733,De Lancey,Jefferson County,71
+17251,Roxbury,Franklin County,70
+15555,Quecreek,Somerset County,69
+16724,Crosby,McKean County,69
+16864,Orviston,Centre County,69
+18420,Fleetville,Lackawanna County,69
+15353,Nineveh,Greene County,67
+15847,Knox Dale,Jefferson County,65
+16223,Distant,Armstrong County,65
+15379,West Middletown,Washington County,64
+16910,Alba,Bradford County,64
+17507,Bowmansville,Lancaster County,64
+19538,Maxatawny,Berks County,64
+15463,Merrittstown,Fayette County,59
+15625,Darragh,Westmoreland County,58
+15831,Dagus Mines,Elk County,58
+16638,Entriken,Huntingdon County,58
+16631,Curryville,Blair County,57
+18430,Herrick Center,Susquehanna County,57
+19472,Sassamansville,Montgomery County,54
+15467,New Geneva,Fayette County,52
+16151,Sheakleyville,Mercer County,52
+15647,Larimer,Westmoreland County,49
+15784,Worthville,Jefferson County,49
+16361,Tylersburg,Clarion County,49
+16871,Pottersdale,Clinton County,47
+15741,Gipsy,Indiana County,45
+15744,Hamilton,Jefferson County,44
+18212,Ashfield,Carbon County,43
+15072,Pricedale,Westmoreland County,42
+15712,Arcadia,Indiana County,42
+17943,Lavelle,Schuylkill County,42
+19535,Limekiln,Berks County,42
+17727,Cedar Run,Tioga County,41
+19523,Geigertown,Berks County,41
+15348,Millsboro,Washington County,39
+18035,Cherryville,Northampton County,39
+17039,Kleinfeltersville,Lebanon County,38
+16727,Derrick City,McKean County,37
+15934,Elton,Cambria County,36
+18820,Gibson,Susquehanna County,36
+15446,Indian Head,Fayette County,35
+18440,La Plume,Lackawanna County,35
+17723,Cammal,Lycoming County,34
+19511,Bowers,Berks County,33
+18012,Aquashicola,Carbon County,32
+16312,Chandlers Valley,Warren County,31
+17343,McKnightstown,Adams County,31
+17769,Slate Run,Lycoming County,31
+15776,Sprankle Mills,Jefferson County,29
+17880,Swengel,Union County,29
+15777,Starford,Indiana County,28
+16730,East Smethport,McKean County,27
+17056,Mexico,Juniata County,27
+17232,Lurgan,Franklin County,27
+17739,Jersey Mills,Lycoming County,27
+15723,Chambersville,Indiana County,26
+15565,West Salisbury,Somerset County,25
+17865,Potts Grove,Northumberland County,24
+15075,Rural Ridge,Allegheny County,22
+17742,Lairdsville,Lycoming County,21
+19367,Pomeroy,Chester County,21
+16220,Crown,Clarion County,19
+16940,Nelson,Tioga County,19
+15763,Northpoint,Indiana County,15
+16321,East Hickory,Forest County,11
+17730,Dewart,Northumberland County,11
+17822,Danville,Montour County,11
+15476,Ronco,Fayette County,10
+18457,Rowland,Pike County,9
+15123,West Mifflin,Allegheny County,2
+15260,Pittsburgh,Allegheny County,0
+15290,Pittsburgh,Allegheny County,0
+15378,Westland,Washington County,0
+16550,Erie,Erie County,0
+16699,Cresson,Cambria County,0
+17076,Oakland Mills,Juniata County,0
+17120,Harrisburg,Dauphin County,0
+17250,Rouzerville,Franklin County,0
+17261,South Mountain,Franklin County,0
+17534,Intercourse,Lancaster County,0
+17568,Refton,Lancaster County,0
+18195,Allentown,Lehigh County,0
+18223,Ebervale,Luzerne County,0
+18225,Harleigh,Luzerne County,0
+18239,Milnesville,Luzerne County,0
+18356,Shawnee On Delaware,Monroe County,0
+18627,Lehman,Luzerne County,0
+19109,Philadelphia,Philadelphia County,0
+19112,Philadelphia,Philadelphia County,0
+19113,Philadelphia,Delaware County,0
+19442,Kimberton,Chester County,0

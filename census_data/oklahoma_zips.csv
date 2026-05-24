@@ -1,0 +1,665 @@
+ZIP,City,County,Population
+73099,Yukon,Canadian County,"91,014"
+74012,Broken Arrow,Tulsa County,"65,060"
+73160,Oklahoma City,Cleveland County,"62,690"
+73013,Edmond,Oklahoma County,"58,023"
+74055,Owasso,Tulsa County,"51,381"
+73072,Norman,Cleveland County,"50,881"
+73034,Edmond,Oklahoma County,"48,831"
+74133,Tulsa,Tulsa County,"48,699"
+73505,Lawton,Comanche County,"47,790"
+73012,Edmond,Oklahoma County,"46,993"
+74014,Broken Arrow,Wagoner County,"45,212"
+73071,Norman,Cleveland County,"43,798"
+73170,Oklahoma City,Cleveland County,"41,458"
+73401,Ardmore,Carter County,"36,833"
+73120,Oklahoma City,Oklahoma County,"35,559"
+74008,Bixby,Tulsa County,"34,006"
+74011,Broken Arrow,Tulsa County,"33,900"
+74074,Stillwater,Payne County,"32,422"
+73110,Oklahoma City,Oklahoma County,"32,348"
+74066,Sapulpa,Creek County,"32,292"
+74820,Ada,Pontotoc County,"31,943"
+73159,Oklahoma City,Oklahoma County,"31,447"
+74136,Tulsa,Tulsa County,"31,416"
+74063,Sand Springs,Tulsa County,"31,370"
+74464,Tahlequah,Cherokee County,"31,116"
+73703,Enid,Garfield County,"30,556"
+73119,Oklahoma City,Oklahoma County,"30,398"
+73112,Oklahoma City,Oklahoma County,"30,372"
+74403,Muskogee,Muskogee County,"29,217"
+74017,Claremore,Rogers County,"29,206"
+73064,Mustang,Canadian County,"28,919"
+73162,Oklahoma City,Oklahoma County,"28,728"
+74501,Mcalester,Pittsburg County,"28,616"
+74137,Tulsa,Tulsa County,"28,533"
+73069,Norman,Cleveland County,"28,462"
+74006,Bartlesville,Washington County,"27,911"
+73132,Oklahoma City,Oklahoma County,"27,834"
+73533,Duncan,Stephens County,"27,618"
+74701,Durant,Bryan County,"27,497"
+74105,Tulsa,Tulsa County,"26,951"
+74075,Stillwater,Payne County,"26,451"
+73127,Oklahoma City,Oklahoma County,"25,865"
+73107,Oklahoma City,Oklahoma County,"25,791"
+73020,Choctaw,Oklahoma County,"25,645"
+73044,Guthrie,Logan County,"25,398"
+74037,Jenks,Tulsa County,"24,547"
+73701,Enid,Garfield County,"24,476"
+74115,Tulsa,Tulsa County,"24,297"
+74021,Collinsville,Tulsa County,"23,628"
+74134,Tulsa,Tulsa County,"23,323"
+73003,Edmond,Oklahoma County,"23,236"
+74804,Shawnee,Pottawatomie County,"23,227"
+73135,Oklahoma City,Oklahoma County,"22,022"
+74801,Shawnee,Pottawatomie County,"21,967"
+73010,Blanchard,Grady County,"21,521"
+73130,Oklahoma City,Oklahoma County,"21,476"
+73008,Bethany,Oklahoma County,"21,472"
+73036,El Reno,Canadian County,"21,387"
+74112,Tulsa,Tulsa County,"21,386"
+73109,Oklahoma City,Oklahoma County,"21,378"
+73507,Lawton,Comanche County,"21,046"
+74019,Claremore,Rogers County,"21,023"
+73018,Chickasha,Grady County,"20,505"
+73501,Lawton,Comanche County,"20,397"
+73115,Oklahoma City,Oklahoma County,"20,225"
+73521,Altus,Jackson County,"20,155"
+74135,Tulsa,Tulsa County,"20,138"
+73129,Oklahoma City,Oklahoma County,"20,014"
+74107,Tulsa,Tulsa County,"19,013"
+74601,Ponca City,Kay County,"18,916"
+74129,Tulsa,Tulsa County,"18,382"
+74145,Tulsa,Tulsa County,"18,196"
+73139,Oklahoma City,Oklahoma County,"17,920"
+73114,Oklahoma City,Oklahoma County,"17,656"
+74361,Pryor,Mayes County,"17,612"
+73142,Oklahoma City,Oklahoma County,"17,548"
+74354,Miami,Ottawa County,"17,208"
+73025,Edmond,Logan County,"16,914"
+74429,Coweta,Wagoner County,"16,622"
+74146,Tulsa,Tulsa County,"16,507"
+74127,Tulsa,Osage County,"16,324"
+74401,Muskogee,Muskogee County,"15,951"
+74114,Tulsa,Tulsa County,"15,944"
+74447,Okmulgee,Okmulgee County,"15,786"
+74106,Tulsa,Tulsa County,"15,655"
+74070,Skiatook,Osage County,"15,447"
+74110,Tulsa,Tulsa County,"15,244"
+73108,Oklahoma City,Oklahoma County,"14,919"
+73801,Woodward,Woodward County,"14,892"
+74344,Grove,Delaware County,"14,876"
+74467,Wagoner,Wagoner County,"14,400"
+73096,Weatherford,Custer County,"14,364"
+73089,Tuttle,Grady County,"14,290"
+73118,Oklahoma City,Oklahoma County,"14,262"
+73644,Elk City,Beckham County,"14,043"
+74003,Bartlesville,Osage County,"14,024"
+74955,Sallisaw,Sequoyah County,"13,864"
+74128,Tulsa,Tulsa County,"13,751"
+74033,Glenpool,Tulsa County,"13,745"
+73942,Guymon,Texas County,"13,476"
+73078,Piedmont,Canadian County,"13,021"
+74104,Tulsa,Tulsa County,"12,806"
+73122,Oklahoma City,Oklahoma County,"12,635"
+74868,Seminole,Seminole County,"12,543"
+74953,Poteau,Le Flore County,"12,406"
+74948,Muldrow,Sequoyah County,"12,382"
+73068,Noble,Cleveland County,"12,258"
+74604,Ponca City,Osage County,"12,189"
+73106,Oklahoma City,Oklahoma County,"12,140"
+74960,Stilwell,Adair County,"11,971"
+74023,Cushing,Payne County,"11,730"
+73065,Newcastle,McClain County,"11,685"
+73045,Harrah,Oklahoma County,"11,517"
+74851,Mcloud,Pottawatomie County,"11,489"
+73503,Fort Sill,Comanche County,"11,468"
+74301,Vinita,Craig County,"11,244"
+73026,Norman,Cleveland County,"11,216"
+74728,Broken Bow,McCurtain County,"10,977"
+74873,Tecumseh,Pottawatomie County,"10,924"
+74132,Tulsa,Tulsa County,"10,858"
+73080,Purcell,McClain County,"10,773"
+73111,Oklahoma City,Oklahoma County,"10,727"
+74525,Atoka,Atoka County,"10,431"
+74010,Bristow,Creek County,"10,311"
+73051,Lexington,Cleveland County,"10,274"
+73116,Oklahoma City,Oklahoma County,"10,211"
+73055,Marlow,Stephens County,"10,064"
+74857,Newalla,Cleveland County,"9,931"
+74126,Tulsa,Osage County,"9,920"
+74745,Idabel,McCurtain County,"9,720"
+74426,Checotah,McIntosh County,"9,712"
+74432,Eufaula,McIntosh County,"9,645"
+74434,Fort Gibson,Muskogee County,"9,611"
+73601,Clinton,Custer County,"9,597"
+73075,Pauls Valley,Garvin County,"9,383"
+74437,Henryetta,Okmulgee County,"8,937"
+74015,Catoosa,Rogers County,"8,676"
+73179,Oklahoma City,Oklahoma County,"8,532"
+73446,Madill,Marshall County,"8,479"
+73086,Sulphur,Murray County,"8,404"
+73165,Oklahoma City,Cleveland County,"8,357"
+74346,Jay,Delaware County,"8,266"
+74044,Mannford,Creek County,"8,162"
+74743,Hugo,Choctaw County,"8,075"
+74848,Holdenville,Hughes County,"8,020"
+74834,Chandler,Lincoln County,"7,952"
+74036,Inola,Rogers County,"7,799"
+74020,Cleveland,Pawnee County,"7,587"
+73005,Anadarko,Caddo County,"7,558"
+73134,Oklahoma City,Oklahoma County,"7,522"
+73049,Jones,Oklahoma County,"7,407"
+74108,Tulsa,Tulsa County,"7,315"
+74047,Mounds,Okmulgee County,"7,227"
+73439,Kingston,Marshall County,"7,141"
+73538,Elgin,Comanche County,"7,128"
+73750,Kingfisher,Kingfisher County,"7,123"
+74462,Stigler,Haskell County,"7,114"
+74331,Afton,Delaware County,"7,058"
+73717,Alva,Woods County,"6,852"
+74631,Blackwell,Kay County,"6,689"
+73084,Spencer,Oklahoma County,"6,641"
+73662,Sayre,Beckham County,"6,588"
+73047,Hinton,Caddo County,"6,493"
+73052,Lindsay,Garvin County,"6,380"
+74959,Spiro,Le Flore County,"6,375"
+73128,Oklahoma City,Oklahoma County,"6,281"
+73117,Oklahoma City,Oklahoma County,"6,225"
+73077,Perry,Noble County,"6,087"
+73149,Oklahoma City,Oklahoma County,"6,031"
+73448,Marietta,Love County,"5,913"
+73105,Oklahoma City,Oklahoma County,"5,900"
+74016,Chelsea,Rogers County,"5,891"
+74073,Sperry,Osage County,"5,881"
+74352,Locust Grove,Mayes County,"5,862"
+74523,Antlers,Pushmataha County,"5,817"
+74730,Calera,Bryan County,"5,807"
+73150,Oklahoma City,Oklahoma County,"5,688"
+74859,Okemah,Okfuskee County,"5,671"
+74578,Wilburton,Latimer County,"5,668"
+74059,Perkins,Payne County,"5,643"
+74441,Hulbert,Cherokee County,"5,564"
+74048,Nowata,Nowata County,"5,559"
+73103,Oklahoma City,Oklahoma County,"5,486"
+74884,Wewoka,Seminole County,"5,474"
+74053,Oologah,Rogers County,"5,375"
+74029,Dewey,Washington County,"5,331"
+74881,Wellston,Lincoln County,"5,297"
+74937,Heavener,Le Flore County,"5,220"
+74120,Tulsa,Tulsa County,"5,195"
+73527,Cache,Comanche County,"5,109"
+74337,Chouteau,Mayes County,"5,109"
+74954,Roland,Sequoyah County,"5,105"
+74338,Colcord,Delaware County,"5,069"
+74436,Haskell,Muskogee County,"5,057"
+73529,Comanche,Stephens County,"4,898"
+74056,Pawhuska,Osage County,"4,864"
+74864,Prague,Lincoln County,"4,833"
+74965,Westville,Adair County,"4,793"
+73173,Oklahoma City,Cleveland County,"4,780"
+73054,Luther,Oklahoma County,"4,702"
+73030,Davis,Murray County,"4,499"
+74079,Stroud,Lincoln County,"4,449"
+74902,Pocola,Le Flore County,"4,423"
+74962,Vian,Sequoyah County,"4,398"
+74421,Beggs,Okmulgee County,"4,360"
+74365,Salina,Mayes County,"4,277"
+74855,Meeker,Lincoln County,"4,249"
+73460,Tishomingo,Johnston County,"4,240"
+73542,Frederick,Tillman County,"4,092"
+74451,Park Hill,Cherokee County,"4,023"
+74035,Hominy,Osage County,"4,021"
+73651,Hobart,Kiowa County,"4,018"
+74538,Coalgate,Coal County,"3,957"
+73463,Wilson,Carter County,"3,909"
+73742,Hennessey,Kingfisher County,"3,906"
+73131,Oklahoma City,Oklahoma County,"3,845"
+74039,Kellyville,Creek County,"3,826"
+73102,Oklahoma City,Oklahoma County,"3,812"
+73093,Washington,McClain County,"3,767"
+74653,Tonkawa,Kay County,"3,710"
+73104,Oklahoma City,Oklahoma County,"3,692"
+74119,Tulsa,Tulsa County,"3,670"
+74370,Wyandotte,Ottawa County,"3,656"
+74116,Tulsa,Tulsa County,"3,617"
+73145,Oklahoma City,Oklahoma County,"3,612"
+73737,Fairview,Major County,"3,612"
+74764,Valliant,McCurtain County,"3,582"
+73141,Oklahoma City,Oklahoma County,"3,562"
+74058,Pawnee,Pawnee County,"3,558"
+74647,Newkirk,Kay County,"3,534"
+74966,Wister,Le Flore County,"3,456"
+73028,Crescent,Logan County,"3,389"
+73098,Wynnewood,Garvin County,"3,382"
+73443,Lone Grove,Carter County,"3,380"
+73554,Mangum,Greer County,"3,309"
+74571,Talihina,Latimer County,"3,285"
+73772,Watonga,Blaine County,"3,260"
+73541,Fletcher,Comanche County,"3,257"
+74343,Fairland,Ottawa County,"3,183"
+73007,Arcadia,Oklahoma County,"3,170"
+73169,Oklahoma City,Oklahoma County,"3,095"
+73632,Cordell,Washita County,"3,093"
+73449,Mead,Bryan County,"3,088"
+73121,Oklahoma City,Oklahoma County,"3,075"
+74041,Kiefer,Creek County,"3,073"
+74733,Colbert,Bryan County,"3,069"
+74445,Morris,Okmulgee County,"3,051"
+73572,Walters,Cotton County,"3,045"
+74435,Gore,Sequoyah County,"3,042"
+74030,Drumright,Creek County,"3,014"
+74080,Talala,Rogers County,"3,003"
+73438,Healdton,Carter County,"2,938"
+74872,Stratford,Garvin County,"2,901"
+74454,Porter,Wagoner County,"2,831"
+74547,Hartshorne,Pittsburg County,"2,815"
+73059,Minco,Grady County,"2,784"
+74347,Kansas,Delaware County,"2,757"
+74849,Konawa,Seminole County,"2,727"
+73082,Rush Springs,Grady County,"2,714"
+73852,Mooreland,Woodward County,"2,688"
+74729,Caddo,Bryan County,"2,668"
+73433,Elmore City,Garvin County,"2,583"
+74932,Cameron,Le Flore County,"2,527"
+74940,Howe,Le Flore County,"2,504"
+73016,Cashion,Kingfisher County,"2,492"
+74363,Quapaw,Ottawa County,"2,492"
+74941,Keota,Haskell County,"2,482"
+74103,Tulsa,Tulsa County,"2,450"
+74131,Tulsa,Creek County,"2,435"
+74085,Yale,Payne County,"2,426"
+73006,Apache,Caddo County,"2,424"
+73573,Waurika,Jefferson County,"2,416"
+73945,Hooker,Texas County,"2,391"
+74330,Adair,Mayes County,"2,353"
+74871,Stonewall,Pontotoc County,"2,349"
+74455,Porum,Muskogee County,"2,346"
+73762,Okarche,Canadian County,"2,286"
+73151,Oklahoma City,Oklahoma County,"2,254"
+74061,Ramona,Washington County,"2,245"
+74339,Commerce,Ottawa County,"2,245"
+74964,Watts,Adair County,"2,241"
+73015,Carnegie,Caddo County,"2,240"
+74883,Wetumka,Hughes County,"2,226"
+73057,Maysville,Garvin County,"2,222"
+74469,Warner,Muskogee County,"2,221"
+74130,Tulsa,Tulsa County,"2,212"
+74171,Tulsa,Tulsa County,"2,207"
+73550,Hollis,Harmon County,"2,179"
+74038,Jennings,Creek County,"2,175"
+74727,Boswell,Choctaw County,"2,168"
+73048,Hydro,Caddo County,"2,149"
+74463,Taft,Muskogee County,"2,115"
+74726,Bokchito,Bryan County,"2,065"
+73526,Blair,Jackson County,"2,049"
+74342,Eucha,Delaware County,"2,039"
+74854,Maud,Pottawatomie County,"2,038"
+74735,Fort Towson,Choctaw County,"2,027"
+73543,Geronimo,Comanche County,"1,993"
+74901,Arkoma,Le Flore County,"1,976"
+74740,Haworth,McCurtain County,"1,959"
+74561,Quinton,Pittsburg County,"1,950"
+73932,Beaver,Beaver County,"1,940"
+74364,Rose,Delaware County,"1,931"
+74002,Barnsdall,Osage County,"1,925"
+74554,Krebs,Pittsburg County,"1,917"
+74563,Red Oak,Latimer County,"1,910"
+73728,Cherokee,Alfalfa County,"1,904"
+74865,Roff,Pontotoc County,"1,894"
+74051,Ochelata,Washington County,"1,888"
+74956,Shady Point,Le Flore County,"1,882"
+73624,Burns Flat,Washita County,"1,874"
+73547,Granite,Greer County,"1,853"
+74880,Weleetka,Okfuskee County,"1,840"
+74081,Terlton,Pawnee County,"1,829"
+74840,Earlsboro,Seminole County,"1,827"
+73763,Okeene,Blaine County,"1,812"
+73061,Morrison,Noble County,"1,794"
+74022,Copan,Washington County,"1,793"
+74825,Allen,Pontotoc County,"1,788"
+74878,Wanette,Pottawatomie County,"1,778"
+74032,Glencoe,Payne County,"1,775"
+74930,Bokoshe,Le Flore County,"1,774"
+73741,Helena,Alfalfa County,"1,769"
+74077,Stillwater,Payne County,"1,755"
+73095,Wayne,McClain County,"1,748"
+74369,Welch,Craig County,"1,741"
+74450,Oktaha,Muskogee County,"1,698"
+74332,Big Cabin,Craig County,"1,690"
+74829,Boley,Okfuskee County,"1,678"
+73628,Cheyenne,Roger Mills County,"1,677"
+74860,Paden,Okfuskee County,"1,664"
+74731,Cartwright,Bryan County,"1,646"
+74072,S Coffeyville,Nowata County,"1,630"
+73773,Waukomis,Garfield County,"1,623"
+73456,Ringling,Jefferson County,"1,621"
+73949,Texhoma,Texas County,"1,620"
+73067,Ninnekah,Grady County,"1,606"
+74852,Macomb,Pottawatomie County,"1,598"
+73859,Vici,Dewey County,"1,582"
+73459,Thackerville,Love County,"1,569"
+73450,Milburn,Johnston County,"1,562"
+73848,Laverne,Beaver County,"1,555"
+73834,Buffalo,Harper County,"1,544"
+73669,Thomas,Custer County,"1,539"
+74028,Depew,Creek County,"1,526"
+73029,Cyril,Caddo County,"1,525"
+73768,Ringwood,Major County,"1,520"
+74637,Fairfax,Osage County,"1,510"
+74951,Panama,Le Flore County,"1,508"
+73038,Fort Cobb,Caddo County,"1,483"
+74824,Agra,Lincoln County,"1,482"
+74471,Welling,Cherokee County,"1,475"
+73858,Shattuck,Ellis County,"1,461"
+73566,Snyder,Kiowa County,"1,459"
+73939,Goodwell,Texas County,"1,421"
+73552,Indiahoma,Comanche County,"1,404"
+74553,Kiowa,Pittsburg County,"1,382"
+73620,Arapaho,Custer County,"1,378"
+73950,Turpin,Beaver County,"1,377"
+73951,Tyrone,Texas County,"1,376"
+74470,Webbers Falls,Muskogee County,"1,374"
+74536,Clayton,Pushmataha County,"1,364"
+74570,Stuart,Hughes County,"1,358"
+73017,Cement,Caddo County,"1,351"
+73040,Geary,Blaine County,"1,349"
+73014,Calumet,Canadian County,"1,348"
+74427,Cookson,Cherokee County,"1,342"
+73430,Burneyville,Love County,"1,337"
+73759,Medford,Grant County,"1,335"
+73933,Boise City,Cimarron County,"1,335"
+74936,Gans,Sequoyah County,"1,330"
+74723,Bennington,Bryan County,"1,302"
+74366,Spavinaw,Mayes County,"1,289"
+74939,Hodgen,Le Flore County,"1,289"
+73050,Langston,Logan County,"1,228"
+73074,Paoli,Garvin County,"1,208"
+73860,Waynoka,Woods County,"1,207"
+73027,Coyle,Logan County,"1,190"
+73002,Alex,Grady County,"1,177"
+74826,Asher,Pottawatomie County,"1,177"
+73663,Seiling,Dewey County,"1,164"
+73568,Temple,Cotton County,"1,144"
+73664,Sentinel,Washita County,"1,137"
+73546,Grandfield,Tillman County,"1,127"
+74944,Mccurtain,Haskell County,"1,116"
+73626,Canute,Washita County,"1,110"
+74574,Tuskahoma,Pushmataha County,"1,109"
+73062,Mountain View,Kiowa County,"1,105"
+74766,Wright City,McCurtain County,"1,100"
+73447,Mannsville,Johnston County,"1,090"
+73645,Erick,Beckham County,"1,086"
+74333,Bluejacket,Craig County,"1,070"
+74052,Oilton,Creek County,"1,065"
+73754,Lahoma,Garfield County,"1,043"
+74425,Canadian,Pittsburg County,"1,036"
+74759,Soper,Choctaw County,"1,024"
+73832,Arnett,Ellis County,"1,022"
+73738,Garber,Garfield County,"1,012"
+74931,Bunch,Adair County,"1,012"
+73042,Gracemont,Caddo County,"1,009"
+73766,Pond Creek,Grant County,997
+74062,Ripley,Payne County,997
+74552,Kinta,Haskell County,980
+73570,Tipton,Tillman County,970
+74736,Garvin,McCurtain County,947
+74875,Tryon,Lincoln County,945
+73565,Ryan,Jefferson County,941
+74349,Ketchum,Craig County,941
+74832,Carney,Lincoln County,930
+73090,Union City,Canadian County,927
+73857,Sharon,Woodward County,918
+74431,Dewar,Okmulgee County,895
+73650,Hammon,Roger Mills County,893
+74533,Caney,Atoka County,891
+74630,Billings,Noble County,890
+74423,Braggs,Muskogee County,884
+73009,Binger,Caddo County,875
+73432,Coleman,Johnston County,862
+74054,Osage,Osage County,859
+74734,Eagletown,McCurtain County,858
+73004,Amber,Grady County,853
+74651,Red Rock,Noble County,849
+73481,Ratliff City,Carter County,842
+74856,Mill Creek,Johnston County,842
+74422,Boynton,Muskogee County,841
+74531,Calvin,Hughes County,834
+74957,Smithville,Le Flore County,834
+73655,Lone Wolf,Kiowa County,830
+73841,Fort Supply,Ellis County,827
+73639,Custer City,Custer County,817
+74026,Davenport,Lincoln County,814
+74741,Hendrix,Bryan County,810
+74428,Council Hill,McIntosh County,808
+73724,Canton,Dewey County,804
+74572,Tupelo,Coal County,803
+74652,Shidler,Osage County,793
+73491,Velma,Stephens County,791
+74083,Wann,Nowata County,791
+74442,Indianola,Pittsburg County,790
+73567,Sterling,Comanche County,781
+74027,Delaware,Nowata County,759
+73843,Gage,Ellis County,754
+74756,Sawyer,Choctaw County,754
+73734,Dover,Kingfisher County,747
+74831,Byars,McClain County,743
+73458,Springer,Carter County,741
+73092,Verden,Grady County,732
+73063,Mulhall,Logan County,730
+73938,Forgan,Beaver County,728
+74562,Rattan,Pushmataha County,724
+73461,Wapanucka,Johnston County,710
+73755,Longdale,Blaine County,707
+73073,Orlando,Noble County,706
+73053,Lookeba,Caddo County,703
+73647,Foss,Washita County,699
+74350,Langley,Mayes County,692
+74963,Watson,McCurtain County,689
+73661,Rocky,Washita County,687
+73079,Pocasset,Grady County,682
+73024,Corn,Washita County,681
+74555,Lane,Atoka County,671
+73453,Overbrook,Love County,662
+74839,Dustin,Hughes County,662
+73654,Leedey,Roger Mills County,661
+73560,Olustee,Jackson County,654
+73729,Cleo Springs,Major County,645
+74367,Strang,Mayes County,624
+73735,Drummond,Garfield County,623
+73528,Chattanooga,Cotton County,617
+74650,Ralston,Osage County,608
+73011,Bradley,Grady County,607
+73730,Covington,Garfield County,598
+74546,Haileyville,Pittsburg County,597
+74644,Marland,Noble County,597
+74472,Whitefield,Haskell County,596
+74867,Sasakwa,Seminole County,595
+73455,Ravia,Johnston County,590
+74569,Stringtown,Atoka County,584
+73434,Foster,Stephens County,574
+74833,Castle,Okfuskee County,574
+74748,Kenefic,Johnston County,572
+74633,Burbank,Osage County,557
+73033,Eakly,Caddo County,553
+74632,Braman,Kay County,553
+74641,Kaw City,Kay County,552
+73537,Eldorado,Jackson County,543
+74754,Ringold,McCurtain County,541
+74557,Moyers,Pushmataha County,539
+74869,Sparks,Lincoln County,536
+73562,Randlett,Cotton County,535
+73627,Carter,Beckham County,530
+74430,Crowder,Pittsburg County,530
+73838,Chester,Major County,528
+73718,Ames,Major County,518
+74643,Lamont,Grant County,512
+73840,Fargo,Ellis County,509
+73853,Mutual,Woodward County,505
+73947,Keyes,Cimarron County,499
+73667,Taloga,Dewey County,489
+73641,Dill City,Washita County,484
+74042,Lenapah,Nowata County,481
+74050,Oakhurst,Creek County,475
+73944,Hardesty,Texas County,474
+73056,Marshall,Garfield County,455
+73716,Aline,Woods County,454
+73532,Duke,Jackson County,451
+74078,Stillwater,Payne County,451
+74438,Hitchita,McIntosh County,447
+74457,Proctor,Cherokee County,447
+74565,Savanna,Pittsburg County,446
+74446,Okay,Wagoner County,436
+74560,Pittsburg,Pittsburg County,435
+73931,Balko,Beaver County,434
+73548,Hastings,Cotton County,428
+73736,Fairmont,Garfield County,424
+73726,Carmen,Alfalfa County,420
+73771,Wakita,Grant County,420
+73739,Goltry,Alfalfa County,416
+74720,Achille,Bryan County,401
+73646,Fay,Blaine County,400
+73749,Jet,Alfalfa County,400
+73564,Roosevelt,Kiowa County,386
+73625,Butler,Custer County,384
+74558,Nashoba,Pushmataha County,383
+74845,Hanna,McIntosh County,383
+73722,Burlington,Alfalfa County,382
+74084,Wynona,Osage County,380
+73753,Kremlin,Garfield County,378
+74460,Schulter,Okmulgee County,377
+74738,Grant,Choctaw County,375
+73761,Nash,Grant County,370
+73531,Devol,Cotton County,368
+74543,Finley,Pushmataha County,367
+73705,Enid,Garfield County,359
+73041,Gotebo,Kiowa County,354
+73842,Freedom,Woods County,354
+73559,Mountain Park,Kiowa County,345
+73569,Terral,Jefferson County,342
+73530,Davidson,Tillman County,340
+73660,Reydon,Roger Mills County,336
+74060,Prue,Osage County,334
+74844,Francis,Pontotoc County,332
+74827,Atwood,Hughes County,330
+73666,Sweetwater,Roger Mills County,329
+74640,Hunter,Garfield County,327
+73540,Faxon,Comanche County,324
+74843,Fitzhugh,Pontotoc County,324
+73549,Headrick,Jackson County,320
+74747,Kemp,Bryan County,313
+74359,Oaks,Delaware County,309
+73622,Bessie,Washita County,308
+73673,Willow,Greer County,302
+73844,Gate,Beaver County,297
+73058,Meridian,Logan County,296
+73756,Loyal,Kingfisher County,292
+74646,Nardin,Kay County,289
+74452,Peggs,Cherokee County,279
+73937,Felt,Cimarron County,278
+73442,Loco,Stephens County,275
+73760,Meno,Major County,264
+73557,Medicine Park,Comanche County,261
+74468,Wainwright,Muskogee County,260
+74577,Whitesboro,Le Flore County,259
+74001,Avant,Osage County,258
+73758,Manchester,Grant County,257
+74556,Lehigh,Coal County,257
+73855,Rosston,Harper County,253
+73066,Nicoma Park,Oklahoma County,249
+74045,Maramec,Pawnee County,248
+74850,Lamar,Hughes County,247
+73523,Altus Afb,Jackson County,243
+73021,Colony,Washita County,241
+73555,Manitou,Tillman County,239
+73658,Oakwood,Dewey County,232
+73835,Camargo,Dewey County,232
+73659,Putnam,Dewey County,231
+73747,Isabella,Major County,228
+73032,Dougherty,Murray County,227
+73744,Hitchcock,Blaine County,227
+74358,North Miami,Ottawa County,222
+73720,Bison,Garfield County,221
+73733,Douglas,Garfield County,221
+73440,Lebanon,Marshall County,218
+74949,Muse,Le Flore County,214
+74576,Wardville,Atoka County,209
+73425,Countyline,Stephens County,201
+74458,Redbird,Wagoner County,194
+73539,Elmer,Jackson County,189
+74636,Deer Creek,Grant County,189
+74842,Fittstown,Pontotoc County,187
+74755,Rufe,McCurtain County,186
+74340,Disney,Mayes County,182
+73638,Crawford,Roger Mills County,180
+73097,Wheatland,Oklahoma County,178
+73487,Tatums,Carter County,178
+73544,Gould,Harmon County,178
+74530,Bromide,Johnston County,177
+74540,Daisy,Atoka County,173
+74750,Millerton,McCurtain County,170
+74935,Fanshawe,Le Flore County,166
+74945,Marble City,Sequoyah County,165
+74836,Connerville,Johnston County,164
+73764,Omega,Kingfisher County,160
+74837,Cromwell,Seminole County,153
+73436,Gene Autry,Carter County,152
+73727,Carrier,Garfield County,152
+74034,Hallett,Pawnee County,149
+74830,Bowlegs,Seminole County,148
+74942,Leflore,Le Flore County,145
+74528,Blanco,Pittsburg County,144
+74534,Centrahoma,Coal County,144
+73043,Greenfield,Blaine County,142
+74722,Battiest,McCurtain County,141
+74082,Vera,Washington County,137
+73556,Martha,Jackson County,134
+74724,Bethel,McCurtain County,132
+74071,Slick,Creek County,130
+74522,Alderson,Pittsburg County,128
+74549,Honobia,Le Flore County,118
+74947,Monroe,Le Flore County,115
+73851,May,Ellis County,111
+73642,Durham,Roger Mills County,110
+73437,Graham,Carter County,108
+74760,Spencerville,Pushmataha County,108
+73444,Hennepin,Carter County,103
+73901,Adams,Texas County,103
+73441,Leon,Love County,102
+73731,Dacoma,Woods County,102
+73070,Norman,Cleveland County,97
+74068,Shamrock,Creek County,94
+74943,Lequire,Haskell County,94
+73757,Lucien,Noble County,92
+74535,Clarita,Coal County,92
+73520,Addington,Jefferson County,91
+73743,Hillsdale,Garfield County,89
+74567,Snow,Pushmataha County,79
+74456,Preston,Okmulgee County,78
+74866,Saint Louis,Pottawatomie County,74
+74761,Swink,Choctaw County,72
+73001,Albert,Caddo County,64
+73435,Fox,Carter County,63
+74368,Twin Oaks,Delaware County,60
+74046,Milfay,Creek County,58
+74459,Rentiesville,McIntosh County,54
+74521,Albion,Pushmataha County,54
+74117,Tulsa,Tulsa County,52
+73031,Dibble,McClain County,44
+73719,Amorita,Alfalfa County,44
+73571,Vinson,Harmon County,33
+74946,Moffett,Sequoyah County,33
+74737,Golden,McCurtain County,27
+73668,Texola,Beckham County,26
+73770,Southard,Blaine County,20
+73553,Loveland,Tillman County,19
+73946,Kenton,Cimarron County,12
+73488,Tussy,Carter County,11
+73551,Hollister,Tillman County,11
+73746,Hopeton,Woods County,9
+74360,Picher,Ottawa County,6
+73019,Norman,Cleveland County,0
+73022,Concho,Canadian County,0
+74477,Wagoner,Wagoner County,0
+74721,Albany,Bryan County,0
+74753,Platter,Bryan County,0
