@@ -1,3 +1,22 @@
+"""
+Functional Summary
+This routine serves as a resilient, fault-tolerant batch ETL pipeline driver designed to orchestrate high-volume web scraping tasks across target ZIP codes.
+    - Checkpointing & Deduplication: Reads existing target storage file on launch to understand current progress. It filters out completed works dynamically, guaranteeing $O(1)$ lookup complexity to skip redundant requests.
+    - I/O Optimization & Data Preservation: Implements immediate, single-row unbuffered appending strategies to disk. If an unhandled interrupt occurs, zero scrap state data is lost.
+    - Network Defense & Adaptive Throttling: Utilizes an integrated exponential backoff algorithm that adjusts delay variables dynamically from minimum thresholds up to fixed ceilings ($30\text{s} - 60\text{s}$) upon hitting downstream rate limits or exceptions. It forces explicit loop termination via a configurable circuit breaker (MAX_CONSECUTIVE_ERRORS) to protect against network bans.
+    
+Architectural Design & Complexity Breakdown
+    - Type Safety & Static Layout: Refactored runtime components with comprehensive typing signatures (List, Dict, Tuple, Set, Path). Variable initialization explicitly binds typing declarations to adhere cleanly to modern static analyzer constraints (mypy).
+    - Resource Optimization: Leverages a unified requests.Session() manager instance inside a context manager block. This implements TCP connection pooling, ensuring keep-alive reuse across sequential fetches while eliminating socket exhaustion anti-patterns.
+    - Algorithmic Complexity Bounds:
+        - Time Complexity: 
+            - Building target processing states: $O(N)$ where $N$ represents the record count inside the Census file.
+            - Resume set validation: $O(M)$ where $M$ is the count of pre-existing processed data entries.
+            - Scrap loop execution: $O(K \cdot T)$ where $K$ is the remainder delta subset of tasks to perform and $T$ represents the random dynamic network/sleep latency constant.
+    - Space Complexity: $O(N + M)$ to sustain the execution sequence sets and target filters within active memory allocations.
+    
+"""
+
 # Batch driver for Psychology Today therapist counts.
 # Calls the existing fetch_zip() function across large ZIP ranges with:
 #   - Resume capability (skips ZIPs already in output CSV)

@@ -1,3 +1,18 @@
+"""
+Psychology Today Therapist Count Extraction Pipeline.
+
+Extracts therapist metrics from the embedded dataLayer JSON objects within 
+Psychology Today search result pages via regular expressions. Supports local 
+disk caching of raw HTML to allow offline schema re-parsing.
+
+Architectural Design & Complexity Breakdown
+    - Extraction Mechanics (Regex vs DOM Parsing): The routine relies on pre-compiled regular expressions (re.compile) to scan the HTML document for JavaScript dataLayer strings. For this layout, a regex scan is highly optimized compared to full DOM loading (e.g., via BeautifulSoup), maintaining linear time complexity $O(N)$ matching where $N$ is the total length of the HTML string stream.
+    - Caching Strategy: Incorporates local disk storage mechanisms inside the targeted workspace file layout. This enables offline transformations (reparse_all_cached) to test pattern variations without consuming network bandwidth or triggering security walls.
+    - Defensive Network Behavior: Implements randomized pacing intervals ($4.0\text{s} - 8.0\text{s}$) paired with a customized, non-empty desktop browser header configuration (User-Agent). Explicit handling captures standard application firewall responses (403 Forbidden, 429 Too Many Requests, 503 Service Unavailable) to flag tracking profiles immediately.
+    - Data Integrity Check: Evaluates incoming responses for internal geometric alignment by contrasting requested parameters against target nodes returned inside the web responses (zip_mismatch). This flags unexpected redirects where geographical boundary overflows occur.
+
+"""
+
 # Psychology Today therapist count lookup by ZIP code.
 # Extracts 'resultCount' from the embedded dataLayer JSON in the page HTML.
 # FIXED: Removed all &lt; and &gt; format specifiers — uses .ljust()/.rjust() instead.
